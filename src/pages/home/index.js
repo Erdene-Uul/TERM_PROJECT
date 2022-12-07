@@ -1,19 +1,16 @@
 import React, { useState, useEffect } from "react";
-import Header from "../../components/header";
-import Footer from "../../components/footer";
-import Category from "../../components/category";
+import { Link } from "react-router-dom";
 import Products from "../../components/products";
 import { getDownloadURL, listAll, ref } from "firebase/storage";
 import storage from "../../firebase";
 import Config from "../../database";
 
 const Home = (props) => {
-  
   const [imageList, setImageList] = useState([]);
   const imageListRef = ref(storage, "image/");
   const [advertises, setAdvertises] = useState([]);
   console.log(imageList.filter((e) => e.includes("obj.jpg")));
-  
+
   const fetchAds = async () => {
     const res = await Config.get("/advertises.json");
     let fetchedAds = [];
@@ -72,7 +69,13 @@ const Home = (props) => {
             <div className=" flex flex-wrap ">
               {advertises?.map((e) =>
                 e.category == "books" ? (
-                  <Products name={e.about} img={imageList[0]} price={e.price} />
+                  <Link to={`/productDetail/${e.id}`}>
+                    <Products
+                      name={e.about}
+                      img={imageList[0]}
+                      price={e.price}
+                    />
+                  </Link>
                 ) : null
               )}
             </div>
@@ -87,11 +90,13 @@ const Home = (props) => {
                 e.category == "academicDress" ? (
                   <>
                     {console.log(e.image)}
-                    <Products
-                      name={e.about}
-                      img={imageList.filter((el) => el.includes(e.image))[0]}
-                      price={e.price}
-                    />
+                    <Link to={`/productDetail/${e.id}`}>
+                      <Products
+                        name={e.about}
+                        img={imageList.filter((el) => el.includes(e.image))[0]}
+                        price={e.price}
+                      />
+                    </Link>
                   </>
                 ) : null
               )}
@@ -105,7 +110,13 @@ const Home = (props) => {
             <div className=" flex flex-wrap ">
               {advertises?.map((e) =>
                 e.category == "electronic" ? (
-                  <Products name={e.about} img={imageList[0]} price={e.price} />
+                  <Link to={`/productDetail/${e.id}`}>
+                    <Products
+                      name={e.about}
+                      img={imageList[0]}
+                      price={e.price}
+                    />
+                  </Link>
                 ) : null
               )}
             </div>
@@ -121,20 +132,27 @@ const Home = (props) => {
         <div className=" flex flex-wrap ">
           {advertises?.map((e) =>
             e.category == "books" ? (
-              <Products name={e.about} img={imageList[0]} price={e.price} />
+              <Link to={`/productDetail/${e.id}`}>
+                <Products name={e.about} img={imageList[0]} price={e.price} />
+              </Link>
             ) : null
           )}
         </div>
       </>
     );
-  } else if (props.catVal == "academicDress" && helper(advertises, "academicDress")) {
+  } else if (
+    props.catVal == "academicDress" &&
+    helper(advertises, "academicDress")
+  ) {
     comp = (
       <>
         <h1 className="mt-4 ml-4 text-xl">Academic Dresses</h1>
         <div className=" flex flex-wrap ">
           {advertises?.map((e) =>
             e.category == "academicDress" ? (
-              <Products name={e.about} img={imageList[0]} price={e.price} />
+              <Link to={`/productDetail/${e.id}`}>
+                <Products name={e.about} img={imageList[0]} price={e.price} />
+              </Link>
             ) : null
           )}
         </div>
@@ -147,7 +165,9 @@ const Home = (props) => {
         <div className=" flex flex-wrap ">
           {advertises?.map((e) =>
             e.category == "electronic" ? (
-              <Products name={e.about} img={imageList[0]} price={e.price} />
+              <Link to={`/productDetail/${e.id}`}>
+                <Products name={e.about} img={imageList[0]} price={e.price} />
+              </Link>
             ) : null
           )}
         </div>
@@ -156,6 +176,16 @@ const Home = (props) => {
   }
   return (
     <div className="bg-white">
+      <div>
+        <img
+          className="opacity-50 backdrop-blur-sm w-screen h-5/6"
+          src={require(`../../assets/images/seoultech.jpg`)}
+        />
+        <h2 className="absolute text-4xl text-black top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 h-25">
+          Welcome to SeoulTech's e-shop! You can sell or buy something that is
+          used in SeoulTech with this website...
+        </h2>
+      </div>
       <div className="max-w-6xl mx-auto">
         {comp}
         {/* <h1 className="mt-20 ml-4 m-3 text-xl">Books</h1>
@@ -192,9 +222,6 @@ const Home = (props) => {
         </div> */}
       </div>
     </div>
-
-    
-
   );
 };
 

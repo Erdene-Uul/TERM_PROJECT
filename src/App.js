@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 import Home from "./pages/home";
 import { Route, Switch } from "react-router-dom";
 import AddItem from "./pages/addItem";
@@ -7,6 +7,7 @@ import Login from "./pages/login";
 import MyProducts from "./pages/myProducts";
 import Header from "./components/header";
 import Footer from "./components/footer";
+import ProductDetail from "./pages/ProductDetail";
 
 function App() {
   const [catVal, setCatVal] = useState("all");
@@ -15,14 +16,15 @@ function App() {
   };
   return (
     <div className="">
-      <Header onChange={onChange}/>
+      <Header onChange={onChange} />
       <Switch>
-        <Route exact path="/" component={()=><Home catVal={catVal}/>} />
+        <Route exact path="/" component={() => <Home catVal={catVal} />} />
         <Route exact path="/addItem" component={AddItem} />
+        <Route exact path="/productDetail/:id" component={ProductDetail} />
         <Route exact path="/login" component={Login} />
         <Route exact path="/myProducts" component={MyProducts} />
       </Switch>
-      <Footer/>
+      <Footer />
     </div>
   );
 }
