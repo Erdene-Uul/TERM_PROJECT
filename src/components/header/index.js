@@ -1,16 +1,10 @@
 import React from "react";
 import { Select } from "antd";
 import { Link } from "react-router-dom";
-import {
-  UserOutlined,
-  SearchOutlined,
-} from "@ant-design/icons";
+import { UserOutlined, SearchOutlined } from "@ant-design/icons";
 
 const { Option } = Select;
-const Header = () => {
-  const onChange = (e) => {
-    console.log(e);
-  };
+const Header = (props) => {
   return (
     <div className="max-w-screen-2xl mx-50 bg-[#ffffff]">
       <div className="fixed bg-white text-black flex justify-left items-center w-full space-x-32 mx-auto h-24 shadow z-10">
@@ -27,11 +21,14 @@ const Header = () => {
         </div>
 
         <div className=" bg-white h-[16px] flex items-center">
-          <Select defaultValue="Category" onChange={onChange}>
-            <Option value="product">Books</Option>
-            <Option className="w-20" value="meat">Academic dress</Option>
-            <Option value="vegetable">Electronic</Option>
-        {/*    <Option value="fruit">Жимс</Option> */}
+          <Select defaultValue="All" onChange={props.onChange}>
+            <Option value="books">Books</Option>
+            <Option className="w-20" value="academicDress">
+              Academic dress
+            </Option>
+            <Option value="electronic">Electronic</Option>
+            <Option value="all">All</Option>
+            {/*    <Option value="fruit">Жимс</Option> */}
           </Select>
         </div>
 
@@ -52,7 +49,6 @@ const Header = () => {
           </div>
         </div>
         <div className="ml-20 flex items-center space-x-3">
-
           <Link to="/login">
             <div className=" bg-[#339CCC] py-2 px-6 rounded-full flex items-center space-x-2">
               <UserOutlined style={{ color: "white" }} />
@@ -68,9 +64,14 @@ const Header = () => {
         </div>
       </div>
       <div>
-        <img 
-        className="opacity-50 backdrop-blur-sm w-screen h-5/6"  src={require(`../../assets/images/seoultech.jpg`)} />
-        <h2 className="absolute text-4xl text-black top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 h-25">Welcome to SeoulTech's e-shop! You can sell or buy something that is used in SeoulTech with this website...</h2>
+        <img
+          className="opacity-50 backdrop-blur-sm w-screen h-5/6"
+          src={require(`../../assets/images/seoultech.jpg`)}
+        />
+        <h2 className="absolute text-4xl text-black top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 h-25">
+          Welcome to SeoulTech's e-shop! You can sell or buy something that is
+          used in SeoulTech with this website...
+        </h2>
       </div>
     </div>
   );

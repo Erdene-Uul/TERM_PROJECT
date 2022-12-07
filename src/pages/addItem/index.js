@@ -72,44 +72,10 @@ const AddItem = () => {
             <label className="font-bold">Category</label>
             <Form.Item name={"category"}>
               <Select defaultValue="Сонгох" onChange={onChange}>
-                <Option value="product">Book1</Option>
-                <Option value="meat">Book2</Option>
-                <Option value="vegetable">Book3</Option>
-                <Option value="fruit">Book4</Option>
+                <Option value="books">Book</Option>
+                <Option value="academicDress">Academic Dress</Option>
+                <Option value="electronic">Electronic</Option>
               </Select>
-            </Form.Item>
-
-            <label className="font-bold">Location</label>
-            <Form.Item name={"location"}>
-              <Select defaultValue="Choose" onChange={onChange}>
-                <Option value="Mirae hall">Mirae hall</Option>
-                <Option value="Архангай">Архангай</Option>
-                <Option value="Баян-Өлгий	">Баян-Өлгий </Option>
-                <Option value="Баянхонгор">Баянхонгор</Option>
-                <Option value="Булган">Булган</Option>
-                <Option value="Говь-Алтай">Говь-Алтай</Option>
-                <Option value="Говьсүмбэр">Говьсүмбэр</Option>
-                <Option value="Дархан-Уул">Дархан-Уул</Option>
-                <Option value="Дорноговь">Дорноговь</Option>
-                <Option value="Дорнод">Дорнод</Option>
-                <Option value="	Дундговь"> Дундговь</Option>
-                <Option value="Завхан">Завхан</Option>
-                <Option value="Орхон">Орхон</Option>
-                <Option value="Өвөрхангай">Өвөрхангай</Option>
-                <Option value="Өмнөговь">Өмнөговь</Option>
-                <Option value="Сүхбаатар">Сүхбаатар</Option>
-                <Option value="Сэлэнгэ">Сэлэнгэ</Option>
-                <Option value="Төв">Төв</Option>
-                <Option value="Увс">Увс</Option>
-                <Option value="Ховд">Ховд</Option>
-                <Option value="Хөвсгөл">Хөвсгөл</Option>
-                <Option value="Хэнтий">Хэнтий</Option>
-              </Select>
-            </Form.Item>
-
-            <label className="font-bold">Хаяг</label>
-            <Form.Item name={"address"}>
-              <Input />
             </Form.Item>
 
             <label className="font-bold">Price</label>
@@ -120,15 +86,6 @@ const AddItem = () => {
             <label className="font-bold">Phone</label>
             <Form.Item name={"phone"}>
               <Input />
-            </Form.Item>
-
-            <label className="font-bold">Хүргэлт</label>
-            <Form.Item name={"delivery"}>
-              <Select defaultValue="Сонгох" onChange={onChange}>
-                <Option value="withDelivery">Хүргэлттэй</Option>
-                <Option value="noDelivery">Хүргэлтгүй</Option>
-                <Option value="companyDelivery">Компаны хүргэлт</Option>
-              </Select>
             </Form.Item>
 
             <label className="font-bold">Description</label>
