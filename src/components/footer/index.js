@@ -4,23 +4,23 @@ import { Link } from "react-router-dom";
 
 const footer = () => {
   return (
-    <div className=" bg-[#175b7a] ">
-      <div className="h-80 mt-20 max-w-7xl flex text-white/90   mx-auto  flex-col py-10 ">
-        <div className="flex">
+    <div className=" bg-[#175b7a]">
+      <div className="mt-20 max-w-7xl flex text-white/90   mx-auto  flex-col py-5 ">
+        <div className="flex justify-evenly items-center">
           <img
-            className="h-9 mt-55 rounded-3xl"
+            className="items-center h-9 rounded-3xl"
             src={require(`../../assets/images/logo_seoultech.png`)}
             alt="gerLogo"
           />
 
           <div>
-            <div className="mt-50 font-bold text-2xl">STSP</div>
-            <p className="text-xs">It's forbidden to use for SeoulTech students</p>
+            <div className="font-bold text-2xl">STSP</div>
+            <p className="text-sm">It's forbidden to use for SeoulTech students</p>
           </div>
         </div>
 
 
-        <div className="flex justify-evenly items-end">
+        <div className="flex justify-evenly items-center">
           {" "}
           <div className="flex flex-col text-sm justify-center">
             <p className="text-lg">Help?</p>
@@ -36,7 +36,7 @@ const footer = () => {
           </div>
         </div>
 
-          <div className="flex flex-col text-sm space-y-1 justify-evenly items-end">
+          <div className="flex flex-col text-sm space-y-1 justify-center items-center">
             <p className="text-lg">Contact us</p>
             <div className="flex">
               <img

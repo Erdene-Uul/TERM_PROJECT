@@ -60,18 +60,20 @@ const Header = () => {
             </div>
           </Link>
           <button className=" bg-[#339CCC] flex items-center py-[5px] px-5 rounded-full space-x-2">
-            <div className="text-xl">+</div>
+            <div className="text-xl"><img src={require('../../assets/images/icons8-plus-math-24.png')}/></div>
             <Link to="/login">
               <div className=" text-white">Add product</div>
             </Link>
           </button>
+          <button className=" bg-[#339CCC] flex items-center py-[5px] px-5 rounded-full space-x-2">
+            <div className="text-xl"><img src={require('../../assets/images/icons8-shopping-cart-24.png')}/></div>
+            <Link to="/myProducts">
+              <div className=" text-white">My Products</div>
+            </Link>
+          </button>
         </div>
       </div>
-      <div>
-        <img 
-        className="opacity-50 backdrop-blur-sm w-screen h-5/6"  src={require(`../../assets/images/seoultech.jpg`)} />
-        <h2 className="absolute text-4xl text-black top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 h-25">Welcome to SeoulTech's e-shop! You can sell or buy something that is used in SeoulTech with this website...</h2>
-      </div>
+      
     </div>
   );
 };
