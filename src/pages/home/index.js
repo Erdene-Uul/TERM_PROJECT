@@ -7,15 +7,13 @@ import { getDownloadURL, listAll, ref } from "firebase/storage";
 import storage from "../../firebase";
 import Config from "../../database";
 
-const Home = () => {
-  const [catVal, setCatVal] = useState("all");
+const Home = (props) => {
+  
   const [imageList, setImageList] = useState([]);
   const imageListRef = ref(storage, "image/");
   const [advertises, setAdvertises] = useState([]);
   console.log(imageList.filter((e) => e.includes("obj.jpg")));
-  const onChange = (e) => {
-    setCatVal(e);
-  };
+  
   const fetchAds = async () => {
     const res = await Config.get("/advertises.json");
     let fetchedAds = [];
@@ -64,7 +62,7 @@ const Home = () => {
     else return false;
   };
   let comp;
-  if (catVal == "all") {
+  if (props.catVal == "all") {
     comp = (
       <>
         {helper(advertises, "books") ? (
@@ -115,7 +113,7 @@ const Home = () => {
         ) : null}
       </>
     );
-  } else if (catVal == "books" && helper(advertises, "books")) {
+  } else if (props.catVal == "books" && helper(advertises, "books")) {
     comp = (
       <>
         {" "}
@@ -129,7 +127,7 @@ const Home = () => {
         </div>
       </>
     );
-  } else if (catVal == "academicDress" && helper(advertises, "academicDress")) {
+  } else if (props.catVal == "academicDress" && helper(advertises, "academicDress")) {
     comp = (
       <>
         <h1 className="mt-4 ml-4 text-xl">Academic Dresses</h1>
@@ -142,7 +140,7 @@ const Home = () => {
         </div>
       </>
     );
-  } else if (catVal == "electronic" && helper(advertises, "electronic")) {
+  } else if (props.catVal == "electronic" && helper(advertises, "electronic")) {
     comp = (
       <>
         <h1 className="mt-4 ml-4 text-xl">Electronics</h1>
@@ -158,7 +156,6 @@ const Home = () => {
   }
   return (
     <div className="bg-white">
-      <Header onChange={onChange} />
       <div className="max-w-6xl mx-auto">
         {comp}
         {/* <h1 className="mt-20 ml-4 m-3 text-xl">Books</h1>

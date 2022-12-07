@@ -12,7 +12,6 @@ const Products = (props) => {
         </div>
         <div className=" font-bold text-center">{props.price}</div>
       </div>
-      <div className="mt-10 font-bold text-center">{props.price}</div>
   
   </Card>
   );
