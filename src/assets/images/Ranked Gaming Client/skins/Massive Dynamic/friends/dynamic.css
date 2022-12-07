@@ -1,0 +1,48 @@
+QWidget#containerwidget {
+	background: #36393f;
+}
+
+#ButtonBG{background: #36393;
+    background-repeat: repeat-x;}
+
+/* QPushButton */
+QPushButton#cmdAdd {
+	background: url('Button');
+	border-radius: 0px;
+        border: none;
+	color: rgb(200, 200, 200);
+	font-weight: bold;
+	font-family: calibri,Helvetica,arial,Myriad-Pro;
+	font-size: 13px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+QPushButton#cmdAdd:hover {background:url('Button-h'); color: #fff;}
+QPushButton#cmdAdd:pressed {background:url('Button-p'); color: #fff;}
+
+QScrollBar:vertical {
+	background: transparent;
+    margin: 4px;
+    width: 11px;
+}
+
+QScrollBar::handle:vertical {
+	background: #5a5f69;
+	border-radius: 4px;
+	border: 0px solid #2b2b2b;
+	min-height: 80px;
+	width: 3px;
+}
+
+QScrollBar::up-arrow:vertical, 
+QScrollBar::down-arrow:vertical {
+  width: 0px;
+  height: 0px;
+}
+/* QTreeView */
+/* Needed to bypass bug */
+QTreeView::item:selected {
+	color: rgb(200, 200, 200);
+}
+QTreeView{font-weight: bold;}

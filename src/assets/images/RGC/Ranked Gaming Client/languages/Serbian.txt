@@ -1,0 +1,1420 @@
+"ACP_CHANNEL_ADMINS"
+{
+	"text": "Administratori",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENTS"
+{
+	"text": "Obaveštenja",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_EDIT"
+{
+	"text": "Izmeni",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_PREVIEW"
+{
+	"text": "Pregled",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_SAVE"
+{
+	"text": "Sačuvaj",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_NAME"
+{
+	"text": "Ime",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_TITLE"
+{
+	"text": "Titula",
+	"version": "1",
+}
+"BUDDYLIST_ADD"
+{
+	"text": "%0 je dodat na vašu listu prijatelja.",
+	"version": "1",
+}
+"BUDDYLIST_AWAY"
+{
+	"text": "Vaš prijatelj %0 trenutno nije kraj kompjutera.",
+	"version": "1",
+}
+"BUDDYLIST_INGAME"
+{
+	"text": "Vaš prijatelj %0 je sada u %1",
+	"version": "1",
+}
+"BUDDYLIST_INGAME_PRIVATE"
+{
+	"text": "Vaš prijatelj %0 je sada u privatnoj igri.",
+	"version": "1",
+}
+"BUDDYLIST_OFFLINE"
+{
+	"text": "Vaš prijatelj %0 je sada offline.",
+	"version": "1",
+}
+"BUDDYLIST_ONLINE"
+{
+	"text": "Vaš prijatelj %0 je sada online.",
+	"version": "1",
+}
+"BUDDYLIST_REMOVE"
+{
+	"text": "%0 je uklonjen sa vaše liste prijatelja.",
+	"version": "1",
+}
+"CHAT_CHANNELS_CUSTOM"
+{
+	"text": "Prilagođeni Kanali",
+	"version": "1",
+}
+"CHAT_CHANNELS_LEAVE"
+{
+	"text": "Napusti Kanal",
+	"version": "1",
+}
+"CHAT_CHANNELS_OFFICIAL"
+{
+	"text": "Zvanični Kanali",
+	"version": "1",
+}
+"CHAT_CHANNELS_PRIVATE"
+{
+	"text": "Privatne Poruke",
+	"version": "1",
+}
+"CHAT_CHANNEL_ALREADY_XXX"
+{
+	"text": " %1 je već %0 u ovoj sobi.",
+	"version": "1",
+}
+"CHAT_CHANNEL_NOW_XXX"
+{
+	"text": "%1 je sada %0 u ovoj sobi.",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED"
+{
+	"text": "[%0] Banovani ste iz ove sobe do %2 na %3. Razlog: %1",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED_NOW"
+{
+	"text": "%0 je sada banovan iz ove sobe do %1 on %2",
+	"version": "1",
+}
+"CHAT_JOINED"
+{
+	"text": "%0 je ušao u sobu.",
+	"version": "1",
+}
+"CHAT_LEFT"
+{
+	"text": "%0 je napustio sobu.",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN"
+{
+	"text": "Administrator",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_KICK"
+{
+	"text": "Kikuj",
+	"version": "1",
+}
+"CHAT_MENU_CLAN_VIEW"
+{
+	"text": "Prikazi Klan",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST"
+{
+	"text": "Lista Prijatelja",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_ADD"
+{
+	"text": "Dodaj Prijatelja",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_REMOVE"
+{
+	"text": "Ukloni Prijatelja",
+	"version": "1",
+}
+"CHAT_MENU_HIGHLIGHT"
+{
+	"text": "Pozovi",
+	"version": "1",
+}
+"CHAT_MENU_PROFILE"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"CHAT_MENU_WHISPER"
+{
+	"text": "Poruka",
+	"version": "1",
+}
+"CHAT_MENU_WHOIS"
+{
+	"text": "Status",
+	"version": "1",
+}
+"CHAT_PRIVATE_CLOSE"
+{
+	"text": "Zatvori Razgovor",
+	"version": "1",
+}
+"CLAN_CREATE"
+{
+	"text": "Kreiraj Svoj Klan",
+	"version": "1",
+}
+"CLAN_CREATED"
+{
+	"text": "Kreirano",
+	"version": "1",
+}
+"CLAN_CREATOR"
+{
+	"text": "Kreirao",
+	"version": "1",
+}
+"CLAN_EDIT_CHANGE"
+{
+	"text": "Izmeni",
+	"version": "1",
+}
+"CLAN_EDIT_INVITE"
+{
+	"text": "Pozovi",
+	"version": "1",
+}
+"CLAN_EDIT_KICK"
+{
+	"text": "Kikuj",
+	"version": "1",
+}
+"CLAN_EDIT_NAME"
+{
+	"text": "Ime",
+	"version": "1",
+}
+"CLAN_EDIT_SHOW"
+{
+	"text": "Prikaži",
+	"version": "1",
+}
+"CLAN_EDIT_TITLE_INVITE"
+{
+	"text": "Pozovi Igrače",
+	"version": "1",
+}
+"CLAN_ELO"
+{
+	"text": "ELO",
+	"version": "1",
+}
+"CLAN_LEAVE"
+{
+	"text": "Napusti Klan",
+	"version": "1",
+}
+"CLAN_REG_CREATE"
+{
+	"text": "Kreiraj",
+	"version": "1",
+}
+"CLAN_REG_DISPLAY"
+{
+	"text": "Displej",
+	"version": "1",
+}
+"CLAN_REG_FULL_EX"
+{
+	"text": "Pun primer imena: MRSS^Tata^Batice",
+	"version": "1",
+}
+"CLAN_REG_NAME"
+{
+	"text": "Ime",
+	"version": "1",
+}
+"CLAN_REG_NAME_EX"
+{
+	"text": "npr. Moj Rođak Sa Sela",
+	"version": "1",
+}
+"CLAN_REG_PREFIX"
+{
+	"text": "Prefiks",
+	"version": "1",
+}
+"CLAN_REG_PREFIX_EX"
+{
+	"text": "npr. MRSS^",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX"
+{
+	"text": "Sufiks",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX_EX"
+{
+	"text": "npr. ^Batice",
+	"version": "1",
+}
+"CLAN_REG_TAG"
+{
+	"text": "Kratki Naziv",
+	"version": "1",
+}
+"CLAN_REG_TAG_EX"
+{
+	"text": " npr. MRSS",
+	"version": "1",
+}
+"CLAN_TITLE_DESCRIPTION"
+{
+	"text": "Opis",
+	"version": "1",
+}
+"CLAN_TITLE_Players"
+{
+	"text": "Igrači",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY"
+{
+	"text": "-- AFK prijatelji",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY_COLOR"
+{
+	"text": "braon",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME"
+{
+	"text": "-- Prijatelji u igri",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME_COLOR"
+{
+	"text": "plavo",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE"
+{
+	"text": "<< Offline prijatelji",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE_COLOR"
+{
+	"text": "crveno",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE"
+{
+	"text": ">> Online prijatelji",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE_COLOR"
+{
+	"text": "zeleno",
+	"version": "1",
+}
+"DOTA_OPEN_GAMES"
+{
+	"text": "Otvorene Igre",
+	"version": "1",
+}
+"DOTA_RUNNING_GAMES"
+{
+	"text": "Ukupno Igara",
+	"version": "1",
+}
+"DOTA_SIGN"
+{
+	"text": "Prijavi Se",
+	"version": "1",
+}
+"DOTA_SIGNED_PLAYERS"
+{
+	"text": "Prijavljeni Igrači",
+	"version": "1",
+}
+"DOTA_STARTED_GAMES"
+{
+	"text": "Startovane Igre",
+	"version": "1",
+}
+"DOTA_UNSIGN"
+{
+	"text": "Odjavi Se",
+	"version": "1",
+}
+"EDIT_ACCOUNT_CHANGE"
+{
+	"text": "Izmeni",
+	"version": "1",
+}
+"EDIT_ACCOUNT_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_GET_TOKEN"
+{
+	"text": "Kupi Promenu Imena",
+	"version": "1",
+}
+"EDIT_ACCOUNT_NAME"
+{
+	"text": "Ime",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD"
+{
+	"text": "Trenutna Šifra",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_CONFIRM"
+{
+	"text": "Potvrdi Novu Šifru",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_NEW"
+{
+	"text": "Nova Šifra",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_NAME"
+{
+	"text": "Ime",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_PASSWORD"
+{
+	"text": "Šifra",
+	"version": "1",
+}
+"EDIT_PRFOILE_DESCRIPTION"
+{
+	"text": "Opis",
+	"version": "1",
+}
+"EDIT_PROFILE_AVATAR"
+{
+	"text": "Avatar",
+	"version": "1",
+}
+"EDIT_PROFILE_CHANGE"
+{
+	"text": "Podnesi Izmene",
+	"version": "1",
+}
+"EDIT_PROFILE_DOB"
+{
+	"text": "Datum Rođenja",
+	"version": "1",
+}
+"EDIT_PROFILE_FIRST_NAME"
+{
+	"text": "Ime",
+	"version": "1",
+}
+"EDIT_PROFILE_LAST_NAME"
+{
+	"text": "Prezime",
+	"version": "1",
+}
+"EDIT_PROFILE_NATIONALITY"
+{
+	"text": "Nacionalnost",
+	"version": "1",
+}
+"EDIT_PROFILE_RESIDENCY"
+{
+	"text": "Prebivalište",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX"
+{
+	"text": "Pol",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_ANONYMOUS"
+{
+	"text": "N/A",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_FEMALE"
+{
+	"text": "ženski",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_MALE"
+{
+	"text": "muški",
+	"version": "1",
+}
+"EDIT_PROFILE_TITLE"
+{
+	"text": "Lične Informacije",
+	"version": "1",
+}
+"ERROR_CCY"
+{
+	"text": "Ne možete %0 sebe.",
+	"version": "1",
+}
+"FRIENDS_AWAY"
+{
+	"text": "Nije Tu",
+	"version": "1",
+}
+"FRIENDS_INGAME"
+{
+	"text": "U Igri",
+	"version": "1",
+}
+"FRIENDS_OFFLINE"
+{
+	"text": "Offline",
+	"version": "1",
+}
+"FRIENDS_ONLINE"
+{
+	"text": "Online",
+	"version": "1",
+}
+"GAME_ENDED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/Cigra se završila.",
+	"version": "1",
+}
+"GAME_HOSTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C igra je kreirana.",
+	"version": "1",
+}
+"GAME_STARTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C igra je pocela.",
+	"version": "1",
+}
+"HIGHLIGHT_EVERYONE"
+{
+	"text": "Svi",
+	"version": "1",
+}
+"HIGHLIGHT_FRIENDS_ONLY"
+{
+	"text": "Samo prijatelji",
+	"version": "1",
+}
+"HIGHLIGHT_NOONE"
+{
+	"text": "Niko",
+	"version": "1",
+}
+"LABEL_Channels"
+{
+	"text": "Sobe",
+	"version": "1",
+}
+"LABEL_Clans"
+{
+	"text": "Klanovi",
+	"version": "1",
+}
+"LABEL_EditAccount"
+{
+	"text": "Nalog",
+	"version": "1",
+}
+"LABEL_EditProfile"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"LABEL_Friends"
+{
+	"text": "Prijatelji",
+	"version": "1",
+}
+"LABEL_Help"
+{
+	"text": "Pomoć",
+	"version": "1",
+}
+"LABEL_LaunchWC3"
+{
+	"text": "Pokreni Warcraft III",
+	"version": "1",
+}
+"LABEL_Library"
+{
+	"text": "Bibilioteka",
+	"version": "1",
+}
+"LABEL_Servers"
+{
+	"text": "Serveri",
+	"version": "1",
+}
+"LABEL_Settings"
+{
+	"text": "Podešavanja",
+	"version": "1",
+}
+"LOGIN_ENTER_PASS"
+{
+	"text": "Molimo unesite šifru.",
+	"version": "1",
+}
+"LOGIN_ENTER_USER"
+{
+	"text": "Molimo unesite ime naloga.",
+	"version": "1",
+}
+"LOGIN_INVALID_PASS"
+{
+	"text": "Vaša šifra sadrži nevažeće karaktere.",
+	"version": "1",
+}
+"LOGIN_INVALID_USER"
+{
+	"text": "Vaše ime naloge sadrži nevažeće karaktere.",
+	"version": "1",
+}
+"MAIN_MENU_EXIT"
+{
+	"text": "Izađi",
+	"version": "1",
+}
+"MESSAGE_LASTSEEN"
+{
+	"text": "[%0 je zadnji put viđen %1]",
+	"version": "1",
+}
+"PROFILE_ACCOUNT"
+{
+	"text": "nalog",
+	"version": "1",
+}
+"PROFILE_AGE"
+{
+	"text": "Starost: %0",
+	"version": "1",
+}
+"PROFILE_DESCRIPTION"
+{
+	"text": "Opis",
+	"version": "1",
+}
+"PROFILE_EMAIL"
+{
+	"text": "Email: %0",
+	"version": "1",
+}
+"PROFILE_GAMES"
+{
+	"text": "Igara: %0",
+	"version": "1",
+}
+"PROFILE_GROUP_ACCESS"
+{
+	"text": "Rank na Platformi",
+	"version": "1",
+}
+"PROFILE_GROUP_PERSONAL"
+{
+	"text": "Lične Informacije",
+	"version": "1",
+}
+"PROFILE_LASTLOGIN"
+{
+	"text": "Poslednje Logovanje: %0",
+	"version": "1",
+}
+"PROFILE_NATIONALITY"
+{
+	"text": "Nacionalnost: %0",
+	"version": "1",
+}
+"PROFILE_REGISTERED"
+{
+	"text": "Registrovan: %0",
+	"version": "1",
+}
+"PROFILE_RESIDENCY"
+{
+	"text": "Prebivalište: %0",
+	"version": "1",
+}
+"PROFILE_SEX"
+{
+	"text": "Pol: %0",
+	"version": "1",
+}
+"PROFILE_SEX_FEMALE"
+{
+	"text": "ženski",
+	"version": "1",
+}
+"PROFILE_SEX_MALE"
+{
+	"text": "muški",
+	"version": "1",
+}
+"REG_CANCEL"
+{
+	"text": "Ne Hvala, već imam nalog",
+	"version": "1",
+}
+"REG_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"REG_EMAIL_CONFIRM"
+{
+	"text": "Potvrdi",
+	"version": "1",
+}
+"REG_ERR_EMAIL"
+{
+	"text": "Molimo unesite email adresu.",
+	"version": "1",
+}
+"REG_ERR_NAME"
+{
+	"text": "Molimo unesite displej ime.",
+	"version": "1",
+}
+"REG_ERR_NAME_SIZE"
+{
+	"text": "Vaše ime ne može imati više od 15 karaktera",
+	"version": "1",
+}
+"REG_ERR_PASS"
+{
+	"text": "Molimo unesite šifru.",
+	"version": "1",
+}
+"REG_ERR_USER"
+{
+	"text": "Molimo unesite ime naloga.",
+	"version": "1",
+}
+"REG_ERR_USER_SIZE"
+{
+	"text": "Vaše ime naloga ne može imati više od 15 karaktera",
+	"version": "1",
+}
+"REG_INVALID_EMAIL"
+{
+	"text": "Vaša email adresa sadrži nevažeće karaktere.",
+	"version": "1",
+}
+"REG_INVALID_NAME"
+{
+	"text": "Vaše ime sadrži nevažeće karaktere.",
+	"version": "1",
+}
+"REG_INVALID_NAME_WC3"
+{
+	"text": "Vaše ime sadrži |c, |n or |r. Te kombinacije karaktera nisu podržane, molimo promenite vaše ime.",
+	"version": "1",
+}
+"REG_INVALID_USER"
+{
+	"text": "Vaše ime naloga sadrži nevažeće karaktere.",
+	"version": "1",
+}
+"REG_MISMATCH_EMAIL"
+{
+	"text": "Uneli ste 2 različite email adrese.",
+	"version": "1",
+}
+"REG_MISMATCH_PASS"
+{
+	"text": "Uneli ste 2 različite šifre.",
+	"version": "1",
+}
+"REG_NAME"
+{
+	"text": "Ime",
+	"version": "1",
+}
+"REG_PASS"
+{
+	"text": "Šifra",
+	"version": "1",
+}
+"REG_PASS_CONFIRM"
+{
+	"text": "Potvrdi",
+	"version": "1",
+}
+"REG_REGISTER"
+{
+	"text": "Registracija",
+	"version": "1",
+}
+"REG_USER"
+{
+	"text": "Nalog",
+	"version": "1",
+}
+"REG_VALID_EMAIL"
+{
+	"text": "Molimo unesite validnu email adresu.",
+	"version": "1",
+}
+"SERVERS_CHANNEL"
+{
+	"text": "Soba",
+	"version": "1",
+}
+"SERVERS_GAME"
+{
+	"text": "Igra",
+	"version": "1",
+}
+"SERVERS_LATENCY"
+{
+	"text": "Latency",
+	"version": "1",
+}
+"SERVERS_MAP"
+{
+	"text": "Mapa",
+	"version": "1",
+}
+"SERVERS_NAME"
+{
+	"text": "Ime",
+	"version": "1",
+}
+"SERVERS_PLAYERS"
+{
+	"text": "Igrači",
+	"version": "1",
+}
+"SERVER_ALREADY_LOGGED_IN"
+{
+	"text": "Korisnik je već na vezi.",
+	"version": "1",
+}
+"SERVER_CHANNEL_ALREADY_INSIDE"
+{
+	"text": "[%0] Već ste u tom kanalu.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_ALREADY"
+{
+	"text": "Ovaj kompjuter je već banovan.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_NOW"
+{
+	"text": "%0's kompjuter je banovan od %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_ALREADY"
+{
+	"text": "Ovaj kompjuter nije banovan sa platforme.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_NOW"
+{
+	"text": "%0's kompjuter je unbanovan od %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_NO_ACCESS"
+{
+	"text": "Nemate pristup tom kanalu.",
+	"version": "1",
+}
+"SERVER_CHANNEL_REJECTION_MESSAGE"
+{
+	"text": "[%0] %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_ALREADY_VOUCHED"
+{
+	"text": "Taj korisnik je vec vouchovan u ovoj sobi.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_ALREADY"
+{
+	"text": "Ovaj korisnik je već banovan.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_NOW"
+{
+	"text": "%0 je banovan od %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOT_VOUCHED"
+{
+	"text": "Taj korisnik nije vouchovan u ovoj sobi.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOW_VOUCHED"
+{
+	"text": "%0 je sada ",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_ALREADY"
+{
+	"text": "Ovaj korisnik nije banovan sa platforme.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_NOW"
+{
+	"text": "%0 je unbanovan od %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNVOUCHED"
+{
+	"text": "%0 je unvouchovan.",
+	"version": "1",
+}
+"SERVER_CLIENTBANNED"
+{
+	"text": "Banovani ste. [Razlog :: %0]",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED"
+{
+	"text": "Kikovani ste. [Razlog :: %0]",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_BY"
+{
+	"text": "%0 je kikovan od %1.",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_NOT_LOGGED_ON"
+{
+	"text": "Ne možete da kikujete korisnika koji nije na vezi.",
+	"version": "1",
+}
+"SERVER_COMMAND_DB_INVALID_INPUT"
+{
+	"text": "Greška u bazi. Moguci Razlog: Nevažeći Unos.",
+	"version": "1",
+}
+"SERVER_COMMAND_ON_NON_EXISTANT_USER"
+{
+	"text": "Ne možete %0 nepostojećeg korisnika.",
+	"version": "1",
+}
+"SERVER_COMPBANNED"
+{
+	"text": "Vaš kompjuter je banovan. [Razlog :: %0]",
+	"version": "1",
+}
+"SERVER_ERROR_ACCESSGROUP"
+{
+	"text": "Ta access grupa ne postoji.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION"
+{
+	"text": "Greška. Ne možete nekom dati veći pristup nego sto vi imate.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION_ADMIN"
+{
+	"text": "Greška. Ne možete koristiti ovu komandu na nekog ko ima veći pristup nego šsto vi imate.",
+	"version": "1",
+}
+"SERVER_FRIEND_ADDED_YOU"
+{
+	"text": "%0 vas je dodao na listu prijatelja.",
+	"version": "1",
+}
+"SERVER_FRIEND_ALREADY_ON"
+{
+	"text": "%0 je već na vašoj listi prijatelja.",
+	"version": "1",
+}
+"SERVER_FRIEND_MESSAGE_TO"
+{
+	"text": "Sviml: %0",
+	"version": "1",
+}
+"SERVER_FRIEND_NOT_ON"
+{
+	"text": "%0 nije na vašoj listi prijatelja.",
+	"version": "1",
+}
+"SERVER_FRIEND_REMOVED_YOU"
+{
+	"text": "%0 vas je uklonio sa liste prijatelja.",
+	"version": "1",
+}
+"SERVER_INVALID_PROFILE_VALUES"
+{
+	"text": "Izmena profile nije kompletirana. Molimo proverite slučajno nemate neke posebne vrednosti(kao ', !, npr..) u poljima profila. ",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETACCESS"
+{
+	"text": "%0 je sada %1 u ovoj sobi.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETGLOBALACCESS"
+{
+	"text": "%0 je sada %1 na ovoj platformi.",
+	"version": "1",
+}
+"SERVER_PROFILE_CHANGED"
+{
+	"text": "Vaš profil je uspešno izmenjen.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_DATABASE_ERROR"
+{
+	"text": "Greška u Bazi. Ne koristite simbole \\\\ < ! ' \\\" > u vašem imenu.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_EMAIL_ALREADY_TAKEN"
+{
+	"text": "Ta email adresa je već zauzeta.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_NAME_ALREADY_TAKEN"
+{
+	"text": "Displej Ime je već zauzeto.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_USER_ALREADY_TAKEN"
+{
+	"text": "Nalog je već zauzet",
+	"version": "1",
+}
+"SERVER_SPECIFIED_USERNAME_DOESNT_EXIST"
+{
+	"text": "To korisničko ime ne postoji.",
+	"version": "1",
+}
+"SERVER_USERNAME_DOESNT_EXIST"
+{
+	"text": "Korisnik %0 ne postoji.",
+	"version": "1",
+}
+"SERVER_WHISPER_NOT_LOGGED_IN"
+{
+	"text": "Taj korisnik nije na vezi. Privatna poruka nije primljena.",
+	"version": "1",
+}
+"SERVER_WRONG_LOGIN"
+{
+	"text": "Pogrešni detalji naloga",
+	"version": "1",
+}
+"SETTINGS_TAB_CHAT"
+{
+	"text": "Ćaskanje",
+	"version": "1",
+}
+"SETTINGS_TAB_DOTA"
+{
+	"text": "DotA",
+	"version": "1",
+}
+"SETTINGS_TAB_FRIENDS"
+{
+	"text": "Prijatelji",
+	"version": "1",
+}
+"SETTINGS_TAB_OTHER"
+{
+	"text": "Ostalo",
+	"version": "1",
+}
+"SETTINGS_TAB_SOUNDS"
+{
+	"text": "Zvukovi",
+	"version": "1",
+}
+"STATUS_AWAY"
+{
+	"text": "[STATUS] Vi sada niste kraj kompjutera.",
+	"version": "1",
+}
+"STATUS_ONLINE"
+{
+	"text": "[STATUS] Vi ste sada online.",
+	"version": "1",
+}
+"TITLE_CHANNELS"
+{
+	"text": "Sobe",
+	"version": "1",
+}
+"TITLE_CHANNEL_ADMIN"
+{
+	"text": "Administracija Sobe",
+	"version": "1",
+}
+"TITLE_CLANS"
+{
+	"text": "Klanovi",
+	"version": "1",
+}
+"TITLE_CLAN_INFO"
+{
+	"text": "Info Klana",
+	"version": "1",
+}
+"TITLE_CLAN_REGISTER"
+{
+	"text": "Moj Klan",
+	"version": "1",
+}
+"TITLE_CONNECT"
+{
+	"text": "Konektuj Se",
+	"version": "1",
+}
+"TITLE_EDIT_ACCOUNT"
+{
+	"text": "Izmeni Nalog",
+	"version": "1",
+}
+"TITLE_EDIT_PROFILE"
+{
+	"text": "Izmeni Profil",
+	"version": "1",
+}
+"TITLE_FRIENDS"
+{
+	"text": "Prijatelji",
+	"version": "1",
+}
+"TITLE_LIBRARY"
+{
+	"text": "Bibilioteka",
+	"version": "1",
+}
+"TITLE_LOGIN"
+{
+	"text": "Loguj Se",
+	"version": "1",
+}
+"TITLE_MY_CLAN"
+{
+	"text": "Moj Klan",
+	"version": "1",
+}
+"TITLE_PROFILE"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"TITLE_REGISTER"
+{
+	"text": "Registracija",
+	"version": "1",
+}
+"TITLE_SERVERS"
+{
+	"text": "Serveri",
+	"version": "1",
+}
+"TITLE_SETTINGS"
+{
+	"text": "Podešavanja",
+	"version": "1",
+}
+"UI_LOGIN_CONNECT"
+{
+	"text": "Konektuj Se",
+	"version": "1",
+}
+"UI_LOGIN_LOGIN"
+{
+	"text": "Loguj Se",
+	"version": "1",
+}
+"UI_LOGIN_PASS"
+{
+	"text": "Šifra",
+	"version": "1",
+}
+"UI_LOGIN_REGISTER"
+{
+	"text": "Registruj Se",
+	"version": "1",
+}
+"UI_LOGIN_SAVEPASS"
+{
+	"text": "(Sačuvaj)",
+	"version": "1",
+}
+"UI_LOGIN_USER"
+{
+	"text": "Nalog",
+	"version": "1",
+}
+"UI_SHUTDOWN_THANKYOU"
+{
+	"text": "Hvala vam šsto koristite RGC. Nadamo se da ćete nas posetiti opet!",
+	"version": "1",
+}
+"WHOIS_AWAY"
+{
+	"text": "%0 nije kraj kompjutera.",
+	"version": "1",
+}
+"WHOIS_INGAME"
+{
+	"text": "%0 je u %1",
+	"version": "1",
+}
+"WHOIS_INGAME_PRIVATE"
+{
+	"text": "%0 je u privatnoj igri.",
+	"version": "1",
+}
+"WHOIS_OFFLINE"
+{
+	"text": "%0 je offline.",
+	"version": "1",
+}
+"WHOIS_ONLINE"
+{
+	"text": "%0 je online.",
+	"version": "1",
+}
+"bDotaPathFind"
+{
+	"text": "Nađi",
+	"version": "1",
+}
+"cOtherLogs"
+{
+	"text": "Omogući klijentu da čuva logove",
+	"version": "1",
+}
+"cOtherMainExit"
+{
+	"text": "Zatvori RGC kada kliknem na \"X\" (Zatvori)",
+	"version": "1",
+}
+"cOtherMainMinimize"
+{
+	"text": "Minimituj RGC kada se klikne na \"_\" (Minimize) dugme",
+	"version": "1",
+}
+"cOtherVisualsFullscreen"
+{
+	"text": "Pokreni klijent u punom prozoru",
+	"version": "1",
+}
+"cRoomsJoinAll"
+{
+	"text": "Uđi u sve sobe u kojima imam pristup prilikom logovanja",
+	"version": "1",
+}
+"cSoundsGameHosted"
+{
+	"text": "Vaša igra je kreirana",
+	"version": "1",
+}
+"cSoundsGameStarted"
+{
+	"text": "Obavesti me kad igra krene",
+	"version": "1",
+}
+"cSoundsLogin"
+{
+	"text": "Loguj Se",
+	"version": "1",
+}
+"cSoundsShutdown"
+{
+	"text": "Zatvori",
+	"version": "1",
+}
+"cTimestampGames"
+{
+	"text": "Vremenska Oznaka na ažuriranje statusa igara",
+	"version": "1",
+}
+"cTimestampMessages"
+{
+	"text": "Vremenska Oznaka na poruke ćaskanja",
+	"version": "1",
+}
+"cTimestampUpdates"
+{
+	"text": "Vremenska Oznaka na ažuriranje statusa sobe",
+	"version": "1",
+}
+"cmdSave"
+{
+	"text": "Sačuvaj",
+	"version": "1",
+}
+"gFriends"
+{
+	"text": "Lista Prijatelja",
+	"version": "1",
+}
+"gFriendsMessageAway"
+{
+	"text": "Poruka kad prijatelj nije kraj kompjutera",
+	"version": "1",
+}
+"gFriendsMessageIngame"
+{
+	"text": "Poruka kad prijatelj uđe u igru",
+	"version": "1",
+}
+"gFriendsMessageOffline"
+{
+	"text": "Poruka kad prijatelj dodje offline",
+	"version": "1",
+}
+"gFriendsMessageOnline"
+{
+	"text": "Poruka kad prijatelj dodje online",
+	"version": "1",
+}
+"gHighlight"
+{
+	"text": "Pozivanje",
+	"version": "1",
+}
+"gHighlightAliases"
+{
+	"text": "Imena za pozive",
+	"version": "1",
+}
+"gOtherCustom"
+{
+	"text": "Prilagođavanje",
+	"version": "1",
+}
+"gRooms"
+{
+	"text": "Sobe",
+	"version": "1",
+}
+"gRoomsCustomList"
+{
+	"text": "Privatna Lista",
+	"version": "1",
+}
+"gSounds"
+{
+	"text": "Zvukovi",
+	"version": "1",
+}
+"gTimestamps"
+{
+	"text": "Vremenska Oznaka",
+	"version": "1",
+}
+"lDotaLaunchOptions"
+{
+	"text": "Opcije Pokretanja",
+	"version": "1",
+}
+"lDotaMode"
+{
+	"text": "Podrazumevani Mod",
+	"version": "1",
+}
+"lDotaPath"
+{
+	"text": "Warcraft III: The Frozen Throne (Izvršni fajl)",
+	"version": "1",
+}
+"lHighlight"
+{
+	"text": "Odredite da li neko može da vas pozove dok ste..",
+	"version": "1",
+}
+"lHighlightAway"
+{
+	"text": "Away",
+	"version": "1",
+}
+"lHighlightIngame"
+{
+	"text": "U igri",
+	"version": "1",
+}
+"lHighlightOnline"
+{
+	"text": "Online",
+	"version": "1",
+}
+"lOtherCustomLanguage"
+{
+	"text": "Jezik",
+	"version": "1",
+}
+"lOtherCustomSkin"
+{
+	"text": "Skin",
+	"version": "1",
+}
+"lOtherLogs"
+{
+	"text": "Logovi Klijenta",
+	"version": "1",
+}
+"lOtherMain"
+{
+	"text": "Dugmići Glavnog Prozora",
+	"version": "1",
+}
+"lOtherVisuals"
+{
+	"text": "Vizuelni Objekti",
+	"version": "1",
+}
+"lTimestampCustom"
+{
+	"text": "Privatne Vremenske Oznake (Pogledajte primer ispod)",
+	"version": "1",
+}
+"lTimestampExpressions"
+{
+	"text": "Primer",
+	"version": "1",
+}
+"lTimestampExpressions2"
+{
+	"text": "Za detalju listu molimo posetite:\\nhttp://doc.trolltech.com/4.5/qdatetime.html#toString\\nOR Google: \"QT QDateTime\"",
+	"version": "1",
+}
+"lTimestampSettings"
+{
+	"text": "Podešavanja",
+	"version": "1",
+}

@@ -1,0 +1,1420 @@
+"ACP_CHANNEL_ADMINS"
+{
+	"text": "Admins",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENTS"
+{
+	"text": "Pengumuman",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_EDIT"
+{
+	"text": "Sunting",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_PREVIEW"
+{
+	"text": "Lihat",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_SAVE"
+{
+	"text": "Simpan",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_NAME"
+{
+	"text": "Nama",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_TITLE"
+{
+	"text": "Pangkat",
+	"version": "1",
+}
+"BUDDYLIST_ADD"
+{
+	"text": "%0 telah di tambah ke dalam senarai rakan.",
+	"version": "1",
+}
+"BUDDYLIST_AWAY"
+{
+	"text": "Rakan anda %0 sekarang tidak berada di hadapan komputer",
+	"version": "1",
+}
+"BUDDYLIST_INGAME"
+{
+	"text": "Rakan anda %0 sekarang di dalam %1",
+	"version": "1",
+}
+"BUDDYLIST_INGAME_PRIVATE"
+{
+	"text": "Rakan anda %0 sekarang di dalam game sulit.",
+	"version": "1",
+}
+"BUDDYLIST_OFFLINE"
+{
+	"text": "Rakan anda %0 sekarang offline.",
+	"version": "1",
+}
+"BUDDYLIST_ONLINE"
+{
+	"text": "Rakan anda %0 sekarang online.",
+	"version": "1",
+}
+"BUDDYLIST_REMOVE"
+{
+	"text": "%0 telah dibuang daripada senarai rakan.",
+	"version": "1",
+}
+"CHAT_CHANNELS_CUSTOM"
+{
+	"text": "Channel Custom",
+	"version": "1",
+}
+"CHAT_CHANNELS_LEAVE"
+{
+	"text": "Tinggalkan Channel",
+	"version": "1",
+}
+"CHAT_CHANNELS_OFFICIAL"
+{
+	"text": "Channel Rasmi",
+	"version": "1",
+}
+"CHAT_CHANNELS_PRIVATE"
+{
+	"text": "Pesanan Sulit",
+	"version": "1",
+}
+"CHAT_CHANNEL_ALREADY_XXX"
+{
+	"text": "%1 sudah %0 dalam channel ini.",
+	"version": "1",
+}
+"CHAT_CHANNEL_NOW_XXX"
+{
+	"text": "%1 sekarang %0 dalam channel ini.",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED"
+{
+	"text": "[%0] Anda telah di 'timeban' dari channel ini sehingga %2 pada %3. Sebab: %1",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED_NOW"
+{
+	"text": "%0 sekarang di 'timeban' dari channel ini sehingga %1 pada %2",
+	"version": "1",
+}
+"CHAT_JOINED"
+{
+	"text": "%0 telah memasuki chatroom.",
+	"version": "1",
+}
+"CHAT_LEFT"
+{
+	"text": "%0 telah meninggalkan chatroom",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN"
+{
+	"text": "Admin",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_KICK"
+{
+	"text": "'Kick'",
+	"version": "1",
+}
+"CHAT_MENU_CLAN_VIEW"
+{
+	"text": "Tunjuk clan",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST"
+{
+	"text": "Senarai Rakan",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_ADD"
+{
+	"text": "Tambah Rakan",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_REMOVE"
+{
+	"text": "Buang Rakan",
+	"version": "1",
+}
+"CHAT_MENU_HIGHLIGHT"
+{
+	"text": "Panggil",
+	"version": "1",
+}
+"CHAT_MENU_PROFILE"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"CHAT_MENU_WHISPER"
+{
+	"text": "Bisik",
+	"version": "1",
+}
+"CHAT_MENU_WHOIS"
+{
+	"text": "Siapa",
+	"version": "1",
+}
+"CHAT_PRIVATE_CLOSE"
+{
+	"text": "Tutup Perbualan",
+	"version": "1",
+}
+"CLAN_CREATE"
+{
+	"text": "Tubuhkan Clan",
+	"version": "1",
+}
+"CLAN_CREATED"
+{
+	"text": " Ditubuhkan pada",
+	"version": "1",
+}
+"CLAN_CREATOR"
+{
+	"text": "Pencipta",
+	"version": "1",
+}
+"CLAN_EDIT_CHANGE"
+{
+	"text": "Tukar",
+	"version": "1",
+}
+"CLAN_EDIT_INVITE"
+{
+	"text": "'Invite'",
+	"version": "1",
+}
+"CLAN_EDIT_KICK"
+{
+	"text": "'Kick'",
+	"version": "1",
+}
+"CLAN_EDIT_NAME"
+{
+	"text": "Nama",
+	"version": "1",
+}
+"CLAN_EDIT_SHOW"
+{
+	"text": "Pamer",
+	"version": "1",
+}
+"CLAN_EDIT_TITLE_INVITE"
+{
+	"text": "'Invite' Pemain-Pemain",
+	"version": "1",
+}
+"CLAN_ELO"
+{
+	"text": "ELO",
+	"version": "1",
+}
+"CLAN_LEAVE"
+{
+	"text": "Tinggalkan Clan",
+	"version": "1",
+}
+"CLAN_REG_CREATE"
+{
+	"text": "Cipta",
+	"version": "1",
+}
+"CLAN_REG_DISPLAY"
+{
+	"text": "Pamer",
+	"version": "1",
+}
+"CLAN_REG_FULL_EX"
+{
+	"text": "Contoh nama penuh: MYM^Maelk^DotA",
+	"version": "1",
+}
+"CLAN_REG_NAME"
+{
+	"text": "Nama",
+	"version": "1",
+}
+"CLAN_REG_NAME_EX"
+{
+	"text": "cth. Meet your Makers",
+	"version": "1",
+}
+"CLAN_REG_PREFIX"
+{
+	"text": "Awalan",
+	"version": "1",
+}
+"CLAN_REG_PREFIX_EX"
+{
+	"text": "cth. MYM^",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX"
+{
+	"text": "Akhiran",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX_EX"
+{
+	"text": "cth. ^DotA",
+	"version": "1",
+}
+"CLAN_REG_TAG"
+{
+	"text": "Tag",
+	"version": "1",
+}
+"CLAN_REG_TAG_EX"
+{
+	"text": "cth. MYM",
+	"version": "1",
+}
+"CLAN_TITLE_DESCRIPTION"
+{
+	"text": "Deskripsi",
+	"version": "1",
+}
+"CLAN_TITLE_Players"
+{
+	"text": "Pemain-Pemain",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY"
+{
+	"text": "-- Rakan-rakan AFK",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY_COLOR"
+{
+	"text": "Coklat",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME"
+{
+	"text": "-- Rakan-rakan ingame",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME_COLOR"
+{
+	"text": "Biru",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE"
+{
+	"text": "<< Rakan-rakan Offline",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE_COLOR"
+{
+	"text": "Merah",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE"
+{
+	"text": ">> Rakan-rakan Online",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE_COLOR"
+{
+	"text": "Hijau",
+	"version": "1",
+}
+"DOTA_OPEN_GAMES"
+{
+	"text": "Open Games",
+	"version": "1",
+}
+"DOTA_RUNNING_GAMES"
+{
+	"text": "Running Games",
+	"version": "1",
+}
+"DOTA_SIGN"
+{
+	"text": "Sign",
+	"version": "1",
+}
+"DOTA_SIGNED_PLAYERS"
+{
+	"text": "Signed Players",
+	"version": "1",
+}
+"DOTA_STARTED_GAMES"
+{
+	"text": "Started Games",
+	"version": "1",
+}
+"DOTA_UNSIGN"
+{
+	"text": "Unsign",
+	"version": "1",
+}
+"EDIT_ACCOUNT_CHANGE"
+{
+	"text": "Tukar",
+	"version": "1",
+}
+"EDIT_ACCOUNT_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_GET_TOKEN"
+{
+	"text": "Beli Penamaan Semula",
+	"version": "1",
+}
+"EDIT_ACCOUNT_NAME"
+{
+	"text": "Nama",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD"
+{
+	"text": "Kata Laluan Kini",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_CONFIRM"
+{
+	"text": "Sahkan Kata Laluan Baru",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_NEW"
+{
+	"text": "Kata Laluan Baru",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_NAME"
+{
+	"text": "Nama",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_PASSWORD"
+{
+	"text": "Kata Laluan",
+	"version": "1",
+}
+"EDIT_PRFOILE_DESCRIPTION"
+{
+	"text": "Deskripsi",
+	"version": "1",
+}
+"EDIT_PROFILE_AVATAR"
+{
+	"text": "Avatar",
+	"version": "1",
+}
+"EDIT_PROFILE_CHANGE"
+{
+	"text": "Hantar Ubahan",
+	"version": "1",
+}
+"EDIT_PROFILE_DOB"
+{
+	"text": "Tarikh Lahir",
+	"version": "1",
+}
+"EDIT_PROFILE_FIRST_NAME"
+{
+	"text": "Nama Awalan",
+	"version": "1",
+}
+"EDIT_PROFILE_LAST_NAME"
+{
+	"text": "Nama Akhiran",
+	"version": "1",
+}
+"EDIT_PROFILE_NATIONALITY"
+{
+	"text": "Kerakyatan",
+	"version": "1",
+}
+"EDIT_PROFILE_RESIDENCY"
+{
+	"text": "Tempat Tinggal",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX"
+{
+	"text": "Jantina",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_ANONYMOUS"
+{
+	"text": "N/A",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_FEMALE"
+{
+	"text": "Perempuan",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_MALE"
+{
+	"text": "Lelaki",
+	"version": "1",
+}
+"EDIT_PROFILE_TITLE"
+{
+	"text": "Maklumat Peribadi",
+	"version": "1",
+}
+"ERROR_CCY"
+{
+	"text": "Tidak dapat %0 diri sendiri.",
+	"version": "1",
+}
+"FRIENDS_AWAY"
+{
+	"text": "Away",
+	"version": "1",
+}
+"FRIENDS_INGAME"
+{
+	"text": "In-game",
+	"version": "1",
+}
+"FRIENDS_OFFLINE"
+{
+	"text": "Offline",
+	"version": "1",
+}
+"FRIENDS_ONLINE"
+{
+	"text": "Online",
+	"version": "1",
+}
+"GAME_ENDED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C%Cred%T%0%/C telah berakhir.",
+	"version": "1",
+}
+"GAME_HOSTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C%Cred%T%0%/C telah dihostkan",
+	"version": "1",
+}
+"GAME_STARTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C%Cred%T%0%/C telah dimulakan.",
+	"version": "1",
+}
+"HIGHLIGHT_EVERYONE"
+{
+	"text": "Semua orang",
+	"version": "1",
+}
+"HIGHLIGHT_FRIENDS_ONLY"
+{
+	"text": "Rakan sahaja",
+	"version": "1",
+}
+"HIGHLIGHT_NOONE"
+{
+	"text": "Tiada Sesiapa",
+	"version": "1",
+}
+"LABEL_Channels"
+{
+	"text": "Rooms",
+	"version": "1",
+}
+"LABEL_Clans"
+{
+	"text": "Clan-clan",
+	"version": "1",
+}
+"LABEL_EditAccount"
+{
+	"text": "Akaun",
+	"version": "1",
+}
+"LABEL_EditProfile"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"LABEL_Friends"
+{
+	"text": "Rakan-rakan",
+	"version": "1",
+}
+"LABEL_Help"
+{
+	"text": "Pertolongan",
+	"version": "1",
+}
+"LABEL_LaunchWC3"
+{
+	"text": "Lancarkan Warcraft III",
+	"version": "1",
+}
+"LABEL_Library"
+{
+	"text": "Library",
+	"version": "1",
+}
+"LABEL_Servers"
+{
+	"text": "Servers",
+	"version": "1",
+}
+"LABEL_Settings"
+{
+	"text": "Tetapan",
+	"version": "1",
+}
+"LOGIN_ENTER_PASS"
+{
+	"text": "Sila masukkan kata laluan.",
+	"version": "1",
+}
+"LOGIN_ENTER_USER"
+{
+	"text": "Sila masukkan nama akaun.",
+	"version": "1",
+}
+"LOGIN_INVALID_PASS"
+{
+	"text": "Kata laluan anda mengandungi huruf yang tidak sah.",
+	"version": "1",
+}
+"LOGIN_INVALID_USER"
+{
+	"text": "Nama akaun anda mengandungi huruf yang tidak sah.",
+	"version": "1",
+}
+"MAIN_MENU_EXIT"
+{
+	"text": "Keluar",
+	"version": "1",
+}
+"MESSAGE_LASTSEEN"
+{
+	"text": "[%0 dilihat kali terakhir pada %1]",
+	"version": "1",
+}
+"PROFILE_ACCOUNT"
+{
+	"text": "Akaun",
+	"version": "1",
+}
+"PROFILE_AGE"
+{
+	"text": "Umur: %0",
+	"version": "1",
+}
+"PROFILE_DESCRIPTION"
+{
+	"text": "Deskripsi",
+	"version": "1",
+}
+"PROFILE_EMAIL"
+{
+	"text": "Email: %0",
+	"version": "1",
+}
+"PROFILE_GAMES"
+{
+	"text": "Bilangan game: %0",
+	"version": "1",
+}
+"PROFILE_GROUP_ACCESS"
+{
+	"text": "Akses Platform",
+	"version": "1",
+}
+"PROFILE_GROUP_PERSONAL"
+{
+	"text": "Maklumat Peribadi",
+	"version": "1",
+}
+"PROFILE_LASTLOGIN"
+{
+	"text": "Kali terakhir masuk : %0",
+	"version": "1",
+}
+"PROFILE_NATIONALITY"
+{
+	"text": "Kerakyatan: %0",
+	"version": "1",
+}
+"PROFILE_REGISTERED"
+{
+	"text": "Telah mendaftar: %0",
+	"version": "1",
+}
+"PROFILE_RESIDENCY"
+{
+	"text": "Tempat tinggal: %0",
+	"version": "1",
+}
+"PROFILE_SEX"
+{
+	"text": "Jantina: %0",
+	"version": "1",
+}
+"PROFILE_SEX_FEMALE"
+{
+	"text": "Perempuan",
+	"version": "1",
+}
+"PROFILE_SEX_MALE"
+{
+	"text": "Lelaki",
+	"version": "1",
+}
+"REG_CANCEL"
+{
+	"text": "Terima kasih sahaja, saya sudah mempunyai akaun.",
+	"version": "1",
+}
+"REG_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"REG_EMAIL_CONFIRM"
+{
+	"text": "Pasti",
+	"version": "1",
+}
+"REG_ERR_EMAIL"
+{
+	"text": "Sila masukkan alamat email",
+	"version": "1",
+}
+"REG_ERR_NAME"
+{
+	"text": "Sila masukkan nama pameran",
+	"version": "1",
+}
+"REG_ERR_NAME_SIZE"
+{
+	"text": "Nama pameran anda haruslah tidak melebihi 15 huruf.",
+	"version": "1",
+}
+"REG_ERR_PASS"
+{
+	"text": "Sila masukkan kata laluan",
+	"version": "1",
+}
+"REG_ERR_USER"
+{
+	"text": "Sila masukkan nama akaun",
+	"version": "1",
+}
+"REG_ERR_USER_SIZE"
+{
+	"text": "Nama akaun anda haruslah tidak melebihi 15 huruf.",
+	"version": "1",
+}
+"REG_INVALID_EMAIL"
+{
+	"text": "Alamat email anda mengandungi huruf yang tidak sah.",
+	"version": "1",
+}
+"REG_INVALID_NAME"
+{
+	"text": "Nama pameran anda mengandungi huruf yang tidak sah.",
+	"version": "1",
+}
+"REG_INVALID_NAME_WC3"
+{
+	"text": "Nama pameran anda mengandungi sama ada |c, |n, atau |r. Kombinasi huruf tersebut adalah tidak dibenarkan oleh sistem. Sila tukar nama anda.",
+	"version": "1",
+}
+"REG_INVALID_USER"
+{
+	"text": "Nama akaun anda mengandungi huruf yang tidak sah.",
+	"version": "1",
+}
+"REG_MISMATCH_EMAIL"
+{
+	"text": "Anda memasukkan 2 alamat email yang berbeza.",
+	"version": "1",
+}
+"REG_MISMATCH_PASS"
+{
+	"text": "Anda memasukkan 2 kata laluan yang berbeza.",
+	"version": "1",
+}
+"REG_NAME"
+{
+	"text": "Nama Pameran",
+	"version": "1",
+}
+"REG_PASS"
+{
+	"text": "Kata Laluan",
+	"version": "1",
+}
+"REG_PASS_CONFIRM"
+{
+	"text": "Pasti",
+	"version": "1",
+}
+"REG_REGISTER"
+{
+	"text": "Daftar",
+	"version": "1",
+}
+"REG_USER"
+{
+	"text": "Akaun",
+	"version": "1",
+}
+"REG_VALID_EMAIL"
+{
+	"text": "Sila masukkan alamat email yang sah",
+	"version": "1",
+}
+"SERVERS_CHANNEL"
+{
+	"text": "Room",
+	"version": "1",
+}
+"SERVERS_GAME"
+{
+	"text": "Game",
+	"version": "1",
+}
+"SERVERS_LATENCY"
+{
+	"text": "Latency",
+	"version": "1",
+}
+"SERVERS_MAP"
+{
+	"text": "Map",
+	"version": "1",
+}
+"SERVERS_NAME"
+{
+	"text": "Nama",
+	"version": "1",
+}
+"SERVERS_PLAYERS"
+{
+	"text": "Pemain",
+	"version": "1",
+}
+"SERVER_ALREADY_LOGGED_IN"
+{
+	"text": "Pengguna tersebut sudah memasuki server.",
+	"version": "1",
+}
+"SERVER_CHANNEL_ALREADY_INSIDE"
+{
+	"text": "[%0] Anda sudah berada dalam channel ini.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_ALREADY"
+{
+	"text": "Komputer tersebut sudah di 'ban'. Anda tidak boleh meletakkan 'ban' yang lain ke atas nya.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_NOW"
+{
+	"text": "Komputer %0 telah di 'ban' oleh %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_ALREADY"
+{
+	"text": "Komputer ini tidak di 'ban' dalam platform ini.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_NOW"
+{
+	"text": "Komputer %0 telah di 'unban' oleh %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_NO_ACCESS"
+{
+	"text": "Anda tidak mempunyai akses ke channel tersebut.",
+	"version": "1",
+}
+"SERVER_CHANNEL_REJECTION_MESSAGE"
+{
+	"text": "[%0] %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_ALREADY_VOUCHED"
+{
+	"text": "Pengguna tersebut sudah di 'vouch' di dalam channel ini.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_ALREADY"
+{
+	"text": "Pengguna ini sudah di 'ban'. Anda tidak boleh meletakkan 'ban' yang lain ke atas nya.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_NOW"
+{
+	"text": "%0 telah di 'ban' oleh %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOT_VOUCHED"
+{
+	"text": "Pengguna tersebut tidak di 'vouch' di dalam channe ini.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOW_VOUCHED"
+{
+	"text": "%0 sekarang di 'vouch' di dalam channel ini.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_ALREADY"
+{
+	"text": "Pengguna ini tidak di 'ban' dari platform ini.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_NOW"
+{
+	"text": "%0 telah di 'unban' oleh %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNVOUCHED"
+{
+	"text": "%0 telah di 'unvouch'",
+	"version": "1",
+}
+"SERVER_CLIENTBANNED"
+{
+	"text": "Anda telah di 'ban'. [Sebab :: %0] Anda boleh membuat rayuan ke atas 'ban' anda di forum @ www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED"
+{
+	"text": "Anda telah di 'kick'. [Reason :: %0]",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_BY"
+{
+	"text": "%0 telah di 'kick' oleh %1",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_NOT_LOGGED_ON"
+{
+	"text": "Anda tidak boleh 'kick' pengguna yang tidak memasuki server.",
+	"version": "1",
+}
+"SERVER_COMMAND_DB_INVALID_INPUT"
+{
+	"text": "Ralat Pengkalan Data. Sebab yang mungkin: Input tidak sah.",
+	"version": "1",
+}
+"SERVER_COMMAND_ON_NON_EXISTANT_USER"
+{
+	"text": "Tidak dapat %0 pengguna yang tidak wujud.",
+	"version": "1",
+}
+"SERVER_COMPBANNED"
+{
+	"text": "Komputer anda telah di 'ban'. [Sebab :: %0] Anda boleh membuat rayuan ke atas 'ban' anda di forum @ www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_ERROR_ACCESSGROUP"
+{
+	"text": "Kumpulanakses tersebut tidak wujud.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION"
+{
+	"text": "Ralat Kebenaran. Anda tidak boleh menetapkan akses seseorang lebih tinggi daripada akses anda.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION_ADMIN"
+{
+	"text": "Ralat Kebenaran. Anda tidak boleh menggunakan arahan ini ke atas seseorang yang mempunya akses yang lebih tinggi daripada anda.",
+	"version": "1",
+}
+"SERVER_FRIEND_ADDED_YOU"
+{
+	"text": "%0 telah memasukkan anda ke dalam senarai rakannya.",
+	"version": "1",
+}
+"SERVER_FRIEND_ALREADY_ON"
+{
+	"text": "%0 sudah berada di dalam senarai rakan anda.",
+	"version": "1",
+}
+"SERVER_FRIEND_MESSAGE_TO"
+{
+	"text": "Untuk Semua: %0",
+	"version": "1",
+}
+"SERVER_FRIEND_NOT_ON"
+{
+	"text": "%0 tidak berada di dalam senarai rakan anda.",
+	"version": "1",
+}
+"SERVER_FRIEND_REMOVED_YOU"
+{
+	"text": "%0 telah menyingkirkan anda daripada senarai rakannya.",
+	"version": "1",
+}
+"SERVER_INVALID_PROFILE_VALUES"
+{
+	"text": "Penukaran profil anda tidak dapat dilengkapkan. Sila periksa bahawa anda tidak mempunyai nilai-nilai istimewa (seperti ',!, dll.) di dalam ruangan profil anda.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETACCESS"
+{
+	"text": "%0 sekarang %1 dalam channel ini.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETGLOBALACCESS"
+{
+	"text": "%0 sekarang %1 dalam platform ini.",
+	"version": "1",
+}
+"SERVER_PROFILE_CHANGED"
+{
+	"text": "Profil anda sudah berjaya ditukar.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_DATABASE_ERROR"
+{
+	"text": "Ralat Pengkalan Data. Jangan gunakan simbol-simbol seperti \\\\<!'\\\"> dalam nama anda",
+	"version": "1",
+}
+"SERVER_REGISTRATION_EMAIL_ALREADY_TAKEN"
+{
+	"text": "Email terbabit telah digunakan.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_NAME_ALREADY_TAKEN"
+{
+	"text": "Nama pameran terbabit telah diambil.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_USER_ALREADY_TAKEN"
+{
+	"text": "Nama akaun terbabit telah diambil.",
+	"version": "1",
+}
+"SERVER_SPECIFIED_USERNAME_DOESNT_EXIST"
+{
+	"text": "Nama pengguna terbabit tidak wujud.",
+	"version": "1",
+}
+"SERVER_USERNAME_DOESNT_EXIST"
+{
+	"text": "Pengguna %0 tidak wujud.",
+	"version": "1",
+}
+"SERVER_WHISPER_NOT_LOGGED_IN"
+{
+	"text": "Pengguna tersebut tidak berada di dalam server. Bisik gagal.",
+	"version": "1",
+}
+"SERVER_WRONG_LOGIN"
+{
+	"text": "Butir-butir kemasukan salah.",
+	"version": "1",
+}
+"SETTINGS_TAB_CHAT"
+{
+	"text": "Chat",
+	"version": "1",
+}
+"SETTINGS_TAB_DOTA"
+{
+	"text": "DotA",
+	"version": "1",
+}
+"SETTINGS_TAB_FRIENDS"
+{
+	"text": "Rakan",
+	"version": "1",
+}
+"SETTINGS_TAB_OTHER"
+{
+	"text": "Lain-lain",
+	"version": "1",
+}
+"SETTINGS_TAB_SOUNDS"
+{
+	"text": "Bunyian",
+	"version": "1",
+}
+"STATUS_AWAY"
+{
+	"text": "[STATUS] Sekarang, anda tidak berada di hadapan komputer.",
+	"version": "1",
+}
+"STATUS_ONLINE"
+{
+	"text": "[STATUS] Sekarang, anda sedang online.",
+	"version": "1",
+}
+"TITLE_CHANNELS"
+{
+	"text": "Rooms",
+	"version": "1",
+}
+"TITLE_CHANNEL_ADMIN"
+{
+	"text": "Pentadbiran Room",
+	"version": "1",
+}
+"TITLE_CLANS"
+{
+	"text": "Clans",
+	"version": "1",
+}
+"TITLE_CLAN_INFO"
+{
+	"text": "Maklumat Clan",
+	"version": "1",
+}
+"TITLE_CLAN_REGISTER"
+{
+	"text": "Clan Saya",
+	"version": "1",
+}
+"TITLE_CONNECT"
+{
+	"text": "Sambung",
+	"version": "1",
+}
+"TITLE_EDIT_ACCOUNT"
+{
+	"text": "Kendali Akaun",
+	"version": "1",
+}
+"TITLE_EDIT_PROFILE"
+{
+	"text": "Sunting Profil",
+	"version": "1",
+}
+"TITLE_FRIENDS"
+{
+	"text": "Rakan-rakan",
+	"version": "1",
+}
+"TITLE_LIBRARY"
+{
+	"text": "Library",
+	"version": "1",
+}
+"TITLE_LOGIN"
+{
+	"text": "Masuk",
+	"version": "1",
+}
+"TITLE_MY_CLAN"
+{
+	"text": "Clan Saya",
+	"version": "1",
+}
+"TITLE_PROFILE"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"TITLE_REGISTER"
+{
+	"text": "Daftar",
+	"version": "1",
+}
+"TITLE_SERVERS"
+{
+	"text": "Servers",
+	"version": "1",
+}
+"TITLE_SETTINGS"
+{
+	"text": "Tetapan",
+	"version": "1",
+}
+"UI_LOGIN_CONNECT"
+{
+	"text": "Sambung",
+	"version": "1",
+}
+"UI_LOGIN_LOGIN"
+{
+	"text": "Masuk",
+	"version": "1",
+}
+"UI_LOGIN_PASS"
+{
+	"text": "Kata Laluan",
+	"version": "1",
+}
+"UI_LOGIN_REGISTER"
+{
+	"text": "Daftar",
+	"version": "1",
+}
+"UI_LOGIN_SAVEPASS"
+{
+	"text": "(Simpan)",
+	"version": "1",
+}
+"UI_LOGIN_USER"
+{
+	"text": "Akaun",
+	"version": "1",
+}
+"UI_SHUTDOWN_THANKYOU"
+{
+	"text": "Terima Kasih",
+	"version": "1",
+}
+"WHOIS_AWAY"
+{
+	"text": "%0 tidak berada di hadapan komputer",
+	"version": "1",
+}
+"WHOIS_INGAME"
+{
+	"text": "%0 berada di dalam %1",
+	"version": "1",
+}
+"WHOIS_INGAME_PRIVATE"
+{
+	"text": "%0 berada di dalam game sulit",
+	"version": "1",
+}
+"WHOIS_OFFLINE"
+{
+	"text": "%0 sedang offline.",
+	"version": "1",
+}
+"WHOIS_ONLINE"
+{
+	"text": "%0 sedang online.",
+	"version": "1",
+}
+"bDotaPathFind"
+{
+	"text": "Cari",
+	"version": "1",
+}
+"cOtherLogs"
+{
+	"text": "Membiarkan klien untuk menyimpan 'logs'",
+	"version": "1",
+}
+"cOtherMainExit"
+{
+	"text": "Keluar RGC apabila butang \"X\" (Close) ditekan.",
+	"version": "1",
+}
+"cOtherMainMinimize"
+{
+	"text": "Mengecilkan RGC ke 'taskbar' apabila butang \"_\" (Minimize) ditekan.",
+	"version": "1",
+}
+"cOtherVisualsFullscreen"
+{
+	"text": "Mulakan klien dalam mode 'full-screen'",
+	"version": "1",
+}
+"cRoomsJoinAll"
+{
+	"text": "Masuk semua room yang saya miliki akses ketika masuk.",
+	"version": "1",
+}
+"cSoundsGameHosted"
+{
+	"text": "Game anda telah di-'host'kan",
+	"version": "1",
+}
+"cSoundsGameStarted"
+{
+	"text": "Membunyikan bunyian apabila game anda bermula.",
+	"version": "1",
+}
+"cSoundsLogin"
+{
+	"text": "Masuk",
+	"version": "1",
+}
+"cSoundsShutdown"
+{
+	"text": "Tutup",
+	"version": "1",
+}
+"cTimestampGames"
+{
+	"text": "Jejak waktu pada 'status updates'",
+	"version": "1",
+}
+"cTimestampMessages"
+{
+	"text": "Jejak waktu pada pesanan chat",
+	"version": "1",
+}
+"cTimestampUpdates"
+{
+	"text": "Jejak waktu pada 'room updates'",
+	"version": "1",
+}
+"cmdSave"
+{
+	"text": "Simpan",
+	"version": "1",
+}
+"gFriends"
+{
+	"text": "Senarai Rakan",
+	"version": "1",
+}
+"gFriendsMessageAway"
+{
+	"text": "Pesan apabila rakan afk",
+	"version": "1",
+}
+"gFriendsMessageIngame"
+{
+	"text": "Pesan apabila rakan memasuki game",
+	"version": "1",
+}
+"gFriendsMessageOffline"
+{
+	"text": "Pesan apabila rakan offline",
+	"version": "1",
+}
+"gFriendsMessageOnline"
+{
+	"text": "Pesan apabila rakan online",
+	"version": "1",
+}
+"gHighlight"
+{
+	"text": "Panggil",
+	"version": "1",
+}
+"gHighlightAliases"
+{
+	"text": "Panggil nama-nama",
+	"version": "1",
+}
+"gOtherCustom"
+{
+	"text": "Ubahan Sendiri",
+	"version": "1",
+}
+"gRooms"
+{
+	"text": "Rooms",
+	"version": "1",
+}
+"gRoomsCustomList"
+{
+	"text": "Senarai Custom",
+	"version": "1",
+}
+"gSounds"
+{
+	"text": "Bunyian",
+	"version": "1",
+}
+"gTimestamps"
+{
+	"text": "Jejak Waktu",
+	"version": "1",
+}
+"lDotaLaunchOptions"
+{
+	"text": "Pilihan Perlaksanaan",
+	"version": "1",
+}
+"lDotaMode"
+{
+	"text": "Mode default",
+	"version": "1",
+}
+"lDotaPath"
+{
+	"text": "Warcraft III: The Frozen Throne ('Executable')",
+	"version": "1",
+}
+"lHighlight"
+{
+	"text": "Perincikan hak orang lain untuk memanggil anda ketika anda ...",
+	"version": "1",
+}
+"lHighlightAway"
+{
+	"text": "Away",
+	"version": "1",
+}
+"lHighlightIngame"
+{
+	"text": "In-game",
+	"version": "1",
+}
+"lHighlightOnline"
+{
+	"text": "Online ",
+	"version": "1",
+}
+"lOtherCustomLanguage"
+{
+	"text": "Bahasa",
+	"version": "1",
+}
+"lOtherCustomSkin"
+{
+	"text": "'Skin'",
+	"version": "1",
+}
+"lOtherLogs"
+{
+	"text": "'Logging' dalam klien",
+	"version": "1",
+}
+"lOtherMain"
+{
+	"text": "Butang Tetingkap Utama",
+	"version": "1",
+}
+"lOtherVisuals"
+{
+	"text": "Visuals",
+	"version": "1",
+}
+"lTimestampCustom"
+{
+	"text": "Jejak Waktu Custom (Lihat 'expression di bawah)",
+	"version": "1",
+}
+"lTimestampExpressions"
+{
+	"text": "'Expression'",
+	"version": "1",
+}
+"lTimestampExpressions2"
+{
+	"text": "Untuk senarai terperinci, sila lawati:\\nhttp://doc.trolltech.com/4.5/qdatetime.html#tostring\\nOR Google: \"QT QDateTime\"",
+	"version": "1",
+}
+"lTimestampSettings"
+{
+	"text": "Tetapan",
+	"version": "1",
+}

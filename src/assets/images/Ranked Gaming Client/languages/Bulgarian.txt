@@ -1,0 +1,1410 @@
+"ACP_CHANNEL_ADMINS"
+{
+	"text": "Администратори",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENTS"
+{
+	"text": "Известие",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_EDIT"
+{
+	"text": "Промяни",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_PREVIEW"
+{
+	"text": "Преглед",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_SAVE"
+{
+	"text": "Запази",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_NAME"
+{
+	"text": "Име",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_TITLE"
+{
+	"text": "Титла",
+	"version": "1",
+}
+"BUDDYLIST_ADD"
+{
+	"text": "%0 беше добавен към приятели.",
+	"version": "1",
+}
+"BUDDYLIST_AWAY"
+{
+	"text": "Твоят приятел %0 е AFK",
+	"version": "1",
+}
+"BUDDYLIST_INGAME"
+{
+	"text": "Твоят приятел %0 е в %1",
+	"version": "1",
+}
+"BUDDYLIST_INGAME_PRIVATE"
+{
+	"text": "Твоят приятел %0 е в скрита игра.",
+	"version": "1",
+}
+"BUDDYLIST_OFFLINE"
+{
+	"text": "Твоят приятел %0 е извън линия.",
+	"version": "1",
+}
+"BUDDYLIST_ONLINE"
+{
+	"text": "Твоят приятел %0 е на линия.",
+	"version": "1",
+}
+"BUDDYLIST_REMOVE"
+{
+	"text": "%0 беше изтрит от приятели.",
+	"version": "1",
+}
+"CHAT_CHANNELS_CUSTOM"
+{
+	"text": "Други Канали",
+	"version": "1",
+}
+"CHAT_CHANNELS_LEAVE"
+{
+	"text": "Напусни Канала",
+	"version": "1",
+}
+"CHAT_CHANNELS_OFFICIAL"
+{
+	"text": "Официални Канали",
+	"version": "1",
+}
+"CHAT_CHANNELS_PRIVATE"
+{
+	"text": "Лично Съобщение",
+	"version": "1",
+}
+"CHAT_CHANNEL_ALREADY_XXX"
+{
+	"text": "%1 вече е %0 в този канал.",
+	"version": "1",
+}
+"CHAT_CHANNEL_NOW_XXX"
+{
+	"text": "%1 сега е %0 в този канал.",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED"
+{
+	"text": "[%0] Баннат сте временно от този канал до %2 на %3. Причина: %1",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED_NOW"
+{
+	"text": "%0 е баннат временно от този канал до %1 на %2",
+	"version": "1",
+}
+"CHAT_JOINED"
+{
+	"text": "%0 влезе в чат стаята.",
+	"version": "1",
+}
+"CHAT_LEFT"
+{
+	"text": "%0 излезе от чат стаята.",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN"
+{
+	"text": "Администратор",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_KICK"
+{
+	"text": "Изгони",
+	"version": "1",
+}
+"CHAT_MENU_CLAN_VIEW"
+{
+	"text": "Покажи Клан",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST"
+{
+	"text": "Списък с Приятели",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_ADD"
+{
+	"text": "Добави Приятел",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_REMOVE"
+{
+	"text": "Изтрий Приятел",
+	"version": "1",
+}
+"CHAT_MENU_HIGHLIGHT"
+{
+	"text": "Сръчкай",
+	"version": "1",
+}
+"CHAT_MENU_PROFILE"
+{
+	"text": "Профил",
+	"version": "1",
+}
+"CHAT_MENU_WHISPER"
+{
+	"text": "Изпрати Съобщение",
+	"version": "1",
+}
+"CHAT_MENU_WHOIS"
+{
+	"text": "Кой е ?",
+	"version": "1",
+}
+"CHAT_PRIVATE_CLOSE"
+{
+	"text": "Затвори Чата",
+	"version": "1",
+}
+"CLAN_CREATE"
+{
+	"text": "Създай Клан",
+	"version": "1",
+}
+"CLAN_CREATED"
+{
+	"text": "Създаден на",
+	"version": "1",
+}
+"CLAN_CREATOR"
+{
+	"text": "Създател",
+	"version": "1",
+}
+"CLAN_EDIT_CHANGE"
+{
+	"text": "Промени",
+	"version": "1",
+}
+"CLAN_EDIT_INVITE"
+{
+	"text": "Покани",
+	"version": "1",
+}
+"CLAN_EDIT_KICK"
+{
+	"text": "Изгони от клана",
+	"version": "1",
+}
+"CLAN_EDIT_NAME"
+{
+	"text": "Име",
+	"version": "1",
+}
+"CLAN_EDIT_SHOW"
+{
+	"text": "Покажи Информация",
+	"version": "1",
+}
+"CLAN_EDIT_TITLE_INVITE"
+{
+	"text": "Покани Играчи",
+	"version": "1",
+}
+"CLAN_ELO"
+{
+	"text": "ELO",
+	"version": "1",
+}
+"CLAN_LEAVE"
+{
+	"text": "Напусни Клана",
+	"version": "1",
+}
+"CLAN_REG_CREATE"
+{
+	"text": "Създай",
+	"version": "1",
+}
+"CLAN_REG_DISPLAY"
+{
+	"text": "Покажи",
+	"version": "1",
+}
+"CLAN_REG_FULL_EX"
+{
+	"text": "Пример как ще изглежда: MYM^Maelk^DoTa",
+	"version": "1",
+}
+"CLAN_REG_NAME"
+{
+	"text": "Име",
+	"version": "1",
+}
+"CLAN_REG_NAME_EX"
+{
+	"text": "Пример: Meet your Makers",
+	"version": "1",
+}
+"CLAN_REG_PREFIX"
+{
+	"text": "Префикс/Пред име",
+	"version": "1",
+}
+"CLAN_REG_PREFIX_EX"
+{
+	"text": "Пример: MYM^",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX"
+{
+	"text": "Суфикс/След име",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX_EX"
+{
+	"text": "Пример: ^DoTa",
+	"version": "1",
+}
+"CLAN_REG_TAG"
+{
+	"text": "Tag",
+	"version": "1",
+}
+"CLAN_REG_TAG_EX"
+{
+	"text": "Пример: MYM",
+	"version": "1",
+}
+"CLAN_TITLE_DESCRIPTION"
+{
+	"text": "Описание",
+	"version": "1",
+}
+"CLAN_TITLE_Players"
+{
+	"text": "Членове",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY"
+{
+	"text": "AFK Приятели",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY_COLOR"
+{
+	"text": "brown",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME"
+{
+	"text": "Приятели в игра",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME_COLOR"
+{
+	"text": "blue",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE"
+{
+	"text": "Приятели извън линия",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE_COLOR"
+{
+	"text": "red",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE"
+{
+	"text": "Приятели на линия",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE_COLOR"
+{
+	"text": "green",
+	"version": "1",
+}
+"DOTA_OPEN_GAMES"
+{
+	"text": "Отворени Игри",
+	"version": "1",
+}
+"DOTA_RUNNING_GAMES"
+{
+	"text": "Активни Игри",
+	"version": "1",
+}
+"DOTA_SIGN"
+{
+	"text": "Запиши се",
+	"version": "1",
+}
+"DOTA_SIGNED_PLAYERS"
+{
+	"text": "Записани Играчи",
+	"version": "1",
+}
+"DOTA_STARTED_GAMES"
+{
+	"text": "Стартирани Игри",
+	"version": "1",
+}
+"DOTA_UNSIGN"
+{
+	"text": "Отписване",
+	"version": "1",
+}
+"EDIT_ACCOUNT_CHANGE"
+{
+	"text": "Промени",
+	"version": "1",
+}
+"EDIT_ACCOUNT_EMAIL"
+{
+	"text": "Емайл",
+	"version": "1",
+}
+"EDIT_ACCOUNT_GET_TOKEN"
+{
+	"text": "Преименуване",
+	"version": "1",
+}
+"EDIT_ACCOUNT_NAME"
+{
+	"text": "Име на акаунта:",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD"
+{
+	"text": "Настояща парола:",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_CONFIRM"
+{
+	"text": "Потвърди паролата:",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_NEW"
+{
+	"text": "Нова парола:",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_EMAIL"
+{
+	"text": "Електронна Поща",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_NAME"
+{
+	"text": "Име",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_PASSWORD"
+{
+	"text": "Парола",
+	"version": "1",
+}
+"EDIT_PRFOILE_DESCRIPTION"
+{
+	"text": "Описание",
+	"version": "1",
+}
+"EDIT_PROFILE_AVATAR"
+{
+	"text": "Аватар",
+	"version": "1",
+}
+"EDIT_PROFILE_CHANGE"
+{
+	"text": "Запази промените",
+	"version": "1",
+}
+"EDIT_PROFILE_DOB"
+{
+	"text": "Дата на раждане",
+	"version": "1",
+}
+"EDIT_PROFILE_FIRST_NAME"
+{
+	"text": "Собствено Име",
+	"version": "1",
+}
+"EDIT_PROFILE_LAST_NAME"
+{
+	"text": "Фамилия",
+	"version": "1",
+}
+"EDIT_PROFILE_NATIONALITY"
+{
+	"text": "Националност",
+	"version": "1",
+}
+"EDIT_PROFILE_RESIDENCY"
+{
+	"text": "Пребиваване",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX"
+{
+	"text": "Пол",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_ANONYMOUS"
+{
+	"text": "N/A",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_FEMALE"
+{
+	"text": "Жена",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_MALE"
+{
+	"text": "Мъж",
+	"version": "1",
+}
+"EDIT_PROFILE_TITLE"
+{
+	"text": "Лична Информация",
+	"version": "1",
+}
+"ERROR_CCY"
+{
+	"text": "Не можеш да %0 себе си.",
+	"version": "1",
+}
+"FRIENDS_AWAY"
+{
+	"text": "Отсъства",
+	"version": "1",
+}
+"FRIENDS_INGAME"
+{
+	"text": "В игра",
+	"version": "1",
+}
+"FRIENDS_OFFLINE"
+{
+	"text": "Извън линия",
+	"version": "1",
+}
+"FRIENDS_ONLINE"
+{
+	"text": "На линия",
+	"version": "1",
+}
+"GAME_ENDED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C завърши.",
+	"version": "1",
+}
+"GAME_HOSTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C беше създадена.",
+	"version": "1",
+}
+"GAME_STARTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C беше стартирана.",
+	"version": "1",
+}
+"HIGHLIGHT_EVERYONE"
+{
+	"text": "Всички",
+	"version": "1",
+}
+"HIGHLIGHT_FRIENDS_ONLY"
+{
+	"text": "Само приятели",
+	"version": "1",
+}
+"HIGHLIGHT_NOONE"
+{
+	"text": "Никой",
+	"version": "1",
+}
+"LABEL_Channels"
+{
+	"text": "Стаи",
+	"version": "1",
+}
+"LABEL_Clans"
+{
+	"text": "Клан",
+	"version": "1",
+}
+"LABEL_EditAccount"
+{
+	"text": "Акаунт",
+	"version": "1",
+}
+"LABEL_EditProfile"
+{
+	"text": "Профил",
+	"version": "1",
+}
+"LABEL_Friends"
+{
+	"text": "Приятели",
+	"version": "1",
+}
+"LABEL_Help"
+{
+	"text": "Помощ",
+	"version": "1",
+}
+"LABEL_LaunchWC3"
+{
+	"text": "Стартирай War3",
+	"version": "1",
+}
+"LABEL_Library"
+{
+	"text": "Библеотека",
+	"version": "1",
+}
+"LABEL_Servers"
+{
+	"text": "Игри",
+	"version": "1",
+}
+"LABEL_Settings"
+{
+	"text": "Настройки",
+	"version": "1",
+}
+"LOGIN_ENTER_PASS"
+{
+	"text": "Въведи парола",
+	"version": "1",
+}
+"LOGIN_ENTER_USER"
+{
+	"text": "Въведи акаунт",
+	"version": "1",
+}
+"LOGIN_INVALID_PASS"
+{
+	"text": "Паролата съдържа невалидни символи.",
+	"version": "1",
+}
+"LOGIN_INVALID_USER"
+{
+	"text": "Името съдържа невалидни символи.",
+	"version": "1",
+}
+"MAIN_MENU_EXIT"
+{
+	"text": "Изход",
+	"version": "1",
+}
+"MESSAGE_LASTSEEN"
+{
+	"text": "[%0 последно видян на %1]",
+	"version": "1",
+}
+"PROFILE_ACCOUNT"
+{
+	"text": "Акаунт",
+	"version": "1",
+}
+"PROFILE_AGE"
+{
+	"text": "Години: %0",
+	"version": "1",
+}
+"PROFILE_DESCRIPTION"
+{
+	"text": "Описание",
+	"version": "1",
+}
+"PROFILE_EMAIL"
+{
+	"text": "Емайл: %0",
+	"version": "1",
+}
+"PROFILE_GAMES"
+{
+	"text": "Игри: %0",
+	"version": "1",
+}
+"PROFILE_GROUP_ACCESS"
+{
+	"text": "Достъп в платформата",
+	"version": "1",
+}
+"PROFILE_GROUP_PERSONAL"
+{
+	"text": "Лична Информация",
+	"version": "1",
+}
+"PROFILE_LASTLOGIN"
+{
+	"text": "Последно видян: %0",
+	"version": "1",
+}
+"PROFILE_NATIONALITY"
+{
+	"text": "Народност: %0",
+	"version": "1",
+}
+"PROFILE_REGISTERED"
+{
+	"text": "Регистриран на: %0",
+	"version": "1",
+}
+"PROFILE_RESIDENCY"
+{
+	"text": "Местоположение: %0",
+	"version": "1",
+}
+"PROFILE_SEX"
+{
+	"text": "Пол: %0",
+	"version": "1",
+}
+"PROFILE_SEX_FEMALE"
+{
+	"text": "Жена",
+	"version": "1",
+}
+"PROFILE_SEX_MALE"
+{
+	"text": "Мъж",
+	"version": "1",
+}
+"REG_CANCEL"
+{
+	"text": "Не благодаря, имам акаунт",
+	"version": "1",
+}
+"REG_EMAIL"
+{
+	"text": "Емайл",
+	"version": "1",
+}
+"REG_EMAIL_CONFIRM"
+{
+	"text": "Потвърди",
+	"version": "1",
+}
+"REG_ERR_EMAIL"
+{
+	"text": "Добавете емайл адрес.",
+	"version": "1",
+}
+"REG_ERR_NAME"
+{
+	"text": "Моля въведете никнейм",
+	"version": "1",
+}
+"REG_ERR_NAME_SIZE"
+{
+	"text": "Твоят никнейм не трябва съдържа повече от 15 символа",
+	"version": "1",
+}
+"REG_ERR_PASS"
+{
+	"text": "Добавете парола.",
+	"version": "1",
+}
+"REG_ERR_USER"
+{
+	"text": "Моля въведете акаунт",
+	"version": "1",
+}
+"REG_ERR_USER_SIZE"
+{
+	"text": "Твоят акаунт не трябва да съдържа повече от 15 символа",
+	"version": "1",
+}
+"REG_INVALID_EMAIL"
+{
+	"text": "Твоят емайл адрес съдържа невалидни символи.",
+	"version": "1",
+}
+"REG_INVALID_NAME"
+{
+	"text": "Твоят никнейм съдържа невалидни символи",
+	"version": "1",
+}
+"REG_INVALID_NAME_WC3"
+{
+	"text": "Твоят никнейм съдържа невалидна комбинация от символи.",
+	"version": "1",
+}
+"REG_INVALID_USER"
+{
+	"text": "Твоят акаунт съдържа невалидни символи",
+	"version": "1",
+}
+"REG_MISMATCH_EMAIL"
+{
+	"text": "Двата емайл адреса не съвпадат.",
+	"version": "1",
+}
+"REG_MISMATCH_PASS"
+{
+	"text": "Двете пароли не съвпадат.",
+	"version": "1",
+}
+"REG_NAME"
+{
+	"text": "Никнейм",
+	"version": "1",
+}
+"REG_PASS"
+{
+	"text": "Парола",
+	"version": "1",
+}
+"REG_PASS_CONFIRM"
+{
+	"text": "Потвърди",
+	"version": "1",
+}
+"REG_REGISTER"
+{
+	"text": "Регистрация",
+	"version": "1",
+}
+"REG_USER"
+{
+	"text": "Акаунт",
+	"version": "1",
+}
+"REG_VALID_EMAIL"
+{
+	"text": "Добавете валиден емайл адрес.",
+	"version": "1",
+}
+"SERVERS_CHANNEL"
+{
+	"text": "Стая",
+	"version": "1",
+}
+"SERVERS_GAME"
+{
+	"text": "Игра",
+	"version": "1",
+}
+"SERVERS_LATENCY"
+{
+	"text": "Лаг",
+	"version": "1",
+}
+"SERVERS_MAP"
+{
+	"text": "Карта",
+	"version": "1",
+}
+"SERVERS_NAME"
+{
+	"text": "Име",
+	"version": "1",
+}
+"SERVERS_PLAYERS"
+{
+	"text": "Играчи",
+	"version": "1",
+}
+"SERVER_ALREADY_LOGGED_IN"
+{
+	"text": "Този потребител вече е вписан.",
+	"version": "1",
+}
+"SERVER_CHANNEL_ALREADY_INSIDE"
+{
+	"text": "[%0] Вие сте в този канал.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_ALREADY"
+{
+	"text": "Този компютър вече е баннат. Не може да поставяте друг бан.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_NOW"
+{
+	"text": "Компютърът на %0 беше баннат от %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_ALREADY"
+{
+	"text": "Този компютър не е баннат от платформата.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_NOW"
+{
+	"text": "Банът от компютъра на %0 беше премахнат от %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_NO_ACCESS"
+{
+	"text": "Нямате достъп до този канал.",
+	"version": "1",
+}
+"SERVER_CHANNEL_REJECTION_MESSAGE"
+{
+	"text": "[%0] %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_ALREADY_VOUCHED"
+{
+	"text": "Този потребител вече е гарантиран в канала.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_ALREADY"
+{
+	"text": "Този потребител вече е баннат. Не може да добавяте нов бан.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_NOW"
+{
+	"text": "%0 беше баннат от %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOT_VOUCHED"
+{
+	"text": "Този потребител не е гарантиран в канала.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOW_VOUCHED"
+{
+	"text": "%0 е гарантиран в този канал.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_ALREADY"
+{
+	"text": "Този потребител не е баннат от платформата.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_NOW"
+{
+	"text": "Банът на %0 беше премахнат от %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNVOUCHED"
+{
+	"text": "%0 вече не е гарантиран.",
+	"version": "1",
+}
+"SERVER_CLIENTBANNED"
+{
+	"text": "Вие бяхте беше баннат. [Причина :: %0] Може да потърсите помощ в форума на www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED"
+{
+	"text": "Ти беше изгонен. [Причина :: %0]",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_BY"
+{
+	"text": "%0 беше изгонен от %1.",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_NOT_LOGGED_ON"
+{
+	"text": "Не може да изгоните потребител, който не е в стаята.",
+	"version": "1",
+}
+"SERVER_COMMAND_DB_INVALID_INPUT"
+{
+	"text": "Грешка. Възможна причина: Невалидно въвеждане",
+	"version": "1",
+}
+"SERVER_COMMAND_ON_NON_EXISTANT_USER"
+{
+	"text": "Не може да %0 несъществуващ потребител.",
+	"version": "1",
+}
+"SERVER_COMPBANNED"
+{
+	"text": "Вашият компютър беше баннат. [Причина :: %0] Може да потърсите помощ в форума на www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_ERROR_ACCESSGROUP"
+{
+	"text": "Този ранк не съществува.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION"
+{
+	"text": "Грешка. Не може да зададете по висок ранк от вашия.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION_ADMIN"
+{
+	"text": "Грешка. Не може да ползвате тази каманда върху някой с по-висок ранк от вашия.",
+	"version": "1",
+}
+"SERVER_FRIEND_ADDED_YOU"
+{
+	"text": "%0 те добави към приятели.",
+	"version": "1",
+}
+"SERVER_FRIEND_ALREADY_ON"
+{
+	"text": "%0 вече съществува в приятели.",
+	"version": "1",
+}
+"SERVER_FRIEND_MESSAGE_TO"
+{
+	"text": "До всички: %0",
+	"version": "1",
+}
+"SERVER_FRIEND_NOT_ON"
+{
+	"text": "%0 не е в приятели.",
+	"version": "1",
+}
+"SERVER_FRIEND_REMOVED_YOU"
+{
+	"text": "%0 те изтри от приятели.",
+	"version": "1",
+}
+"SERVER_INVALID_PROFILE_VALUES"
+{
+	"text": "Промяната на профила не може да бъде завършена. Моля проверете полетата за специални символи.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETACCESS"
+{
+	"text": "%0 сега е %1 в канала.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETGLOBALACCESS"
+{
+	"text": "%0 сега е %1 в платформата.",
+	"version": "1",
+}
+"SERVER_PROFILE_CHANGED"
+{
+	"text": "Профилът ви беше променен успешно.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_DATABASE_ERROR"
+{
+	"text": "Не използвайте символи като \\\\ < ! ' \\ > в името си.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_EMAIL_ALREADY_TAKEN"
+{
+	"text": "Този емайл е зает.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_NAME_ALREADY_TAKEN"
+{
+	"text": "Този никнейм е зает",
+	"version": "1",
+}
+"SERVER_REGISTRATION_USER_ALREADY_TAKEN"
+{
+	"text": "Този акаунт е зает",
+	"version": "1",
+}
+"SERVER_SPECIFIED_USERNAME_DOESNT_EXIST"
+{
+	"text": "Този потребител не съществува.",
+	"version": "1",
+}
+"SERVER_USERNAME_DOESNT_EXIST"
+{
+	"text": "%0 не съществува",
+	"version": "1",
+}
+"SERVER_WHISPER_NOT_LOGGED_IN"
+{
+	"text": "Този потребител не е на лице.",
+	"version": "1",
+}
+"SERVER_WRONG_LOGIN"
+{
+	"text": "Грешни детайли за вписване",
+	"version": "1",
+}
+"SETTINGS_TAB_CHAT"
+{
+	"text": "Чат",
+	"version": "1",
+}
+"SETTINGS_TAB_DOTA"
+{
+	"text": "Дота",
+	"version": "1",
+}
+"SETTINGS_TAB_FRIENDS"
+{
+	"text": "Приятели",
+	"version": "1",
+}
+"SETTINGS_TAB_OTHER"
+{
+	"text": "Други",
+	"version": "1",
+}
+"SETTINGS_TAB_SOUNDS"
+{
+	"text": "Звуци",
+	"version": "1",
+}
+"STATUS_AWAY"
+{
+	"text": "[СТАТУС] AFK.",
+	"version": "1",
+}
+"STATUS_ONLINE"
+{
+	"text": "[СТАТУС] На линия.",
+	"version": "1",
+}
+"TITLE_CHANNELS"
+{
+	"text": "Стаи",
+	"version": "1",
+}
+"TITLE_CHANNEL_ADMIN"
+{
+	"text": "Администрация на стаята",
+	"version": "1",
+}
+"TITLE_CLANS"
+{
+	"text": "Кланове",
+	"version": "1",
+}
+"TITLE_CLAN_INFO"
+{
+	"text": "Инфомация за клана",
+	"version": "1",
+}
+"TITLE_CLAN_REGISTER"
+{
+	"text": "Моят Клан",
+	"version": "1",
+}
+"TITLE_CONNECT"
+{
+	"text": "Свързване",
+	"version": "1",
+}
+"TITLE_EDIT_ACCOUNT"
+{
+	"text": "Акаунт",
+	"version": "1",
+}
+"TITLE_EDIT_PROFILE"
+{
+	"text": "Настройка на профила",
+	"version": "1",
+}
+"TITLE_FRIENDS"
+{
+	"text": "Приятели",
+	"version": "1",
+}
+"TITLE_LIBRARY"
+{
+	"text": "Библеотека",
+	"version": "1",
+}
+"TITLE_LOGIN"
+{
+	"text": "Влизане",
+	"version": "1",
+}
+"TITLE_MY_CLAN"
+{
+	"text": "Моят Клан",
+	"version": "1",
+}
+"TITLE_PROFILE"
+{
+	"text": "Профил",
+	"version": "1",
+}
+"TITLE_REGISTER"
+{
+	"text": "Регистриране",
+	"version": "1",
+}
+"TITLE_SERVERS"
+{
+	"text": "Игри",
+	"version": "1",
+}
+"TITLE_SETTINGS"
+{
+	"text": "Настройки",
+	"version": "1",
+}
+"UI_LOGIN_CONNECT"
+{
+	"text": "Свързване",
+	"version": "1",
+}
+"UI_LOGIN_LOGIN"
+{
+	"text": "Влез",
+	"version": "1",
+}
+"UI_LOGIN_PASS"
+{
+	"text": "Парола",
+	"version": "1",
+}
+"UI_LOGIN_REGISTER"
+{
+	"text": "Регистрация",
+	"version": "1",
+}
+"UI_LOGIN_SAVEPASS"
+{
+	"text": "Запази парола",
+	"version": "1",
+}
+"UI_LOGIN_USER"
+{
+	"text": "Акаунт",
+	"version": "1",
+}
+"UI_SHUTDOWN_THANKYOU"
+{
+	"text": "Thank you for using RGC",
+	"version": "1",
+}
+"WHOIS_AWAY"
+{
+	"text": "%0 е AFK.",
+	"version": "1",
+}
+"WHOIS_INGAME"
+{
+	"text": "%0 е в %1",
+	"version": "1",
+}
+"WHOIS_INGAME_PRIVATE"
+{
+	"text": "%0 е в скрита игра.",
+	"version": "1",
+}
+"WHOIS_OFFLINE"
+{
+	"text": "%0 е извън линия.",
+	"version": "1",
+}
+"WHOIS_ONLINE"
+{
+	"text": "%0 е на линия.",
+	"version": "1",
+}
+"bDotaPathFind"
+{
+	"text": "Търси",
+	"version": "1",
+}
+"cOtherLogs"
+{
+	"text": "Позволи на клиента да пази логове",
+	"version": "1",
+}
+"cOtherMainExit"
+{
+	"text": "Излез от RGC с \"X\" (Close)",
+	"version": "1",
+}
+"cOtherMainMinimize"
+{
+	"text": "Минимизирай RGC в лентата на задачите с \"_\" (Minimize)",
+	"version": "1",
+}
+"cRoomsJoinAll"
+{
+	"text": "Влизай във всички стаи, където имам ранк.",
+	"version": "1",
+}
+"cSoundsGameHosted"
+{
+	"text": "Сигнал \"Твоята игра беше създадена\"",
+	"version": "1",
+}
+"cSoundsGameStarted"
+{
+	"text": "Сигнал когато играта започне",
+	"version": "1",
+}
+"cSoundsLogin"
+{
+	"text": "Сигнал при вписване",
+	"version": "1",
+}
+"cSoundsShutdown"
+{
+	"text": "Сигнал при изключване",
+	"version": "1",
+}
+"cTimestampGames"
+{
+	"text": "Индикатор при обновяване статуса на играта",
+	"version": "1",
+}
+"cTimestampMessages"
+{
+	"text": "Индикатор при чат съобщенията",
+	"version": "1",
+}
+"cTimestampUpdates"
+{
+	"text": "Индикатор при обновявания на стаята",
+	"version": "1",
+}
+"cmdSave"
+{
+	"text": "Запази",
+	"version": "1",
+}
+"gFriends"
+{
+	"text": "Приятелски списък",
+	"version": "1",
+}
+"gFriendsMessageAway"
+{
+	"text": "Съобщение когато приятел премине в AFK режим",
+	"version": "1",
+}
+"gFriendsMessageIngame"
+{
+	"text": "Съобщение когато приятел влезе в игра",
+	"version": "1",
+}
+"gFriendsMessageOffline"
+{
+	"text": "Съобщение когато приятел премине извън линия",
+	"version": "1",
+}
+"gFriendsMessageOnline"
+{
+	"text": "Съобщение когато приятел премине на линия",
+	"version": "1",
+}
+"gHighlight"
+{
+	"text": "Сръчкване",
+	"version": "1",
+}
+"gHighlightAliases"
+{
+	"text": "Сигнализиране за други думи:",
+	"version": "1",
+}
+"gOtherCustom"
+{
+	"text": "Персонализиране",
+	"version": "1",
+}
+"gRooms"
+{
+	"text": "Стаи",
+	"version": "1",
+}
+"gRoomsCustomList"
+{
+	"text": "Други стаи в които искам да вляза:",
+	"version": "1",
+}
+"gSounds"
+{
+	"text": "Звуци",
+	"version": "1",
+}
+"gTimestamps"
+{
+	"text": "Индикатори за време",
+	"version": "1",
+}
+"lDotaLaunchOptions"
+{
+	"text": "Опции за пускане",
+	"version": "1",
+}
+"lDotaMode"
+{
+	"text": "Мод по подразбиране",
+	"version": "1",
+}
+"lDotaPath"
+{
+	"text": "Задай пътя до играта Warcraft III: The Frozen Throne (.exe)",
+	"version": "1",
+}
+"lHighlight"
+{
+	"text": "Позволи да те сръчкват когато си...",
+	"version": "1",
+}
+"lHighlightAway"
+{
+	"text": "AFK",
+	"version": "1",
+}
+"lHighlightIngame"
+{
+	"text": "В игра",
+	"version": "1",
+}
+"lHighlightOnline"
+{
+	"text": "На линия",
+	"version": "1",
+}
+"lOtherCustomLanguage"
+{
+	"text": "Език",
+	"version": "1",
+}
+"lOtherCustomSkin"
+{
+	"text": "Облик",
+	"version": "1",
+}
+"lOtherLogs"
+{
+	"text": "Логове",
+	"version": "1",
+}
+"lOtherMain"
+{
+	"text": "Основни Бутони",
+	"version": "1",
+}
+"lTimestampCustom"
+{
+	"text": "Алтернативен формат за време",
+	"version": "1",
+}
+"lTimestampExpressions"
+{
+	"text": "Израз",
+	"version": "1",
+}
+"lTimestampExpressions2"
+{
+	"text": "За детайлна информация, Google: QT QDateTime",
+	"version": "1",
+}
+"lTimestampSettings"
+{
+	"text": "Настройки",
+	"version": "1",
+}

@@ -1,0 +1,1420 @@
+"ACP_CHANNEL_ADMINS"
+{
+	"text": "Administrateurs",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENTS"
+{
+	"text": "Annonces",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_EDIT"
+{
+	"text": "Editer",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_PREVIEW"
+{
+	"text": "Aperçu",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_SAVE"
+{
+	"text": "Sauvegarder",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_NAME"
+{
+	"text": "Nom",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_TITLE"
+{
+	"text": "Titre",
+	"version": "1",
+}
+"BUDDYLIST_ADD"
+{
+	"text": "%0 a été ajouté à votre liste d'amis.\n",
+	"version": "1",
+}
+"BUDDYLIST_AWAY"
+{
+	"text": "Votre ami %0 est maintenant absent.\n",
+	"version": "1",
+}
+"BUDDYLIST_INGAME"
+{
+	"text": "Votre ami %0 a rejoint la partie %1",
+	"version": "1",
+}
+"BUDDYLIST_INGAME_PRIVATE"
+{
+	"text": "Votre ami %0 est entré dans une partie privée.",
+	"version": "1",
+}
+"BUDDYLIST_OFFLINE"
+{
+	"text": "Votre ami %0 est maintenant hors ligne.",
+	"version": "1",
+}
+"BUDDYLIST_ONLINE"
+{
+	"text": "Votre ami %0 est maintenant en ligne.",
+	"version": "1",
+}
+"BUDDYLIST_REMOVE"
+{
+	"text": "%0 a été supprimé de votre liste d'amis.",
+	"version": "1",
+}
+"CHAT_CHANNELS_CUSTOM"
+{
+	"text": "Canaux privés",
+	"version": "1",
+}
+"CHAT_CHANNELS_LEAVE"
+{
+	"text": "Quitter le canal",
+	"version": "1",
+}
+"CHAT_CHANNELS_OFFICIAL"
+{
+	"text": "Canaux officiels",
+	"version": "1",
+}
+"CHAT_CHANNELS_PRIVATE"
+{
+	"text": "Messages privés",
+	"version": "1",
+}
+"CHAT_CHANNEL_ALREADY_XXX"
+{
+	"text": "%1 est déjà %0 de ce canal.",
+	"version": "1",
+}
+"CHAT_CHANNEL_NOW_XXX"
+{
+	"text": "%1 est maintenant %0 de ce canal.",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED"
+{
+	"text": "[%0] Vous êtes temporairement banni de ce canal jusqu'à %2 le %3. Raison: %1",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED_NOW"
+{
+	"text": "%0 est maintenant temporairement banni jusqu'à %1 le %2",
+	"version": "1",
+}
+"CHAT_JOINED"
+{
+	"text": "%0 a rejoint le canal.",
+	"version": "1",
+}
+"CHAT_LEFT"
+{
+	"text": "%0 a quitté le canal.\n",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN"
+{
+	"text": "Administration",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_KICK"
+{
+	"text": "Ejecter du canal",
+	"version": "1",
+}
+"CHAT_MENU_CLAN_VIEW"
+{
+	"text": "Afficher le clan",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST"
+{
+	"text": "Liste d'amis",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_ADD"
+{
+	"text": "Ajouter en tant qu'ami",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_REMOVE"
+{
+	"text": "Supprimer de mes amis",
+	"version": "1",
+}
+"CHAT_MENU_HIGHLIGHT"
+{
+	"text": "Highlight",
+	"version": "1",
+}
+"CHAT_MENU_PROFILE"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"CHAT_MENU_WHISPER"
+{
+	"text": "Message privé",
+	"version": "1",
+}
+"CHAT_MENU_WHOIS"
+{
+	"text": "Whois",
+	"version": "1",
+}
+"CHAT_PRIVATE_CLOSE"
+{
+	"text": "Fermer la conversation",
+	"version": "1",
+}
+"CLAN_CREATE"
+{
+	"text": "Créer mon propre clan",
+	"version": "1",
+}
+"CLAN_CREATED"
+{
+	"text": "Créé",
+	"version": "1",
+}
+"CLAN_CREATOR"
+{
+	"text": "Créateur",
+	"version": "1",
+}
+"CLAN_EDIT_CHANGE"
+{
+	"text": "Modifier",
+	"version": "1",
+}
+"CLAN_EDIT_INVITE"
+{
+	"text": "Inviter",
+	"version": "1",
+}
+"CLAN_EDIT_KICK"
+{
+	"text": "Ejecter du clan",
+	"version": "1",
+}
+"CLAN_EDIT_NAME"
+{
+	"text": "Nom",
+	"version": "1",
+}
+"CLAN_EDIT_SHOW"
+{
+	"text": "Afficher",
+	"version": "1",
+}
+"CLAN_EDIT_TITLE_INVITE"
+{
+	"text": "Inviter des joueurs",
+	"version": "1",
+}
+"CLAN_ELO"
+{
+	"text": "ELO",
+	"version": "1",
+}
+"CLAN_LEAVE"
+{
+	"text": "Quitter mon clan",
+	"version": "1",
+}
+"CLAN_REG_CREATE"
+{
+	"text": "Créer",
+	"version": "1",
+}
+"CLAN_REG_DISPLAY"
+{
+	"text": "Affichage",
+	"version": "1",
+}
+"CLAN_REG_FULL_EX"
+{
+	"text": "Exemple complet: MYM^Maelk^DotA",
+	"version": "1",
+}
+"CLAN_REG_NAME"
+{
+	"text": "Nom",
+	"version": "1",
+}
+"CLAN_REG_NAME_EX"
+{
+	"text": "ex. Mett your Makers",
+	"version": "1",
+}
+"CLAN_REG_PREFIX"
+{
+	"text": "Préfixe",
+	"version": "1",
+}
+"CLAN_REG_PREFIX_EX"
+{
+	"text": "ex. MYM^",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX"
+{
+	"text": "Suffixe",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX_EX"
+{
+	"text": "ex. ^DotA",
+	"version": "1",
+}
+"CLAN_REG_TAG"
+{
+	"text": "Tag",
+	"version": "1",
+}
+"CLAN_REG_TAG_EX"
+{
+	"text": "ex. MYM",
+	"version": "1",
+}
+"CLAN_TITLE_DESCRIPTION"
+{
+	"text": "Description",
+	"version": "1",
+}
+"CLAN_TITLE_Players"
+{
+	"text": "Joueurs",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY"
+{
+	"text": "-- Amis absents",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY_COLOR"
+{
+	"text": "brown",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME"
+{
+	"text": "-- Amis en jeu\n",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME_COLOR"
+{
+	"text": "blue",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE"
+{
+	"text": "<< Amis hors ligne\n",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE_COLOR"
+{
+	"text": "red",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE"
+{
+	"text": ">> Amis en ligne",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE_COLOR"
+{
+	"text": "green",
+	"version": "1",
+}
+"DOTA_OPEN_GAMES"
+{
+	"text": "Parties hébergées",
+	"version": "1",
+}
+"DOTA_RUNNING_GAMES"
+{
+	"text": "Nombre de Parties",
+	"version": "1",
+}
+"DOTA_SIGN"
+{
+	"text": "S'inscrire",
+	"version": "1",
+}
+"DOTA_SIGNED_PLAYERS"
+{
+	"text": "Joueurs inscrits",
+	"version": "1",
+}
+"DOTA_STARTED_GAMES"
+{
+	"text": "Parties en cours",
+	"version": "1",
+}
+"DOTA_UNSIGN"
+{
+	"text": "Se retirer",
+	"version": "1",
+}
+"EDIT_ACCOUNT_CHANGE"
+{
+	"text": "Modifier",
+	"version": "1",
+}
+"EDIT_ACCOUNT_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_GET_TOKEN"
+{
+	"text": "Boutique en Ligne",
+	"version": "1",
+}
+"EDIT_ACCOUNT_NAME"
+{
+	"text": "Nom",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD"
+{
+	"text": "Mot de passe actuel",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_CONFIRM"
+{
+	"text": "Confirmer Mot de passe",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_NEW"
+{
+	"text": "Nouveau Mot de passe",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_NAME"
+{
+	"text": "Nom",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_PASSWORD"
+{
+	"text": "Mot de passe",
+	"version": "1",
+}
+"EDIT_PRFOILE_DESCRIPTION"
+{
+	"text": "Description",
+	"version": "1",
+}
+"EDIT_PROFILE_AVATAR"
+{
+	"text": "Avatar",
+	"version": "1",
+}
+"EDIT_PROFILE_CHANGE"
+{
+	"text": "Enregistrer",
+	"version": "1",
+}
+"EDIT_PROFILE_DOB"
+{
+	"text": "Date de Naissance",
+	"version": "1",
+}
+"EDIT_PROFILE_FIRST_NAME"
+{
+	"text": "Prénom",
+	"version": "1",
+}
+"EDIT_PROFILE_LAST_NAME"
+{
+	"text": "Nom de Famille",
+	"version": "1",
+}
+"EDIT_PROFILE_NATIONALITY"
+{
+	"text": "Nationalité",
+	"version": "1",
+}
+"EDIT_PROFILE_RESIDENCY"
+{
+	"text": "Localisation",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX"
+{
+	"text": "Sexe",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_ANONYMOUS"
+{
+	"text": "N/C",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_FEMALE"
+{
+	"text": "Féminin",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_MALE"
+{
+	"text": "Masculin",
+	"version": "1",
+}
+"EDIT_PROFILE_TITLE"
+{
+	"text": "Informations personnelles",
+	"version": "1",
+}
+"ERROR_CCY"
+{
+	"text": "Vous ne pouvez pas utiliser la commande %0 sur vous même.",
+	"version": "1",
+}
+"FRIENDS_AWAY"
+{
+	"text": "Absent",
+	"version": "1",
+}
+"FRIENDS_INGAME"
+{
+	"text": "En partie",
+	"version": "1",
+}
+"FRIENDS_OFFLINE"
+{
+	"text": "Hors ligne",
+	"version": "1",
+}
+"FRIENDS_ONLINE"
+{
+	"text": "En ligne",
+	"version": "1",
+}
+"GAME_ENDED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C est maintenant terminée.",
+	"version": "1",
+}
+"GAME_HOSTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C a été hébergée.",
+	"version": "1",
+}
+"GAME_STARTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C a démarré.",
+	"version": "1",
+}
+"HIGHLIGHT_EVERYONE"
+{
+	"text": "Tout le monde",
+	"version": "1",
+}
+"HIGHLIGHT_FRIENDS_ONLY"
+{
+	"text": "Amis seulement",
+	"version": "1",
+}
+"HIGHLIGHT_NOONE"
+{
+	"text": "Personne",
+	"version": "1",
+}
+"LABEL_Channels"
+{
+	"text": "Salles",
+	"version": "1",
+}
+"LABEL_Clans"
+{
+	"text": "Clans",
+	"version": "1",
+}
+"LABEL_EditAccount"
+{
+	"text": "Compte",
+	"version": "1",
+}
+"LABEL_EditProfile"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"LABEL_Friends"
+{
+	"text": "Amis",
+	"version": "1",
+}
+"LABEL_Help"
+{
+	"text": "Aide",
+	"version": "1",
+}
+"LABEL_LaunchWC3"
+{
+	"text": "Démarrer Warcraft III",
+	"version": "1",
+}
+"LABEL_Library"
+{
+	"text": "Librairie",
+	"version": "1",
+}
+"LABEL_Servers"
+{
+	"text": "Serveurs",
+	"version": "1",
+}
+"LABEL_Settings"
+{
+	"text": "Options",
+	"version": "1",
+}
+"LOGIN_ENTER_PASS"
+{
+	"text": "Entrez un mot de passe.",
+	"version": "1",
+}
+"LOGIN_ENTER_USER"
+{
+	"text": "Entrez un nom de compte.",
+	"version": "1",
+}
+"LOGIN_INVALID_PASS"
+{
+	"text": "Votre mot de passe contient des caractères invalides.",
+	"version": "1",
+}
+"LOGIN_INVALID_USER"
+{
+	"text": "Votre nom de compte contient des caractères invalides.",
+	"version": "1",
+}
+"MAIN_MENU_EXIT"
+{
+	"text": "Quitter",
+	"version": "1",
+}
+"MESSAGE_LASTSEEN"
+{
+	"text": "[%0 a été vu pour la dernière fois le %1]\n\n",
+	"version": "1",
+}
+"PROFILE_ACCOUNT"
+{
+	"text": "Compte",
+	"version": "1",
+}
+"PROFILE_AGE"
+{
+	"text": "Age: %0",
+	"version": "1",
+}
+"PROFILE_DESCRIPTION"
+{
+	"text": "Description",
+	"version": "1",
+}
+"PROFILE_EMAIL"
+{
+	"text": "Email: %0",
+	"version": "1",
+}
+"PROFILE_GAMES"
+{
+	"text": "Parties: %0",
+	"version": "1",
+}
+"PROFILE_GROUP_ACCESS"
+{
+	"text": "Accès aux canaux",
+	"version": "1",
+}
+"PROFILE_GROUP_PERSONAL"
+{
+	"text": "Information personnelles",
+	"version": "1",
+}
+"PROFILE_LASTLOGIN"
+{
+	"text": "Dernière connexion: %0",
+	"version": "1",
+}
+"PROFILE_NATIONALITY"
+{
+	"text": "Nationalité: %0",
+	"version": "1",
+}
+"PROFILE_REGISTERED"
+{
+	"text": "Enregistré le: %0",
+	"version": "1",
+}
+"PROFILE_RESIDENCY"
+{
+	"text": "Localisation: %0",
+	"version": "1",
+}
+"PROFILE_SEX"
+{
+	"text": "Sexe: %0",
+	"version": "1",
+}
+"PROFILE_SEX_FEMALE"
+{
+	"text": "féminin",
+	"version": "1",
+}
+"PROFILE_SEX_MALE"
+{
+	"text": "masculin",
+	"version": "1",
+}
+"REG_CANCEL"
+{
+	"text": "Non merci, j'ai déjà un compte",
+	"version": "1",
+}
+"REG_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"REG_EMAIL_CONFIRM"
+{
+	"text": "Confirmer",
+	"version": "1",
+}
+"REG_ERR_EMAIL"
+{
+	"text": "Veuillez entrer une adresse email.",
+	"version": "1",
+}
+"REG_ERR_NAME"
+{
+	"text": "Veuillez entrer un pseudonyme.",
+	"version": "1",
+}
+"REG_ERR_NAME_SIZE"
+{
+	"text": "Votre pseudonyme ne peut contenir plus de 15 caractères.",
+	"version": "1",
+}
+"REG_ERR_PASS"
+{
+	"text": "Veuillez entrer un mot de passe.",
+	"version": "1",
+}
+"REG_ERR_USER"
+{
+	"text": "Veuillez entrer un nom de compte.",
+	"version": "1",
+}
+"REG_ERR_USER_SIZE"
+{
+	"text": "Votre nom de compte contient plus de 15 caractères.",
+	"version": "1",
+}
+"REG_INVALID_EMAIL"
+{
+	"text": "Votre adresse email contient des caractères invalides.",
+	"version": "1",
+}
+"REG_INVALID_NAME"
+{
+	"text": "Votre pseudonyme contient des caractères invalides.",
+	"version": "1",
+}
+"REG_INVALID_NAME_WC3"
+{
+	"text": "Votre pseudonyme contient soit |c, |n ou |r. Ces combinaisons de caractères ne sont pas utilisables, veuillez changer votre pseudonyme.",
+	"version": "1",
+}
+"REG_INVALID_USER"
+{
+	"text": "Votre nom de compte contient des caractères invalides.",
+	"version": "1",
+}
+"REG_MISMATCH_EMAIL"
+{
+	"text": "Vous avez entré 2 adresses email différentes.",
+	"version": "1",
+}
+"REG_MISMATCH_PASS"
+{
+	"text": "Vous avez entré 2 mots de passe différents.",
+	"version": "1",
+}
+"REG_NAME"
+{
+	"text": "Pseudonyme",
+	"version": "1",
+}
+"REG_PASS"
+{
+	"text": "Mot de passe",
+	"version": "1",
+}
+"REG_PASS_CONFIRM"
+{
+	"text": "Confirmer",
+	"version": "1",
+}
+"REG_REGISTER"
+{
+	"text": "Valider",
+	"version": "1",
+}
+"REG_USER"
+{
+	"text": "Compte",
+	"version": "1",
+}
+"REG_VALID_EMAIL"
+{
+	"text": "Veuillez entrer une adresse email valide.",
+	"version": "1",
+}
+"SERVERS_CHANNEL"
+{
+	"text": "Canal",
+	"version": "1",
+}
+"SERVERS_GAME"
+{
+	"text": "Application",
+	"version": "1",
+}
+"SERVERS_LATENCY"
+{
+	"text": "Latence",
+	"version": "1",
+}
+"SERVERS_MAP"
+{
+	"text": "Carte",
+	"version": "1",
+}
+"SERVERS_NAME"
+{
+	"text": "Nom",
+	"version": "1",
+}
+"SERVERS_PLAYERS"
+{
+	"text": "Joueurs",
+	"version": "1",
+}
+"SERVER_ALREADY_LOGGED_IN"
+{
+	"text": "Cet utilisateur est déjà connecté.",
+	"version": "1",
+}
+"SERVER_CHANNEL_ALREADY_INSIDE"
+{
+	"text": "[%0] Vous êtes déjà dans ce canal.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_ALREADY"
+{
+	"text": "Cet ordinateur est déja banni. Vous ne pouvez pas lui ajouter de ban.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_NOW"
+{
+	"text": "l'ordinateur de %0 a été banni par %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_ALREADY"
+{
+	"text": "Cet ordinateur n'est pas banni du client.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_NOW"
+{
+	"text": "l'ordinateur de %0 a été débanni par %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_NO_ACCESS"
+{
+	"text": "Vous n'avez pas accès à ce canal.",
+	"version": "1",
+}
+"SERVER_CHANNEL_REJECTION_MESSAGE"
+{
+	"text": "[%0] %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_ALREADY_VOUCHED"
+{
+	"text": "Cet utilisateur a déjà accès au canal.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_ALREADY"
+{
+	"text": "Cet utilisateur est déjà banni. Vous ne pouvez pas lui ajouter de ban.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_NOW"
+{
+	"text": "%0 a été banni par %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOT_VOUCHED"
+{
+	"text": "Cet utilisateur n'a pas encore accès au canal.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOW_VOUCHED"
+{
+	"text": "%0 a maintenant accès au canal.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_ALREADY"
+{
+	"text": "Cet utilisateur n'est pas banni du client.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_NOW"
+{
+	"text": "%0 a été débanni par %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNVOUCHED"
+{
+	"text": "%0 s'est vu retirer son accès au canal.",
+	"version": "1",
+}
+"SERVER_CLIENTBANNED"
+{
+	"text": "Vous avez été banni. [Raison :: %0] Vous pouvez faire appel de ce ban sur les forums @ http://dotarank.mymgn.com",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED"
+{
+	"text": "Vous avez été ejecté. [Raison :: %0]",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_BY"
+{
+	"text": "%0 a été ejecté par %1.",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_NOT_LOGGED_ON"
+{
+	"text": "Vous ne pouvez pas éjecter un utilisateur non connecté.",
+	"version": "1",
+}
+"SERVER_COMMAND_DB_INVALID_INPUT"
+{
+	"text": "Erreur de base de données. Raison possible: Mauvaise saisie.",
+	"version": "1",
+}
+"SERVER_COMMAND_ON_NON_EXISTANT_USER"
+{
+	"text": "Vous ne pouvez pas %0 un utilisateur non-existant.",
+	"version": "1",
+}
+"SERVER_COMPBANNED"
+{
+	"text": "Votre ordinateur est banni. [Raison :: %0] Vous pouvez faire appel de ce ban sur les forums @ http://dotarank.mymgn.com",
+	"version": "1",
+}
+"SERVER_ERROR_ACCESSGROUP"
+{
+	"text": "Ce groupe d'accès n'existe pas.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION"
+{
+	"text": "Erreur d'autorisation. Vous ne pouvez pas donner à quelqu'un un accès supérieur au vôtre.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION_ADMIN"
+{
+	"text": "Erreur d'autorisation. Vous ne pouvez pas utiliser cette commande sur quelqu'un ayant un accès supérieur au vôtre.",
+	"version": "1",
+}
+"SERVER_FRIEND_ADDED_YOU"
+{
+	"text": "%0 vous a ajouté à sa liste d'amis.",
+	"version": "1",
+}
+"SERVER_FRIEND_ALREADY_ON"
+{
+	"text": "%0 est déjà dans votre liste d'amis.",
+	"version": "1",
+}
+"SERVER_FRIEND_MESSAGE_TO"
+{
+	"text": "A tous: %0",
+	"version": "1",
+}
+"SERVER_FRIEND_NOT_ON"
+{
+	"text": "%0 n'est pas dans votre liste d'amis.",
+	"version": "1",
+}
+"SERVER_FRIEND_REMOVED_YOU"
+{
+	"text": "%0 vous a retiré de sa liste d'amis.",
+	"version": "1",
+}
+"SERVER_INVALID_PROFILE_VALUES"
+{
+	"text": "Votre modification de profil n'a pas pu être complétée. Vérifiez que vous n'avez pas de caractères spéciaux (comme ', !, etc.) dans les champs de votre profil.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETACCESS"
+{
+	"text": "%0 est maintenant %1 dans ce canal.\n",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETGLOBALACCESS"
+{
+	"text": "%0 est maintenant %1 sur ce client.",
+	"version": "1",
+}
+"SERVER_PROFILE_CHANGED"
+{
+	"text": "Votre profil a été modifié avec succès.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_DATABASE_ERROR"
+{
+	"text": "Erreur de base de données. N'utilisez pas de symboles tels que \\\\ < ! ' \\\" > dans votre nom.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_EMAIL_ALREADY_TAKEN"
+{
+	"text": "Cet email est déja pris.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_NAME_ALREADY_TAKEN"
+{
+	"text": "Ce pseudonyme est déjà pris.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_USER_ALREADY_TAKEN"
+{
+	"text": "Ce nom de compte est déjà pris.",
+	"version": "1",
+}
+"SERVER_SPECIFIED_USERNAME_DOESNT_EXIST"
+{
+	"text": "Le nom d'utilisateur spécifié n'existe pas.",
+	"version": "1",
+}
+"SERVER_USERNAME_DOESNT_EXIST"
+{
+	"text": "L'utilisateur %0 n'existe pas.",
+	"version": "1",
+}
+"SERVER_WHISPER_NOT_LOGGED_IN"
+{
+	"text": "Cet utilisateur n'est pas connecté. Echec du message privé.",
+	"version": "1",
+}
+"SERVER_WRONG_LOGIN"
+{
+	"text": "mauvais identifiants",
+	"version": "1",
+}
+"SETTINGS_TAB_CHAT"
+{
+	"text": "Chat",
+	"version": "1",
+}
+"SETTINGS_TAB_DOTA"
+{
+	"text": "DotA",
+	"version": "1",
+}
+"SETTINGS_TAB_FRIENDS"
+{
+	"text": "Amis",
+	"version": "1",
+}
+"SETTINGS_TAB_OTHER"
+{
+	"text": "Autre",
+	"version": "1",
+}
+"SETTINGS_TAB_SOUNDS"
+{
+	"text": "Sons",
+	"version": "1",
+}
+"STATUS_AWAY"
+{
+	"text": "[STATUS] Vous êtes maintenant absent.\n\n",
+	"version": "1",
+}
+"STATUS_ONLINE"
+{
+	"text": "[STATUS] Vous êtes maintenant en ligne.",
+	"version": "1",
+}
+"TITLE_CHANNELS"
+{
+	"text": "Salles",
+	"version": "1",
+}
+"TITLE_CHANNEL_ADMIN"
+{
+	"text": "Panneau d'Administration",
+	"version": "1",
+}
+"TITLE_CLANS"
+{
+	"text": "Clans",
+	"version": "1",
+}
+"TITLE_CLAN_INFO"
+{
+	"text": "Infos Clan",
+	"version": "1",
+}
+"TITLE_CLAN_REGISTER"
+{
+	"text": "Mon Clan",
+	"version": "1",
+}
+"TITLE_CONNECT"
+{
+	"text": "Connexion",
+	"version": "1",
+}
+"TITLE_EDIT_ACCOUNT"
+{
+	"text": "Mon compte",
+	"version": "1",
+}
+"TITLE_EDIT_PROFILE"
+{
+	"text": "Editer le profil",
+	"version": "1",
+}
+"TITLE_FRIENDS"
+{
+	"text": "Amis",
+	"version": "1",
+}
+"TITLE_LIBRARY"
+{
+	"text": "Librairie",
+	"version": "1",
+}
+"TITLE_LOGIN"
+{
+	"text": "Identification",
+	"version": "1",
+}
+"TITLE_MY_CLAN"
+{
+	"text": "Mon Clan",
+	"version": "1",
+}
+"TITLE_PROFILE"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"TITLE_REGISTER"
+{
+	"text": "Enregistrement",
+	"version": "1",
+}
+"TITLE_SERVERS"
+{
+	"text": "Serveurs",
+	"version": "1",
+}
+"TITLE_SETTINGS"
+{
+	"text": "Options",
+	"version": "1",
+}
+"UI_LOGIN_CONNECT"
+{
+	"text": "Se connecter",
+	"version": "1",
+}
+"UI_LOGIN_LOGIN"
+{
+	"text": "S'identifier",
+	"version": "1",
+}
+"UI_LOGIN_PASS"
+{
+	"text": "Mot de passe",
+	"version": "1",
+}
+"UI_LOGIN_REGISTER"
+{
+	"text": "S'enregistrer",
+	"version": "1",
+}
+"UI_LOGIN_SAVEPASS"
+{
+	"text": "(sauvegarder)",
+	"version": "1",
+}
+"UI_LOGIN_USER"
+{
+	"text": "Compte",
+	"version": "1",
+}
+"UI_SHUTDOWN_THANKYOU"
+{
+	"text": "Merci d'avoir utilisé RGC",
+	"version": "1",
+}
+"WHOIS_AWAY"
+{
+	"text": "%0 est absent.",
+	"version": "1",
+}
+"WHOIS_INGAME"
+{
+	"text": "%0 est en jeu dans la partie: %1",
+	"version": "1",
+}
+"WHOIS_INGAME_PRIVATE"
+{
+	"text": "%0 est actuellement dans une partie privée.",
+	"version": "1",
+}
+"WHOIS_OFFLINE"
+{
+	"text": "%0 est hors ligne.",
+	"version": "1",
+}
+"WHOIS_ONLINE"
+{
+	"text": "%0 est en ligne.",
+	"version": "1",
+}
+"bDotaPathFind"
+{
+	"text": "Parcourir",
+	"version": "1",
+}
+"cOtherLogs"
+{
+	"text": "Permettre au client de conserver les logs",
+	"version": "1",
+}
+"cOtherMainExit"
+{
+	"text": "Fermer RGC quand vous cliquez sur le bouton \"X\" (Fermer)",
+	"version": "1",
+}
+"cOtherMainMinimize"
+{
+	"text": "Réduire RGC à la barre de tâches quand vous cliquez sur le bouton \"_\" (Réduire)",
+	"version": "1",
+}
+"cOtherVisualsFullscreen"
+{
+	"text": "Démarrer le client en mode plein écran",
+	"version": "1",
+}
+"cRoomsJoinAll"
+{
+	"text": "Rejoindre toutes les salles à la connexion",
+	"version": "1",
+}
+"cSoundsGameHosted"
+{
+	"text": "Votre partie a été hébergée",
+	"version": "1",
+}
+"cSoundsGameStarted"
+{
+	"text": "Sonner l'alarme quand la partie commence",
+	"version": "1",
+}
+"cSoundsLogin"
+{
+	"text": "Connexion à RGC",
+	"version": "1",
+}
+"cSoundsShutdown"
+{
+	"text": "Fermeture de RGC",
+	"version": "1",
+}
+"cTimestampGames"
+{
+	"text": "Afficher l'heure lors des mises à jour de l'état d'une partie",
+	"version": "1",
+}
+"cTimestampMessages"
+{
+	"text": "Afficher l'heure des messages de chat",
+	"version": "1",
+}
+"cTimestampUpdates"
+{
+	"text": "Afficher l'heure lors des notifications d'une salle",
+	"version": "1",
+}
+"cmdSave"
+{
+	"text": "Enregistrer",
+	"version": "1",
+}
+"gFriends"
+{
+	"text": "Liste d'amis",
+	"version": "1",
+}
+"gFriendsMessageAway"
+{
+	"text": "Me prévenir quand un ami s'absente",
+	"version": "1",
+}
+"gFriendsMessageIngame"
+{
+	"text": "Me prévenir quand un ami rejoint une partie",
+	"version": "1",
+}
+"gFriendsMessageOffline"
+{
+	"text": "Me prévenir quand un ami se déconnecte",
+	"version": "1",
+}
+"gFriendsMessageOnline"
+{
+	"text": "Me prévenir quand un ami se connecte",
+	"version": "1",
+}
+"gHighlight"
+{
+	"text": "Highlight",
+	"version": "1",
+}
+"gHighlightAliases"
+{
+	"text": "Noms qui vous Highlight",
+	"version": "1",
+}
+"gOtherCustom"
+{
+	"text": "Personnalisation ",
+	"version": "1",
+}
+"gRooms"
+{
+	"text": "Salles",
+	"version": "1",
+}
+"gRoomsCustomList"
+{
+	"text": "Liste personnalisée",
+	"version": "1",
+}
+"gSounds"
+{
+	"text": "Sons",
+	"version": "1",
+}
+"gTimestamps"
+{
+	"text": "Format de l'heure",
+	"version": "1",
+}
+"lDotaLaunchOptions"
+{
+	"text": "Options de lancement",
+	"version": "1",
+}
+"lDotaMode"
+{
+	"text": "Mode par défaut",
+	"version": "1",
+}
+"lDotaPath"
+{
+	"text": "Warcraft III: The Frozen Throne (Exécutable)",
+	"version": "1",
+}
+"lHighlight"
+{
+	"text": "Indiquez les autorisations de vous Highlight quand vous êtes...",
+	"version": "1",
+}
+"lHighlightAway"
+{
+	"text": "Absent",
+	"version": "1",
+}
+"lHighlightIngame"
+{
+	"text": "En partie",
+	"version": "1",
+}
+"lHighlightOnline"
+{
+	"text": "En ligne",
+	"version": "1",
+}
+"lOtherCustomLanguage"
+{
+	"text": "Langue",
+	"version": "1",
+}
+"lOtherCustomSkin"
+{
+	"text": "Skin",
+	"version": "1",
+}
+"lOtherLogs"
+{
+	"text": "Logs du client",
+	"version": "1",
+}
+"lOtherMain"
+{
+	"text": "Boutons de la fenêtre principale",
+	"version": "1",
+}
+"lOtherVisuals"
+{
+	"text": "Aspects Visuels",
+	"version": "1",
+}
+"lTimestampCustom"
+{
+	"text": "Personnaliser (Voir les expressions ci dessous)",
+	"version": "1",
+}
+"lTimestampExpressions"
+{
+	"text": "Expressions",
+	"version": "1",
+}
+"lTimestampExpressions2"
+{
+	"text": "Pour une liste détaillée, veuillez visiter:\\nhttp://doc.trolltech.com/4.5/qdatetime.html#toString\\nOR Google: \"QT QDateTime\"",
+	"version": "1",
+}
+"lTimestampSettings"
+{
+	"text": "Options",
+	"version": "1",
+}

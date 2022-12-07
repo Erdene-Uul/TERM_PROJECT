@@ -1,0 +1,24 @@
+QWidget#containerwidget {
+        background: url('BG.png');
+}
+
+QPushButton {
+	background: url('Clan.png') center;
+        border: 0px solid qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:0,
+		stop:0.50 rgba(21, 209, 245, 100),
+		stop:0.020 rgba(18, 104, 142, 100),
+		stop:0.988636 rgba(8, 94, 132, 100));
+        border-radius: 3px;
+	color: rgb(0, 0, 0);
+	font-family: calibri,Helvetica, arial;
+	font-size: 13px;
+	font-weight: bold;
+        text-transform: uppercase;
+}
+
+QPushButton:hover {background: url('ClanHover.png') center;
+}
+
+QPushButton:pressed {background: url('ClanPressed.png') center;
+}
+

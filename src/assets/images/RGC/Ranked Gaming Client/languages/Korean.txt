@@ -1,0 +1,1510 @@
+"ACP_CHANNEL_ADMINS"
+{
+	"text": "운영자",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENTS"
+{
+	"text": "공지사항",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_EDIT"
+{
+	"text": "수정",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_PREVIEW"
+{
+	"text": "미리보기",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_SAVE"
+{
+	"text": "저장",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_NAME"
+{
+	"text": "이름",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_TITLE"
+{
+	"text": "제목",
+	"version": "1",
+}
+"ACTION_IGNORE_ADDED"
+{
+	"text": "%0 거부창 귀하에 추가 되었습니다.",
+	"version": "1",
+}
+"ACTION_IGNORE_ALREADY"
+{
+	"text": "0% 이미 거부창의 추가 되었습니다.",
+	"version": "1",
+}
+"ACTION_IGNORE_NOT_FOUND"
+{
+	"text": "0% 거부창의 추가되어 있지 않습니다.",
+	"version": "1",
+}
+"ACTION_IGNORE_REMOVED"
+{
+	"text": "0% 거부창 귀하에 삭제 되었습니다.",
+	"version": "1",
+}
+"BUDDYLIST_ADD"
+{
+	"text": "%0 가 친구 추가 되었습니다.",
+	"version": "1",
+}
+"BUDDYLIST_AWAY"
+{
+	"text": "%0가 자리비움입니다.",
+	"version": "1",
+}
+"BUDDYLIST_INGAME"
+{
+	"text": "%0는 %1 에 있습니다.",
+	"version": "1",
+}
+"BUDDYLIST_INGAME_PRIVATE"
+{
+	"text": "%0는 비밀게임에 있습니다.",
+	"version": "1",
+}
+"BUDDYLIST_OFFLINE"
+{
+	"text": "%0 가 오프라인입니다.",
+	"version": "1",
+}
+"BUDDYLIST_ONLINE"
+{
+	"text": "%0 가 온라인입니다.",
+	"version": "1",
+}
+"BUDDYLIST_REMOVE"
+{
+	"text": "%0가 친구목록에서 제거되었습니다.",
+	"version": "1",
+}
+"CHAT_AUTOJOIN_DISABLED"
+{
+	"text": "당신은 로그인 할 때 0% 자동으로 가입되지 않습니다",
+	"version": "1",
+}
+"CHAT_AUTOJOIN_ENABLED"
+{
+	"text": "당신은 로그인 할 때 0% 자동으로 가입됩니다",
+	"version": "1",
+}
+"CHAT_CHANNELS_CUSTOM"
+{
+	"text": "다른채널",
+	"version": "1",
+}
+"CHAT_CHANNELS_LEAVE"
+{
+	"text": "채널나가기",
+	"version": "1",
+}
+"CHAT_CHANNELS_OFFICIAL"
+{
+	"text": "공식채널",
+	"version": "1",
+}
+"CHAT_CHANNELS_PRIVATE"
+{
+	"text": "개인메세지",
+	"version": "1",
+}
+"CHAT_CHANNEL_ALREADY_XXX"
+{
+	"text": "%1은 벌써 이 채널에 %0 입니다.",
+	"version": "1",
+}
+"CHAT_CHANNEL_NOW_XXX"
+{
+	"text": "%1 은 이제 이 채널에 %0 입니다.",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED"
+{
+	"text": "[%0] 당신은 채팅방의 시간초과 되었습니다 시간 %2 날짜 %3. 이유: %1",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED_NOW"
+{
+	"text": "%0 현재 채팅방에 시간초과 되었습니다 시간 %1 날짜 %2",
+	"version": "1",
+}
+"CHAT_JOINED"
+{
+	"text": "%0 가 채팅방에 들어왔습니다.",
+	"version": "1",
+}
+"CHAT_LEFT"
+{
+	"text": "%0 가 채팅방에서 나갔습니다.",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN"
+{
+	"text": "운영자",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_KICK"
+{
+	"text": "강제퇴장",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_TIMEBAN"
+{
+	"text": "시간초과",
+	"version": "1",
+}
+"CHAT_MENU_AUTOJOIN"
+{
+	"text": "가동가입",
+	"version": "1",
+}
+"CHAT_MENU_AUTOJOIN_DISABLE"
+{
+	"text": "끄기",
+	"version": "1",
+}
+"CHAT_MENU_AUTOJOIN_ENABLE"
+{
+	"text": "켜기",
+	"version": "1",
+}
+"CHAT_MENU_CLAN_VIEW"
+{
+	"text": "클랜보기",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST"
+{
+	"text": "친구목록",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_ADD"
+{
+	"text": "친구추가",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_REMOVE"
+{
+	"text": "친구제거",
+	"version": "1",
+}
+"CHAT_MENU_HIGHLIGHT"
+{
+	"text": "알림",
+	"version": "1",
+}
+"CHAT_MENU_IGNORE"
+{
+	"text": "거부",
+	"version": "1",
+}
+"CHAT_MENU_IGNORE_ADD"
+{
+	"text": "초대",
+	"version": "1",
+}
+"CHAT_MENU_IGNORE_REMOVE"
+{
+	"text": "삭제",
+	"version": "1",
+}
+"CHAT_MENU_PROFILE"
+{
+	"text": "프로필",
+	"version": "1",
+}
+"CHAT_MENU_WHISPER"
+{
+	"text": "속삭이기",
+	"version": "1",
+}
+"CHAT_MENU_WHOIS"
+{
+	"text": "인적사항",
+	"version": "1",
+}
+"CHAT_NOTIFY_IGNORED"
+{
+	"text": "당신은 상대방 거부창에 추가 되었습니다 – 당신의 메시지를 볼 수 없습니다",
+	"version": "1",
+}
+"CHAT_PRIVATE_CLOSE"
+{
+	"text": "대화닫기",
+	"version": "1",
+}
+"CLAN_CREATE"
+{
+	"text": "클랜만들기",
+	"version": "1",
+}
+"CLAN_CREATED"
+{
+	"text": "개설됨",
+	"version": "1",
+}
+"CLAN_CREATOR"
+{
+	"text": "개설자",
+	"version": "1",
+}
+"CLAN_EDIT_CHANGE"
+{
+	"text": "바꾸기",
+	"version": "1",
+}
+"CLAN_EDIT_INVITE"
+{
+	"text": "초대",
+	"version": "1",
+}
+"CLAN_EDIT_KICK"
+{
+	"text": "퇴장",
+	"version": "1",
+}
+"CLAN_EDIT_NAME"
+{
+	"text": "이름",
+	"version": "1",
+}
+"CLAN_EDIT_SHOW"
+{
+	"text": "보이기",
+	"version": "1",
+}
+"CLAN_EDIT_TITLE_INVITE"
+{
+	"text": "플레이어 초대",
+	"version": "1",
+}
+"CLAN_ELO"
+{
+	"text": "ELO",
+	"version": "1",
+}
+"CLAN_LEAVE"
+{
+	"text": "클랜나가기",
+	"version": "1",
+}
+"CLAN_REG_CREATE"
+{
+	"text": "개설",
+	"version": "1",
+}
+"CLAN_REG_DISPLAY"
+{
+	"text": "보이기",
+	"version": "1",
+}
+"CLAN_REG_FULL_EX"
+{
+	"text": "예명: MYM^Maelk^DotA",
+	"version": "1",
+}
+"CLAN_REG_NAME"
+{
+	"text": "이름",
+	"version": "1",
+}
+"CLAN_REG_NAME_EX"
+{
+	"text": "e.g. Meet your Makers",
+	"version": "1",
+}
+"CLAN_REG_PREFIX"
+{
+	"text": "접두사",
+	"version": "1",
+}
+"CLAN_REG_PREFIX_EX"
+{
+	"text": "e.g. MYM^",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX"
+{
+	"text": "접미사",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX_EX"
+{
+	"text": "e.g. ^DotA",
+	"version": "1",
+}
+"CLAN_REG_TAG"
+{
+	"text": "태그",
+	"version": "1",
+}
+"CLAN_REG_TAG_EX"
+{
+	"text": "e.g. MYM",
+	"version": "1",
+}
+"CLAN_TITLE_DESCRIPTION"
+{
+	"text": "설명",
+	"version": "1",
+}
+"CLAN_TITLE_Players"
+{
+	"text": "플레이어",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY"
+{
+	"text": "<< 자리비움 친구들",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY_COLOR"
+{
+	"text": "brown",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME"
+{
+	"text": "-- 게임중인 친구들",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME_COLOR"
+{
+	"text": "blue",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE"
+{
+	"text": "<< 오프라인 친구들",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE_COLOR"
+{
+	"text": "red",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE"
+{
+	"text": ">> 온라인 친구들",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE_COLOR"
+{
+	"text": "green",
+	"version": "1",
+}
+"DOTA_OPEN_GAMES"
+{
+	"text": "개설된 게임",
+	"version": "1",
+}
+"DOTA_RUNNING_GAMES"
+{
+	"text": "진행중인 게임",
+	"version": "1",
+}
+"DOTA_SIGN"
+{
+	"text": "서명",
+	"version": "1",
+}
+"DOTA_SIGNED_PLAYERS"
+{
+	"text": "서명한 플레이어",
+	"version": "1",
+}
+"DOTA_STARTED_GAMES"
+{
+	"text": "시작한 게임",
+	"version": "1",
+}
+"DOTA_UNSIGN"
+{
+	"text": "서명지우기",
+	"version": "1",
+}
+"EDIT_ACCOUNT_CHANGE"
+{
+	"text": "바꾸기",
+	"version": "1",
+}
+"EDIT_ACCOUNT_EMAIL"
+{
+	"text": "이메일",
+	"version": "1",
+}
+"EDIT_ACCOUNT_GET_TOKEN"
+{
+	"text": "이름 바꾸기",
+	"version": "1",
+}
+"EDIT_ACCOUNT_NAME"
+{
+	"text": "이름",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD"
+{
+	"text": "현재 비밀번호",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_CONFIRM"
+{
+	"text": "새 비밀번호 확인",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_NEW"
+{
+	"text": "새 비밀번호",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_EMAIL"
+{
+	"text": "이메일",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_NAME"
+{
+	"text": "이름",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_PASSWORD"
+{
+	"text": "암호",
+	"version": "1",
+}
+"EDIT_PRFOILE_DESCRIPTION"
+{
+	"text": "설명",
+	"version": "1",
+}
+"EDIT_PROFILE_AVATAR"
+{
+	"text": "아바타",
+	"version": "1",
+}
+"EDIT_PROFILE_CHANGE"
+{
+	"text": "보내기",
+	"version": "1",
+}
+"EDIT_PROFILE_DOB"
+{
+	"text": "생년월일",
+	"version": "1",
+}
+"EDIT_PROFILE_FIRST_NAME"
+{
+	"text": "이름",
+	"version": "1",
+}
+"EDIT_PROFILE_LAST_NAME"
+{
+	"text": "성",
+	"version": "1",
+}
+"EDIT_PROFILE_NATIONALITY"
+{
+	"text": "국적",
+	"version": "1",
+}
+"EDIT_PROFILE_RESIDENCY"
+{
+	"text": "거주지",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX"
+{
+	"text": "성별",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_ANONYMOUS"
+{
+	"text": "N/A",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_FEMALE"
+{
+	"text": "여자",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_MALE"
+{
+	"text": "남자",
+	"version": "1",
+}
+"EDIT_PROFILE_TITLE"
+{
+	"text": "개인정보",
+	"version": "1",
+}
+"ERROR_CCY"
+{
+	"text": "본인한테 %0 할수 없습니다.",
+	"version": "1",
+}
+"FRIENDS_AWAY"
+{
+	"text": "자리비움",
+	"version": "1",
+}
+"FRIENDS_INGAME"
+{
+	"text": "게임중",
+	"version": "1",
+}
+"FRIENDS_OFFLINE"
+{
+	"text": "오프라인",
+	"version": "1",
+}
+"FRIENDS_ONLINE"
+{
+	"text": "온라인",
+	"version": "1",
+}
+"GAME_ENDED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C 끝났습니다.",
+	"version": "1",
+}
+"GAME_HOSTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C 가 개설되었습니다.",
+	"version": "1",
+}
+"GAME_STARTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C 가 시작했습니다.",
+	"version": "1",
+}
+"HIGHLIGHT_EVERYONE"
+{
+	"text": "모두",
+	"version": "1",
+}
+"HIGHLIGHT_FRIENDS_ONLY"
+{
+	"text": "친구만",
+	"version": "1",
+}
+"HIGHLIGHT_NOONE"
+{
+	"text": "친구들한테만",
+	"version": "1",
+}
+"LABEL_Channels"
+{
+	"text": "방",
+	"version": "1",
+}
+"LABEL_Clans"
+{
+	"text": "클랜",
+	"version": "1",
+}
+"LABEL_EditAccount"
+{
+	"text": "계정",
+	"version": "1",
+}
+"LABEL_EditProfile"
+{
+	"text": "프로필",
+	"version": "1",
+}
+"LABEL_Friends"
+{
+	"text": "친구",
+	"version": "1",
+}
+"LABEL_Help"
+{
+	"text": "도움말",
+	"version": "1",
+}
+"LABEL_LaunchWC3"
+{
+	"text": "워크래프트3 실행",
+	"version": "1",
+}
+"LABEL_Library"
+{
+	"text": "라이브러리",
+	"version": "1",
+}
+"LABEL_Servers"
+{
+	"text": "서버",
+	"version": "1",
+}
+"LABEL_Settings"
+{
+	"text": "세팅",
+	"version": "1",
+}
+"LOGIN_ENTER_PASS"
+{
+	"text": "비밀번호를 등록하십시요",
+	"version": "1",
+}
+"LOGIN_ENTER_USER"
+{
+	"text": "계정을 정하십시오",
+	"version": "1",
+}
+"LOGIN_INVALID_PASS"
+{
+	"text": "암호가 타당하지 않은 글자를를 포함하고 있습니다",
+	"version": "1",
+}
+"LOGIN_INVALID_USER"
+{
+	"text": "계정이 타당하지 않은 글자를를 포함하고 있습니다",
+	"version": "1",
+}
+"MAIN_MENU_EXIT"
+{
+	"text": "나가기",
+	"version": "1",
+}
+"MESSAGE_LASTSEEN"
+{
+	"text": "%0 는 %1 에 마지막 로긴했습니다",
+	"version": "1",
+}
+"PROFILE_ACCOUNT"
+{
+	"text": "계정",
+	"version": "1",
+}
+"PROFILE_AGE"
+{
+	"text": "나이: %0",
+	"version": "1",
+}
+"PROFILE_DESCRIPTION"
+{
+	"text": "설명",
+	"version": "1",
+}
+"PROFILE_EMAIL"
+{
+	"text": "이메일: %0",
+	"version": "1",
+}
+"PROFILE_GAMES"
+{
+	"text": "게임: %0",
+	"version": "1",
+}
+"PROFILE_GROUP_ACCESS"
+{
+	"text": "플랫폼 액세스",
+	"version": "1",
+}
+"PROFILE_GROUP_PERSONAL"
+{
+	"text": "개인정보",
+	"version": "1",
+}
+"PROFILE_LASTLOGIN"
+{
+	"text": "마지막 로긴: %0",
+	"version": "1",
+}
+"PROFILE_NATIONALITY"
+{
+	"text": "국적: %0",
+	"version": "1",
+}
+"PROFILE_REGISTERED"
+{
+	"text": "등록된 날짜: %0",
+	"version": "1",
+}
+"PROFILE_RESIDENCY"
+{
+	"text": "거주지: %0",
+	"version": "1",
+}
+"PROFILE_SEX"
+{
+	"text": "성별: %0",
+	"version": "1",
+}
+"PROFILE_SEX_FEMALE"
+{
+	"text": "여자",
+	"version": "1",
+}
+"PROFILE_SEX_MALE"
+{
+	"text": "남자",
+	"version": "1",
+}
+"REG_CANCEL"
+{
+	"text": "사양합니다, 저는 벌써 계정이 있습니다",
+	"version": "1",
+}
+"REG_EMAIL"
+{
+	"text": "이메일",
+	"version": "1",
+}
+"REG_EMAIL_CONFIRM"
+{
+	"text": "확인",
+	"version": "1",
+}
+"REG_ERR_EMAIL"
+{
+	"text": "이메일 주소를 넣으세요.",
+	"version": "1",
+}
+"REG_ERR_NAME"
+{
+	"text": "사용할 표시이름을 넣으세요",
+	"version": "1",
+}
+"REG_ERR_NAME_SIZE"
+{
+	"text": "표시 이름은 15글자 이상 될 수 없습니다",
+	"version": "1",
+}
+"REG_ERR_PASS"
+{
+	"text": "암호를 넣으세요.",
+	"version": "1",
+}
+"REG_ERR_USER"
+{
+	"text": "사용할 계정 이름을 넣으세요",
+	"version": "1",
+}
+"REG_ERR_USER_SIZE"
+{
+	"text": "계정 이름은 15글자 이상 될 수 없습니다.",
+	"version": "1",
+}
+"REG_INVALID_EMAIL"
+{
+	"text": "이메일 계정에 타당하지 않은 글자가 있습니다.",
+	"version": "1",
+}
+"REG_INVALID_NAME"
+{
+	"text": "표시 이름에 타당하지 않은 글자가 있습니다",
+	"version": "1",
+}
+"REG_INVALID_NAME_WC3"
+{
+	"text": "그 문자 조합은 적당하지 않습니다. 표시이름을 바꿔주세요.",
+	"version": "1",
+}
+"REG_INVALID_USER"
+{
+	"text": "계정 이름에 타당하지 않은 글자가 있습니다",
+	"version": "1",
+}
+"REG_MISMATCH_EMAIL"
+{
+	"text": "2개의 다른 이메일 주소를 입력하셨습니다",
+	"version": "1",
+}
+"REG_MISMATCH_PASS"
+{
+	"text": "2개의 다른 암호를 입력하셨습니다",
+	"version": "1",
+}
+"REG_NAME"
+{
+	"text": "표시 이름",
+	"version": "1",
+}
+"REG_PASS"
+{
+	"text": "암호",
+	"version": "1",
+}
+"REG_PASS_CONFIRM"
+{
+	"text": "확인",
+	"version": "1",
+}
+"REG_REGISTER"
+{
+	"text": "등록",
+	"version": "1",
+}
+"REG_USER"
+{
+	"text": "계정",
+	"version": "1",
+}
+"REG_VALID_EMAIL"
+{
+	"text": "타당한 이메일 주소를 넣으세요.",
+	"version": "1",
+}
+"SERVERS_CHANNEL"
+{
+	"text": "방",
+	"version": "1",
+}
+"SERVERS_GAME"
+{
+	"text": "게임",
+	"version": "1",
+}
+"SERVERS_LATENCY"
+{
+	"text": "딜레이정도",
+	"version": "1",
+}
+"SERVERS_MAP"
+{
+	"text": "맵",
+	"version": "1",
+}
+"SERVERS_NAME"
+{
+	"text": "이름",
+	"version": "1",
+}
+"SERVERS_PLAYERS"
+{
+	"text": "플레이어",
+	"version": "1",
+}
+"SERVER_ALREADY_LOGGED_IN"
+{
+	"text": "사용자가 로긴 되어있음.",
+	"version": "1",
+}
+"SERVER_CHANNEL_ALREADY_INSIDE"
+{
+	"text": "[%0] 당신은 벌써 이 채널에 있습니다",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_ALREADY"
+{
+	"text": "그 컴퓨터는 벌써 밴 당했습니다. 다시 밴을 못합니다.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_NOW"
+{
+	"text": "%0의 컴퓨터는 %1에 의해 밴당했습니다.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_ALREADY"
+{
+	"text": "그 컴퓨터는 플랫폼에서부터 밴 당하지 않았습니다.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_NOW"
+{
+	"text": "%0의 컴퓨터는 는 %1에 의해 금지가 풀렸습니다.",
+	"version": "1",
+}
+"SERVER_CHANNEL_NO_ACCESS"
+{
+	"text": "당신은 그 채널에 허가가 없습니다.",
+	"version": "1",
+}
+"SERVER_CHANNEL_REJECTION_MESSAGE"
+{
+	"text": "[%0] %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_ALREADY_VOUCHED"
+{
+	"text": "그 유저는 이 채널에 벌써 임명되어있습니다.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_ALREADY"
+{
+	"text": "이 유저는 벌써 밴 당한 상태입니다. 다시 밴 사용을 못합니다.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_NOW"
+{
+	"text": "%0는 %1에 의해 밴당했습니다.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOT_VOUCHED"
+{
+	"text": "그 유저는 이 채널에 임명되지 않았습니다.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOW_VOUCHED"
+{
+	"text": "%0은 이 채널에 임명되었습니다.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_ALREADY"
+{
+	"text": "그 유저는 플랫폼에서부터 밴 당하지 않았습니다.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_NOW"
+{
+	"text": "%0는 %1에 의해 금지가 풀렸습니다.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNVOUCHED"
+{
+	"text": "%0는 제외되었습니다.",
+	"version": "1",
+}
+"SERVER_CLIENTBANNED"
+{
+	"text": "당신은 밴당했습니다. [이유 :: %0] 당신 밴에 대한 간청은 포럼에서 할수 있습니다 @ www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED"
+{
+	"text": "당신은 쫓겨났습니다 [이유 :: %0]",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_BY"
+{
+	"text": "%0은 %1에 의해 쫓겨났습니다.",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_NOT_LOGGED_ON"
+{
+	"text": "로긴 하지 않은 이용자를 쫓아내지 못합니다.",
+	"version": "1",
+}
+"SERVER_COMMAND_DB_INVALID_INPUT"
+{
+	"text": "데이터베이스 오류. 이유 : 잘못된 명령어.",
+	"version": "1",
+}
+"SERVER_COMMAND_ON_NON_EXISTANT_USER"
+{
+	"text": "존재하지 않는 사용자입니다 0% 찾을 수 없습니다.",
+	"version": "1",
+}
+"SERVER_COMPBANNED"
+{
+	"text": "당신 컴퓨터는 금지 당했습니다[이유 :: %0] 포럼에서 재청을 할수 있습니다 @ www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_ERROR_ACCESSGROUP"
+{
+	"text": "허가 그룹이 존재하지 않습니다.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION"
+{
+	"text": "권한 오류. 당신은 누군가 높은 사용자를 설정 할 수 없습니다.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION_ADMIN"
+{
+	"text": "요청오류. 당신보다 높은 허가자한테 이 명령어를 쓸수 없습니다.",
+	"version": "1",
+}
+"SERVER_FRIEND_ADDED_YOU"
+{
+	"text": "%0가 당신을 친구목록에 추가하였습니다",
+	"version": "1",
+}
+"SERVER_FRIEND_ALREADY_ON"
+{
+	"text": "%0는 벌써 친구목록에 있습니다",
+	"version": "1",
+}
+"SERVER_FRIEND_MESSAGE_TO"
+{
+	"text": "모두에게 : %0",
+	"version": "1",
+}
+"SERVER_FRIEND_NOT_ON"
+{
+	"text": "%0는 친구목록에 없습니다",
+	"version": "1",
+}
+"SERVER_FRIEND_REMOVED_YOU"
+{
+	"text": "%0 가 당신을 친구목록에서 삭제하였습니다.",
+	"version": "1",
+}
+"SERVER_INVALID_PROFILE_VALUES"
+{
+	"text": "프로필이 성공적으로 바뀌지 않았습니다. 프로필 필드중에 특수문자가 포함되어 있지 않나 확인해보세요.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETACCESS"
+{
+	"text": "%0 은 이 채널에 %1 입니다.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETGLOBALACCESS"
+{
+	"text": "%0 은 이 플랫폼에 %1 입니다.",
+	"version": "1",
+}
+"SERVER_PROFILE_CHANGED"
+{
+	"text": "프로필이 성공적으로 바뀌었습니다.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_DATABASE_ERROR"
+{
+	"text": "데이터베이스 오류. \\\\ < !' \\\" > 는 사용할 수 없음.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_EMAIL_ALREADY_TAKEN"
+{
+	"text": "그 이메일 주소는 사용중입니다.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_NAME_ALREADY_TAKEN"
+{
+	"text": "그 표시 이름은 사용중입니다.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_USER_ALREADY_TAKEN"
+{
+	"text": "그 계정 이름은 사용중입니다.",
+	"version": "1",
+}
+"SERVER_SPECIFIED_USERNAME_DOESNT_EXIST"
+{
+	"text": "이 이용자이름은 존재하지 않습니다.",
+	"version": "1",
+}
+"SERVER_USERNAME_DOESNT_EXIST"
+{
+	"text": "사용자 %0 가 존재하지 않습니다.",
+	"version": "1",
+}
+"SERVER_WHISPER_NOT_LOGGED_IN"
+{
+	"text": "그 이용자는 로긴되어 있지 않음. 속삭임 실패.",
+	"version": "1",
+}
+"SERVER_WRONG_LOGIN"
+{
+	"text": "잘못된 로긴 세부사항",
+	"version": "1",
+}
+"SETTINGS_TAB_CHAT"
+{
+	"text": "대화",
+	"version": "1",
+}
+"SETTINGS_TAB_DOTA"
+{
+	"text": "도타",
+	"version": "1",
+}
+"SETTINGS_TAB_FRIENDS"
+{
+	"text": "친구",
+	"version": "1",
+}
+"SETTINGS_TAB_OTHER"
+{
+	"text": "기타",
+	"version": "1",
+}
+"SETTINGS_TAB_SOUNDS"
+{
+	"text": "소리",
+	"version": "1",
+}
+"STATUS_AWAY"
+{
+	"text": "[상태] 당신은 지금 자리비움 상태 입니다.",
+	"version": "1",
+}
+"STATUS_ONLINE"
+{
+	"text": "[상태] 당신은 지금 온라인입니다.",
+	"version": "1",
+}
+"TITLE_CHANNELS"
+{
+	"text": "방",
+	"version": "1",
+}
+"TITLE_CHANNEL_ADMIN"
+{
+	"text": "방 관리자",
+	"version": "1",
+}
+"TITLE_CLANS"
+{
+	"text": "클랜",
+	"version": "1",
+}
+"TITLE_CLAN_INFO"
+{
+	"text": "클랜 정보",
+	"version": "1",
+}
+"TITLE_CLAN_REGISTER"
+{
+	"text": "나의 클랜",
+	"version": "1",
+}
+"TITLE_CONNECT"
+{
+	"text": "연결",
+	"version": "1",
+}
+"TITLE_EDIT_ACCOUNT"
+{
+	"text": "계정관리",
+	"version": "1",
+}
+"TITLE_EDIT_PROFILE"
+{
+	"text": "프로필 수정",
+	"version": "1",
+}
+"TITLE_FRIENDS"
+{
+	"text": "친구",
+	"version": "1",
+}
+"TITLE_LIBRARY"
+{
+	"text": "라이브러리",
+	"version": "1",
+}
+"TITLE_LOGIN"
+{
+	"text": "로긴",
+	"version": "1",
+}
+"TITLE_MY_CLAN"
+{
+	"text": "나의 클랜",
+	"version": "1",
+}
+"TITLE_PROFILE"
+{
+	"text": "프로필",
+	"version": "1",
+}
+"TITLE_REGISTER"
+{
+	"text": "등록",
+	"version": "1",
+}
+"TITLE_SERVERS"
+{
+	"text": "서버",
+	"version": "1",
+}
+"TITLE_SETTINGS"
+{
+	"text": "세팅",
+	"version": "1",
+}
+"UI_LOGIN_CONNECT"
+{
+	"text": "연결",
+	"version": "1",
+}
+"UI_LOGIN_FORGOT_PASSWORD"
+{
+	"text": "비밀번호를 잊으셨습니까?",
+	"version": "1",
+}
+"UI_LOGIN_LOGIN"
+{
+	"text": "로긴",
+	"version": "1",
+}
+"UI_LOGIN_PASS"
+{
+	"text": "비밀번호",
+	"version": "1",
+}
+"UI_LOGIN_REGISTER"
+{
+	"text": "등록",
+	"version": "1",
+}
+"UI_LOGIN_SAVEPASS"
+{
+	"text": "(저장)",
+	"version": "1",
+}
+"UI_LOGIN_USER"
+{
+	"text": "계정",
+	"version": "1",
+}
+"UI_MAIN_MENU"
+{
+	"text": "메뉴",
+	"version": "1",
+}
+"UI_MAIN_START_GAME"
+{
+	"text": "게임 시작하기",
+	"version": "1",
+}
+"UI_SETTINGS_IGNORELIST"
+{
+	"text": "거부창",
+	"version": "1",
+}
+"UI_SETTINGS_IGNORE_CHAT"
+{
+	"text": "채팅룸 메시지 무시하기",
+	"version": "1",
+}
+"UI_SETTINGS_IGNORE_HIGHLIGHT"
+{
+	"text": "거부창 하이라이트",
+	"version": "1",
+}
+"UI_SETTINGS_IGNORE_PRIVATE"
+{
+	"text": "개인 메시지 무시하기",
+	"version": "1",
+}
+"UI_SHUTDOWN_THANKYOU"
+{
+	"text": "RGC 를 이용해주셔서 감사합니다",
+	"version": "1",
+}
+"WHOIS_AWAY"
+{
+	"text": "%0은 자리비움입니다.",
+	"version": "1",
+}
+"WHOIS_INGAME"
+{
+	"text": "%0은 %1 에 있습니다",
+	"version": "1",
+}
+"WHOIS_INGAME_PRIVATE"
+{
+	"text": "%0 은 특정게임에 있습니다.",
+	"version": "1",
+}
+"WHOIS_OFFLINE"
+{
+	"text": "%0은 오프라인입니다.",
+	"version": "1",
+}
+"WHOIS_ONLINE"
+{
+	"text": "%0 은 온라인입니다.",
+	"version": "1",
+}
+"bDotaPathFind"
+{
+	"text": "찾기",
+	"version": "1",
+}
+"cOtherLogs"
+{
+	"text": "클라이언트 로그 활성화",
+	"version": "1",
+}
+"cOtherMainExit"
+{
+	"text": "X 버튼이 클릭될 때 RGC 종료",
+	"version": "1",
+}
+"cOtherMainMinimize"
+{
+	"text": "_ 버튼이 클릭될 때 RGC 최소화",
+	"version": "1",
+}
+"cRoomsJoinAll"
+{
+	"text": "로긴하면서 액세스 가능한 모든 방에 조인",
+	"version": "1",
+}
+"cSoundsGameHosted"
+{
+	"text": "당신의 게임이 개설되었습니다",
+	"version": "1",
+}
+"cSoundsGameStarted"
+{
+	"text": "게임 시작할때 알림음",
+	"version": "1",
+}
+"cSoundsLogin"
+{
+	"text": "로긴",
+	"version": "1",
+}
+"cSoundsShutdown"
+{
+	"text": "종료",
+	"version": "1",
+}
+"cTimestampGames"
+{
+	"text": "게임 상황 업데이트에 대한 타임스탬프",
+	"version": "1",
+}
+"cTimestampMessages"
+{
+	"text": "대화 메세지에 대한 타임스탬프",
+	"version": "1",
+}
+"cTimestampUpdates"
+{
+	"text": "방 업데이트에 대한 타임스탬프",
+	"version": "1",
+}
+"cmdSave"
+{
+	"text": "저장",
+	"version": "1",
+}
+"gFriends"
+{
+	"text": "친구목록",
+	"version": "1",
+}
+"gFriendsMessageAway"
+{
+	"text": "친구가 자리비움일 때 메시지",
+	"version": "1",
+}
+"gFriendsMessageIngame"
+{
+	"text": "친구가 게임에 조인할 때 메시지",
+	"version": "1",
+}
+"gFriendsMessageOffline"
+{
+	"text": "친구가 오프라인일 때 메시지",
+	"version": "1",
+}
+"gFriendsMessageOnline"
+{
+	"text": "친구가 온라인일 때 메시지",
+	"version": "1",
+}
+"gHighlight"
+{
+	"text": "강조",
+	"version": "1",
+}
+"gHighlightAliases"
+{
+	"text": "이름 강조",
+	"version": "1",
+}
+"gOtherCustom"
+{
+	"text": "맞춤",
+	"version": "1",
+}
+"gRoomsCustomList"
+{
+	"text": "목록",
+	"version": "1",
+}
+"gSounds"
+{
+	"text": "소리",
+	"version": "1",
+}
+"gTimestamps"
+{
+	"text": "타임스탬프",
+	"version": "1",
+}
+"lDotaLaunchOptions"
+{
+	"text": "실행 옵션",
+	"version": "1",
+}
+"lDotaMode"
+{
+	"text": "초기화 모드",
+	"version": "1",
+}
+"lDotaPath"
+{
+	"text": "워크래프트 3 : 프로즌 쓰론 (실행)",
+	"version": "1",
+}
+"lHighlight"
+{
+	"text": "당신이 ... 때 당신을 하이라이트한 사람들",
+	"version": "1",
+}
+"lHighlightAway"
+{
+	"text": "자리비움",
+	"version": "1",
+}
+"lHighlightIngame"
+{
+	"text": "게임중",
+	"version": "1",
+}
+"lHighlightOnline"
+{
+	"text": "온라인",
+	"version": "1",
+}
+"lOtherCustomLanguage"
+{
+	"text": "언어",
+	"version": "1",
+}
+"lOtherCustomSkin"
+{
+	"text": "스킨",
+	"version": "1",
+}
+"lOtherLogs"
+{
+	"text": "클라이언트 로깅",
+	"version": "1",
+}
+"lOtherMain"
+{
+	"text": "메인 윈도우 버튼",
+	"version": "1",
+}
+"lTimestampCustom"
+{
+	"text": "사용자 지정 타임스탬프 (밑에 설명 참고)",
+	"version": "1",
+}
+"lTimestampExpressions"
+{
+	"text": "설명",
+	"version": "1",
+}
+"lTimestampExpressions2"
+{
+	"text": "세부적인 리스트 참고는 구글 검색: \"QT QDateTime\"",
+	"version": "1",
+}
+"lTimestampSettings"
+{
+	"text": "세팅",
+	"version": "1",
+}

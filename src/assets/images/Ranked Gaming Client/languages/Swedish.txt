@@ -1,0 +1,1420 @@
+"ACP_CHANNEL_ADMINS"
+{
+	"text": "Admins",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENTS"
+{
+	"text": "Uttalanden ",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_EDIT"
+{
+	"text": "Redigera",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_PREVIEW"
+{
+	"text": "Förhandsgranska",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_SAVE"
+{
+	"text": "Spara",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_NAME"
+{
+	"text": "Namn",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_TITLE"
+{
+	"text": "Titel",
+	"version": "1",
+}
+"BUDDYLIST_ADD"
+{
+	"text": "%0 har lagts till i din vänlista.",
+	"version": "1",
+}
+"BUDDYLIST_AWAY"
+{
+	"text": "Din vän %0 är nu inte vid datorn.",
+	"version": "1",
+}
+"BUDDYLIST_INGAME"
+{
+	"text": "Din vän %0 är nu i %1",
+	"version": "1",
+}
+"BUDDYLIST_INGAME_PRIVATE"
+{
+	"text": "Din vän %0 är nu i ett privat game.",
+	"version": "1",
+}
+"BUDDYLIST_OFFLINE"
+{
+	"text": "Din vän %0 är nu offline.",
+	"version": "1",
+}
+"BUDDYLIST_ONLINE"
+{
+	"text": "Din vän %0 är nu online.",
+	"version": "1",
+}
+"BUDDYLIST_REMOVE"
+{
+	"text": "%0 har tagits bort från din vänlista.",
+	"version": "1",
+}
+"CHAT_CHANNELS_CUSTOM"
+{
+	"text": "Custom Channel",
+	"version": "1",
+}
+"CHAT_CHANNELS_LEAVE"
+{
+	"text": "Lämna Rummet",
+	"version": "1",
+}
+"CHAT_CHANNELS_OFFICIAL"
+{
+	"text": "Official Channels",
+	"version": "1",
+}
+"CHAT_CHANNELS_PRIVATE"
+{
+	"text": "Privata meddelanden",
+	"version": "1",
+}
+"CHAT_CHANNEL_ALREADY_XXX"
+{
+	"text": "%1 är redan %0 i detta rum.",
+	"version": "1",
+}
+"CHAT_CHANNEL_NOW_XXX"
+{
+	"text": "%1 är nu %0 i detta rum.",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED"
+{
+	"text": "[%0] Du är tidsbannad från detta rum tills %2 den %3. Anledning: %1",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED_NOW"
+{
+	"text": "%0 är nu tidsbannad från detta rum tills %1 den %2",
+	"version": "1",
+}
+"CHAT_JOINED"
+{
+	"text": "%0 har anslutit sig till rummet.",
+	"version": "1",
+}
+"CHAT_LEFT"
+{
+	"text": "%0 har lämnat rummet.",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN"
+{
+	"text": "Admin",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_KICK"
+{
+	"text": "Kick",
+	"version": "1",
+}
+"CHAT_MENU_CLAN_VIEW"
+{
+	"text": "Visa Clan",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST"
+{
+	"text": "Vänner",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_ADD"
+{
+	"text": "Lägg till vän",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_REMOVE"
+{
+	"text": "Ta bort vän",
+	"version": "1",
+}
+"CHAT_MENU_HIGHLIGHT"
+{
+	"text": "Highlight",
+	"version": "1",
+}
+"CHAT_MENU_PROFILE"
+{
+	"text": "Profile",
+	"version": "1",
+}
+"CHAT_MENU_WHISPER"
+{
+	"text": "Viska",
+	"version": "1",
+}
+"CHAT_MENU_WHOIS"
+{
+	"text": "Whois",
+	"version": "1",
+}
+"CHAT_PRIVATE_CLOSE"
+{
+	"text": "Stäng Konversationen",
+	"version": "1",
+}
+"CLAN_CREATE"
+{
+	"text": "Skapa Min Egen Clan",
+	"version": "1",
+}
+"CLAN_CREATED"
+{
+	"text": "Skapad",
+	"version": "1",
+}
+"CLAN_CREATOR"
+{
+	"text": "Skapare",
+	"version": "1",
+}
+"CLAN_EDIT_CHANGE"
+{
+	"text": "Ändra",
+	"version": "1",
+}
+"CLAN_EDIT_INVITE"
+{
+	"text": "Bjuda in",
+	"version": "1",
+}
+"CLAN_EDIT_KICK"
+{
+	"text": "Kick",
+	"version": "1",
+}
+"CLAN_EDIT_NAME"
+{
+	"text": "Namn",
+	"version": "1",
+}
+"CLAN_EDIT_SHOW"
+{
+	"text": "Visa",
+	"version": "1",
+}
+"CLAN_EDIT_TITLE_INVITE"
+{
+	"text": "Bjuda in spelare",
+	"version": "1",
+}
+"CLAN_ELO"
+{
+	"text": "ELO",
+	"version": "1",
+}
+"CLAN_LEAVE"
+{
+	"text": "Lämna Clanen",
+	"version": "1",
+}
+"CLAN_REG_CREATE"
+{
+	"text": "Skapa",
+	"version": "1",
+}
+"CLAN_REG_DISPLAY"
+{
+	"text": "Display",
+	"version": "1",
+}
+"CLAN_REG_FULL_EX"
+{
+	"text": "Fullt exempel namn: MYM^Maelk^DotA",
+	"version": "1",
+}
+"CLAN_REG_NAME"
+{
+	"text": "Namn",
+	"version": "1",
+}
+"CLAN_REG_NAME_EX"
+{
+	"text": "e.g. Meet your Makers",
+	"version": "1",
+}
+"CLAN_REG_PREFIX"
+{
+	"text": "Prefix",
+	"version": "1",
+}
+"CLAN_REG_PREFIX_EX"
+{
+	"text": "e.g. MYM^",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX"
+{
+	"text": "Suffix",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX_EX"
+{
+	"text": "e.g.^DotA",
+	"version": "1",
+}
+"CLAN_REG_TAG"
+{
+	"text": "Tag",
+	"version": "1",
+}
+"CLAN_REG_TAG_EX"
+{
+	"text": "e.g. MYM",
+	"version": "1",
+}
+"CLAN_TITLE_DESCRIPTION"
+{
+	"text": "Beskrivning",
+	"version": "1",
+}
+"CLAN_TITLE_Players"
+{
+	"text": "Spelare",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY"
+{
+	"text": "-- AFK vänner",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY_COLOR"
+{
+	"text": "Brun",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME"
+{
+	"text": "-- Vänner i spel",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME_COLOR"
+{
+	"text": "Blå",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE"
+{
+	"text": "<< Offline vänner",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE_COLOR"
+{
+	"text": "Röd",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE"
+{
+	"text": ">> Online vänner",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE_COLOR"
+{
+	"text": "Grön",
+	"version": "1",
+}
+"DOTA_OPEN_GAMES"
+{
+	"text": "Öppna spel",
+	"version": "1",
+}
+"DOTA_RUNNING_GAMES"
+{
+	"text": "Pågående Spel",
+	"version": "1",
+}
+"DOTA_SIGN"
+{
+	"text": "Sign",
+	"version": "1",
+}
+"DOTA_SIGNED_PLAYERS"
+{
+	"text": "Signade Spelare",
+	"version": "1",
+}
+"DOTA_STARTED_GAMES"
+{
+	"text": "Startade Spel",
+	"version": "1",
+}
+"DOTA_UNSIGN"
+{
+	"text": "Unsign",
+	"version": "1",
+}
+"EDIT_ACCOUNT_CHANGE"
+{
+	"text": "Ändra",
+	"version": "1",
+}
+"EDIT_ACCOUNT_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_GET_TOKEN"
+{
+	"text": "Köp Namnbyte",
+	"version": "1",
+}
+"EDIT_ACCOUNT_NAME"
+{
+	"text": "Namn",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD"
+{
+	"text": "Nuvarande Lösenord",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_CONFIRM"
+{
+	"text": "Bekräfta Nytt Lösenord",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_NEW"
+{
+	"text": "Nytt lösenord",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_NAME"
+{
+	"text": "Namn",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_PASSWORD"
+{
+	"text": "Lösenord",
+	"version": "1",
+}
+"EDIT_PRFOILE_DESCRIPTION"
+{
+	"text": "Beskrivning",
+	"version": "1",
+}
+"EDIT_PROFILE_AVATAR"
+{
+	"text": "Visningsbild",
+	"version": "1",
+}
+"EDIT_PROFILE_CHANGE"
+{
+	"text": "Bekräfta Ändringar",
+	"version": "1",
+}
+"EDIT_PROFILE_DOB"
+{
+	"text": "Födelsedatum",
+	"version": "1",
+}
+"EDIT_PROFILE_FIRST_NAME"
+{
+	"text": "Förnamn",
+	"version": "1",
+}
+"EDIT_PROFILE_LAST_NAME"
+{
+	"text": "Efternamn",
+	"version": "1",
+}
+"EDIT_PROFILE_NATIONALITY"
+{
+	"text": "Nationalitet",
+	"version": "1",
+}
+"EDIT_PROFILE_RESIDENCY"
+{
+	"text": "Residens",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX"
+{
+	"text": "Kön",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_ANONYMOUS"
+{
+	"text": "N/A",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_FEMALE"
+{
+	"text": "Kvinna",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_MALE"
+{
+	"text": "Man",
+	"version": "1",
+}
+"EDIT_PROFILE_TITLE"
+{
+	"text": "Personlig Information",
+	"version": "1",
+}
+"ERROR_CCY"
+{
+	"text": "Kan inte %0 på dig själv.",
+	"version": "1",
+}
+"FRIENDS_AWAY"
+{
+	"text": "Borta",
+	"version": "1",
+}
+"FRIENDS_INGAME"
+{
+	"text": "Ingame",
+	"version": "1",
+}
+"FRIENDS_OFFLINE"
+{
+	"text": "Offline",
+	"version": "1",
+}
+"FRIENDS_ONLINE"
+{
+	"text": "Online",
+	"version": "1",
+}
+"GAME_ENDED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C har avslutats.",
+	"version": "1",
+}
+"GAME_HOSTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C har blivit hostat.",
+	"version": "1",
+}
+"GAME_STARTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C har startat.",
+	"version": "1",
+}
+"HIGHLIGHT_EVERYONE"
+{
+	"text": "Alla",
+	"version": "1",
+}
+"HIGHLIGHT_FRIENDS_ONLY"
+{
+	"text": "Bara för vänner",
+	"version": "1",
+}
+"HIGHLIGHT_NOONE"
+{
+	"text": "Ingen",
+	"version": "1",
+}
+"LABEL_Channels"
+{
+	"text": "Rum",
+	"version": "1",
+}
+"LABEL_Clans"
+{
+	"text": "Claner",
+	"version": "1",
+}
+"LABEL_EditAccount"
+{
+	"text": "Account",
+	"version": "1",
+}
+"LABEL_EditProfile"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"LABEL_Friends"
+{
+	"text": "Vänner",
+	"version": "1",
+}
+"LABEL_Help"
+{
+	"text": "Hjälp",
+	"version": "1",
+}
+"LABEL_LaunchWC3"
+{
+	"text": "Starta Warcraft III",
+	"version": "1",
+}
+"LABEL_Library"
+{
+	"text": "Library",
+	"version": "1",
+}
+"LABEL_Servers"
+{
+	"text": "Servrar",
+	"version": "1",
+}
+"LABEL_Settings"
+{
+	"text": "Inställningar",
+	"version": "1",
+}
+"LOGIN_ENTER_PASS"
+{
+	"text": "Ange ett lösenord.",
+	"version": "1",
+}
+"LOGIN_ENTER_USER"
+{
+	"text": "Ange ett account namn.",
+	"version": "1",
+}
+"LOGIN_INVALID_PASS"
+{
+	"text": "Ditt lösenord innehåller ogiltiga tecken.",
+	"version": "1",
+}
+"LOGIN_INVALID_USER"
+{
+	"text": "Ditt account namn innehåller ogiltiga tecken.",
+	"version": "1",
+}
+"MAIN_MENU_EXIT"
+{
+	"text": "Exit",
+	"version": "1",
+}
+"MESSAGE_LASTSEEN"
+{
+	"text": "[%0 sågs senast i %1]",
+	"version": "1",
+}
+"PROFILE_ACCOUNT"
+{
+	"text": "Account",
+	"version": "1",
+}
+"PROFILE_AGE"
+{
+	"text": "Ålder: %0",
+	"version": "1",
+}
+"PROFILE_DESCRIPTION"
+{
+	"text": "Beskrivning",
+	"version": "1",
+}
+"PROFILE_EMAIL"
+{
+	"text": "Email: %0",
+	"version": "1",
+}
+"PROFILE_GAMES"
+{
+	"text": "Games: %0",
+	"version": "1",
+}
+"PROFILE_GROUP_ACCESS"
+{
+	"text": "Client Tillträde",
+	"version": "1",
+}
+"PROFILE_GROUP_PERSONAL"
+{
+	"text": "Personlig Information",
+	"version": "1",
+}
+"PROFILE_LASTLOGIN"
+{
+	"text": "Senaste Inloggning: %0",
+	"version": "1",
+}
+"PROFILE_NATIONALITY"
+{
+	"text": "Nationalitet: %0",
+	"version": "1",
+}
+"PROFILE_REGISTERED"
+{
+	"text": "Registered: %0",
+	"version": "1",
+}
+"PROFILE_RESIDENCY"
+{
+	"text": "Residens: %0",
+	"version": "1",
+}
+"PROFILE_SEX"
+{
+	"text": "Kön: %0",
+	"version": "1",
+}
+"PROFILE_SEX_FEMALE"
+{
+	"text": "Kvinna",
+	"version": "1",
+}
+"PROFILE_SEX_MALE"
+{
+	"text": "Man",
+	"version": "1",
+}
+"REG_CANCEL"
+{
+	"text": "Nej tack, jag har redan ett account",
+	"version": "1",
+}
+"REG_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"REG_EMAIL_CONFIRM"
+{
+	"text": "Bekräfta",
+	"version": "1",
+}
+"REG_ERR_EMAIL"
+{
+	"text": "Ange en email address.",
+	"version": "1",
+}
+"REG_ERR_NAME"
+{
+	"text": "Ange ett visningsnamnnamn",
+	"version": "1",
+}
+"REG_ERR_NAME_SIZE"
+{
+	"text": "Ditt visningsnamn får ej innehålla mer än 15 tecken",
+	"version": "1",
+}
+"REG_ERR_PASS"
+{
+	"text": "Ange ett lösenord",
+	"version": "1",
+}
+"REG_ERR_USER"
+{
+	"text": "Ange ett account namn",
+	"version": "1",
+}
+"REG_ERR_USER_SIZE"
+{
+	"text": "Ditt account namn får ej innehålla mer än 15 tecken",
+	"version": "1",
+}
+"REG_INVALID_EMAIL"
+{
+	"text": "Din email address innehåller ogilitiga tecken",
+	"version": "1",
+}
+"REG_INVALID_NAME"
+{
+	"text": "Ditt visningsnamn innehåller ogiltiga tecken",
+	"version": "1",
+}
+"REG_INVALID_NAME_WC3"
+{
+	"text": "Ditt visningsnamn innehåller antingen |c, |n eller |r. Dessa tecken tillsammans stöds ej. Ange ett nytt namn.",
+	"version": "1",
+}
+"REG_INVALID_USER"
+{
+	"text": "Ditt account namn innehåller ogiltiga tecken",
+	"version": "1",
+}
+"REG_MISMATCH_EMAIL"
+{
+	"text": "Du har angivit två olika email addresser.",
+	"version": "1",
+}
+"REG_MISMATCH_PASS"
+{
+	"text": "Du har angivit två olika lösenord.",
+	"version": "1",
+}
+"REG_NAME"
+{
+	"text": "Visningsnamn",
+	"version": "1",
+}
+"REG_PASS"
+{
+	"text": "Lösenord",
+	"version": "1",
+}
+"REG_PASS_CONFIRM"
+{
+	"text": "Bekräfta",
+	"version": "1",
+}
+"REG_REGISTER"
+{
+	"text": "Registrera",
+	"version": "1",
+}
+"REG_USER"
+{
+	"text": "Account",
+	"version": "1",
+}
+"REG_VALID_EMAIL"
+{
+	"text": "Var god ange ett giltigt email address.",
+	"version": "1",
+}
+"SERVERS_CHANNEL"
+{
+	"text": "Rum",
+	"version": "1",
+}
+"SERVERS_GAME"
+{
+	"text": "Game",
+	"version": "1",
+}
+"SERVERS_LATENCY"
+{
+	"text": "Latens",
+	"version": "1",
+}
+"SERVERS_MAP"
+{
+	"text": "Map",
+	"version": "1",
+}
+"SERVERS_NAME"
+{
+	"text": "Namn",
+	"version": "1",
+}
+"SERVERS_PLAYERS"
+{
+	"text": "Spelare",
+	"version": "1",
+}
+"SERVER_ALREADY_LOGGED_IN"
+{
+	"text": "Användaren är redan inloggad.",
+	"version": "1",
+}
+"SERVER_CHANNEL_ALREADY_INSIDE"
+{
+	"text": "[%0] Du är redan i detta rummet.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_ALREADY"
+{
+	"text": "Den datorn är redan bannad. Du kan ej banna en redan bannad användare.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_NOW"
+{
+	"text": "%0's dator har blivit bannad av %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_ALREADY"
+{
+	"text": "Denna datorn är inte bannad från klienten.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_NOW"
+{
+	"text": "%0's dator har blivit unbannad av %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_NO_ACCESS"
+{
+	"text": "Du har ej behörighet till det rummet.",
+	"version": "1",
+}
+"SERVER_CHANNEL_REJECTION_MESSAGE"
+{
+	"text": "[%0] %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_ALREADY_VOUCHED"
+{
+	"text": "Den användaren är redan vouched i detta rum.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_ALREADY"
+{
+	"text": "Den användaren är redan bannad. Du kan ej banna en redan bannad användare.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_NOW"
+{
+	"text": "%0 har blivit bannad av %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOT_VOUCHED"
+{
+	"text": "Den användaren är inte vouched i detta rum.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOW_VOUCHED"
+{
+	"text": "%0 är nu vouched i detta rum.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_ALREADY"
+{
+	"text": "Den användaren är inte bannad från klienten.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_NOW"
+{
+	"text": "%0 har blivit unbannad av %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNVOUCHED"
+{
+	"text": "%0 har blivit unvouched.",
+	"version": "1",
+}
+"SERVER_CLIENTBANNED"
+{
+	"text": "Du har blivit bannad. [Andledning :: %0] Du kan överklaga på forumet @ www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED"
+{
+	"text": "Du blev kickad. [Andledning :: %0]",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_BY"
+{
+	"text": "%0 har blivit kickad av %1.",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_NOT_LOGGED_ON"
+{
+	"text": "Du kan inte kicka en person som inte är inloggad.",
+	"version": "1",
+}
+"SERVER_COMMAND_DB_INVALID_INPUT"
+{
+	"text": "Databas error. Möjlig anledning: Ogiltigt kommando.",
+	"version": "1",
+}
+"SERVER_COMMAND_ON_NON_EXISTANT_USER"
+{
+	"text": "Kan ej %0 en obefintlig användare.",
+	"version": "1",
+}
+"SERVER_COMPBANNED"
+{
+	"text": "Din ip har blivit bannad. [Andledning :: %0] Du kan överklaga på forumet @ www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_ERROR_ACCESSGROUP"
+{
+	"text": "Den behörighets kommando existerar ej.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION"
+{
+	"text": "Behörighets error. Du kan ej använda kommando på någon med högre behörighet än du själv.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION_ADMIN"
+{
+	"text": "Behörighetsfel. Du kan inte använda detta kommando på någon med högre tillgång än du själv.",
+	"version": "1",
+}
+"SERVER_FRIEND_ADDED_YOU"
+{
+	"text": "%0 har addat dig till hans/hennes vänlista.",
+	"version": "1",
+}
+"SERVER_FRIEND_ALREADY_ON"
+{
+	"text": "%0 är redan i din vänlista.",
+	"version": "1",
+}
+"SERVER_FRIEND_MESSAGE_TO"
+{
+	"text": "Till Alla: %0",
+	"version": "1",
+}
+"SERVER_FRIEND_NOT_ON"
+{
+	"text": "%0 finns inte i din vänlista.",
+	"version": "1",
+}
+"SERVER_FRIEND_REMOVED_YOU"
+{
+	"text": "%0 har tagit bort dig från hans/hennes vänlista.",
+	"version": "1",
+}
+"SERVER_INVALID_PROFILE_VALUES"
+{
+	"text": "Din profil kunde ej ändras. Var vänlig kolla igenom så du inte använder tecken (som ', ! , etc..) i dina profil fält.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETACCESS"
+{
+	"text": "%0 är nu %1 i detta rum.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETGLOBALACCESS"
+{
+	"text": "%0 är nu %1 på denna klient.",
+	"version": "1",
+}
+"SERVER_PROFILE_CHANGED"
+{
+	"text": "Din profil har ändrats.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_DATABASE_ERROR"
+{
+	"text": "Databas error. Använd ej symboler som \\\\ < ! ' \\\"> i ditt namn.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_EMAIL_ALREADY_TAKEN"
+{
+	"text": "Email addressen du angav är redan upptagen.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_NAME_ALREADY_TAKEN"
+{
+	"text": "Visningsnamnet du angav är redan upptaget",
+	"version": "1",
+}
+"SERVER_REGISTRATION_USER_ALREADY_TAKEN"
+{
+	"text": "Account namnet du angav är redan upptaget",
+	"version": "1",
+}
+"SERVER_SPECIFIED_USERNAME_DOESNT_EXIST"
+{
+	"text": "Användarnamnet existerar inte",
+	"version": "1",
+}
+"SERVER_USERNAME_DOESNT_EXIST"
+{
+	"text": "Användare %0 existerar ej",
+	"version": "1",
+}
+"SERVER_WHISPER_NOT_LOGGED_IN"
+{
+	"text": "Användaren är inte inloggad. Viskning misslyckades.",
+	"version": "1",
+}
+"SERVER_WRONG_LOGIN"
+{
+	"text": "Fel inloggningsuppgifter",
+	"version": "1",
+}
+"SETTINGS_TAB_CHAT"
+{
+	"text": "Chat",
+	"version": "1",
+}
+"SETTINGS_TAB_DOTA"
+{
+	"text": "DotA",
+	"version": "1",
+}
+"SETTINGS_TAB_FRIENDS"
+{
+	"text": "Vänner",
+	"version": "1",
+}
+"SETTINGS_TAB_OTHER"
+{
+	"text": "Annat",
+	"version": "1",
+}
+"SETTINGS_TAB_SOUNDS"
+{
+	"text": "Ljud",
+	"version": "1",
+}
+"STATUS_AWAY"
+{
+	"text": "[STATUS] Du är nu inte vid datorn.",
+	"version": "1",
+}
+"STATUS_ONLINE"
+{
+	"text": "[STATUS] Du är nu online.",
+	"version": "1",
+}
+"TITLE_CHANNELS"
+{
+	"text": "Rum",
+	"version": "1",
+}
+"TITLE_CHANNEL_ADMIN"
+{
+	"text": "Rum administration",
+	"version": "1",
+}
+"TITLE_CLANS"
+{
+	"text": "Clans",
+	"version": "1",
+}
+"TITLE_CLAN_INFO"
+{
+	"text": "Clan Info",
+	"version": "1",
+}
+"TITLE_CLAN_REGISTER"
+{
+	"text": "Min Clan",
+	"version": "1",
+}
+"TITLE_CONNECT"
+{
+	"text": "Anslut",
+	"version": "1",
+}
+"TITLE_EDIT_ACCOUNT"
+{
+	"text": "Hantera Account",
+	"version": "1",
+}
+"TITLE_EDIT_PROFILE"
+{
+	"text": "Redigera Profil",
+	"version": "1",
+}
+"TITLE_FRIENDS"
+{
+	"text": "Vänner",
+	"version": "1",
+}
+"TITLE_LIBRARY"
+{
+	"text": "Library",
+	"version": "1",
+}
+"TITLE_LOGIN"
+{
+	"text": "Logga in",
+	"version": "1",
+}
+"TITLE_MY_CLAN"
+{
+	"text": "Min Clan",
+	"version": "1",
+}
+"TITLE_PROFILE"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"TITLE_REGISTER"
+{
+	"text": "Registrera",
+	"version": "1",
+}
+"TITLE_SERVERS"
+{
+	"text": "Servrar",
+	"version": "1",
+}
+"TITLE_SETTINGS"
+{
+	"text": "Inställningar",
+	"version": "1",
+}
+"UI_LOGIN_CONNECT"
+{
+	"text": "Anslut",
+	"version": "1",
+}
+"UI_LOGIN_LOGIN"
+{
+	"text": "Logga in",
+	"version": "1",
+}
+"UI_LOGIN_PASS"
+{
+	"text": "Lösenord",
+	"version": "1",
+}
+"UI_LOGIN_REGISTER"
+{
+	"text": "Registrera",
+	"version": "1",
+}
+"UI_LOGIN_SAVEPASS"
+{
+	"text": "(Spara)",
+	"version": "1",
+}
+"UI_LOGIN_USER"
+{
+	"text": "Account",
+	"version": "1",
+}
+"UI_SHUTDOWN_THANKYOU"
+{
+	"text": "Tack för att du använder RGC",
+	"version": "1",
+}
+"WHOIS_AWAY"
+{
+	"text": "%0 är inte vid datorn. ",
+	"version": "1",
+}
+"WHOIS_INGAME"
+{
+	"text": "%0 är i %1",
+	"version": "1",
+}
+"WHOIS_INGAME_PRIVATE"
+{
+	"text": "%0 är i ett privat game.",
+	"version": "1",
+}
+"WHOIS_OFFLINE"
+{
+	"text": "%0 är offline.",
+	"version": "1",
+}
+"WHOIS_ONLINE"
+{
+	"text": "%0 är online.",
+	"version": "1",
+}
+"bDotaPathFind"
+{
+	"text": "Hitta",
+	"version": "1",
+}
+"cOtherLogs"
+{
+	"text": "Aktivera att clienten sparar dina loggar",
+	"version": "1",
+}
+"cOtherMainExit"
+{
+	"text": "Stäng ner RGC när \"X\"(stäng ner rutan) knappen trycks",
+	"version": "1",
+}
+"cOtherMainMinimize"
+{
+	"text": "Minimera RGC till aktivitetsfältet när \"_\"(Minimera) knappen trycks",
+	"version": "1",
+}
+"cOtherVisualsFullscreen"
+{
+	"text": "Starta clienten i fullskärm läge",
+	"version": "1",
+}
+"cRoomsJoinAll"
+{
+	"text": "Joina alla rum som jag har tillgång till vid inloggning",
+	"version": "1",
+}
+"cSoundsGameHosted"
+{
+	"text": "Ditt game är hostat",
+	"version": "1",
+}
+"cSoundsGameStarted"
+{
+	"text": "Spela upp ett ljud när ditt game hostats",
+	"version": "1",
+}
+"cSoundsLogin"
+{
+	"text": "Logga in",
+	"version": "1",
+}
+"cSoundsShutdown"
+{
+	"text": "Stäng ner",
+	"version": "1",
+}
+"cTimestampGames"
+{
+	"text": "Tidsstämplar på game status uppdateringar",
+	"version": "1",
+}
+"cTimestampMessages"
+{
+	"text": "Tidsstämplar på chat meddelanden",
+	"version": "1",
+}
+"cTimestampUpdates"
+{
+	"text": "Tidsstämplar på rum uppdateringar",
+	"version": "1",
+}
+"cmdSave"
+{
+	"text": "Spara",
+	"version": "1",
+}
+"gFriends"
+{
+	"text": "Vänlista",
+	"version": "1",
+}
+"gFriendsMessageAway"
+{
+	"text": "Meddelande när en vän går iväg från datorn",
+	"version": "1",
+}
+"gFriendsMessageIngame"
+{
+	"text": "Meddelande när en vän joinar ett game",
+	"version": "1",
+}
+"gFriendsMessageOffline"
+{
+	"text": "Meddelande när en vän går offline",
+	"version": "1",
+}
+"gFriendsMessageOnline"
+{
+	"text": "Meddelande när en vän loggar in",
+	"version": "1",
+}
+"gHighlight"
+{
+	"text": "Ropa",
+	"version": "1",
+}
+"gHighlightAliases"
+{
+	"text": "Namn jag blir Highlightad på",
+	"version": "1",
+}
+"gOtherCustom"
+{
+	"text": "Anpassa",
+	"version": "1",
+}
+"gRooms"
+{
+	"text": "Rum",
+	"version": "1",
+}
+"gRoomsCustomList"
+{
+	"text": "Custom List",
+	"version": "1",
+}
+"gSounds"
+{
+	"text": "Ljud",
+	"version": "1",
+}
+"gTimestamps"
+{
+	"text": "Tidsstämplar",
+	"version": "1",
+}
+"lDotaLaunchOptions"
+{
+	"text": "Launch Options",
+	"version": "1",
+}
+"lDotaMode"
+{
+	"text": "Default Mode",
+	"version": "1",
+}
+"lDotaPath"
+{
+	"text": "Warcraft III: The Frozen Throne (Executable)",
+	"version": "1",
+}
+"lHighlight"
+{
+	"text": "Välj när andra får ropa på mig",
+	"version": "1",
+}
+"lHighlightAway"
+{
+	"text": "Iväg",
+	"version": "1",
+}
+"lHighlightIngame"
+{
+	"text": "Ingame",
+	"version": "1",
+}
+"lHighlightOnline"
+{
+	"text": "Online",
+	"version": "1",
+}
+"lOtherCustomLanguage"
+{
+	"text": "Språk",
+	"version": "1",
+}
+"lOtherCustomSkin"
+{
+	"text": "Skal",
+	"version": "1",
+}
+"lOtherLogs"
+{
+	"text": "Client Logging",
+	"version": "1",
+}
+"lOtherMain"
+{
+	"text": "Main Window Buttons",
+	"version": "1",
+}
+"lOtherVisuals"
+{
+	"text": "Visuella",
+	"version": "1",
+}
+"lTimestampCustom"
+{
+	"text": "Ändra tidsstämplat (se uttrycken nedan)",
+	"version": "1",
+}
+"lTimestampExpressions"
+{
+	"text": "Uttryck",
+	"version": "1",
+}
+"lTimestampExpressions2"
+{
+	"text": "För en detaljerad lista besök:\\nhttp://doc.trolltech.com...",
+	"version": "1",
+}
+"lTimestampSettings"
+{
+	"text": "Inställningar",
+	"version": "1",
+}

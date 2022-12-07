@@ -1,0 +1,183 @@
+QWidget#containerwidget {
+	background: transparent;
+}
+#Bordertopright{background: url~('header/Bordertopright.png');}
+#ProfileHeader{background: url('ProfileHeader.png');}
+QLabel#MenuPosition{ background:transparent;}
+QLabel#CenterBord{ background: url~('header/CenterBord.png');}
+QLabel#BorderleftTop{ background: url~('header/BorderleftTop.png');}
+QLabel#BordercenterTop{background: url~('header/BordercenterTop.png'); }
+QLabel#BorderleftBot{ background: url~('header/BorderleftBot.png');}
+QLabel#Headertop{background: url~('header/Headertop.png');}
+QLabel#Borderleft{background: url~('header/Borderleft.png'); }
+QLabel#Borderright{background: url~('header/Borderright.png');}
+QLabel#Borderrightbot{background: url~('header/Borderrightbot.png');}
+QLabel#HeaderTop{background: url~('header/Headertop.png')no-repeat left;}
+QLabel#shadowtop{background: url('shadowtop.png');}
+QLabel#LeftBorder{ background: url~('header/leftheader.png') no-repeat left;}
+QLabel#centerheader{ background: url~('header/centerheader.png')}
+QLabel#rightheader{ background: url~('header/rightheader.png') no-repeat;}
+#RightBotBorder {background: url~('header/RightBotBorder.png');}
+#ChannelsBot{background: url('ChannelsBot.png');}
+#ChannelsCenter{background: url('ChannelsCenter.png');}
+#ChannelsTop{background: url('ChannelsTop.png');}
+#ShadowHeader{background: url('ShadowBanner.png');}
+
+/* LOGO */
+QWidget#Logo {
+	background: url('logo.png');
+}
+
+QLabel#PageTop {
+	background: url~('header/box-middle.png');
+}
+
+/* QTreeView */
+QTreeView {
+	background: transparent;
+	border: none;
+        color: #c2c2c2;
+	font-weight: normal;
+	font-size: 12px;
+
+
+
+}
+QTreeView::item:open {
+	color: #f5eab1;
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: bold;}
+
+
+QTreeView::item { height: 18px; }
+
+QTreeView::item:selected {
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
+		stop:0 transparent,
+		stop:0.4 transparent,
+		stop:0.6 #1A2D41,
+		stop:1 #1A2D41);
+
+	border-radius: 2px;
+	margin-right: 6px;
+}
+
+QLabel#Level{
+        color: #c2c2c2;
+	font-family: 'calibri';
+	font-size: 14px;
+	font-weight: bold;
+	qproperty-alignment: AlignCenter;
+}
+
+#cmdLadder{background:  url('icon-ladder') no-repeat top center ;
+padding-top: 3px;}
+#cmdLadder:hover{background: url('icon-ladder-hover.png') no-repeat top center rgba(0,0,0,100); 
+                 padding-top: 3px;
+                 color: #fff;
+}
+#cmdLadder:pressed {background: url('icon-ladder') no-repeat top center rgba(0,0,0,100); 
+                 padding-top: 3px;}
+
+#cmdForum{background:  url('icon-forum') no-repeat top center;}
+#cmdForum:hover{background: url('icon-forum-hover.png') no-repeat top center rgba(0,0,0,100); 
+                 padding-top: 3px;
+                 color: #fff;}
+#cmdForum:pressed {background: url('icon-forum') no-repeat top center rgba(0,0,0,100); 
+                 padding-top: 3px;}
+
+#cmdMenu{background:  url('icon-admin') no-repeat top center;}
+#cmdMenu:hover{background: url('icon-admin-hover.png') no-repeat top center rgba(0,0,0,100); 
+                 padding-top: 3px;
+                 color: #fff;}
+#cmdMenu:pressed {background: url('icon-admin') no-repeat top center rgba(0,0,0,100); 
+                 padding-top: 3px;}
+
+#cmdShop{background: url('icon-shop.png') no-repeat top center rgba(0,0,0,100); 
+                 padding-top: 3px;
+                 color: #fff;}
+#cmdShop:hover{background: url('icon-shop-hover.png') no-repeat top center rgba(0,0,0,100); 
+                 padding-top: 3px;
+                 color: #fff;}
+#cmdShop:pressed {background: url('icon-shop') no-repeat top center rgba(0,0,0,100); 
+                 padding-top: 3px;}
+
+
+/* Bottom 4 Buttons */
+#cmdForum, #cmdLadder, #cmdMenu, #cmdShop {
+        color: #c2c2c2;
+	font-family: 'calibri';
+	font-size: 13px;
+	font-weight: bold;
+	text-transform: none; 
+	border-radius: 5px;
+	background-color: rgba(0,0,0,200);
+	text-align: bottom;
+	padding-bottom: 4px;
+	padding-top: 3px;
+	border: 0px outset rgba(255,255,255,25);
+}
+
+/* StartGame */
+#cmdStartGame { text-align: bottom;
+	background: url('war3.png') top center no-repeat;
+        color: #c2c2c2;
+	font-family: 'calibri';
+	font-size: 13px;
+	font-weight: bold;
+	text-transform: Capitalize; 
+border-radius: 5px;
+border: 0px solid red;
+background-color: rgba(0,0,0,200);
+border: 0px outset rgba(255,255,255,25);
+
+padding-bottom: 4px;
+	padding-top: 3px;
+}
+
+#cmdStartGame:hover { background: url('war3Hover.png') top center no-repeat rgba(0,0,0,150); }
+#cmdStartGame:pressed { background: url('war3Pressed.png') top center no-repeat rgba(0,0,0,150) ; }
+
+/* Facebook */
+#cmdFacebook { background: url('cmdFacebook.png'); border: none; }
+#cmdFacebook:hover { background: url('cmdFacebookHover.png'); }
+#cmdFacebook:pressed { background: url('cmdFacebookPressed.png'); }
+
+QScrollBar:vertical {
+	background: #191919;
+	border-radius: 2px;
+    border: 0px solid #181818;
+    border-left: 0px solid transparent;
+    border-right: 0px solid black;
+    width: 5px; margin-left: 1px;
+    margin: 0px;margin-top: 13px;margin-bottom: 15px;
+    margin-right: 0px; border-top: 1px solid #444;border-bottom: 1px solid #444;
+
+
+
+}
+
+QScrollBar::handle:vertical:hover {
+        background: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
+		stop:0 #6982bf,
+		stop:1 #2f3d4a);}
+
+QScrollBar::handle:vertical {
+        background: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
+		stop:0 #677aab,
+		stop:1 #293540);
+	border: none;
+	margin: 0px;
+	width: 5px;
+	min-height: 60px;
+	border-radius: 2px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+}
+
+QScrollBar::up-arrow:vertical, 
+QScrollBar::down-arrow:vertical {
+  width: 0px;
+  height: 0px;
+}

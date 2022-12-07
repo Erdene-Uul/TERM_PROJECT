@@ -1,0 +1,73 @@
+/* QListWidget */
+QListWidget {
+border-top-right-radius:0px;
+}
+
+QTextEdit {background: rgb(220,220,220);
+	background-image: url~('header/Shadow.png') top;
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+	font-family: Open Sans,Trebuchet MS;
+	color: #000;
+        border-radius: 3px;
+        font-weight: normal;
+
+}
+#Shadow1{  background: url('Shadowt2') bottom;}
+#Shadow2{ background: url('Shadowt') top;}
+#BorderTopL{ background: url('BorderTopL.png');}
+#BorderTopC{ background: url('BorderTopC.png');}
+#BorderTopR{ background: url('BorderTopR.png');}
+#BorderR{ background: url('BorderR.png');}
+
+#BorderBotL{ background: url('BorderBotL.png');}
+#BorderBotC{ background: url('BorderBotC.png');}
+#BorderBotR{ background: url('BorderBotR.png');}
+#0Top{ background: url('0Top.png');}
+#1Top{ background: url('1Top.png');}
+
+#txtChatInput{
+	background: transparent;
+	color: #FFF;
+}
+
+QLineEdit{background: transparent;
+          color: #fff;
+	  font-family:'calibri';
+	  font-weight: bold;
+	  font-size: 12px;
+}
+
+QScrollBar:vertical {
+	background: transparent;
+        border: 0px solid #181818;
+        border-left: 0px solid transparent;
+	border-radius: 0px;
+	border-right: 0px solid black;
+	margin: 0px; 
+        margin-right: 0px;
+	width: 5px; margin-top: 1px; margin-bottom: 1px;
+}
+
+QScrollBar::handle:vertical:hover {
+	background: qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:0,
+		stop:0 #151921,
+		stop:0.5 #6982bf,
+		stop:1 #6982bf);}
+
+QScrollBar::handle:vertical {
+	background: qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:0,
+		stop:0 #151921,
+		stop:0.5 #627299,
+		stop:1 #677aab);
+	border: none;
+	border-radius: 3px;
+	margin: 0px;
+        margin-bottom: 1px;
+	margin-top: 1px;
+	min-height: 75px;
+	width: 5px;
+  	border-top-right-radius: 2px;
+  	border-bottom-right-radius: 2px;
+
+}

@@ -1,0 +1,1495 @@
+"ACP_CHANNEL_ADMINS"
+{
+	"text": "管理者",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENTS"
+{
+	"text": "お知らせ",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_EDIT"
+{
+	"text": "編集",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_PREVIEW"
+{
+	"text": "予告",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_SAVE"
+{
+	"text": "保存",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_NAME"
+{
+	"text": "名前",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_TITLE"
+{
+	"text": "称号",
+	"version": "1",
+}
+"ACTION_IGNORE_ADDED"
+{
+	"text": "%0が無視リストに追加されました。",
+	"version": "1",
+}
+"ACTION_IGNORE_ALREADY"
+{
+	"text": "%0は既に無視リストに入っています。",
+	"version": "1",
+}
+"ACTION_IGNORE_NOT_FOUND"
+{
+	"text": "%0は無視リストに入っていません。",
+	"version": "1",
+}
+"ACTION_IGNORE_REMOVED"
+{
+	"text": "%0が無視リストから削除されました。",
+	"version": "1",
+}
+"BUDDYLIST_ADD"
+{
+	"text": "%0がフレンドリストに追加されました。",
+	"version": "1",
+}
+"BUDDYLIST_AWAY"
+{
+	"text": "友達の%0は今、退席中です。",
+	"version": "1",
+}
+"BUDDYLIST_INGAME"
+{
+	"text": "友達の%0は今、%1をプレイしています。",
+	"version": "1",
+}
+"BUDDYLIST_INGAME_PRIVATE"
+{
+	"text": "友達の%0は今、プライベート ゲームをプレイしています。",
+	"version": "1",
+}
+"BUDDYLIST_OFFLINE"
+{
+	"text": "友達の%0は今、オフラインです。",
+	"version": "1",
+}
+"BUDDYLIST_ONLINE"
+{
+	"text": "友達の%0は今、オンラインです。",
+	"version": "1",
+}
+"BUDDYLIST_REMOVE"
+{
+	"text": "%0がフレンドリストから削除されました。",
+	"version": "1",
+}
+"CHAT_AUTOJOIN_DISABLED"
+{
+	"text": "ログイン時に自動的に%0に参加しません",
+	"version": "1",
+}
+"CHAT_AUTOJOIN_ENABLED"
+{
+	"text": "ログイン時に自動的に%0に参加します",
+	"version": "1",
+}
+"CHAT_CHANNELS_CUSTOM"
+{
+	"text": "カスタム チャネル",
+	"version": "1",
+}
+"CHAT_CHANNELS_LEAVE"
+{
+	"text": "チャネルの退出",
+	"version": "1",
+}
+"CHAT_CHANNELS_OFFICIAL"
+{
+	"text": "公式チャネル",
+	"version": "1",
+}
+"CHAT_CHANNELS_PRIVATE"
+{
+	"text": "プライベート メッセージ",
+	"version": "1",
+}
+"CHAT_CHANNEL_ALREADY_XXX"
+{
+	"text": "%1 is already %0 in this channel.",
+	"version": "1",
+}
+"CHAT_CHANNEL_NOW_XXX"
+{
+	"text": "%1 is now %0 in this channel.",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED"
+{
+	"text": "［%0］ ユーザーがこのチャネルで%3%2までタイムバンされています。理由：%1",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED_NOW"
+{
+	"text": "%0はこのチャネルで%2%1までタイムバンされています。",
+	"version": "1",
+}
+"CHAT_JOINED"
+{
+	"text": "%0がチャットルームに参加しました。",
+	"version": "1",
+}
+"CHAT_LEFT"
+{
+	"text": "%0がチャットルームを退出しました。",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN"
+{
+	"text": "管理",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_KICK"
+{
+	"text": "キック",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_TIMEBAN"
+{
+	"text": "タイムバン",
+	"version": "1",
+}
+"CHAT_MENU_AUTOJOIN"
+{
+	"text": "自動参加",
+	"version": "1",
+}
+"CHAT_MENU_AUTOJOIN_DISABLE"
+{
+	"text": "無効",
+	"version": "1",
+}
+"CHAT_MENU_AUTOJOIN_ENABLE"
+{
+	"text": "有効",
+	"version": "1",
+}
+"CHAT_MENU_CLAN_VIEW"
+{
+	"text": "クランの表示",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST"
+{
+	"text": "フレンドリスト",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_ADD"
+{
+	"text": "友達の追加",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_REMOVE"
+{
+	"text": "友達の削除",
+	"version": "1",
+}
+"CHAT_MENU_HIGHLIGHT"
+{
+	"text": "ハイライト",
+	"version": "1",
+}
+"CHAT_MENU_IGNORE"
+{
+	"text": "無視",
+	"version": "1",
+}
+"CHAT_MENU_IGNORE_ADD"
+{
+	"text": "追加",
+	"version": "1",
+}
+"CHAT_MENU_IGNORE_REMOVE"
+{
+	"text": "削除",
+	"version": "1",
+}
+"CHAT_MENU_PROFILE"
+{
+	"text": "プロファイル",
+	"version": "1",
+}
+"CHAT_MENU_WHISPER"
+{
+	"text": "ささやき",
+	"version": "1",
+}
+"CHAT_MENU_WHOIS"
+{
+	"text": "Whois",
+	"version": "1",
+}
+"CHAT_NOTIFY_IGNORED"
+{
+	"text": "あなたはこのユーザーの無視リストに入っています。メッセージが表示されません。",
+	"version": "1",
+}
+"CHAT_PRIVATE_CLOSE"
+{
+	"text": "会話を閉じる",
+	"version": "1",
+}
+"CLAN_CREATE"
+{
+	"text": "自分のクランを作成",
+	"version": "1",
+}
+"CLAN_CREATED"
+{
+	"text": "作成済み",
+	"version": "1",
+}
+"CLAN_CREATOR"
+{
+	"text": "作成者",
+	"version": "1",
+}
+"CLAN_EDIT_CHANGE"
+{
+	"text": "変更",
+	"version": "1",
+}
+"CLAN_EDIT_INVITE"
+{
+	"text": "招待",
+	"version": "1",
+}
+"CLAN_EDIT_KICK"
+{
+	"text": "キック",
+	"version": "1",
+}
+"CLAN_EDIT_NAME"
+{
+	"text": "名前",
+	"version": "1",
+}
+"CLAN_EDIT_SHOW"
+{
+	"text": "表示",
+	"version": "1",
+}
+"CLAN_EDIT_TITLE_INVITE"
+{
+	"text": "プレイヤーの招待",
+	"version": "1",
+}
+"CLAN_ELO"
+{
+	"text": "ELO",
+	"version": "1",
+}
+"CLAN_LEAVE"
+{
+	"text": "クランの脱退",
+	"version": "1",
+}
+"CLAN_REG_CREATE"
+{
+	"text": "作成",
+	"version": "1",
+}
+"CLAN_REG_DISPLAY"
+{
+	"text": "表示",
+	"version": "1",
+}
+"CLAN_REG_FULL_EX"
+{
+	"text": "例の完全名：MYM^Maelk^DotA",
+	"version": "1",
+}
+"CLAN_REG_NAME"
+{
+	"text": "名前",
+	"version": "1",
+}
+"CLAN_REG_NAME_EX"
+{
+	"text": "例：Meet your Makers",
+	"version": "1",
+}
+"CLAN_REG_PREFIX"
+{
+	"text": "プレフィックス",
+	"version": "1",
+}
+"CLAN_REG_PREFIX_EX"
+{
+	"text": "例：MYM^",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX"
+{
+	"text": "サフィックス",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX_EX"
+{
+	"text": "例：^DotA",
+	"version": "1",
+}
+"CLAN_REG_TAG"
+{
+	"text": "タグ",
+	"version": "1",
+}
+"CLAN_REG_TAG_EX"
+{
+	"text": "例：MYM",
+	"version": "1",
+}
+"CLAN_TITLE_DESCRIPTION"
+{
+	"text": "説明",
+	"version": "1",
+}
+"CLAN_TITLE_Players"
+{
+	"text": "プレイヤー",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY"
+{
+	"text": "退席中の友達",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME"
+{
+	"text": "プレイ中の友達",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE"
+{
+	"text": "オフラインの友達",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE"
+{
+	"text": "オンライン の友達",
+	"version": "1",
+}
+"DOTA_OPEN_GAMES"
+{
+	"text": "開いているゲーム",
+	"version": "1",
+}
+"DOTA_RUNNING_GAMES"
+{
+	"text": "実行中のゲーム",
+	"version": "1",
+}
+"DOTA_SIGN"
+{
+	"text": "サイン",
+	"version": "1",
+}
+"DOTA_SIGNED_PLAYERS"
+{
+	"text": "サインイン済みのプレイヤー",
+	"version": "1",
+}
+"DOTA_STARTED_GAMES"
+{
+	"text": "起動済みのゲーム",
+	"version": "1",
+}
+"DOTA_UNSIGN"
+{
+	"text": "アンサイン",
+	"version": "1",
+}
+"EDIT_ACCOUNT_CHANGE"
+{
+	"text": "変更",
+	"version": "1",
+}
+"EDIT_ACCOUNT_EMAIL"
+{
+	"text": "メール",
+	"version": "1",
+}
+"EDIT_ACCOUNT_GET_TOKEN"
+{
+	"text": "名前の変更を購入",
+	"version": "1",
+}
+"EDIT_ACCOUNT_NAME"
+{
+	"text": "名前",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD"
+{
+	"text": "現在のパスワード",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_CONFIRM"
+{
+	"text": "新しいパスワードの確認",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_NEW"
+{
+	"text": "新しいパスワード",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_EMAIL"
+{
+	"text": "メール",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_NAME"
+{
+	"text": "名前",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_PASSWORD"
+{
+	"text": "パスワード",
+	"version": "1",
+}
+"EDIT_PRFOILE_DESCRIPTION"
+{
+	"text": "説明",
+	"version": "1",
+}
+"EDIT_PROFILE_AVATAR"
+{
+	"text": "アバター",
+	"version": "1",
+}
+"EDIT_PROFILE_CHANGE"
+{
+	"text": "変更の送信",
+	"version": "1",
+}
+"EDIT_PROFILE_DOB"
+{
+	"text": "生年月日",
+	"version": "1",
+}
+"EDIT_PROFILE_FIRST_NAME"
+{
+	"text": "名",
+	"version": "1",
+}
+"EDIT_PROFILE_LAST_NAME"
+{
+	"text": "姓",
+	"version": "1",
+}
+"EDIT_PROFILE_NATIONALITY"
+{
+	"text": "国籍",
+	"version": "1",
+}
+"EDIT_PROFILE_RESIDENCY"
+{
+	"text": "住所",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX"
+{
+	"text": "性別",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_ANONYMOUS"
+{
+	"text": "該当なし",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_FEMALE"
+{
+	"text": "女性",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_MALE"
+{
+	"text": "男性",
+	"version": "1",
+}
+"EDIT_PROFILE_TITLE"
+{
+	"text": "個人情報",
+	"version": "1",
+}
+"ERROR_CCY"
+{
+	"text": "自分に対して次の動作を行えません：%0",
+	"version": "1",
+}
+"FRIENDS_AWAY"
+{
+	"text": "退席中",
+	"version": "1",
+}
+"FRIENDS_INGAME"
+{
+	"text": "プレイ中",
+	"version": "1",
+}
+"FRIENDS_OFFLINE"
+{
+	"text": "オフライン",
+	"version": "1",
+}
+"FRIENDS_ONLINE"
+{
+	"text": "オンライン ",
+	"version": "1",
+}
+"GAME_ENDED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/Cが終了しました。",
+	"version": "1",
+}
+"GAME_HOSTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/Cがホストされました。",
+	"version": "1",
+}
+"GAME_STARTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/Cが開始しました。",
+	"version": "1",
+}
+"HIGHLIGHT_EVERYONE"
+{
+	"text": "全員",
+	"version": "1",
+}
+"HIGHLIGHT_FRIENDS_ONLY"
+{
+	"text": "友達のみ",
+	"version": "1",
+}
+"HIGHLIGHT_NOONE"
+{
+	"text": "なし",
+	"version": "1",
+}
+"LABEL_Channels"
+{
+	"text": "ルーム",
+	"version": "1",
+}
+"LABEL_Clans"
+{
+	"text": "クラン",
+	"version": "1",
+}
+"LABEL_EditAccount"
+{
+	"text": "アカウント",
+	"version": "1",
+}
+"LABEL_EditProfile"
+{
+	"text": "プロファイル",
+	"version": "1",
+}
+"LABEL_Friends"
+{
+	"text": "友達",
+	"version": "1",
+}
+"LABEL_Help"
+{
+	"text": "ヘルプ",
+	"version": "1",
+}
+"LABEL_LaunchWC3"
+{
+	"text": "Warcraft IIIの起動",
+	"version": "1",
+}
+"LABEL_Library"
+{
+	"text": "ライブラリ",
+	"version": "1",
+}
+"LABEL_Servers"
+{
+	"text": "サーバー",
+	"version": "1",
+}
+"LABEL_Settings"
+{
+	"text": "設定",
+	"version": "1",
+}
+"LOGIN_ENTER_PASS"
+{
+	"text": "パスワードを入力してください。",
+	"version": "1",
+}
+"LOGIN_ENTER_USER"
+{
+	"text": "アカウント名を入力してください。",
+	"version": "1",
+}
+"LOGIN_INVALID_PASS"
+{
+	"text": "パスワードに無効な文字が含まれています。",
+	"version": "1",
+}
+"LOGIN_INVALID_USER"
+{
+	"text": "アカウント名に無効な文字が含まれています。",
+	"version": "1",
+}
+"MAIN_MENU_EXIT"
+{
+	"text": "終了",
+	"version": "1",
+}
+"MESSAGE_LASTSEEN"
+{
+	"text": "［%0が最後に見られたのは%1です］",
+	"version": "1",
+}
+"PROFILE_ACCOUNT"
+{
+	"text": "アカウント",
+	"version": "1",
+}
+"PROFILE_AGE"
+{
+	"text": "年齢：%0",
+	"version": "1",
+}
+"PROFILE_DESCRIPTION"
+{
+	"text": "説明",
+	"version": "1",
+}
+"PROFILE_EMAIL"
+{
+	"text": "メール：%0",
+	"version": "1",
+}
+"PROFILE_GAMES"
+{
+	"text": "ゲーム：%0",
+	"version": "1",
+}
+"PROFILE_GROUP_ACCESS"
+{
+	"text": "プラットフォーム アクセス",
+	"version": "1",
+}
+"PROFILE_GROUP_PERSONAL"
+{
+	"text": "個人情報",
+	"version": "1",
+}
+"PROFILE_LASTLOGIN"
+{
+	"text": "最終ログイン：%0",
+	"version": "1",
+}
+"PROFILE_NATIONALITY"
+{
+	"text": "国籍：%0",
+	"version": "1",
+}
+"PROFILE_REGISTERED"
+{
+	"text": "登録：%0",
+	"version": "1",
+}
+"PROFILE_RESIDENCY"
+{
+	"text": "住所：%0",
+	"version": "1",
+}
+"PROFILE_SEX"
+{
+	"text": "性別：%0",
+	"version": "1",
+}
+"PROFILE_SEX_FEMALE"
+{
+	"text": "女性",
+	"version": "1",
+}
+"PROFILE_SEX_MALE"
+{
+	"text": "男性",
+	"version": "1",
+}
+"REG_CANCEL"
+{
+	"text": "いいえ、既にアカウントを持っています",
+	"version": "1",
+}
+"REG_EMAIL"
+{
+	"text": "メール",
+	"version": "1",
+}
+"REG_EMAIL_CONFIRM"
+{
+	"text": "確認",
+	"version": "1",
+}
+"REG_ERR_EMAIL"
+{
+	"text": "メールアドレスを入力してください。",
+	"version": "1",
+}
+"REG_ERR_NAME"
+{
+	"text": "表示名を入力してください",
+	"version": "1",
+}
+"REG_ERR_NAME_SIZE"
+{
+	"text": "表示名は15文字を超えてはいけません",
+	"version": "1",
+}
+"REG_ERR_PASS"
+{
+	"text": "パスワードを入力してください。",
+	"version": "1",
+}
+"REG_ERR_USER"
+{
+	"text": "アカウント名を入力してください",
+	"version": "1",
+}
+"REG_ERR_USER_SIZE"
+{
+	"text": "アカウント名は15文字を超えてはいけません",
+	"version": "1",
+}
+"REG_INVALID_EMAIL"
+{
+	"text": "メールアドレスに無効な文字が含まれています",
+	"version": "1",
+}
+"REG_INVALID_NAME"
+{
+	"text": "表示名に無効な文字が含まれています",
+	"version": "1",
+}
+"REG_INVALID_NAME_WC3"
+{
+	"text": "表示名に|c、|nまたは|rが含まれています。これらの文字の組み合わせはサポートされていないため、名前を変更してください。",
+	"version": "1",
+}
+"REG_INVALID_USER"
+{
+	"text": "アカウント名に無効な文字が含まれています",
+	"version": "1",
+}
+"REG_MISMATCH_EMAIL"
+{
+	"text": "2つの異なるメールアドレスを入力しました。",
+	"version": "1",
+}
+"REG_MISMATCH_PASS"
+{
+	"text": "2つの異なるパスワードを入力しました。",
+	"version": "1",
+}
+"REG_NAME"
+{
+	"text": "表示名",
+	"version": "1",
+}
+"REG_PASS"
+{
+	"text": "パスワード",
+	"version": "1",
+}
+"REG_PASS_CONFIRM"
+{
+	"text": "確認",
+	"version": "1",
+}
+"REG_REGISTER"
+{
+	"text": "登録",
+	"version": "1",
+}
+"REG_USER"
+{
+	"text": "アカウント",
+	"version": "1",
+}
+"REG_VALID_EMAIL"
+{
+	"text": "有効なメールアドレスを入力してください。",
+	"version": "1",
+}
+"SERVERS_CHANNEL"
+{
+	"text": "ルーム",
+	"version": "1",
+}
+"SERVERS_GAME"
+{
+	"text": "ゲーム",
+	"version": "1",
+}
+"SERVERS_LATENCY"
+{
+	"text": "通信遅延",
+	"version": "1",
+}
+"SERVERS_MAP"
+{
+	"text": "マップ",
+	"version": "1",
+}
+"SERVERS_NAME"
+{
+	"text": "名前",
+	"version": "1",
+}
+"SERVERS_PLAYERS"
+{
+	"text": "プレイヤー",
+	"version": "1",
+}
+"SERVER_ALREADY_LOGGED_IN"
+{
+	"text": "ユーザーが既にログインしています。",
+	"version": "1",
+}
+"SERVER_CHANNEL_ALREADY_INSIDE"
+{
+	"text": "［%0］ ユーザーが既にチャネルに入っています。",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_ALREADY"
+{
+	"text": "コンピュータは既にBANされています。重ねてBANすることができません。",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_NOW"
+{
+	"text": "%0のコンピュータは%1によってBANされました。",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_ALREADY"
+{
+	"text": "コンピュータはプラットフォームからBANされていません。",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_NOW"
+{
+	"text": "%0のコンピュータのBANは%1によって撤回されました。",
+	"version": "1",
+}
+"SERVER_CHANNEL_NO_ACCESS"
+{
+	"text": "チャネルにアクセスできません。",
+	"version": "1",
+}
+"SERVER_CHANNEL_REJECTION_MESSAGE"
+{
+	"text": "［%0］ %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_ALREADY_VOUCHED"
+{
+	"text": "ユーザーは既にこのチャネルで保証されています。",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_ALREADY"
+{
+	"text": "ユーザーは既にBANされています。重ねてBANすることができません。",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_NOW"
+{
+	"text": "%0は%1によってBANされました。",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOT_VOUCHED"
+{
+	"text": "ユーザーはこのチャネルで保証されていません。",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOW_VOUCHED"
+{
+	"text": "%0は今、このチャネルで保証されています。",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_ALREADY"
+{
+	"text": "ユーザーはプラットフォームからBANされていません。",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_NOW"
+{
+	"text": "%0のBANは%1によって撤回されました。",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNVOUCHED"
+{
+	"text": "%0の保証が撤回されました。",
+	"version": "1",
+}
+"SERVER_CLIENTBANNED"
+{
+	"text": "BANされました。［理由:: %0］www.rankedgaming.comのフォーラムでBANについて抗議することができます。",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED"
+{
+	"text": "キックされました。［理由:: %0］",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_BY"
+{
+	"text": "%0は%1によってキックされました。",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_NOT_LOGGED_ON"
+{
+	"text": "ログインしていないユーザーをキックできません。",
+	"version": "1",
+}
+"SERVER_COMMAND_DB_INVALID_INPUT"
+{
+	"text": "データベース エラー。考えられる理由：無効な入力。",
+	"version": "1",
+}
+"SERVER_COMMAND_ON_NON_EXISTANT_USER"
+{
+	"text": "存在していなユーザーに対して次の動作を行えません：%0",
+	"version": "1",
+}
+"SERVER_COMPBANNED"
+{
+	"text": "コンピュータがバンされました。［理由:: %0］www.rankedgaming.comのフォーラムでバンを訴えることができます。",
+	"version": "1",
+}
+"SERVER_ERROR_ACCESSGROUP"
+{
+	"text": "アクセス グループが存在していません。",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION"
+{
+	"text": "許可エラー。ユーザーに自分より高いアクセス レベルを割り当てることができません。",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION_ADMIN"
+{
+	"text": "許可エラー。コマンドを自分より高いアクセス レベルのユーザーに適用することができません。",
+	"version": "1",
+}
+"SERVER_FRIEND_ADDED_YOU"
+{
+	"text": "%0はあなたをフレンドリストに追加しました。",
+	"version": "1",
+}
+"SERVER_FRIEND_ALREADY_ON"
+{
+	"text": "%0は既にフレンドリストに入っています。",
+	"version": "1",
+}
+"SERVER_FRIEND_MESSAGE_TO"
+{
+	"text": "皆さんへ：%0",
+	"version": "1",
+}
+"SERVER_FRIEND_NOT_ON"
+{
+	"text": "%0はフレンドリストに入っていません。",
+	"version": "1",
+}
+"SERVER_FRIEND_REMOVED_YOU"
+{
+	"text": "%0はあなたをフレンドリストから削除しました。",
+	"version": "1",
+}
+"SERVER_INVALID_PROFILE_VALUES"
+{
+	"text": "プロファイル変更を完了できませんでした。プロファイル フィールドが', !などの特別な値を含んでいないか確認してください。",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETACCESS"
+{
+	"text": "%0 is now %1 in this channel.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETGLOBALACCESS"
+{
+	"text": "%0 is now %1 on this platform.",
+	"version": "1",
+}
+"SERVER_PROFILE_CHANGED"
+{
+	"text": "プロファイルが正常に変更されました。",
+	"version": "1",
+}
+"SERVER_REGISTRATION_DATABASE_ERROR"
+{
+	"text": "データベース エラー。名前の中に\\\\ < ! ' \\\" >のような記号を使わないでください。",
+	"version": "1",
+}
+"SERVER_REGISTRATION_EMAIL_ALREADY_TAKEN"
+{
+	"text": "メールアドレスが既に使用されています。",
+	"version": "1",
+}
+"SERVER_REGISTRATION_NAME_ALREADY_TAKEN"
+{
+	"text": "表示名が既に使用されています。",
+	"version": "1",
+}
+"SERVER_REGISTRATION_USER_ALREADY_TAKEN"
+{
+	"text": "アカウント名が既に使用されています。",
+	"version": "1",
+}
+"SERVER_SPECIFIED_USERNAME_DOESNT_EXIST"
+{
+	"text": "指定したユーザー名は存在していません。",
+	"version": "1",
+}
+"SERVER_USERNAME_DOESNT_EXIST"
+{
+	"text": "ユーザー%0は存在していません。",
+	"version": "1",
+}
+"SERVER_WHISPER_NOT_LOGGED_IN"
+{
+	"text": "ユーザーがログインしていません。ささやきに失敗しました。",
+	"version": "1",
+}
+"SERVER_WRONG_LOGIN"
+{
+	"text": "ログインの詳細に誤りがあります。",
+	"version": "1",
+}
+"SETTINGS_TAB_CHAT"
+{
+	"text": "チャット",
+	"version": "1",
+}
+"SETTINGS_TAB_DOTA"
+{
+	"text": "DotA",
+	"version": "1",
+}
+"SETTINGS_TAB_FRIENDS"
+{
+	"text": "友達",
+	"version": "1",
+}
+"SETTINGS_TAB_OTHER"
+{
+	"text": "その他",
+	"version": "1",
+}
+"SETTINGS_TAB_SOUNDS"
+{
+	"text": "サウンド",
+	"version": "1",
+}
+"STATUS_AWAY"
+{
+	"text": "［ステータス］今、退席中です。",
+	"version": "1",
+}
+"STATUS_ONLINE"
+{
+	"text": "［ステータス］今、オンラインです。",
+	"version": "1",
+}
+"TITLE_CHANNELS"
+{
+	"text": "ルーム",
+	"version": "1",
+}
+"TITLE_CHANNEL_ADMIN"
+{
+	"text": "ルーム管理",
+	"version": "1",
+}
+"TITLE_CLANS"
+{
+	"text": "クラン",
+	"version": "1",
+}
+"TITLE_CLAN_INFO"
+{
+	"text": "クラン情報",
+	"version": "1",
+}
+"TITLE_CLAN_REGISTER"
+{
+	"text": "Myクラン",
+	"version": "1",
+}
+"TITLE_CONNECT"
+{
+	"text": "接続",
+	"version": "1",
+}
+"TITLE_EDIT_ACCOUNT"
+{
+	"text": "アカウントの管理",
+	"version": "1",
+}
+"TITLE_EDIT_PROFILE"
+{
+	"text": "プロファイルの編集",
+	"version": "1",
+}
+"TITLE_FRIENDS"
+{
+	"text": "ソーシャル",
+	"version": "1",
+}
+"TITLE_LIBRARY"
+{
+	"text": "ライブラリ",
+	"version": "1",
+}
+"TITLE_LOGIN"
+{
+	"text": "ログイン",
+	"version": "1",
+}
+"TITLE_MY_CLAN"
+{
+	"text": "Myクラン",
+	"version": "1",
+}
+"TITLE_PROFILE"
+{
+	"text": "プロファイル",
+	"version": "1",
+}
+"TITLE_REGISTER"
+{
+	"text": "登録",
+	"version": "1",
+}
+"TITLE_SERVERS"
+{
+	"text": "サーバー",
+	"version": "1",
+}
+"TITLE_SETTINGS"
+{
+	"text": "設定",
+	"version": "1",
+}
+"UI_FRIENDS_ADD"
+{
+	"text": "友達の追加",
+	"version": "1",
+}
+"UI_LOGIN_CONNECT"
+{
+	"text": "接続",
+	"version": "1",
+}
+"UI_LOGIN_FORGOT_PASSWORD"
+{
+	"text": "パスワードを忘れました",
+	"version": "1",
+}
+"UI_LOGIN_LOGIN"
+{
+	"text": "ログイン",
+	"version": "1",
+}
+"UI_LOGIN_PASS"
+{
+	"text": "パスワード",
+	"version": "1",
+}
+"UI_LOGIN_REGISTER"
+{
+	"text": "登録",
+	"version": "1",
+}
+"UI_LOGIN_SAVEPASS"
+{
+	"text": "（保存）",
+	"version": "1",
+}
+"UI_LOGIN_USER"
+{
+	"text": "アカウント",
+	"version": "1",
+}
+"UI_MAIN_MENU"
+{
+	"text": "メニュー",
+	"version": "1",
+}
+"UI_MAIN_START_GAME"
+{
+	"text": "ゲームの開始",
+	"version": "1",
+}
+"UI_SETTINGS_IGNORELIST"
+{
+	"text": "無視リスト",
+	"version": "1",
+}
+"UI_SETTINGS_IGNORE_CHAT"
+{
+	"text": "チャットルーム メッセージの無視",
+	"version": "1",
+}
+"UI_SETTINGS_IGNORE_HIGHLIGHT"
+{
+	"text": "ハイライトの無視",
+	"version": "1",
+}
+"UI_SETTINGS_IGNORE_PRIVATE"
+{
+	"text": "プライベート メッセージの無視",
+	"version": "1",
+}
+"UI_SHUTDOWN_THANKYOU"
+{
+	"text": "RGCをご利用いただきありがとうございます",
+	"version": "1",
+}
+"WHOIS_AWAY"
+{
+	"text": "%0は退席中です。",
+	"version": "1",
+}
+"WHOIS_INGAME"
+{
+	"text": "%0は%1をプレイしています。",
+	"version": "1",
+}
+"WHOIS_INGAME_PRIVATE"
+{
+	"text": "%0はプライベート ゲームをプレイしています。",
+	"version": "1",
+}
+"WHOIS_OFFLINE"
+{
+	"text": "%0はオフラインです。",
+	"version": "1",
+}
+"WHOIS_ONLINE"
+{
+	"text": "%0はオンライン です。",
+	"version": "1",
+}
+"bDotaPathFind"
+{
+	"text": "検索",
+	"version": "1",
+}
+"cOtherLogs"
+{
+	"text": "クライアント記録を有効にする",
+	"version": "1",
+}
+"cOtherMainExit"
+{
+	"text": "\"X\"（閉じる）ボタンをクリックしてからRGCを終了する",
+	"version": "1",
+}
+"cOtherMainMinimize"
+{
+	"text": "\"_\"（最小化）ボタンをクリックしてからRGCをタスクトレイにアイコン化する",
+	"version": "1",
+}
+"cRoomsJoinAll"
+{
+	"text": "ログイン時にアクセスできるすべてのルームに参加",
+	"version": "1",
+}
+"cSoundsGameHosted"
+{
+	"text": "ゲームがホストされました",
+	"version": "1",
+}
+"cSoundsGameStarted"
+{
+	"text": "ゲームの開始時にアラームを鳴らす",
+	"version": "1",
+}
+"cSoundsLogin"
+{
+	"text": "ログイン",
+	"version": "1",
+}
+"cSoundsShutdown"
+{
+	"text": "シャットダウン",
+	"version": "1",
+}
+"cTimestampGames"
+{
+	"text": "ゲーム ステータス アップデートのタイムスタンプ",
+	"version": "1",
+}
+"cTimestampMessages"
+{
+	"text": "チャット メッセージのタイムスタンプ",
+	"version": "1",
+}
+"cTimestampUpdates"
+{
+	"text": "ルーム アップデートのタイムスタンプ",
+	"version": "1",
+}
+"cmdSave"
+{
+	"text": "保存",
+	"version": "1",
+}
+"gFriends"
+{
+	"text": "フレンドリスト",
+	"version": "1",
+}
+"gFriendsMessageAway"
+{
+	"text": "友達が退席する時のメッセージ",
+	"version": "1",
+}
+"gFriendsMessageIngame"
+{
+	"text": "友達がゲームに参加する時のメッセージ",
+	"version": "1",
+}
+"gFriendsMessageOffline"
+{
+	"text": "友達がオフラインになる時のメッセージ",
+	"version": "1",
+}
+"gFriendsMessageOnline"
+{
+	"text": "友達がオンラインになる時のメッセージ",
+	"version": "1",
+}
+"gHighlight"
+{
+	"text": "ハイライト",
+	"version": "1",
+}
+"gHighlightAliases"
+{
+	"text": "名前のハイライト",
+	"version": "1",
+}
+"gOtherCustom"
+{
+	"text": "カスタマイズ",
+	"version": "1",
+}
+"gRoomsCustomList"
+{
+	"text": "ルームリストに自動参加",
+	"version": "1",
+}
+"gSounds"
+{
+	"text": "サウンド",
+	"version": "1",
+}
+"gTimestamps"
+{
+	"text": "タイムスタンプ",
+	"version": "1",
+}
+"lDotaLaunchOptions"
+{
+	"text": "起動オプション",
+	"version": "1",
+}
+"lDotaMode"
+{
+	"text": "標準モード",
+	"version": "1",
+}
+"lDotaPath"
+{
+	"text": "Warcraft III:The Frozen Throne（実行可能ファイル）",
+	"version": "1",
+}
+"lHighlight"
+{
+	"text": "次の状態の時にあなたをハイライトする人の権限を指定してください。",
+	"version": "1",
+}
+"lHighlightAway"
+{
+	"text": "退席中",
+	"version": "1",
+}
+"lHighlightIngame"
+{
+	"text": "プレイ中",
+	"version": "1",
+}
+"lHighlightOnline"
+{
+	"text": "オンライン ",
+	"version": "1",
+}
+"lOtherCustomLanguage"
+{
+	"text": "言語",
+	"version": "1",
+}
+"lOtherCustomSkin"
+{
+	"text": "スキン",
+	"version": "1",
+}
+"lOtherLogs"
+{
+	"text": "クライアント記録",
+	"version": "1",
+}
+"lOtherMain"
+{
+	"text": " メインウィンドウ ボタン",
+	"version": "1",
+}
+"lTimestampCustom"
+{
+	"text": "カスタム タイムスタンプ（下記の式を参照）",
+	"version": "1",
+}
+"lTimestampExpressions"
+{
+	"text": "式",
+	"version": "1",
+}
+"lTimestampExpressions2"
+{
+	"text": "詳細なリストを表示するには、グーグルで次のキーワードを検索します：\"QT QDateTime\"",
+	"version": "1",
+}
+"lTimestampSettings"
+{
+	"text": "設定",
+	"version": "1",
+}

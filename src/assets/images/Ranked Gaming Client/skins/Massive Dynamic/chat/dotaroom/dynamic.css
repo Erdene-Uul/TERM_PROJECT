@@ -1,0 +1,213 @@
+
+QLineEdit{background: transparent;
+          color: #fff;
+	  font-family:'calibri';
+	  font-weight: bold;
+	  font-size: 12px;
+}
+#Name {	color: #c2c2c2;
+	font-family: 'Calibri';
+	font-size: 14px;
+	font-weight: bold;
+	qproperty-alignment: 'AlignCenter';
+
+}
+#0Top{ background: url('0Top.png');}
+#1Top{ background: url('1Top.png') no-repeat;}
+#2Top{ background: url('2Top.png');}
+#3Top{ background: url('3Top.png');}
+#botborder{ background: url('botborder.png');}
+#Centerborder{ background: url('centerborder.png');}
+#Shadow2{ background: url('Shadowt') top;;}
+#Shadow1{ background: url~('header/Shadow.png') top;}
+#Chat1{ background: url('1.png');}
+#Chat2{ background: url('2.png');}
+
+#lstUsers QScrollBar:vertical {
+	background: #191919;
+	border-radius: 2px;
+    border: 0px solid #181818;
+    border-left: 1px solid transparent;
+    border-right: 0px solid black;
+    width: 5px;
+    margin: 0px;margin-top: 15px;margin-bottom: 15px;
+    margin-right: 0px; border-top: 1px solid #444;border-bottom: 1px solid #444;
+
+
+
+}
+
+#lstUsers QScrollBar::handle:vertical:hover {
+        background: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
+		stop:0 #6d87c7,
+		stop:1 #2f3d4a);}
+
+#lstUsers QScrollBar::handle:vertical {
+        background: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
+		stop:0 #677aab,
+		stop:1 #293540);
+	border: none;
+	margin: 0px;
+	width: 5px;
+	min-height: 75px;
+	border-radius: 2px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+}
+
+#lstUsers QScrollBar::up-arrow:vertical, 
+#lstUsers QScrollBar::down-arrow:vertical {
+  width: 0px;
+  height: 0px;
+}
+
+#lstUsers{
+	background: url('Untitled.png');
+	alternate-background-color: transparent;
+	padding-right: 0px;
+	qproperty-showGrid: false;
+	margin-left: 1px;
+	border: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+}
+
+#lstUsers::item{
+	border-bottom: 0px dotted rgb(140,140,140);
+border-left: none;
+}
+
+QTableView::item:selected { 
+        background-color: rgba(0,0,0,30);
+        margin-bottom: 1px;
+
+}
+
+#lstUsers #flag{ 
+	qproperty-alignment: AlignCenter;
+	border-top: none;
+	border-bottom: none;
+	border-left: none;
+        border-right: 0px solid rgb(188,188,188);
+        background:url('flag.png') no-repeat center;
+        user-select: none;
+}
+
+#lstUsers #name{
+	padding-left: 3px;
+	padding-top: 4px;
+	qproperty-alignment: AlignLeft;
+	font-family: 'Calibri';
+	font-weight: bold;
+	font-size: 13px;
+	color: #000;
+        margin-right: 2px;
+}
+#lstUsers #access,
+#lstUsers #access-dm,
+#lstUsers #access-gm,
+#lstUsers #xp{
+        font-weight: bold;
+	font-family: 'calibri';
+	font-size: 10px;
+	qproperty-alignment: AlignCenter;
+        padding-bottom: 2px;
+margin-top: 3px;
+margin-bottom: 5px;
+border-radius: 2px;
+
+
+}
+
+#lstUsers #access{
+	background: #466F23;
+	border: 1px solid #548a26;
+	color: #ffffff;
+        margin-right: 2px;
+        margin-left: 2px;
+}
+
+#lstUsers #access-dm{
+	background: #396a86;
+	border: 1px solid #4289b1;
+	color: #ffffff;
+        margin-right: 2px;
+        margin-left: 2px;
+}
+
+#lstUsers #access-gm{
+	background: #938227;
+	border: 1px solid #b9a32f;
+	color: #ffffff;
+        margin-right: 2px;
+        margin-left: 2px;
+}
+
+#lstUsers #xp{background: #414140;
+              color: #fff;
+              border-radius: 2px;
+              Border: 1px solid #646464;
+              margin-left: 5px;
+              margin-right: 3px;
+
+
+}
+
+
+
+#lstUsersShadowTop{background: url~('header/Shadow.png') top;
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+margin-left:2px;
+margin-right:0px;}
+#lstUsersShadowBot{background: url('Shadowt') top;
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+margin-left:2px;
+margin-right:0px;}
+
+
+#txtChat{
+	background-color: rgb(220,220,220);
+	font-family: Open Sans,Trebuchet MS;
+	color: #111;
+        border-radius: 3px;
+        font-weight: normal;
+
+}
+
+
+#txtChat QScrollBar:vertical {
+	background: transparent;
+        border: 0px solid #181818;
+        border-left: 0px solid transparent;
+	border-radius: 0px;
+	border-right: 0px solid black;
+	margin: 0px; 
+        margin-right: 0px;
+	width: 5px; margin-top: 1px; margin-bottom: 1px;
+}
+
+#txtChat QScrollBar::handle:vertical:hover {
+	background: qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:0,
+		stop:0 #151921,
+		stop:0.5 #6982bf,
+		stop:1 #6982bf);}
+
+#txtChat QScrollBar::handle:vertical {
+	background: qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:0,
+		stop:0 #151921,
+		stop:0.5 #627299,
+		stop:1 #677aab);
+	border: none;
+	border-radius: 3px;
+	margin: 0px;
+        margin-bottom: 1px;
+	margin-top: 1px;
+	min-height: 75px;
+	width: 5px;
+  	border-top-right-radius: 2px;
+  	border-bottom-right-radius: 2px;
+
+}

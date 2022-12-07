@@ -1,0 +1,1420 @@
+"ACP_CHANNEL_ADMINS"
+{
+	"text": "Admins",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENTS"
+{
+	"text": "Announcements",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_EDIT"
+{
+	"text": "Broyt",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_PREVIEW"
+{
+	"text": "Preview",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_SAVE"
+{
+	"text": "Goym",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_NAME"
+{
+	"text": "Navn",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_TITLE"
+{
+	"text": "Tittul",
+	"version": "1",
+}
+"BUDDYLIST_ADD"
+{
+	"text": "%0 er blivin addaður á tin vinarlista.",
+	"version": "1",
+}
+"BUDDYLIST_AWAY"
+{
+	"text": "Vinur tin %0 er nú away from keyboard.",
+	"version": "1",
+}
+"BUDDYLIST_INGAME"
+{
+	"text": "Vinur tin %0 er nú í %1",
+	"version": "1",
+}
+"BUDDYLIST_INGAME_PRIVATE"
+{
+	"text": "Vinur tin %0 er nú í einum privatum spælið.",
+	"version": "1",
+}
+"BUDDYLIST_OFFLINE"
+{
+	"text": "Vinur tin %0 er nú offline.",
+	"version": "1",
+}
+"BUDDYLIST_ONLINE"
+{
+	"text": "Vinur tín %0 er nú online.",
+	"version": "1",
+}
+"BUDDYLIST_REMOVE"
+{
+	"text": "%0 er blivin fjernaður av tínum vinarlista.",
+	"version": "1",
+}
+"CHAT_CHANNELS_CUSTOM"
+{
+	"text": "Custom Rúm",
+	"version": "1",
+}
+"CHAT_CHANNELS_LEAVE"
+{
+	"text": "Far úr rúmið",
+	"version": "1",
+}
+"CHAT_CHANNELS_OFFICIAL"
+{
+	"text": "Officiel rúm",
+	"version": "1",
+}
+"CHAT_CHANNELS_PRIVATE"
+{
+	"text": "Private Messages",
+	"version": "1",
+}
+"CHAT_CHANNEL_ALREADY_XXX"
+{
+	"text": "%1 er longu %0 í hesum rúminum.",
+	"version": "1",
+}
+"CHAT_CHANNEL_NOW_XXX"
+{
+	"text": "%1 er nú %0 í hesum rúminum.",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED"
+{
+	"text": "[%0] Tú ert nú timebannaður frá hesum rúminum inn til %2 klokkan %3. Grundgeving: %1",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED_NOW"
+{
+	"text": "%0 er nú timebannaður frá hesum ruminum inn til %1 klokkan %2.",
+	"version": "1",
+}
+"CHAT_JOINED"
+{
+	"text": "%0 joinaði kjattrúmið.",
+	"version": "1",
+}
+"CHAT_LEFT"
+{
+	"text": "%0 fór úr kjattrúminum.",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN"
+{
+	"text": "Admin",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_KICK"
+{
+	"text": "Kick",
+	"version": "1",
+}
+"CHAT_MENU_CLAN_VIEW"
+{
+	"text": "Vís Clan",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST"
+{
+	"text": "Vinalisti",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_ADD"
+{
+	"text": "Adda ein vin",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_REMOVE"
+{
+	"text": "Fjerna ein vin",
+	"version": "1",
+}
+"CHAT_MENU_HIGHLIGHT"
+{
+	"text": "Highlight",
+	"version": "1",
+}
+"CHAT_MENU_PROFILE"
+{
+	"text": "Profilur",
+	"version": "1",
+}
+"CHAT_MENU_WHISPER"
+{
+	"text": "Whisper",
+	"version": "1",
+}
+"CHAT_MENU_WHOIS"
+{
+	"text": "Whois",
+	"version": "1",
+}
+"CHAT_PRIVATE_CLOSE"
+{
+	"text": "Far úr samtalu",
+	"version": "1",
+}
+"CLAN_CREATE"
+{
+	"text": "Ger mína egnu Clan",
+	"version": "1",
+}
+"CLAN_CREATED"
+{
+	"text": "Stovnað",
+	"version": "1",
+}
+"CLAN_CREATOR"
+{
+	"text": "Stovnarið",
+	"version": "1",
+}
+"CLAN_EDIT_CHANGE"
+{
+	"text": "Broyt",
+	"version": "1",
+}
+"CLAN_EDIT_INVITE"
+{
+	"text": "Invitera",
+	"version": "1",
+}
+"CLAN_EDIT_KICK"
+{
+	"text": "Kick",
+	"version": "1",
+}
+"CLAN_EDIT_NAME"
+{
+	"text": "Navn",
+	"version": "1",
+}
+"CLAN_EDIT_SHOW"
+{
+	"text": "Vís",
+	"version": "1",
+}
+"CLAN_EDIT_TITLE_INVITE"
+{
+	"text": "Invitera Spælarir",
+	"version": "1",
+}
+"CLAN_ELO"
+{
+	"text": "ELO",
+	"version": "1",
+}
+"CLAN_LEAVE"
+{
+	"text": "Far úr mínari clan",
+	"version": "1",
+}
+"CLAN_REG_CREATE"
+{
+	"text": "Stovnað",
+	"version": "1",
+}
+"CLAN_REG_DISPLAY"
+{
+	"text": "Vís",
+	"version": "1",
+}
+"CLAN_REG_FULL_EX"
+{
+	"text": "Dømi: Fult navn: MYM^Maelk^Dota",
+	"version": "1",
+}
+"CLAN_REG_NAME"
+{
+	"text": "Navn",
+	"version": "1",
+}
+"CLAN_REG_NAME_EX"
+{
+	"text": "T.d Meet your Makers",
+	"version": "1",
+}
+"CLAN_REG_PREFIX"
+{
+	"text": "Prefix",
+	"version": "1",
+}
+"CLAN_REG_PREFIX_EX"
+{
+	"text": "T.d MYM^",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX"
+{
+	"text": "Suffix",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX_EX"
+{
+	"text": "T.d ^Dota",
+	"version": "1",
+}
+"CLAN_REG_TAG"
+{
+	"text": "Tag",
+	"version": "1",
+}
+"CLAN_REG_TAG_EX"
+{
+	"text": "T.d MYM",
+	"version": "1",
+}
+"CLAN_TITLE_DESCRIPTION"
+{
+	"text": "Frágreiðing",
+	"version": "1",
+}
+"CLAN_TITLE_Players"
+{
+	"text": "Spælarir",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY"
+{
+	"text": "-- AFK vinir.",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY_COLOR"
+{
+	"text": "Brúnt",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME"
+{
+	"text": "-- Ingame vinir.",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME_COLOR"
+{
+	"text": "Blátt",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE"
+{
+	"text": "<< Offline vinir.",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE_COLOR"
+{
+	"text": "reytt",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE"
+{
+	"text": ">> Online vinir.",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE_COLOR"
+{
+	"text": "Grønt",
+	"version": "1",
+}
+"DOTA_OPEN_GAMES"
+{
+	"text": "Opin Spøl",
+	"version": "1",
+}
+"DOTA_RUNNING_GAMES"
+{
+	"text": "Koyrandi spøl",
+	"version": "1",
+}
+"DOTA_SIGN"
+{
+	"text": "Sign",
+	"version": "1",
+}
+"DOTA_SIGNED_PLAYERS"
+{
+	"text": "Signaðir Spælarir",
+	"version": "1",
+}
+"DOTA_STARTED_GAMES"
+{
+	"text": "Startaði Spøl",
+	"version": "1",
+}
+"DOTA_UNSIGN"
+{
+	"text": "Unsign",
+	"version": "1",
+}
+"EDIT_ACCOUNT_CHANGE"
+{
+	"text": "Broyt",
+	"version": "1",
+}
+"EDIT_ACCOUNT_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_GET_TOKEN"
+{
+	"text": "Keyp Rename",
+	"version": "1",
+}
+"EDIT_ACCOUNT_NAME"
+{
+	"text": "Navn",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD"
+{
+	"text": "Núverandi Loyniorð",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_CONFIRM"
+{
+	"text": "Góðkenn nýggja loyniorðið",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_NEW"
+{
+	"text": "Nýtt Loyniorð",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_NAME"
+{
+	"text": "Navn",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_PASSWORD"
+{
+	"text": "Loyniorð",
+	"version": "1",
+}
+"EDIT_PRFOILE_DESCRIPTION"
+{
+	"text": "Frágreiðing",
+	"version": "1",
+}
+"EDIT_PROFILE_AVATAR"
+{
+	"text": "Avatar",
+	"version": "1",
+}
+"EDIT_PROFILE_CHANGE"
+{
+	"text": "Send Broytingar",
+	"version": "1",
+}
+"EDIT_PROFILE_DOB"
+{
+	"text": "Føðingardagsdato",
+	"version": "1",
+}
+"EDIT_PROFILE_FIRST_NAME"
+{
+	"text": "Fornavn",
+	"version": "1",
+}
+"EDIT_PROFILE_LAST_NAME"
+{
+	"text": "Eftirnavn",
+	"version": "1",
+}
+"EDIT_PROFILE_NATIONALITY"
+{
+	"text": "Nationalitetur",
+	"version": "1",
+}
+"EDIT_PROFILE_RESIDENCY"
+{
+	"text": "Bústaður",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX"
+{
+	"text": "Kyn",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_ANONYMOUS"
+{
+	"text": "N/A",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_FEMALE"
+{
+	"text": "Kvinna",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_MALE"
+{
+	"text": "Maður",
+	"version": "1",
+}
+"EDIT_PROFILE_TITLE"
+{
+	"text": "Persónlig Informatión",
+	"version": "1",
+}
+"ERROR_CCY"
+{
+	"text": "Kann ikki %0 teg sjálvan.",
+	"version": "1",
+}
+"FRIENDS_AWAY"
+{
+	"text": "Away",
+	"version": "1",
+}
+"FRIENDS_INGAME"
+{
+	"text": "Ingame",
+	"version": "1",
+}
+"FRIENDS_OFFLINE"
+{
+	"text": "Offline",
+	"version": "1",
+}
+"FRIENDS_ONLINE"
+{
+	"text": "Online",
+	"version": "1",
+}
+"GAME_ENDED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C er enda. ",
+	"version": "1",
+}
+"GAME_HOSTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C er blivið creata.",
+	"version": "1",
+}
+"GAME_STARTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C er starta.",
+	"version": "1",
+}
+"HIGHLIGHT_EVERYONE"
+{
+	"text": "Øll.",
+	"version": "1",
+}
+"HIGHLIGHT_FRIENDS_ONLY"
+{
+	"text": "Bert vinir.",
+	"version": "1",
+}
+"HIGHLIGHT_NOONE"
+{
+	"text": "Eingin.",
+	"version": "1",
+}
+"LABEL_Channels"
+{
+	"text": "Rúm",
+	"version": "1",
+}
+"LABEL_Clans"
+{
+	"text": "Clans",
+	"version": "1",
+}
+"LABEL_EditAccount"
+{
+	"text": "Konta",
+	"version": "1",
+}
+"LABEL_EditProfile"
+{
+	"text": "Profilur",
+	"version": "1",
+}
+"LABEL_Friends"
+{
+	"text": "Vinir",
+	"version": "1",
+}
+"LABEL_Help"
+{
+	"text": "Hjálp",
+	"version": "1",
+}
+"LABEL_LaunchWC3"
+{
+	"text": "Launch Warcraft III",
+	"version": "1",
+}
+"LABEL_Library"
+{
+	"text": "Søga",
+	"version": "1",
+}
+"LABEL_Servers"
+{
+	"text": "Servarir",
+	"version": "1",
+}
+"LABEL_Settings"
+{
+	"text": "Innstillingar",
+	"version": "1",
+}
+"LOGIN_ENTER_PASS"
+{
+	"text": "Vinarliga skriva eitt loyniorð.",
+	"version": "1",
+}
+"LOGIN_ENTER_USER"
+{
+	"text": "Vinarliga skriva eitt brúkaranavn.",
+	"version": "1",
+}
+"LOGIN_INVALID_PASS"
+{
+	"text": "Loyniorð titt inniheldur ógyldaðar bókstavir.",
+	"version": "1",
+}
+"LOGIN_INVALID_USER"
+{
+	"text": "Brúkaranavn títt inniheldur ógyldaðar bókstavir.",
+	"version": "1",
+}
+"MAIN_MENU_EXIT"
+{
+	"text": "Broyt",
+	"version": "1",
+}
+"MESSAGE_LASTSEEN"
+{
+	"text": "[0% seinast sæddur á %1]",
+	"version": "1",
+}
+"PROFILE_ACCOUNT"
+{
+	"text": "Konta",
+	"version": "1",
+}
+"PROFILE_AGE"
+{
+	"text": "Aldur: %0",
+	"version": "1",
+}
+"PROFILE_DESCRIPTION"
+{
+	"text": "Frágreiðing",
+	"version": "1",
+}
+"PROFILE_EMAIL"
+{
+	"text": "Email: %0",
+	"version": "1",
+}
+"PROFILE_GAMES"
+{
+	"text": "Spøl: %0",
+	"version": "1",
+}
+"PROFILE_GROUP_ACCESS"
+{
+	"text": "Atgongd á Klientinum",
+	"version": "1",
+}
+"PROFILE_GROUP_PERSONAL"
+{
+	"text": "Persónlig Informatión",
+	"version": "1",
+}
+"PROFILE_LASTLOGIN"
+{
+	"text": "Seinasta log inn: %0",
+	"version": "1",
+}
+"PROFILE_NATIONALITY"
+{
+	"text": "Nationalitetur: %0",
+	"version": "1",
+}
+"PROFILE_REGISTERED"
+{
+	"text": "Registrerað/ur: %0",
+	"version": "1",
+}
+"PROFILE_RESIDENCY"
+{
+	"text": "Bústaður: %0",
+	"version": "1",
+}
+"PROFILE_SEX"
+{
+	"text": "Kyn: %0",
+	"version": "1",
+}
+"PROFILE_SEX_FEMALE"
+{
+	"text": "Kvinna",
+	"version": "1",
+}
+"PROFILE_SEX_MALE"
+{
+	"text": "Maður",
+	"version": "1",
+}
+"REG_CANCEL"
+{
+	"text": "Nei takk, eg havi longu ein brukara",
+	"version": "1",
+}
+"REG_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"REG_EMAIL_CONFIRM"
+{
+	"text": "Confirm",
+	"version": "1",
+}
+"REG_ERR_EMAIL"
+{
+	"text": "Vinarliga skriva eina email-adressu.",
+	"version": "1",
+}
+"REG_ERR_NAME"
+{
+	"text": "Vinarliga skriva eitt display navn",
+	"version": "1",
+}
+"REG_ERR_NAME_SIZE"
+{
+	"text": "Display navnið hjá tær kann ikki innihalda meira enn 15 bókstavir.",
+	"version": "1",
+}
+"REG_ERR_PASS"
+{
+	"text": "Vinarliga skriva eitt loyniorð.",
+	"version": "1",
+}
+"REG_ERR_USER"
+{
+	"text": "Vinarliga skriva eitt brúkara navn",
+	"version": "1",
+}
+"REG_ERR_USER_SIZE"
+{
+	"text": "Brúkaranavnið hjá tær kann ikki innihalda meira enn 15 bókstavir.",
+	"version": "1",
+}
+"REG_INVALID_EMAIL"
+{
+	"text": "Tín email adressa inniheldur ógildaðar bókstavir.",
+	"version": "1",
+}
+"REG_INVALID_NAME"
+{
+	"text": "Títt display navn inniheldur ógildaðar bókstavir.",
+	"version": "1",
+}
+"REG_INVALID_NAME_WC3"
+{
+	"text": "Títt display navn inniheldur antin |c, |n ella |r. Hasar samansetingarnar av bókstavum eru ikki loyvdar, vinarliga broyt navn.",
+	"version": "1",
+}
+"REG_INVALID_USER"
+{
+	"text": "Brúkaranavn titt inniheldur ógildaðar bókstavir",
+	"version": "1",
+}
+"REG_MISMATCH_EMAIL"
+{
+	"text": "Tú hevur skriva tvær forskelligar email adressur.",
+	"version": "1",
+}
+"REG_MISMATCH_PASS"
+{
+	"text": "Tú hevur skriva tvey forskelling loyniorð.",
+	"version": "1",
+}
+"REG_NAME"
+{
+	"text": "Display Navn",
+	"version": "1",
+}
+"REG_PASS"
+{
+	"text": "Loyniorð",
+	"version": "1",
+}
+"REG_PASS_CONFIRM"
+{
+	"text": "Confirm",
+	"version": "1",
+}
+"REG_REGISTER"
+{
+	"text": "Registrera",
+	"version": "1",
+}
+"REG_USER"
+{
+	"text": "Konta",
+	"version": "1",
+}
+"REG_VALID_EMAIL"
+{
+	"text": "Vinarliga skriva eina virkandi email-adressu.",
+	"version": "1",
+}
+"SERVERS_CHANNEL"
+{
+	"text": "Rúm",
+	"version": "1",
+}
+"SERVERS_GAME"
+{
+	"text": "Spæl",
+	"version": "1",
+}
+"SERVERS_LATENCY"
+{
+	"text": "Latency",
+	"version": "1",
+}
+"SERVERS_MAP"
+{
+	"text": "Map",
+	"version": "1",
+}
+"SERVERS_NAME"
+{
+	"text": "Navn",
+	"version": "1",
+}
+"SERVERS_PLAYERS"
+{
+	"text": "Spælarir",
+	"version": "1",
+}
+"SERVER_ALREADY_LOGGED_IN"
+{
+	"text": "Brúkarin er longu online.",
+	"version": "1",
+}
+"SERVER_CHANNEL_ALREADY_INSIDE"
+{
+	"text": "[%0] Tú ert longu í hesum rúminum.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_ALREADY"
+{
+	"text": "Hendan teldan er longu bannað. Tú kanst ikki bannað hana enn eina ferð.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_NOW"
+{
+	"text": "Teldan hjá %0 bleiv bannað av %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_ALREADY"
+{
+	"text": "Handan teldan er ikki bannað frá klientinum.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_NOW"
+{
+	"text": "Teldan hjá %0 bleiv unbannað av %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_NO_ACCESS"
+{
+	"text": "Tú hevur ikki atgongd til hatta rúmið.",
+	"version": "1",
+}
+"SERVER_CHANNEL_REJECTION_MESSAGE"
+{
+	"text": "[%0] %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_ALREADY_VOUCHED"
+{
+	"text": "Hesin brúkarin er longu vouchaður í hesum rúminum.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_ALREADY"
+{
+	"text": "Hasin brúkarin er longu bannaður. Tú kanst ikki seta enn eitt ban á hann.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_NOW"
+{
+	"text": "%0 bleiv bannaður av %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOT_VOUCHED"
+{
+	"text": "Hasin brúkarin er ikki vouchaður í hesum rúminum.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOW_VOUCHED"
+{
+	"text": "%0 er nú vouchaður í hesum rúminum.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_ALREADY"
+{
+	"text": "Hesin brúkarin er ikki bannaður frá klientinum.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_NOW"
+{
+	"text": "%0 bleiv unbannaður av %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNVOUCHED"
+{
+	"text": "%0 er nú unvouchaður.",
+	"version": "1",
+}
+"SERVER_CLIENTBANNED"
+{
+	"text": "Tú ert bannaður [Grundgeving :: %0] Tú kanst søkja um eitt unban á forums @ www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED"
+{
+	"text": "Tú vart kickaður [Grund :: %0]",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_BY"
+{
+	"text": "%0 bleiv kickaður av %1.",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_NOT_LOGGED_ON"
+{
+	"text": "Tú kanst ikki kicka ein brúkara, ið ikki er online.",
+	"version": "1",
+}
+"SERVER_COMMAND_DB_INVALID_INPUT"
+{
+	"text": "Database feilur. Møgulig grund: Invalid Input.",
+	"version": "1",
+}
+"SERVER_COMMAND_ON_NON_EXISTANT_USER"
+{
+	"text": "Kann ikki %0 ein brúkara, ið ikki finst.",
+	"version": "1",
+}
+"SERVER_COMPBANNED"
+{
+	"text": "Teldan hjá tær er bannað. [Grundgeving :: %0] Tú kanst søkja um eitt unban á forums @ www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_ERROR_ACCESSGROUP"
+{
+	"text": "Handan accessgroup finst ikki.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION"
+{
+	"text": "Atgongds feilur. Tú kanst ikki geva onkrum meira atgongd enn hvat tú sjálvur hevur.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION_ADMIN"
+{
+	"text": "Atgongd Nokta. Tú kanst ikki brúka hesa commandina á onkran ið hevur meira atgongd enn hvat tú sjálvur hevur.",
+	"version": "1",
+}
+"SERVER_FRIEND_ADDED_YOU"
+{
+	"text": "%0 hevur koyrt teg á sin vinarlista.",
+	"version": "1",
+}
+"SERVER_FRIEND_ALREADY_ON"
+{
+	"text": "%0 er longu á tinum vínarlista.",
+	"version": "1",
+}
+"SERVER_FRIEND_MESSAGE_TO"
+{
+	"text": "Til Øll: %0",
+	"version": "1",
+}
+"SERVER_FRIEND_NOT_ON"
+{
+	"text": "%0 er ikki á tínum vinarlista.",
+	"version": "1",
+}
+"SERVER_FRIEND_REMOVED_YOU"
+{
+	"text": "%0 hevur koyrt teg av tínum vinarlista.",
+	"version": "1",
+}
+"SERVER_INVALID_PROFILE_VALUES"
+{
+	"text": "Broytingarnar á tinum profili kundu ikki fullførast. Vinarliga hygg eftir at tygum ikki hava nøkur serlig symbol (so sum ', !, osv..) í tinum profil innstillingum.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETACCESS"
+{
+	"text": "%0 er nú %1 í hesum rúminum.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETGLOBALACCESS"
+{
+	"text": "%0 er nú %1 á hesum klientinum.",
+	"version": "1",
+}
+"SERVER_PROFILE_CHANGED"
+{
+	"text": "Broytingarnar á profili tinum eru fullførdar.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_DATABASE_ERROR"
+{
+	"text": "Database feilur. Ikki brúka symbolir sum \\\\ < ! ' \\\" > í navnið tinum.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_EMAIL_ALREADY_TAKEN"
+{
+	"text": "Hasin emailurin er longu í brúk.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_NAME_ALREADY_TAKEN"
+{
+	"text": "Hatta display navnið er longu í brúk.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_USER_ALREADY_TAKEN"
+{
+	"text": "Hatta brúkaranavnið er longu í brúk.",
+	"version": "1",
+}
+"SERVER_SPECIFIED_USERNAME_DOESNT_EXIST"
+{
+	"text": "Hatta brúkaranavnið finst ikki.",
+	"version": "1",
+}
+"SERVER_USERNAME_DOESNT_EXIST"
+{
+	"text": "Brúkarin %0 finst ikki.",
+	"version": "1",
+}
+"SERVER_WHISPER_NOT_LOGGED_IN"
+{
+	"text": "Brúkarin er ikki online. Whisper virkaði ikki.",
+	"version": "1",
+}
+"SERVER_WRONG_LOGIN"
+{
+	"text": "Skeivar log inn detaljur.",
+	"version": "1",
+}
+"SETTINGS_TAB_CHAT"
+{
+	"text": "Kjatt.",
+	"version": "1",
+}
+"SETTINGS_TAB_DOTA"
+{
+	"text": "DotA",
+	"version": "1",
+}
+"SETTINGS_TAB_FRIENDS"
+{
+	"text": "Vinir.",
+	"version": "1",
+}
+"SETTINGS_TAB_OTHER"
+{
+	"text": "Annað.",
+	"version": "1",
+}
+"SETTINGS_TAB_SOUNDS"
+{
+	"text": "Ljóð.",
+	"version": "1",
+}
+"STATUS_AWAY"
+{
+	"text": "[STATUS] Tú ert nú away from keyboard.",
+	"version": "1",
+}
+"STATUS_ONLINE"
+{
+	"text": "[STATUS] Tú ert nú online.",
+	"version": "1",
+}
+"TITLE_CHANNELS"
+{
+	"text": "Rúm",
+	"version": "1",
+}
+"TITLE_CHANNEL_ADMIN"
+{
+	"text": "Room Administratión",
+	"version": "1",
+}
+"TITLE_CLANS"
+{
+	"text": "Clans",
+	"version": "1",
+}
+"TITLE_CLAN_INFO"
+{
+	"text": "Informatión um Clanina",
+	"version": "1",
+}
+"TITLE_CLAN_REGISTER"
+{
+	"text": "Mín Clan",
+	"version": "1",
+}
+"TITLE_CONNECT"
+{
+	"text": "Connect",
+	"version": "1",
+}
+"TITLE_EDIT_ACCOUNT"
+{
+	"text": "Kontuásetingar",
+	"version": "1",
+}
+"TITLE_EDIT_PROFILE"
+{
+	"text": "Broyt Profil",
+	"version": "1",
+}
+"TITLE_FRIENDS"
+{
+	"text": "Vinir",
+	"version": "1",
+}
+"TITLE_LIBRARY"
+{
+	"text": "Søga",
+	"version": "1",
+}
+"TITLE_LOGIN"
+{
+	"text": "Logga inn",
+	"version": "1",
+}
+"TITLE_MY_CLAN"
+{
+	"text": "Mín Clan",
+	"version": "1",
+}
+"TITLE_PROFILE"
+{
+	"text": "Profilur",
+	"version": "1",
+}
+"TITLE_REGISTER"
+{
+	"text": "Register",
+	"version": "1",
+}
+"TITLE_SERVERS"
+{
+	"text": "Servarir",
+	"version": "1",
+}
+"TITLE_SETTINGS"
+{
+	"text": "Innstillingar",
+	"version": "1",
+}
+"UI_LOGIN_CONNECT"
+{
+	"text": "Connect",
+	"version": "1",
+}
+"UI_LOGIN_LOGIN"
+{
+	"text": "Logga inn",
+	"version": "1",
+}
+"UI_LOGIN_PASS"
+{
+	"text": "Loyniorð",
+	"version": "1",
+}
+"UI_LOGIN_REGISTER"
+{
+	"text": "Register",
+	"version": "1",
+}
+"UI_LOGIN_SAVEPASS"
+{
+	"text": "(goym)",
+	"version": "1",
+}
+"UI_LOGIN_USER"
+{
+	"text": "Konta",
+	"version": "1",
+}
+"UI_SHUTDOWN_THANKYOU"
+{
+	"text": "Takk fyri at tú brúkti RGC",
+	"version": "1",
+}
+"WHOIS_AWAY"
+{
+	"text": "%0 er away from keyboard.",
+	"version": "1",
+}
+"WHOIS_INGAME"
+{
+	"text": "%0 er í %1.",
+	"version": "1",
+}
+"WHOIS_INGAME_PRIVATE"
+{
+	"text": "%0 er í einum privatum spælið.",
+	"version": "1",
+}
+"WHOIS_OFFLINE"
+{
+	"text": "%0 er offline.",
+	"version": "1",
+}
+"WHOIS_ONLINE"
+{
+	"text": "%0 er online.",
+	"version": "1",
+}
+"bDotaPathFind"
+{
+	"text": "Finn.",
+	"version": "1",
+}
+"cOtherLogs"
+{
+	"text": "Set klientin til at behalda logbøkir.",
+	"version": "1",
+}
+"cOtherMainExit"
+{
+	"text": "Far úr RGC ta ið \"X\" (Lukka niður) knappurin er trýstur.",
+	"version": "1",
+}
+"cOtherMainMinimize"
+{
+	"text": "Minimera RGC til værktøjslinjuna tá ið \"_\" (Minimize) knappurin er trýstur.",
+	"version": "1",
+}
+"cOtherVisualsFullscreen"
+{
+	"text": "Opna klientin í fullscreen mode.",
+	"version": "1",
+}
+"cRoomsJoinAll"
+{
+	"text": "Joina øll rum eg havi atgongd til tá ið eg loggi á.",
+	"version": "1",
+}
+"cSoundsGameHosted"
+{
+	"text": "Títt spæl er hosta.",
+	"version": "1",
+}
+"cSoundsGameStarted"
+{
+	"text": "Alarmur tá ið titt spæl startar.",
+	"version": "1",
+}
+"cSoundsLogin"
+{
+	"text": "Log in.",
+	"version": "1",
+}
+"cSoundsShutdown"
+{
+	"text": "Shutdown.",
+	"version": "1",
+}
+"cTimestampGames"
+{
+	"text": "Tíðarlinjur av spæl updateringum",
+	"version": "1",
+}
+"cTimestampMessages"
+{
+	"text": "Tíðarlinjur av kjattboðum",
+	"version": "1",
+}
+"cTimestampUpdates"
+{
+	"text": "Tíðarlinjur av rúm updateringum",
+	"version": "1",
+}
+"cmdSave"
+{
+	"text": "Goym",
+	"version": "1",
+}
+"gFriends"
+{
+	"text": "Vinarlisti",
+	"version": "1",
+}
+"gFriendsMessageAway"
+{
+	"text": "Boð, tá ið ein vinur fer AFK.",
+	"version": "1",
+}
+"gFriendsMessageIngame"
+{
+	"text": "Boð, tá ið ein vinur joinar eitt spæl.",
+	"version": "1",
+}
+"gFriendsMessageOffline"
+{
+	"text": "Boð, tá ið ein vinur loggar av.",
+	"version": "1",
+}
+"gFriendsMessageOnline"
+{
+	"text": "Boð, tá ið ein vinur loggar á.",
+	"version": "1",
+}
+"gHighlight"
+{
+	"text": "Highlight.",
+	"version": "1",
+}
+"gHighlightAliases"
+{
+	"text": "Highlight nøvn.",
+	"version": "1",
+}
+"gOtherCustom"
+{
+	"text": "Cumstomization.",
+	"version": "1",
+}
+"gRooms"
+{
+	"text": "Rúm",
+	"version": "1",
+}
+"gRoomsCustomList"
+{
+	"text": "Custom List.",
+	"version": "1",
+}
+"gSounds"
+{
+	"text": "Ljóð.",
+	"version": "1",
+}
+"gTimestamps"
+{
+	"text": "Tíðarlinjur",
+	"version": "1",
+}
+"lDotaLaunchOptions"
+{
+	"text": "Launch Options.",
+	"version": "1",
+}
+"lDotaMode"
+{
+	"text": "Default Mode.",
+	"version": "1",
+}
+"lDotaPath"
+{
+	"text": "Warcraft III: The Frozen Throne (Executable)",
+	"version": "1",
+}
+"lHighlight"
+{
+	"text": "Vel hvørji fólk kunnu highlighta teg meðan tú ert...",
+	"version": "1",
+}
+"lHighlightAway"
+{
+	"text": "Away.",
+	"version": "1",
+}
+"lHighlightIngame"
+{
+	"text": "Ingame.",
+	"version": "1",
+}
+"lHighlightOnline"
+{
+	"text": "Online.",
+	"version": "1",
+}
+"lOtherCustomLanguage"
+{
+	"text": "Mál.",
+	"version": "1",
+}
+"lOtherCustomSkin"
+{
+	"text": "Skin.",
+	"version": "1",
+}
+"lOtherLogs"
+{
+	"text": "Klient logbók.",
+	"version": "1",
+}
+"lOtherMain"
+{
+	"text": "Høvuðs vindeyga knappar.",
+	"version": "1",
+}
+"lOtherVisuals"
+{
+	"text": "Visuals.",
+	"version": "1",
+}
+"lTimestampCustom"
+{
+	"text": "Møguligar tíðarlinjur (Sí dømi niðanfyri)",
+	"version": "1",
+}
+"lTimestampExpressions"
+{
+	"text": "Dømi.",
+	"version": "1",
+}
+"lTimestampExpressions2"
+{
+	"text": "Fyri ein detaljeraðan lista, vinarliga sí :\\nhttp://doc.trolltech.com/4.5/qdatetime.html#toString\\nOR Google: \"QT QDateTime\"",
+	"version": "1",
+}
+"lTimestampSettings"
+{
+	"text": "Innstillingar",
+	"version": "1",
+}

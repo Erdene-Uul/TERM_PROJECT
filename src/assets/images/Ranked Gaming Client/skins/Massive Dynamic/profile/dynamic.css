@@ -1,0 +1,218 @@
+QWidget#containerwidget {
+        background: url('Profile BG.png');
+}
+	
+/* QLabel */
+QLabel {
+	font-weight: bold;
+	font-family: 'Trebuchet MS';
+	font-size: 12px;
+	color: #c6c6c6;
+	text-transform: capitalize;
+
+}
+
+#lblGames { color: #dbdbdb;
+	font-weight: Bold;
+	font-family: 'Calibri';
+	font-size: 12px;
+}
+
+#txtRgid { color: #dbdbdb;
+	font-weight: Bold;
+	font-family: 'Calibri';
+	font-size: 12px;
+        qproperty-textInteractionFlags: 'TextSelectableByMouse';
+}
+
+#lblAccount, #lblDescription_desc, #lblExpressionsDesc {
+	color: #F6EAAB;
+	font-family: 'Open Sans';
+	font-size: 13px;
+	font-weight: 700;
+	text-transform: uppercase;
+
+}
+#lblLastLogin{	font-weight: bold;
+	font-family: 'Calibri';
+	font-size: 11px;
+	color: #aaa;
+	text-transform: uppercase;
+}
+
+#lblExpressionsDesc, #lblLastLogin, #lblAccount, #lblGames, #lblDescription_desc {qproperty-alignment: 'AlignCenter';
+}
+
+#lblDescription { 
+	background: transparent;
+        border-top: 0px solid rgb(0, 0, 0);
+	border-bottom: 0px solid rgb(0, 0, 0);
+	border-left: 0px solid #000;
+	border-right: 0px solid #000;
+	border-radius: 4px;
+	color: #aaa;
+	font-family: 'Calibri';
+	font-size: 12px;
+	padding-bottom: 2px;
+	qproperty-alignment: 'AlignTop';
+	qproperty-textInteractionFlags: 'TextSelectableByMouse';
+	qproperty-wordWrap: true;
+	font-weight: normal;
+}
+
+#tableAccess{border-top: 1px solid rgb(15, 15, 15);
+	border-bottom: 1px solid rgb(15, 15, 15);
+	border-left: 1px solid rgb(15, 15, 15);
+	border-right: 1px solid rgb(15, 15, 15);
+	border-radius: 4px;}
+
+
+#lblTitle, #lblTitle2{
+	font-family: Calibri,Helvetica,arial;
+	font-weight: bold;
+	qproperty-alignment: 'AlignCenter';
+}
+
+
+
+
+#lblName {
+	color: rgb(240,240,240);
+	font-family: Myriad Pro,calibri,Helvetica, arial;
+	font-size: 16px;
+	font-weight: bold;
+	qproperty-alignment: 'AlignCenter';
+}
+
+/* QTableView */
+QTableView {
+	qproperty-verticalScrollBarPolicy: 'ScrollBarAlwaysOn';
+	qproperty-horizontalScrollBarPolicy: 'ScrollBarAlwaysOff';
+	qproperty-editTriggers: 'NoEditTriggers';
+	qproperty-selectionMode: 'SingleSelection';
+	qproperty-selectionBehavior: 'SelectRows';
+}
+
+/* QTableView */
+QTableView {background: rgba(35, 35, 35);
+	border-top: 0px solid rgb(0, 0, 0);
+	border-bottom: 0px solid rgb(0, 0, 0);
+	border-left: 0px solid #000;
+	border-right: 0px solid #000;
+	border-radius: 2px;
+	color: #aaa;
+	font-family: 'Open Sans';
+	font-size: 12px;
+	gridline-color: transparent;
+	outline: none;
+	qproperty-alternatingRowColors: true;
+	qproperty-editTriggers: 'NoEditTriggers';
+        alternate-background-color: rgba(32, 32, 32);
+        qproperty-showGrid: false;
+	font-weight: normal;
+
+}
+
+QHeaderView::section {
+	background: rgb(32, 32, 32);
+	border:none;
+	color: #F6EAAB;
+	font-weight: bold;
+	outline: none;
+	padding: 6px;
+
+}
+QHeaderView {
+	background-color: rgb(32, 32, 32);
+	border-right: transparent;
+}
+QTableView QTableCornerButton::section {
+	background: rgb(32, 32, 32);
+	border:none;
+	border-radius: 2px;
+}
+
+QTableView::item:selected { 
+	background-color: #173039;
+	border-radius: 3px;
+}
+
+#avatarmask { background: url('avatarmask.png');}
+
+
+
+QProgressBar{
+	background: rgba(5,5,5, 50);
+        border: 1px solid rgb(30,30,30);
+        border-radius: 3px;
+        text-align: center;
+        color: #F6EAAB;
+}
+
+QProgressBar::chunk { 	background: qlineargradient( x1:0 y1:1, x2:1 y2:0, stop:0 #38557F, stop:0.3 #38557F, stop:0.7 #08999E, stop:1 #09DDDA );
+	border-radius: 3px;
+	border-right: 0px solid #47ff65;
+	color: #47ff65;
+	padding: 4px 10px;
+        border: 1px solid rgba(5,5,5, 50);
+	text-align: center;
+}
+
+QScrollBar:vertical {
+	background: transparent;
+        border: 0px solid #181818;
+        border-left: 0px solid transparent;
+	border-radius: 0px;
+	border-right: 0px solid black;
+	margin: 0px; padding-right: 0px;
+        margin-right: 0px;
+	width: 7px; margin-top: 1px;
+}
+
+QScrollBar::handle:vertical:hover {
+	background:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
+		stop:0 #697aa3,
+		stop:1 #000);}
+
+QScrollBar::handle:vertical {
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
+		stop:0 #5d6c90,
+		stop:1 #000);
+	border: none;
+	border-radius: 2px;
+	margin: 0px;
+        margin-bottom: 1px;
+	margin-top: 1px;
+	min-height: 50px;
+	width: 6px;
+}
+
+QScrollBar::add-line:vertical { 
+	background-image: none;
+	border: none;
+}
+
+QScrollBar::add-line:vertical:hover {
+	background: transparent;
+}
+
+QScrollBar::sub-line:vertical { 
+	background-image: none;
+	border: none;
+}
+
+QScrollBar::sub-line:vertical:hover {
+	background: none;
+}
+
+QScrollBar::up-arrow:vertical {
+	background: transparent;
+	border: none;
+	image: none;
+}
+
+QScrollBar::down-arrow:vertical {
+	background: transparent;
+	border: none;
+	image: none;
+}

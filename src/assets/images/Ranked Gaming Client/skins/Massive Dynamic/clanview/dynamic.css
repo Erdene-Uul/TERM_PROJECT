@@ -1,0 +1,162 @@
+QWidget#containerwidget {
+	background: rgb(20,20,20);
+}
+
+#header { 
+	background: url('Clanbg.png');
+}
+
+/* QGroupBox */
+QGroupBox {
+	color: #b9c6ce;
+	font-family: 'Comic Sans MS';
+	font-size: 13px;
+	font-weight: normal;
+}
+
+/* QLabel */
+QLabel {color: #999; 
+	font-family: Calibri,Helvetica,arial;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+
+
+
+/* QTextEdit */
+QTextEdit {
+	background: transparent;
+        border-radius: 3px;
+	color: #aaa;
+	font-family: Calibri,Open Sans,Trebuchet MS;
+	font-size: 12px;
+	padding: 2px;
+	qproperty-acceptRichText: false;
+}
+
+/* QListWidget */
+QListWidget {
+	background: transparent;
+        border-radius: 3px;
+	color: #aaa;
+	font-family: Calibri,Open Sans,Trebuchet MS;
+	font-size: 12px;
+	padding-bottom: 4px;
+
+
+}
+
+QListWidget::item:hover{margin-right: 1px;
+	background: url('user-bg') bottom no-repeat #3e384a; 
+	border-radius: 1px;
+}
+QListWidget::item:selected:active,QListWidget::item:selected:!active {background: url('user-bg') bottom no-repeat #3e384a; padding-bottom: 4px;
+	color: #fff; margin-right: 1px;
+
+}
+QListWidget::item{height: 22px; background: url('user-bg') bottom no-repeat; padding-bottom: 4px;
+}
+
+QGroupBox#gDescription , QLabel#lblName , QLabel#lblCreated {
+	qproperty-alignment: 'AlignLeft';
+}
+
+QGroupBox#gPlayers , QLabel#lblCreated_desc {
+	qproperty-alignment: 'AlignRight';
+}
+
+
+QLabel#lblName {
+	color: rgb(230,230,230);
+	font-size: 18px;
+        font-family: Calibri,Open Sans,Trebuchet MS;
+	qproperty-alignment: 'AlignLeft';
+}
+
+QTextEdit#txtDescription {
+	qproperty-readOnly: true;
+}
+
+/* QPushButton */
+QPushButton {
+	background: url('button.png');
+	border: none;
+	color: rgb(220,220,220);
+	font-family: Calibri,Open Sans,Trebuchet MS;
+	font-size: 12px;
+	font-weight: 300;
+	padding-bottom: 0px;
+	text-transform: none;
+}
+
+QPushButton:hover {
+	background: url('button-h.png');
+	color: rgb(235,235,235);
+}
+
+QPushButton:pressed {
+	background: url('button-p.png');
+	color: rgb(255,255,255);
+}
+
+
+
+QScrollBar:vertical {
+	background: transparent;
+        border: 0px solid #181818;
+        border-left: 0px solid transparent;
+	border-radius: 0px;
+	border-right: 0px solid black;
+	margin: 0px; padding-right: 0px;
+        margin-right: 0px;
+	width: 6px; margin-top: 1px;
+}
+
+QScrollBar::handle:vertical:hover {
+	background:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
+		stop:0 #697aa3,
+		stop:1 #000);}
+
+QScrollBar::handle:vertical {
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
+		stop:0 #5d6c90,
+		stop:1 #000);
+	border: none;
+	border-radius: 2px;
+	margin: 0px;
+        margin-bottom: 1px;
+	margin-top: 1px;
+	min-height: 25px;
+	width: 6px;
+}
+
+QScrollBar::add-line:vertical { 
+	background-image: none;
+	border: none;
+}
+
+QScrollBar::add-line:vertical:hover {
+	background: transparent;
+}
+
+QScrollBar::sub-line:vertical { 
+	background-image: none;
+	border: none;
+}
+
+QScrollBar::sub-line:vertical:hover {
+	background: none;
+}
+
+QScrollBar::up-arrow:vertical {
+	background: transparent;
+	border: none;
+	image: none;
+}
+
+QScrollBar::down-arrow:vertical {
+	background: transparent;
+	border: none;
+	image: none;
+}

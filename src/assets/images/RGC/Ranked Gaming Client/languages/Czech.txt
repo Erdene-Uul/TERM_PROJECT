@@ -1,0 +1,1495 @@
+"ACP_CHANNEL_ADMINS"
+{
+	"text": "Správci",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENTS"
+{
+	"text": "Oznámení",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_EDIT"
+{
+	"text": "Upravit",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_PREVIEW"
+{
+	"text": "Náhled",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_SAVE"
+{
+	"text": "Uložit",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_NAME"
+{
+	"text": "Jméno",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_TITLE"
+{
+	"text": "Titul",
+	"version": "1",
+}
+"ACTION_IGNORE_ADDED"
+{
+	"text": "%0 byl přidán do vašeho seznamu ignorovaných",
+	"version": "1",
+}
+"ACTION_IGNORE_ALREADY"
+{
+	"text": "%0 je již ve vašem seznamu ignorovaných",
+	"version": "1",
+}
+"ACTION_IGNORE_NOT_FOUND"
+{
+	"text": "%0 není ve vašem seznamu ignorovaných",
+	"version": "1",
+}
+"ACTION_IGNORE_REMOVED"
+{
+	"text": "%0 byl odstraněn z vašeho seznamu ignorovaných",
+	"version": "1",
+}
+"BUDDYLIST_ADD"
+{
+	"text": "%0 byl přidán do vašeho seznamu přátel.",
+	"version": "1",
+}
+"BUDDYLIST_AWAY"
+{
+	"text": "Váš přítel %0 je nyní vzdálen od klávesnice.",
+	"version": "1",
+}
+"BUDDYLIST_INGAME"
+{
+	"text": "Váš přítel %0 je nyní v %1.",
+	"version": "1",
+}
+"BUDDYLIST_INGAME_PRIVATE"
+{
+	"text": "Váš přítel %0 je nyní v soukromé hře.",
+	"version": "1",
+}
+"BUDDYLIST_OFFLINE"
+{
+	"text": "Váš přítel %0 je nyní offline.",
+	"version": "1",
+}
+"BUDDYLIST_ONLINE"
+{
+	"text": "Váš přítel %0 je nyní online.",
+	"version": "1",
+}
+"BUDDYLIST_REMOVE"
+{
+	"text": "%0 byl odstraněn z vašeho seznamu přátel.",
+	"version": "1",
+}
+"CHAT_AUTOJOIN_DISABLED"
+{
+	"text": "Po přihlášení již nebudete automaticky vstupovat do %0",
+	"version": "1",
+}
+"CHAT_AUTOJOIN_ENABLED"
+{
+	"text": "Po přihlášení nyní budete automaticky vstupovat do %0",
+	"version": "1",
+}
+"CHAT_CHANNELS_CUSTOM"
+{
+	"text": "Vlastní kanály",
+	"version": "1",
+}
+"CHAT_CHANNELS_LEAVE"
+{
+	"text": "Opustit kanál",
+	"version": "1",
+}
+"CHAT_CHANNELS_OFFICIAL"
+{
+	"text": "Oficiální kanály",
+	"version": "1",
+}
+"CHAT_CHANNELS_PRIVATE"
+{
+	"text": "Soukromé zprávy",
+	"version": "1",
+}
+"CHAT_CHANNEL_ALREADY_XXX"
+{
+	"text": "%1 je již %0 v tomto kanálu.",
+	"version": "1",
+}
+"CHAT_CHANNEL_NOW_XXX"
+{
+	"text": "%1 je nyní %0 v tomto kanálu.",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED"
+{
+	"text": "[%0] Byli jste zakázáni na tomto kanálu na dobu do %2 %3. Důvod: %1",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED_NOW"
+{
+	"text": "%0 je nyní zakázán(a) na tomto kanálu do %1 %2",
+	"version": "1",
+}
+"CHAT_JOINED"
+{
+	"text": "%0 vstoupil do chatovací místnosti.",
+	"version": "1",
+}
+"CHAT_LEFT"
+{
+	"text": "%0 opustil chatovací místnost.",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN"
+{
+	"text": "Správce",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_KICK"
+{
+	"text": "Vyloučit",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_TIMEBAN"
+{
+	"text": "Časový zákaz",
+	"version": "1",
+}
+"CHAT_MENU_AUTOJOIN"
+{
+	"text": "Automatický vstup",
+	"version": "1",
+}
+"CHAT_MENU_AUTOJOIN_DISABLE"
+{
+	"text": "Zakázat",
+	"version": "1",
+}
+"CHAT_MENU_AUTOJOIN_ENABLE"
+{
+	"text": "Povolit",
+	"version": "1",
+}
+"CHAT_MENU_CLAN_VIEW"
+{
+	"text": "Zobrazit klan",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST"
+{
+	"text": "Seznam přátel",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_ADD"
+{
+	"text": "Přidat přítele",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_REMOVE"
+{
+	"text": "Odstranit přítele",
+	"version": "1",
+}
+"CHAT_MENU_HIGHLIGHT"
+{
+	"text": "Zvýraznit",
+	"version": "1",
+}
+"CHAT_MENU_IGNORE"
+{
+	"text": "Ignorovat",
+	"version": "1",
+}
+"CHAT_MENU_IGNORE_ADD"
+{
+	"text": "Přidat",
+	"version": "1",
+}
+"CHAT_MENU_IGNORE_REMOVE"
+{
+	"text": "Odstranit",
+	"version": "1",
+}
+"CHAT_MENU_PROFILE"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"CHAT_MENU_WHISPER"
+{
+	"text": "Whisper",
+	"version": "1",
+}
+"CHAT_MENU_WHOIS"
+{
+	"text": "Whois",
+	"version": "1",
+}
+"CHAT_NOTIFY_IGNORED"
+{
+	"text": "Jste na seznamu ignorovaných tohoto uživatele - vaše zprávy nebudou zobrazeny",
+	"version": "1",
+}
+"CHAT_PRIVATE_CLOSE"
+{
+	"text": "Ukončit konverzaci",
+	"version": "1",
+}
+"CLAN_CREATE"
+{
+	"text": "Vytvořit vlastní klan",
+	"version": "1",
+}
+"CLAN_CREATED"
+{
+	"text": "Vytvořeno",
+	"version": "1",
+}
+"CLAN_CREATOR"
+{
+	"text": "Vytvořil",
+	"version": "1",
+}
+"CLAN_EDIT_CHANGE"
+{
+	"text": "Změnit",
+	"version": "1",
+}
+"CLAN_EDIT_INVITE"
+{
+	"text": "Pozvat",
+	"version": "1",
+}
+"CLAN_EDIT_KICK"
+{
+	"text": "Vyloučit",
+	"version": "1",
+}
+"CLAN_EDIT_NAME"
+{
+	"text": "Název",
+	"version": "1",
+}
+"CLAN_EDIT_SHOW"
+{
+	"text": "Zobrazit",
+	"version": "1",
+}
+"CLAN_EDIT_TITLE_INVITE"
+{
+	"text": "Pozvat hráče",
+	"version": "1",
+}
+"CLAN_ELO"
+{
+	"text": "ELO",
+	"version": "1",
+}
+"CLAN_LEAVE"
+{
+	"text": "Opustit klan",
+	"version": "1",
+}
+"CLAN_REG_CREATE"
+{
+	"text": "Vytvořit",
+	"version": "1",
+}
+"CLAN_REG_DISPLAY"
+{
+	"text": "Zobrazit",
+	"version": "1",
+}
+"CLAN_REG_FULL_EX"
+{
+	"text": "Úplné vzorové jméno: MYM^Maelk^DotA",
+	"version": "1",
+}
+"CLAN_REG_NAME"
+{
+	"text": "Jméno",
+	"version": "1",
+}
+"CLAN_REG_NAME_EX"
+{
+	"text": "např. Setkejte se Stvořiteli",
+	"version": "1",
+}
+"CLAN_REG_PREFIX"
+{
+	"text": "Předpona",
+	"version": "1",
+}
+"CLAN_REG_PREFIX_EX"
+{
+	"text": "např. MYM^",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX"
+{
+	"text": "Přípona",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX_EX"
+{
+	"text": "např. ^DotA",
+	"version": "1",
+}
+"CLAN_REG_TAG"
+{
+	"text": "Tag",
+	"version": "1",
+}
+"CLAN_REG_TAG_EX"
+{
+	"text": "např. MYM",
+	"version": "1",
+}
+"CLAN_TITLE_DESCRIPTION"
+{
+	"text": "Popis",
+	"version": "1",
+}
+"CLAN_TITLE_Players"
+{
+	"text": "Hráči",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY"
+{
+	"text": "Přátelé AFK",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME"
+{
+	"text": "Přátelé ve hře",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE"
+{
+	"text": "Přátelé offline",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE"
+{
+	"text": "Přátelé online",
+	"version": "1",
+}
+"DOTA_OPEN_GAMES"
+{
+	"text": "Otevřené hry",
+	"version": "1",
+}
+"DOTA_RUNNING_GAMES"
+{
+	"text": "Běžící hry",
+	"version": "1",
+}
+"DOTA_SIGN"
+{
+	"text": "Přihlásit",
+	"version": "1",
+}
+"DOTA_SIGNED_PLAYERS"
+{
+	"text": "Přihlášení hráči",
+	"version": "1",
+}
+"DOTA_STARTED_GAMES"
+{
+	"text": "Spuštěné hry",
+	"version": "1",
+}
+"DOTA_UNSIGN"
+{
+	"text": "Zrušit přihlášení",
+	"version": "1",
+}
+"EDIT_ACCOUNT_CHANGE"
+{
+	"text": "Změnit",
+	"version": "1",
+}
+"EDIT_ACCOUNT_EMAIL"
+{
+	"text": "E-mail",
+	"version": "1",
+}
+"EDIT_ACCOUNT_GET_TOKEN"
+{
+	"text": "Koupit přejmenovat",
+	"version": "1",
+}
+"EDIT_ACCOUNT_NAME"
+{
+	"text": "Jméno",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD"
+{
+	"text": "Aktuální heslo",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_CONFIRM"
+{
+	"text": "Potvrdit nové heslo",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_NEW"
+{
+	"text": "Nové heslo",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_EMAIL"
+{
+	"text": "E-mail",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_NAME"
+{
+	"text": "Jméno",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_PASSWORD"
+{
+	"text": "Heslo",
+	"version": "1",
+}
+"EDIT_PRFOILE_DESCRIPTION"
+{
+	"text": "Popis",
+	"version": "1",
+}
+"EDIT_PROFILE_AVATAR"
+{
+	"text": "Avatar",
+	"version": "1",
+}
+"EDIT_PROFILE_CHANGE"
+{
+	"text": "Odeslat změny",
+	"version": "1",
+}
+"EDIT_PROFILE_DOB"
+{
+	"text": "Datum narození",
+	"version": "1",
+}
+"EDIT_PROFILE_FIRST_NAME"
+{
+	"text": "Křestní jméno",
+	"version": "1",
+}
+"EDIT_PROFILE_LAST_NAME"
+{
+	"text": "Příjmení",
+	"version": "1",
+}
+"EDIT_PROFILE_NATIONALITY"
+{
+	"text": "Národnost",
+	"version": "1",
+}
+"EDIT_PROFILE_RESIDENCY"
+{
+	"text": "Bydliště",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX"
+{
+	"text": "Pohlaví",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_ANONYMOUS"
+{
+	"text": "N/A",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_FEMALE"
+{
+	"text": "žena",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_MALE"
+{
+	"text": "muž",
+	"version": "1",
+}
+"EDIT_PROFILE_TITLE"
+{
+	"text": "Osobní údaje",
+	"version": "1",
+}
+"ERROR_CCY"
+{
+	"text": "Nelze %0 sám.",
+	"version": "1",
+}
+"FRIENDS_AWAY"
+{
+	"text": "Vzdálený",
+	"version": "1",
+}
+"FRIENDS_INGAME"
+{
+	"text": "Ve hře",
+	"version": "1",
+}
+"FRIENDS_OFFLINE"
+{
+	"text": "Offline",
+	"version": "1",
+}
+"FRIENDS_ONLINE"
+{
+	"text": "Online",
+	"version": "1",
+}
+"GAME_ENDED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C byl ukončen.",
+	"version": "1",
+}
+"GAME_HOSTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C byl hostován.",
+	"version": "1",
+}
+"GAME_STARTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C byl zahájen.",
+	"version": "1",
+}
+"HIGHLIGHT_EVERYONE"
+{
+	"text": "Všichni",
+	"version": "1",
+}
+"HIGHLIGHT_FRIENDS_ONLY"
+{
+	"text": "Pouze přátelé",
+	"version": "1",
+}
+"HIGHLIGHT_NOONE"
+{
+	"text": "Nikdo",
+	"version": "1",
+}
+"LABEL_Channels"
+{
+	"text": "Místnosti",
+	"version": "1",
+}
+"LABEL_Clans"
+{
+	"text": "Klany",
+	"version": "1",
+}
+"LABEL_EditAccount"
+{
+	"text": "Účet",
+	"version": "1",
+}
+"LABEL_EditProfile"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"LABEL_Friends"
+{
+	"text": "Přátelé",
+	"version": "1",
+}
+"LABEL_Help"
+{
+	"text": "Nápověda",
+	"version": "1",
+}
+"LABEL_LaunchWC3"
+{
+	"text": "Spustit Warcraft III",
+	"version": "1",
+}
+"LABEL_Library"
+{
+	"text": "Knihovna",
+	"version": "1",
+}
+"LABEL_Servers"
+{
+	"text": "Servery",
+	"version": "1",
+}
+"LABEL_Settings"
+{
+	"text": "Nastavení",
+	"version": "1",
+}
+"LOGIN_ENTER_PASS"
+{
+	"text": "Zadejte heslo.",
+	"version": "1",
+}
+"LOGIN_ENTER_USER"
+{
+	"text": "Zadejte název účtu.",
+	"version": "1",
+}
+"LOGIN_INVALID_PASS"
+{
+	"text": "Heslo obsahuje neplatné znaky.",
+	"version": "1",
+}
+"LOGIN_INVALID_USER"
+{
+	"text": "Název účtu obsahuje neplatné znaky.",
+	"version": "1",
+}
+"MAIN_MENU_EXIT"
+{
+	"text": "Konec",
+	"version": "1",
+}
+"MESSAGE_LASTSEEN"
+{
+	"text": "[%0 byl naposledy viděn %1]",
+	"version": "1",
+}
+"PROFILE_ACCOUNT"
+{
+	"text": "Účet",
+	"version": "1",
+}
+"PROFILE_AGE"
+{
+	"text": "Věk: %0",
+	"version": "1",
+}
+"PROFILE_DESCRIPTION"
+{
+	"text": "Popis",
+	"version": "1",
+}
+"PROFILE_EMAIL"
+{
+	"text": "E-mail: %0",
+	"version": "1",
+}
+"PROFILE_GAMES"
+{
+	"text": "Hry: %0",
+	"version": "1",
+}
+"PROFILE_GROUP_ACCESS"
+{
+	"text": "Přístup k platformě",
+	"version": "1",
+}
+"PROFILE_GROUP_PERSONAL"
+{
+	"text": "Osobní údaje",
+	"version": "1",
+}
+"PROFILE_LASTLOGIN"
+{
+	"text": "Poslední přihlášení: %0",
+	"version": "1",
+}
+"PROFILE_NATIONALITY"
+{
+	"text": "Národnost: %0",
+	"version": "1",
+}
+"PROFILE_REGISTERED"
+{
+	"text": "Registrován: %0",
+	"version": "1",
+}
+"PROFILE_RESIDENCY"
+{
+	"text": "Bydliště: %0",
+	"version": "1",
+}
+"PROFILE_SEX"
+{
+	"text": "Pohlaví: %0",
+	"version": "1",
+}
+"PROFILE_SEX_FEMALE"
+{
+	"text": "žena",
+	"version": "1",
+}
+"PROFILE_SEX_MALE"
+{
+	"text": "muž",
+	"version": "1",
+}
+"REG_CANCEL"
+{
+	"text": "Ne, díky",
+	"version": "1",
+}
+"REG_EMAIL"
+{
+	"text": "E-mail",
+	"version": "1",
+}
+"REG_EMAIL_CONFIRM"
+{
+	"text": "Potvrdit",
+	"version": "1",
+}
+"REG_ERR_EMAIL"
+{
+	"text": "Zadejte e-mailovou adresu.",
+	"version": "1",
+}
+"REG_ERR_NAME"
+{
+	"text": "Zadejte zobrazované jméno",
+	"version": "1",
+}
+"REG_ERR_NAME_SIZE"
+{
+	"text": "Vaše zobrazované jméno nesmí obsahovat více než 15 znaků",
+	"version": "1",
+}
+"REG_ERR_PASS"
+{
+	"text": "Zadejte heslo.",
+	"version": "1",
+}
+"REG_ERR_USER"
+{
+	"text": "Zadejte název účtu",
+	"version": "1",
+}
+"REG_ERR_USER_SIZE"
+{
+	"text": "Název vašeho účtu nesmí obsahovat více než 15 znaků",
+	"version": "1",
+}
+"REG_INVALID_EMAIL"
+{
+	"text": "Vaše e-mailová adresa obsahuje neplatné znaky.",
+	"version": "1",
+}
+"REG_INVALID_NAME"
+{
+	"text": "Vaše zobrazované jméno obsahuje neplatné znaky",
+	"version": "1",
+}
+"REG_INVALID_NAME_WC3"
+{
+	"text": "Vaše zobrazované jméno obsahuje obojí - |c",
+	"version": "1",
+}
+"REG_INVALID_USER"
+{
+	"text": "Název vašeho účtu obsahuje neplatné znaky",
+	"version": "1",
+}
+"REG_MISMATCH_EMAIL"
+{
+	"text": "Zadali jste 2 různé e-mailové adresy.",
+	"version": "1",
+}
+"REG_MISMATCH_PASS"
+{
+	"text": "Zadali jste 2 různá hesla.",
+	"version": "1",
+}
+"REG_NAME"
+{
+	"text": "Zobrazované jméno",
+	"version": "1",
+}
+"REG_PASS"
+{
+	"text": "Heslo",
+	"version": "1",
+}
+"REG_PASS_CONFIRM"
+{
+	"text": "Potvrdit",
+	"version": "1",
+}
+"REG_REGISTER"
+{
+	"text": "Registrovat",
+	"version": "1",
+}
+"REG_USER"
+{
+	"text": "Účet",
+	"version": "1",
+}
+"REG_VALID_EMAIL"
+{
+	"text": "Zadejte platnou e-mailovou adresu.",
+	"version": "1",
+}
+"SERVERS_CHANNEL"
+{
+	"text": "Místnost",
+	"version": "1",
+}
+"SERVERS_GAME"
+{
+	"text": "Hra",
+	"version": "1",
+}
+"SERVERS_LATENCY"
+{
+	"text": "Zpoždění",
+	"version": "1",
+}
+"SERVERS_MAP"
+{
+	"text": "Mapa",
+	"version": "1",
+}
+"SERVERS_NAME"
+{
+	"text": "Název",
+	"version": "1",
+}
+"SERVERS_PLAYERS"
+{
+	"text": "Hráči",
+	"version": "1",
+}
+"SERVER_ALREADY_LOGGED_IN"
+{
+	"text": "Uživatel již přihlášen.",
+	"version": "1",
+}
+"SERVER_CHANNEL_ALREADY_INSIDE"
+{
+	"text": "[%0] Jste již v tomto kanálu.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_ALREADY"
+{
+	"text": "Tento počítač je již zakázán. Nelze jej opakovaně zakázat.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_NOW"
+{
+	"text": "Počítač %0 byl zakázán %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_ALREADY"
+{
+	"text": "Tento počítač není zakázán na platformě.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_NOW"
+{
+	"text": "%1 zrušil zákaz počítače %0.",
+	"version": "1",
+}
+"SERVER_CHANNEL_NO_ACCESS"
+{
+	"text": "Nemáte přístup k tomuto kanálu.",
+	"version": "1",
+}
+"SERVER_CHANNEL_REJECTION_MESSAGE"
+{
+	"text": "[%0] %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_ALREADY_VOUCHED"
+{
+	"text": "Tento uživatel je již potvrzen v tomto kanálu.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_ALREADY"
+{
+	"text": "Tento uživatel je již zakázán. Nelze jej opakovaně zakázat.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_NOW"
+{
+	"text": "%0 byl zakázán %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOT_VOUCHED"
+{
+	"text": "Tento uživatel není potvrzen v tomto kanálu.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOW_VOUCHED"
+{
+	"text": "%0 je nyní potvrzen v tomto kanálu.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_ALREADY"
+{
+	"text": "Tento uživatel není zakázán na platformě.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_NOW"
+{
+	"text": "%1 zrušil zákaz %0.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNVOUCHED"
+{
+	"text": "%0 bylo zrušeno potvrzení.",
+	"version": "1",
+}
+"SERVER_CLIENTBANNED"
+{
+	"text": "Byli jste zakázáni. [Důvod :: %0] Proti zákazu se můžete odvolat na adrese forums @ www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED"
+{
+	"text": "Byli jste vyloučeni. [Důvod :: %0]",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_BY"
+{
+	"text": "%1 vyloučil %0.",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_NOT_LOGGED_ON"
+{
+	"text": "Nelze vyloučit uživatele, který není přihlášen.",
+	"version": "1",
+}
+"SERVER_COMMAND_DB_INVALID_INPUT"
+{
+	"text": "Chyba databáze. Možná příčina: neplatný vstup.",
+	"version": "1",
+}
+"SERVER_COMMAND_ON_NON_EXISTANT_USER"
+{
+	"text": "Nelze %0 neexistujícího uživatele.",
+	"version": "1",
+}
+"SERVER_COMPBANNED"
+{
+	"text": "Váš počítač byl zakázán. [Důvod :: %0] Proti zákazu se můžete odvolat na adrese forums @ www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_ERROR_ACCESSGROUP"
+{
+	"text": "Tato přístupová skupina neexistuje.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION"
+{
+	"text": "Chyba povolení. Nemůžete někomu jinému nastavit vyšší přístup, než máte sami.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION_ADMIN"
+{
+	"text": "Chyba povolení. Nemůžete použít tento příkaz na někoho s vyšším přístupem, než máte sami.",
+	"version": "1",
+}
+"SERVER_FRIEND_ADDED_YOU"
+{
+	"text": "%0 si vás přidal(a) do svého seznamu přátel.",
+	"version": "1",
+}
+"SERVER_FRIEND_ALREADY_ON"
+{
+	"text": "%0 je již ve vašem seznamu přátel.",
+	"version": "1",
+}
+"SERVER_FRIEND_MESSAGE_TO"
+{
+	"text": "Všem: %0",
+	"version": "1",
+}
+"SERVER_FRIEND_NOT_ON"
+{
+	"text": "%0 není ve vašem seznamu přátel.",
+	"version": "1",
+}
+"SERVER_FRIEND_REMOVED_YOU"
+{
+	"text": "%0 vás odstranil(a) ze svého seznamu přátel.",
+	"version": "1",
+}
+"SERVER_INVALID_PROFILE_VALUES"
+{
+	"text": "Změnu vašeho profilu nelze dokončit. Zkontrolujte, zda jste neuvedli žádné speciální hodnoty (např. '",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETACCESS"
+{
+	"text": "%0 je nyní %1 na tomto kanálu.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETGLOBALACCESS"
+{
+	"text": "%0 je nyní %1 na této platformě.",
+	"version": "1",
+}
+"SERVER_PROFILE_CHANGED"
+{
+	"text": "Váš profil byl úspěšně změněn.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_DATABASE_ERROR"
+{
+	"text": "„Chyba databáze. Ve svém jménu nepoužívejte symboly typu \\\\ < ! ' \\\"\" >.“",
+	"version": "1",
+}
+"SERVER_REGISTRATION_EMAIL_ALREADY_TAKEN"
+{
+	"text": "Tato e-mailová adresa je již používána.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_NAME_ALREADY_TAKEN"
+{
+	"text": "Toto zobrazované jméno je již používáno",
+	"version": "1",
+}
+"SERVER_REGISTRATION_USER_ALREADY_TAKEN"
+{
+	"text": "Tento název účtu je již používán",
+	"version": "1",
+}
+"SERVER_SPECIFIED_USERNAME_DOESNT_EXIST"
+{
+	"text": "Uvedené uživatelské jméno neexistuje.",
+	"version": "1",
+}
+"SERVER_USERNAME_DOESNT_EXIST"
+{
+	"text": "Uživatel %0 neexistuje.",
+	"version": "1",
+}
+"SERVER_WHISPER_NOT_LOGGED_IN"
+{
+	"text": "Tento uživatel není přihlášen. Whisper nefunguje.",
+	"version": "1",
+}
+"SERVER_WRONG_LOGIN"
+{
+	"text": "Nesprávné přihlašovací údaje",
+	"version": "1",
+}
+"SETTINGS_TAB_CHAT"
+{
+	"text": "Chat",
+	"version": "1",
+}
+"SETTINGS_TAB_DOTA"
+{
+	"text": "DotA",
+	"version": "1",
+}
+"SETTINGS_TAB_FRIENDS"
+{
+	"text": "Přátelé",
+	"version": "1",
+}
+"SETTINGS_TAB_OTHER"
+{
+	"text": "Ostatní",
+	"version": "1",
+}
+"SETTINGS_TAB_SOUNDS"
+{
+	"text": "Zvuky",
+	"version": "1",
+}
+"STATUS_AWAY"
+{
+	"text": "[STAV] Nyní jste vzdálen(a) od klávesnice.",
+	"version": "1",
+}
+"STATUS_ONLINE"
+{
+	"text": "[STAV] Nyní jste online.",
+	"version": "1",
+}
+"TITLE_CHANNELS"
+{
+	"text": "Místnosti",
+	"version": "1",
+}
+"TITLE_CHANNEL_ADMIN"
+{
+	"text": "Správa místností",
+	"version": "1",
+}
+"TITLE_CLANS"
+{
+	"text": "Klany",
+	"version": "1",
+}
+"TITLE_CLAN_INFO"
+{
+	"text": "Informace o klanu",
+	"version": "1",
+}
+"TITLE_CLAN_REGISTER"
+{
+	"text": "Můj klan",
+	"version": "1",
+}
+"TITLE_CONNECT"
+{
+	"text": "Připojit",
+	"version": "1",
+}
+"TITLE_EDIT_ACCOUNT"
+{
+	"text": "Správa účtu",
+	"version": "1",
+}
+"TITLE_EDIT_PROFILE"
+{
+	"text": "Upravit profil",
+	"version": "1",
+}
+"TITLE_FRIENDS"
+{
+	"text": "Sociální sítě",
+	"version": "1",
+}
+"TITLE_LIBRARY"
+{
+	"text": "Knihovna",
+	"version": "1",
+}
+"TITLE_LOGIN"
+{
+	"text": "Přihlásit",
+	"version": "1",
+}
+"TITLE_MY_CLAN"
+{
+	"text": "Můj klan",
+	"version": "1",
+}
+"TITLE_PROFILE"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"TITLE_REGISTER"
+{
+	"text": "Registrovat",
+	"version": "1",
+}
+"TITLE_SERVERS"
+{
+	"text": "Servery",
+	"version": "1",
+}
+"TITLE_SETTINGS"
+{
+	"text": "Nastavení",
+	"version": "1",
+}
+"UI_FRIENDS_ADD"
+{
+	"text": "Přidat přítele",
+	"version": "1",
+}
+"UI_LOGIN_CONNECT"
+{
+	"text": "Připojit",
+	"version": "1",
+}
+"UI_LOGIN_FORGOT_PASSWORD"
+{
+	"text": "Zapomenuté heslo",
+	"version": "1",
+}
+"UI_LOGIN_LOGIN"
+{
+	"text": "Přihlásit",
+	"version": "1",
+}
+"UI_LOGIN_PASS"
+{
+	"text": "Heslo",
+	"version": "1",
+}
+"UI_LOGIN_REGISTER"
+{
+	"text": "Registrovat",
+	"version": "1",
+}
+"UI_LOGIN_SAVEPASS"
+{
+	"text": "(Úspěch)",
+	"version": "1",
+}
+"UI_LOGIN_USER"
+{
+	"text": "Účet",
+	"version": "1",
+}
+"UI_MAIN_MENU"
+{
+	"text": "Menu",
+	"version": "1",
+}
+"UI_MAIN_START_GAME"
+{
+	"text": "Spustit hru",
+	"version": "1",
+}
+"UI_SETTINGS_IGNORELIST"
+{
+	"text": "Seznam ignorovaných",
+	"version": "1",
+}
+"UI_SETTINGS_IGNORE_CHAT"
+{
+	"text": "Ignorovat zprávy z chatových místností",
+	"version": "1",
+}
+"UI_SETTINGS_IGNORE_HIGHLIGHT"
+{
+	"text": "Ignorovat zvýraznění",
+	"version": "1",
+}
+"UI_SETTINGS_IGNORE_PRIVATE"
+{
+	"text": "Ignorovat soukromé zprávy",
+	"version": "1",
+}
+"UI_SHUTDOWN_THANKYOU"
+{
+	"text": "Děkujeme vám, že používáte RGC",
+	"version": "1",
+}
+"WHOIS_AWAY"
+{
+	"text": "%0 je vzdálen od klávesnice.",
+	"version": "1",
+}
+"WHOIS_INGAME"
+{
+	"text": "%0 je v %1",
+	"version": "1",
+}
+"WHOIS_INGAME_PRIVATE"
+{
+	"text": "%0 je v soukromé hře.",
+	"version": "1",
+}
+"WHOIS_OFFLINE"
+{
+	"text": "%0 je offline.",
+	"version": "1",
+}
+"WHOIS_ONLINE"
+{
+	"text": "%0 je online.",
+	"version": "1",
+}
+"bDotaPathFind"
+{
+	"text": "Najít",
+	"version": "1",
+}
+"cOtherLogs"
+{
+	"text": "Povolit klientovi uchovávat protokoly",
+	"version": "1",
+}
+"cOtherMainExit"
+{
+	"text": "Ukončit RGC po kliknutí na tlačítko „X“ (Zavřít)",
+	"version": "1",
+}
+"cOtherMainMinimize"
+{
+	"text": "Minimalizovat RGC na panel úloh po kliknutí na tlačítko „_“ (Minimalizovat)",
+	"version": "1",
+}
+"cRoomsJoinAll"
+{
+	"text": "Po přihlášení vstoupit do všech místností, do kterých mám přístup",
+	"version": "1",
+}
+"cSoundsGameHosted"
+{
+	"text": "Vaše hra byla hostována",
+	"version": "1",
+}
+"cSoundsGameStarted"
+{
+	"text": "Zvukové upozornění při zahájení vaší hry",
+	"version": "1",
+}
+"cSoundsLogin"
+{
+	"text": "Přihlásit",
+	"version": "1",
+}
+"cSoundsShutdown"
+{
+	"text": "Zastavit",
+	"version": "1",
+}
+"cTimestampGames"
+{
+	"text": "Datové razítko na aktualizace stavů hry",
+	"version": "1",
+}
+"cTimestampMessages"
+{
+	"text": "Datové razítko na chatové zprávy",
+	"version": "1",
+}
+"cTimestampUpdates"
+{
+	"text": "Datové razítko na aktualizace místností",
+	"version": "1",
+}
+"cmdSave"
+{
+	"text": "Uložit",
+	"version": "1",
+}
+"gFriends"
+{
+	"text": "Seznam přátel",
+	"version": "1",
+}
+"gFriendsMessageAway"
+{
+	"text": "Zpráva, když se stav přítele změní na afk",
+	"version": "1",
+}
+"gFriendsMessageIngame"
+{
+	"text": "Zpráva, když přítel vstoupí do hry",
+	"version": "1",
+}
+"gFriendsMessageOffline"
+{
+	"text": "Zpráva, když se stav přítele změní na offline",
+	"version": "1",
+}
+"gFriendsMessageOnline"
+{
+	"text": "Zpráva, když se stav přítele změní na online",
+	"version": "1",
+}
+"gHighlight"
+{
+	"text": "Zvýraznit",
+	"version": "1",
+}
+"gHighlightAliases"
+{
+	"text": "Zvýraznit jména",
+	"version": "1",
+}
+"gOtherCustom"
+{
+	"text": "Přizpůsobení",
+	"version": "1",
+}
+"gRoomsCustomList"
+{
+	"text": "Seznam místností pro automatický vstup",
+	"version": "1",
+}
+"gSounds"
+{
+	"text": "Zvuky",
+	"version": "1",
+}
+"gTimestamps"
+{
+	"text": "Datové razítko",
+	"version": "1",
+}
+"lDotaLaunchOptions"
+{
+	"text": "Možnosti spuštění",
+	"version": "1",
+}
+"lDotaMode"
+{
+	"text": "Výchozí režim",
+	"version": "1",
+}
+"lDotaPath"
+{
+	"text": "Warcraft III: The Frozen Throne (Spustitelný)",
+	"version": "1",
+}
+"lHighlight"
+{
+	"text": "Určete práva osob pro vaše zvýraznění, když jste…",
+	"version": "1",
+}
+"lHighlightAway"
+{
+	"text": "Vzdálen",
+	"version": "1",
+}
+"lHighlightIngame"
+{
+	"text": "Ve hře",
+	"version": "1",
+}
+"lHighlightOnline"
+{
+	"text": "Online",
+	"version": "1",
+}
+"lOtherCustomLanguage"
+{
+	"text": "Jazyk",
+	"version": "1",
+}
+"lOtherCustomSkin"
+{
+	"text": "Skin",
+	"version": "1",
+}
+"lOtherLogs"
+{
+	"text": "Protokolování klienta",
+	"version": "1",
+}
+"lOtherMain"
+{
+	"text": "Tlačítka hlavního okna",
+	"version": "1",
+}
+"lTimestampCustom"
+{
+	"text": "Vlastní datové razítko (viz výrazy níže)",
+	"version": "1",
+}
+"lTimestampExpressions"
+{
+	"text": "Výrazy",
+	"version": "1",
+}
+"lTimestampExpressions2"
+{
+	"text": "Pro zobrazení podrobného seznamu zadejte do Googlu: „QT QDateTime““",
+	"version": "1",
+}
+"lTimestampSettings"
+{
+	"text": "Nastavení",
+	"version": "1",
+}

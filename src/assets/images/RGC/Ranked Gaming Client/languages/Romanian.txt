@@ -1,0 +1,1420 @@
+"ACP_CHANNEL_ADMINS"
+{
+	"text": "Administratori",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENTS"
+{
+	"text": "Anunțuri",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_EDIT"
+{
+	"text": "Editare",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_PREVIEW"
+{
+	"text": "Previzualizare",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_SAVE"
+{
+	"text": "Salvare",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_NAME"
+{
+	"text": "Nume",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_TITLE"
+{
+	"text": "Titlu",
+	"version": "1",
+}
+"BUDDYLIST_ADD"
+{
+	"text": "%0 este adăugat la lista ta de prieteni..",
+	"version": "1",
+}
+"BUDDYLIST_AWAY"
+{
+	"text": "Prietenul tău %0 este plecat de la tastatură..",
+	"version": "1",
+}
+"BUDDYLIST_INGAME"
+{
+	"text": "Prietenul tău %0 este în %1",
+	"version": "1",
+}
+"BUDDYLIST_INGAME_PRIVATE"
+{
+	"text": "Prietenul tău %0 este într-un joc privat.",
+	"version": "1",
+}
+"BUDDYLIST_OFFLINE"
+{
+	"text": "Prietenul tău %0 este offline.",
+	"version": "1",
+}
+"BUDDYLIST_ONLINE"
+{
+	"text": "Prietenul tău %0 este online.",
+	"version": "1",
+}
+"BUDDYLIST_REMOVE"
+{
+	"text": "%0 este eliminat din lista ta de prieteni.",
+	"version": "1",
+}
+"CHAT_CHANNELS_CUSTOM"
+{
+	"text": "Canale neoficiale",
+	"version": "1",
+}
+"CHAT_CHANNELS_LEAVE"
+{
+	"text": "Părăsire canal",
+	"version": "1",
+}
+"CHAT_CHANNELS_OFFICIAL"
+{
+	"text": "Canale oficiale",
+	"version": "1",
+}
+"CHAT_CHANNELS_PRIVATE"
+{
+	"text": "Mesaje private",
+	"version": "1",
+}
+"CHAT_CHANNEL_ALREADY_XXX"
+{
+	"text": " %1 este deja %0 pe acest canal.",
+	"version": "1",
+}
+"CHAT_CHANNEL_NOW_XXX"
+{
+	"text": "%1 este %0 pe aceasta cameră.",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED"
+{
+	"text": "[%0] Ești banat pe această cameră până pe %2 on %3. Motiv: %1",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED_NOW"
+{
+	"text": "%0 este banat pe această cameră până pe %1 on %2",
+	"version": "1",
+}
+"CHAT_JOINED"
+{
+	"text": "%0 a intrat pe chat.",
+	"version": "1",
+}
+"CHAT_LEFT"
+{
+	"text": "%0 a părăsit chatul.",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN"
+{
+	"text": "Administrator",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_KICK"
+{
+	"text": "Kick",
+	"version": "1",
+}
+"CHAT_MENU_CLAN_VIEW"
+{
+	"text": "Arată clan",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST"
+{
+	"text": "Listă de prieteni",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_ADD"
+{
+	"text": "Adăugare prieten",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_REMOVE"
+{
+	"text": "Eliminare prieten",
+	"version": "1",
+}
+"CHAT_MENU_HIGHLIGHT"
+{
+	"text": "Evidențiere",
+	"version": "1",
+}
+"CHAT_MENU_PROFILE"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"CHAT_MENU_WHISPER"
+{
+	"text": "Șoptește",
+	"version": "1",
+}
+"CHAT_MENU_WHOIS"
+{
+	"text": "Cine este",
+	"version": "1",
+}
+"CHAT_PRIVATE_CLOSE"
+{
+	"text": "Închide conversația",
+	"version": "1",
+}
+"CLAN_CREATE"
+{
+	"text": "Crează clan propriu",
+	"version": "1",
+}
+"CLAN_CREATED"
+{
+	"text": "Creat",
+	"version": "1",
+}
+"CLAN_CREATOR"
+{
+	"text": "Creator",
+	"version": "1",
+}
+"CLAN_EDIT_CHANGE"
+{
+	"text": "Schimbă",
+	"version": "1",
+}
+"CLAN_EDIT_INVITE"
+{
+	"text": "Invită",
+	"version": "1",
+}
+"CLAN_EDIT_KICK"
+{
+	"text": "Kick",
+	"version": "1",
+}
+"CLAN_EDIT_NAME"
+{
+	"text": "Nume",
+	"version": "1",
+}
+"CLAN_EDIT_SHOW"
+{
+	"text": "Arată",
+	"version": "1",
+}
+"CLAN_EDIT_TITLE_INVITE"
+{
+	"text": "Invită jucători",
+	"version": "1",
+}
+"CLAN_ELO"
+{
+	"text": "ELO",
+	"version": "1",
+}
+"CLAN_LEAVE"
+{
+	"text": "Părăsește clanul",
+	"version": "1",
+}
+"CLAN_REG_CREATE"
+{
+	"text": "Crează",
+	"version": "1",
+}
+"CLAN_REG_DISPLAY"
+{
+	"text": "Arată",
+	"version": "1",
+}
+"CLAN_REG_FULL_EX"
+{
+	"text": "Exemplu complet: ChS^UndeR^DotA",
+	"version": "1",
+}
+"CLAN_REG_NAME"
+{
+	"text": "Nume",
+	"version": "1",
+}
+"CLAN_REG_NAME_EX"
+{
+	"text": "ex. ChaoS Legends",
+	"version": "1",
+}
+"CLAN_REG_PREFIX"
+{
+	"text": "Prefix",
+	"version": "1",
+}
+"CLAN_REG_PREFIX_EX"
+{
+	"text": "ex. ChS^",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX"
+{
+	"text": "Sufix",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX_EX"
+{
+	"text": "ex. ^DotA",
+	"version": "1",
+}
+"CLAN_REG_TAG"
+{
+	"text": "Tag",
+	"version": "1",
+}
+"CLAN_REG_TAG_EX"
+{
+	"text": "ex. ChS",
+	"version": "1",
+}
+"CLAN_TITLE_DESCRIPTION"
+{
+	"text": "Descriere",
+	"version": "1",
+}
+"CLAN_TITLE_Players"
+{
+	"text": "Jucători",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY"
+{
+	"text": "-- Prieteni AFK",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY_COLOR"
+{
+	"text": "maro",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME"
+{
+	"text": "-- Prieteni în jocuri",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME_COLOR"
+{
+	"text": "albastru",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE"
+{
+	"text": "<< Prieteni offline",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE_COLOR"
+{
+	"text": "roșu",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE"
+{
+	"text": ">> Prieteni online",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE_COLOR"
+{
+	"text": "verde",
+	"version": "1",
+}
+"DOTA_OPEN_GAMES"
+{
+	"text": "Jocuri deschise",
+	"version": "1",
+}
+"DOTA_RUNNING_GAMES"
+{
+	"text": "Jocuri în desfășurare",
+	"version": "1",
+}
+"DOTA_SIGN"
+{
+	"text": "Participare",
+	"version": "1",
+}
+"DOTA_SIGNED_PLAYERS"
+{
+	"text": "Jucători înscriși",
+	"version": "1",
+}
+"DOTA_STARTED_GAMES"
+{
+	"text": "Jocuri începute",
+	"version": "1",
+}
+"DOTA_UNSIGN"
+{
+	"text": "Plecare",
+	"version": "1",
+}
+"EDIT_ACCOUNT_CHANGE"
+{
+	"text": "Schimbă",
+	"version": "1",
+}
+"EDIT_ACCOUNT_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_GET_TOKEN"
+{
+	"text": "Cumpără Modificator nume cont",
+	"version": "1",
+}
+"EDIT_ACCOUNT_NAME"
+{
+	"text": "Nume",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD"
+{
+	"text": "Parola actuală",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_CONFIRM"
+{
+	"text": "Confirmare parolă nouă",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_NEW"
+{
+	"text": "Parolă nouă",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_NAME"
+{
+	"text": "Nume",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_PASSWORD"
+{
+	"text": "Parolă",
+	"version": "1",
+}
+"EDIT_PRFOILE_DESCRIPTION"
+{
+	"text": "Descriere",
+	"version": "1",
+}
+"EDIT_PROFILE_AVATAR"
+{
+	"text": "Avatar",
+	"version": "1",
+}
+"EDIT_PROFILE_CHANGE"
+{
+	"text": "Aplică noutățile",
+	"version": "1",
+}
+"EDIT_PROFILE_DOB"
+{
+	"text": "Data nașterii",
+	"version": "1",
+}
+"EDIT_PROFILE_FIRST_NAME"
+{
+	"text": "Prenume",
+	"version": "1",
+}
+"EDIT_PROFILE_LAST_NAME"
+{
+	"text": "Nume",
+	"version": "1",
+}
+"EDIT_PROFILE_NATIONALITY"
+{
+	"text": "Naționalitate",
+	"version": "1",
+}
+"EDIT_PROFILE_RESIDENCY"
+{
+	"text": "Rezidență",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX"
+{
+	"text": "Gen",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_ANONYMOUS"
+{
+	"text": "N/A",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_FEMALE"
+{
+	"text": "feminin",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_MALE"
+{
+	"text": "masculin",
+	"version": "1",
+}
+"EDIT_PROFILE_TITLE"
+{
+	"text": "Informații personale",
+	"version": "1",
+}
+"ERROR_CCY"
+{
+	"text": "Nu poți să te %0 singur.",
+	"version": "1",
+}
+"FRIENDS_AWAY"
+{
+	"text": "Plecat",
+	"version": "1",
+}
+"FRIENDS_INGAME"
+{
+	"text": "În joc",
+	"version": "1",
+}
+"FRIENDS_OFFLINE"
+{
+	"text": "Ieșit",
+	"version": "1",
+}
+"FRIENDS_ONLINE"
+{
+	"text": "Online",
+	"version": "1",
+}
+"GAME_ENDED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C s-a sfârșit.",
+	"version": "1",
+}
+"GAME_HOSTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C a fost creat.",
+	"version": "1",
+}
+"GAME_STARTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C a inceput.",
+	"version": "1",
+}
+"HIGHLIGHT_EVERYONE"
+{
+	"text": "Toți",
+	"version": "1",
+}
+"HIGHLIGHT_FRIENDS_ONLY"
+{
+	"text": "Doar prieteni",
+	"version": "1",
+}
+"HIGHLIGHT_NOONE"
+{
+	"text": "Nimeni",
+	"version": "1",
+}
+"LABEL_Channels"
+{
+	"text": "Camere",
+	"version": "1",
+}
+"LABEL_Clans"
+{
+	"text": "Clanuri",
+	"version": "1",
+}
+"LABEL_EditAccount"
+{
+	"text": "Cont",
+	"version": "1",
+}
+"LABEL_EditProfile"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"LABEL_Friends"
+{
+	"text": "Prieteni",
+	"version": "1",
+}
+"LABEL_Help"
+{
+	"text": "Ajutor",
+	"version": "1",
+}
+"LABEL_LaunchWC3"
+{
+	"text": "Lansare Warcraft III",
+	"version": "1",
+}
+"LABEL_Library"
+{
+	"text": "Librărie",
+	"version": "1",
+}
+"LABEL_Servers"
+{
+	"text": "Servere",
+	"version": "1",
+}
+"LABEL_Settings"
+{
+	"text": "Setări",
+	"version": "1",
+}
+"LOGIN_ENTER_PASS"
+{
+	"text": "Te rugăm să introduci o parolă.",
+	"version": "1",
+}
+"LOGIN_ENTER_USER"
+{
+	"text": "Te rugăm să introduci un nume de cont.",
+	"version": "1",
+}
+"LOGIN_INVALID_PASS"
+{
+	"text": "Parola ta conține caractere invalide.",
+	"version": "1",
+}
+"LOGIN_INVALID_USER"
+{
+	"text": "Numele tău de cont conține caractere invalide.",
+	"version": "1",
+}
+"MAIN_MENU_EXIT"
+{
+	"text": "Ieșire",
+	"version": "1",
+}
+"MESSAGE_LASTSEEN"
+{
+	"text": "[%0 a fost văzut pe data de %1]",
+	"version": "1",
+}
+"PROFILE_ACCOUNT"
+{
+	"text": "Cont",
+	"version": "1",
+}
+"PROFILE_AGE"
+{
+	"text": "Vârsta: %0",
+	"version": "1",
+}
+"PROFILE_DESCRIPTION"
+{
+	"text": "Descriere",
+	"version": "1",
+}
+"PROFILE_EMAIL"
+{
+	"text": "Email: %0",
+	"version": "1",
+}
+"PROFILE_GAMES"
+{
+	"text": "Jocuri: %0",
+	"version": "1",
+}
+"PROFILE_GROUP_ACCESS"
+{
+	"text": "Acces platformă",
+	"version": "1",
+}
+"PROFILE_GROUP_PERSONAL"
+{
+	"text": "Informații personale",
+	"version": "1",
+}
+"PROFILE_LASTLOGIN"
+{
+	"text": "Ultima autentificare: %0",
+	"version": "1",
+}
+"PROFILE_NATIONALITY"
+{
+	"text": "Nationalitate: %0",
+	"version": "1",
+}
+"PROFILE_REGISTERED"
+{
+	"text": "Înregistrat: %0",
+	"version": "1",
+}
+"PROFILE_RESIDENCY"
+{
+	"text": "Reședință: %0",
+	"version": "1",
+}
+"PROFILE_SEX"
+{
+	"text": "Gen: %0",
+	"version": "1",
+}
+"PROFILE_SEX_FEMALE"
+{
+	"text": "feminin",
+	"version": "1",
+}
+"PROFILE_SEX_MALE"
+{
+	"text": "masculin",
+	"version": "1",
+}
+"REG_CANCEL"
+{
+	"text": "Nu mulțumesc, dețin un cont deja",
+	"version": "1",
+}
+"REG_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"REG_EMAIL_CONFIRM"
+{
+	"text": "Confirmare",
+	"version": "1",
+}
+"REG_ERR_EMAIL"
+{
+	"text": "Te rugăm să introduci un email.",
+	"version": "1",
+}
+"REG_ERR_NAME"
+{
+	"text": "Te rugăm să introduci un nume de afișare",
+	"version": "1",
+}
+"REG_ERR_NAME_SIZE"
+{
+	"text": "Numele tău de afișare nu poate conține mai mult de 15 caractere",
+	"version": "1",
+}
+"REG_ERR_PASS"
+{
+	"text": "Te rugăm sa introduci o parolă.",
+	"version": "1",
+}
+"REG_ERR_USER"
+{
+	"text": "Te rugăm să introduci un nume de cont",
+	"version": "1",
+}
+"REG_ERR_USER_SIZE"
+{
+	"text": "Numele tău de cont nu poate conține mai mult de 15 caractere",
+	"version": "1",
+}
+"REG_INVALID_EMAIL"
+{
+	"text": "Adresa ta de email conține caractere invalide",
+	"version": "1",
+}
+"REG_INVALID_NAME"
+{
+	"text": "Numele tău de afișare conține caractere invalide",
+	"version": "1",
+}
+"REG_INVALID_NAME_WC3"
+{
+	"text": "Numele tău de afișare conține una din |c, |n or |r. Combinațiile acestea de caractere nu sunt permise.",
+	"version": "1",
+}
+"REG_INVALID_USER"
+{
+	"text": "Numele tău de cont conține caractere invalide",
+	"version": "1",
+}
+"REG_MISMATCH_EMAIL"
+{
+	"text": "Ai introdus două adrese de email diferite",
+	"version": "1",
+}
+"REG_MISMATCH_PASS"
+{
+	"text": "Ai introdus două parole diferite",
+	"version": "1",
+}
+"REG_NAME"
+{
+	"text": "Nume de afișare",
+	"version": "1",
+}
+"REG_PASS"
+{
+	"text": "Parolă",
+	"version": "1",
+}
+"REG_PASS_CONFIRM"
+{
+	"text": "Confirmare",
+	"version": "1",
+}
+"REG_REGISTER"
+{
+	"text": "Înregistrare",
+	"version": "1",
+}
+"REG_USER"
+{
+	"text": "Cont",
+	"version": "1",
+}
+"REG_VALID_EMAIL"
+{
+	"text": "Te rugăm să introduci o adresă de email validă.",
+	"version": "1",
+}
+"SERVERS_CHANNEL"
+{
+	"text": "Cameră",
+	"version": "1",
+}
+"SERVERS_GAME"
+{
+	"text": "Joc",
+	"version": "1",
+}
+"SERVERS_LATENCY"
+{
+	"text": "Latență",
+	"version": "1",
+}
+"SERVERS_MAP"
+{
+	"text": "Hartă",
+	"version": "1",
+}
+"SERVERS_NAME"
+{
+	"text": "Nume",
+	"version": "1",
+}
+"SERVERS_PLAYERS"
+{
+	"text": "Jucători",
+	"version": "1",
+}
+"SERVER_ALREADY_LOGGED_IN"
+{
+	"text": "Utilizatorul s-a autentificat deja.",
+	"version": "1",
+}
+"SERVER_CHANNEL_ALREADY_INSIDE"
+{
+	"text": "[%0] Te afli deja pe camera respectivă.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_ALREADY"
+{
+	"text": "Acel calculator este deja banat",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_NOW"
+{
+	"text": "%0 a primit ban pe calculator de la %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_ALREADY"
+{
+	"text": "Acest calculator nu este banat pe platforma.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_NOW"
+{
+	"text": "%0 a primit unban pe calculator de la %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_NO_ACCESS"
+{
+	"text": "Nu ai acces la acest canal.",
+	"version": "1",
+}
+"SERVER_CHANNEL_REJECTION_MESSAGE"
+{
+	"text": "[%0] %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_ALREADY_VOUCHED"
+{
+	"text": "Utilizatorul are deja vouch pe acest room.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_ALREADY"
+{
+	"text": "Acest utilizator este deja banat. Nu-l poți bana de enshpe mii de ori.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_NOW"
+{
+	"text": "%0 a primit ban de la %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOT_VOUCHED"
+{
+	"text": "Utilizatorul nu are vouch pe acest room.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOW_VOUCHED"
+{
+	"text": "%0 a primit vouch pe acest room.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_ALREADY"
+{
+	"text": "Utilizatorul nu are ban pe platforma.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_NOW"
+{
+	"text": "%0 a primit unban de la %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNVOUCHED"
+{
+	"text": "%0 a primit unvouch.",
+	"version": "1",
+}
+"SERVER_CLIENTBANNED"
+{
+	"text": "Ai fost banat. [Motiv :: %0] Pentru unban vizitează www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED"
+{
+	"text": "Ai luat kick. [Motiv :: %0]",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_BY"
+{
+	"text": "%0 a luat kick de la %1.",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_NOT_LOGGED_ON"
+{
+	"text": "Nu poti da kick la un utilizator neconectat.",
+	"version": "1",
+}
+"SERVER_COMMAND_DB_INVALID_INPUT"
+{
+	"text": "Eroare la baza de date. Motiv posibil: Invalid Input.",
+	"version": "1",
+}
+"SERVER_COMMAND_ON_NON_EXISTANT_USER"
+{
+	"text": "Nu se poate da %0 la un utilizator inexistent.",
+	"version": "1",
+}
+"SERVER_COMPBANNED"
+{
+	"text": "Calculatorul tău a fost banat. [Motiv :: %0] Pentru unban vizitează www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_ERROR_ACCESSGROUP"
+{
+	"text": "Aceasta grupă nu exista.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION"
+{
+	"text": "Eroare. Nu poti mari accesul unui utilizator mai mare decat ai.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION_ADMIN"
+{
+	"text": "Eroare. Nu poți folosi această comandă pe cineva cu acces mai mare decât tine..",
+	"version": "1",
+}
+"SERVER_FRIEND_ADDED_YOU"
+{
+	"text": "%0 te-a adăugat în lista de prieteni.",
+	"version": "1",
+}
+"SERVER_FRIEND_ALREADY_ON"
+{
+	"text": "%0 se află deja pe lista ta de prieteni.",
+	"version": "1",
+}
+"SERVER_FRIEND_MESSAGE_TO"
+{
+	"text": "Toți: %0",
+	"version": "1",
+}
+"SERVER_FRIEND_NOT_ON"
+{
+	"text": "%0 nu este pe lista ta de prieteni.",
+	"version": "1",
+}
+"SERVER_FRIEND_REMOVED_YOU"
+{
+	"text": "%0 te-a eliminat din lista lui/ei de prieteni.",
+	"version": "1",
+}
+"SERVER_INVALID_PROFILE_VALUES"
+{
+	"text": "Profilul tau nu a putut fi actualizat. Te rugam sa verifici daca ai caractere speciale (precum ', !, etc..) la vreunu din câmpuri.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETACCESS"
+{
+	"text": "%0 este %1 pe această cameră.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETGLOBALACCESS"
+{
+	"text": "%0 este %1 pe aceasta platforma.",
+	"version": "1",
+}
+"SERVER_PROFILE_CHANGED"
+{
+	"text": "Profilul tău a fost actualizat.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_DATABASE_ERROR"
+{
+	"text": "Eroare la baza de date. Nu folosi simboluri precum \\\\ < ! ' \\\" > în nume.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_EMAIL_ALREADY_TAKEN"
+{
+	"text": "Acel email este deja folosit",
+	"version": "1",
+}
+"SERVER_REGISTRATION_NAME_ALREADY_TAKEN"
+{
+	"text": "Numele respectiv de afisare este folosit",
+	"version": "1",
+}
+"SERVER_REGISTRATION_USER_ALREADY_TAKEN"
+{
+	"text": "Numele respectiv de cont este folosit",
+	"version": "1",
+}
+"SERVER_SPECIFIED_USERNAME_DOESNT_EXIST"
+{
+	"text": "Utilizatorul specificat nu există.",
+	"version": "1",
+}
+"SERVER_USERNAME_DOESNT_EXIST"
+{
+	"text": "Utilizatorul %0 nu există.",
+	"version": "1",
+}
+"SERVER_WHISPER_NOT_LOGGED_IN"
+{
+	"text": "Utilizator neconectat. Șoptire imposibilă.",
+	"version": "1",
+}
+"SERVER_WRONG_LOGIN"
+{
+	"text": "Detalii de autentificare invalide",
+	"version": "1",
+}
+"SETTINGS_TAB_CHAT"
+{
+	"text": "Chat",
+	"version": "1",
+}
+"SETTINGS_TAB_DOTA"
+{
+	"text": "DotA",
+	"version": "1",
+}
+"SETTINGS_TAB_FRIENDS"
+{
+	"text": "Prieteni",
+	"version": "1",
+}
+"SETTINGS_TAB_OTHER"
+{
+	"text": "Altele",
+	"version": "1",
+}
+"SETTINGS_TAB_SOUNDS"
+{
+	"text": "Sunete",
+	"version": "1",
+}
+"STATUS_AWAY"
+{
+	"text": "[STATUS] Ești plecat de la tastatură.",
+	"version": "1",
+}
+"STATUS_ONLINE"
+{
+	"text": "[STATUS] Ești online.",
+	"version": "1",
+}
+"TITLE_CHANNELS"
+{
+	"text": "Camere",
+	"version": "1",
+}
+"TITLE_CHANNEL_ADMIN"
+{
+	"text": "Administrare cameră",
+	"version": "1",
+}
+"TITLE_CLANS"
+{
+	"text": "Clanuri",
+	"version": "1",
+}
+"TITLE_CLAN_INFO"
+{
+	"text": "Informatii clan",
+	"version": "1",
+}
+"TITLE_CLAN_REGISTER"
+{
+	"text": "Clanul meu",
+	"version": "1",
+}
+"TITLE_CONNECT"
+{
+	"text": "Conectare",
+	"version": "1",
+}
+"TITLE_EDIT_ACCOUNT"
+{
+	"text": "Administrare cont",
+	"version": "1",
+}
+"TITLE_EDIT_PROFILE"
+{
+	"text": "Editare profil",
+	"version": "1",
+}
+"TITLE_FRIENDS"
+{
+	"text": "Prieteni",
+	"version": "1",
+}
+"TITLE_LIBRARY"
+{
+	"text": "Librărie",
+	"version": "1",
+}
+"TITLE_LOGIN"
+{
+	"text": "Autentificare",
+	"version": "1",
+}
+"TITLE_MY_CLAN"
+{
+	"text": "Clanul meu",
+	"version": "1",
+}
+"TITLE_PROFILE"
+{
+	"text": "Profil",
+	"version": "1",
+}
+"TITLE_REGISTER"
+{
+	"text": "Înregistrare",
+	"version": "1",
+}
+"TITLE_SERVERS"
+{
+	"text": "Servere",
+	"version": "1",
+}
+"TITLE_SETTINGS"
+{
+	"text": "Setări",
+	"version": "1",
+}
+"UI_LOGIN_CONNECT"
+{
+	"text": "Conectare",
+	"version": "1",
+}
+"UI_LOGIN_LOGIN"
+{
+	"text": "Autentificare",
+	"version": "1",
+}
+"UI_LOGIN_PASS"
+{
+	"text": "Parolă",
+	"version": "1",
+}
+"UI_LOGIN_REGISTER"
+{
+	"text": "Înregistrare",
+	"version": "1",
+}
+"UI_LOGIN_SAVEPASS"
+{
+	"text": "(Salvare)",
+	"version": "1",
+}
+"UI_LOGIN_USER"
+{
+	"text": "Cont",
+	"version": "1",
+}
+"UI_SHUTDOWN_THANKYOU"
+{
+	"text": "Îți mulțumim că ai folosit RGC",
+	"version": "1",
+}
+"WHOIS_AWAY"
+{
+	"text": "%0 este plecat de la tastatură.",
+	"version": "1",
+}
+"WHOIS_INGAME"
+{
+	"text": "%0 este în %1",
+	"version": "1",
+}
+"WHOIS_INGAME_PRIVATE"
+{
+	"text": "%0 este într-un joc privat.",
+	"version": "1",
+}
+"WHOIS_OFFLINE"
+{
+	"text": "%0 este offline.",
+	"version": "1",
+}
+"WHOIS_ONLINE"
+{
+	"text": "%0 este online.",
+	"version": "1",
+}
+"bDotaPathFind"
+{
+	"text": "Găsește",
+	"version": "1",
+}
+"cOtherLogs"
+{
+	"text": "Permite clientului să țină jurnal",
+	"version": "1",
+}
+"cOtherMainExit"
+{
+	"text": "Închidere RGC cand butonul ( X ) este apăsat",
+	"version": "1",
+}
+"cOtherMainMinimize"
+{
+	"text": "Micșorează RGC cand butonul ( _ ) este apăsat",
+	"version": "1",
+}
+"cOtherVisualsFullscreen"
+{
+	"text": "Pornește clientul în modul ecran full.",
+	"version": "1",
+}
+"cRoomsJoinAll"
+{
+	"text": "Intră pe toate camerele unde am acces.",
+	"version": "1",
+}
+"cSoundsGameHosted"
+{
+	"text": "Jocul tău a fost creat.",
+	"version": "1",
+}
+"cSoundsGameStarted"
+{
+	"text": "Sunet tip alarmă la începerea jocului în care te afli.",
+	"version": "1",
+}
+"cSoundsLogin"
+{
+	"text": "Loghează-te",
+	"version": "1",
+}
+"cSoundsShutdown"
+{
+	"text": "Închidere",
+	"version": "1",
+}
+"cTimestampGames"
+{
+	"text": "Amprentă timp la actualizarea statusului jocului.",
+	"version": "1",
+}
+"cTimestampMessages"
+{
+	"text": "Amprentă timp la actualizarea mesajelor",
+	"version": "1",
+}
+"cTimestampUpdates"
+{
+	"text": "Amprentă timp la actualizarea camerei",
+	"version": "1",
+}
+"cmdSave"
+{
+	"text": "Salvare",
+	"version": "1",
+}
+"gFriends"
+{
+	"text": "Listă prieteni",
+	"version": "1",
+}
+"gFriendsMessageAway"
+{
+	"text": "Mesaj cand un prieten pleacă de la tastatură.",
+	"version": "1",
+}
+"gFriendsMessageIngame"
+{
+	"text": "Mesaj cand un prieten intră într-un joc.",
+	"version": "1",
+}
+"gFriendsMessageOffline"
+{
+	"text": "Mesaj cand un prieten este offline.",
+	"version": "1",
+}
+"gFriendsMessageOnline"
+{
+	"text": "Mesaj cand un prieten este online.",
+	"version": "1",
+}
+"gHighlight"
+{
+	"text": "Evidențiere",
+	"version": "1",
+}
+"gHighlightAliases"
+{
+	"text": "Evidențiere nume",
+	"version": "1",
+}
+"gOtherCustom"
+{
+	"text": "Personalizare",
+	"version": "1",
+}
+"gRooms"
+{
+	"text": "Camere",
+	"version": "1",
+}
+"gRoomsCustomList"
+{
+	"text": "Listă predefinită",
+	"version": "1",
+}
+"gSounds"
+{
+	"text": "Sunete",
+	"version": "1",
+}
+"gTimestamps"
+{
+	"text": "Amprente timp",
+	"version": "1",
+}
+"lDotaLaunchOptions"
+{
+	"text": "Opțiuni de pornire",
+	"version": "1",
+}
+"lDotaMode"
+{
+	"text": "Modul implicit",
+	"version": "1",
+}
+"lDotaPath"
+{
+	"text": "Warcraft III: The Frozen Throne (Executabil)",
+	"version": "1",
+}
+"lHighlight"
+{
+	"text": "Setează permisiile pentru persoanele care să te deranjeze în timp ce ...",
+	"version": "1",
+}
+"lHighlightAway"
+{
+	"text": "Plecat",
+	"version": "1",
+}
+"lHighlightIngame"
+{
+	"text": "În joc",
+	"version": "1",
+}
+"lHighlightOnline"
+{
+	"text": "Online",
+	"version": "1",
+}
+"lOtherCustomLanguage"
+{
+	"text": "Limbă",
+	"version": "1",
+}
+"lOtherCustomSkin"
+{
+	"text": "Skin",
+	"version": "1",
+}
+"lOtherLogs"
+{
+	"text": "Jurnal client",
+	"version": "1",
+}
+"lOtherMain"
+{
+	"text": "Butoane principale",
+	"version": "1",
+}
+"lOtherVisuals"
+{
+	"text": "Vizual",
+	"version": "1",
+}
+"lTimestampCustom"
+{
+	"text": "Amprente timp actuale (vezi expresiile de jos)",
+	"version": "1",
+}
+"lTimestampExpressions"
+{
+	"text": "Expresii",
+	"version": "1",
+}
+"lTimestampExpressions2"
+{
+	"text": "Pentru o listă detaliată vizitează:\\nhttp://doc.trolltech.com/4.5/qdatetime.html#toString\\nOR Google: \"QT QDateTime\"",
+	"version": "1",
+}
+"lTimestampSettings"
+{
+	"text": "Setări",
+	"version": "1",
+}

@@ -1,0 +1,1440 @@
+"ACP_CHANNEL_ADMINS"
+{
+	"text": "ادمین",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENTS"
+{
+	"text": "اطلاعیه ها",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_EDIT"
+{
+	"text": "ویرایش",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_PREVIEW"
+{
+	"text": "پیشنمایش",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_SAVE"
+{
+	"text": "ذخیره",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_NAME"
+{
+	"text": "نام",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_TITLE"
+{
+	"text": "لقب",
+	"version": "1",
+}
+"BUDDYLIST_ADD"
+{
+	"text": "کاربر 0% به لیست دوستان شما اضافه شده است ",
+	"version": "1",
+}
+"BUDDYLIST_AWAY"
+{
+	"text": "دوست شما 0% در حال حاضر نیست",
+	"version": "1",
+}
+"BUDDYLIST_INGAME"
+{
+	"text": "دوست شما 0% در حال حاضر در 1% ا",
+	"version": "1",
+}
+"BUDDYLIST_INGAME_PRIVATE"
+{
+	"text": "دوست شما 0% در حال حاضر در یک بازی خصوصیست",
+	"version": "1",
+}
+"BUDDYLIST_OFFLINE"
+{
+	"text": "دوست شما 0% در حال آفلاین است",
+	"version": "1",
+}
+"BUDDYLIST_ONLINE"
+{
+	"text": "دوست شما 0% در حال حاضر آنلاین است",
+	"version": "1",
+}
+"BUDDYLIST_REMOVE"
+{
+	"text": "کاربر 0% از لیست دوستان حذف شد",
+	"version": "1",
+}
+"cOtherMapDlPopup"
+{
+    "text": "بارگیری خودکار مپ را فعال کنید PopUp",
+    "version": "1",
+}
+"lOtherMapDl"
+{
+    "text": "دانلودکننده مپ",
+    "version": "1",
+}
+"CHAT_CHANNELS_CUSTOM"
+{
+	"text": "کانال های دلخواه",
+	"version": "1",
+}
+"CHAT_CHANNELS_LEAVE"
+{
+	"text": "ترک کانال",
+	"version": "1",
+}
+"CHAT_CHANNELS_OFFICIAL"
+{
+	"text": "کانال های رسمی",
+	"version": "1",
+}
+"CHAT_CHANNELS_PRIVATE"
+{
+	"text": "پیام خصوصی",
+	"version": "1",
+}
+"CHAT_CHANNEL_ALREADY_XXX"
+{
+	"text": " ا 0% در حال حاضر 0% در این کانال است",
+	"version": "1",
+}
+"CHAT_CHANNEL_NOW_XXX"
+{
+	"text": " ا 0% هم اکنون 0% در این کانال است",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED"
+{
+	"text": " ا[0%]شما از این کانال بن شده اید تا 2% ا 3%دیگر - به دلیل : 1% ا",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED_NOW"
+{
+	"text": " ا[0%]شما از این کانال بن شدید2% ا 1% ا",
+	"version": "1",
+}
+"CHAT_JOINED"
+{
+	"text": "اکانت 0% وارد چت روم شد ",
+	"version": "1",
+}
+"CHAT_LEFT"
+{
+	"text": "اکانت 0% از چت روم خارج شد ",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN"
+{
+	"text": "ادمین",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_KICK"
+{
+	"text": "Kick",
+	"version": "1",
+}
+"CHAT_MENU_CLAN_VIEW"
+{
+	"text": "نمایش کلن",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST"
+{
+	"text": "لیست دوستان",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_ADD"
+{
+	"text": "افزودن به دوستان",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_REMOVE"
+{
+	"text": "حذف دوست",
+	"version": "1",
+}
+"CHAT_MENU_HIGHLIGHT"
+{
+	"text": "نماد",
+	"version": "1",
+}
+"CHAT_MENU_PROFILE"
+{
+	"text": "پروفایل",
+	"version": "1",
+}
+"CHAT_MENU_WHISPER"
+{
+	"text": "پیام",
+	"version": "1",
+}
+"CHAT_MENU_WHOIS"
+{
+	"text": "جستجوی دامنه",
+	"version": "1",
+}
+"CHAT_PRIVATE_CLOSE"
+{
+	"text": "بستن مکالمه",
+	"version": "1",
+}
+"CLAN_CREATE"
+{
+	"text": "ساختن کلن من",
+	"version": "1",
+}
+"CLAN_CREATED"
+{
+	"text": "ساخته",
+	"version": "1",
+}
+"CLAN_CREATOR"
+{
+	"text": "سازنده",
+	"version": "1",
+}
+"CLAN_EDIT_CHANGE"
+{
+	"text": "تغییر دادن",
+	"version": "1",
+}
+"CLAN_EDIT_INVITE"
+{
+	"text": "دعوت",
+	"version": "1",
+}
+"CLAN_EDIT_KICK"
+{
+	"text": "Kick",
+	"version": "1",
+}
+"CLAN_EDIT_NAME"
+{
+	"text": "نام",
+	"version": "1",
+}
+"CLAN_EDIT_SHOW"
+{
+	"text": "نشان دادن",
+	"version": "1",
+}
+"CLAN_EDIT_TITLE_INVITE"
+{
+	"text": "دعوت از بازیکنان",
+	"version": "1",
+}
+"CLAN_ELO"
+{
+	"text": "ELO",
+	"version": "1",
+}
+"CLAN_LEAVE"
+{
+	"text": "ترک کلن من",
+	"version": "1",
+}
+"CLAN_REG_CREATE"
+{
+	"text": "ساختن",
+	"version": "1",
+}
+"CLAN_REG_DISPLAY"
+{
+	"text": "نمایش",
+	"version": "1",
+}
+"CLAN_REG_FULL_EX"
+{
+	"text": "نام مثال کامل: MYM^Maelk^DotA",
+	"version": "1",
+}
+"CLAN_REG_NAME"
+{
+	"text": "نام",
+	"version": "1",
+}
+"CLAN_REG_NAME_EX"
+{
+	"text": "e.g. Meet your Makers",
+	"version": "1",
+}
+"CLAN_REG_PREFIX"
+{
+	"text": "پیشوند",
+	"version": "1",
+}
+"CLAN_REG_PREFIX_EX"
+{
+	"text": "e.g. MYM^",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX"
+{
+	"text": "پسوند",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX_EX"
+{
+	"text": "e.g. ^DotA",
+	"version": "1",
+}
+"CLAN_REG_TAG"
+{
+	"text": "علامت",
+	"version": "1",
+}
+"CLAN_REG_TAG_EX"
+{
+	"text": "e.g. MYM",
+	"version": "1",
+}
+"CLAN_TITLE_DESCRIPTION"
+{
+	"text": "توضیحات",
+	"version": "1",
+}
+"CLAN_TITLE_Players"
+{
+	"text": "بازیکنان",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY"
+{
+	"text": "-- دوستان AFK",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY_COLOR"
+{
+	"text": "قهوه ای",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME"
+{
+	"text": "-- دوستان داخل بازی",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME_COLOR"
+{
+	"text": "آبی",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE"
+{
+	"text": "<<آفلاین دوستان",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE_COLOR"
+{
+	"text": "قرمز",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE"
+{
+	"text": ">> دوستان آنلاین",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE_COLOR"
+{
+	"text": "سبز",
+	"version": "1",
+}
+"DOTA_OPEN_GAMES"
+{
+	"text": "بازی های ساخته شده",
+	"version": "1",
+}
+"DOTA_RUNNING_GAMES"
+{
+	"text": "اجرای بازی",
+	"version": "1",
+}
+"DOTA_SIGN"
+{
+	"text": "درخواست",
+	"version": "1",
+}
+"DOTA_SIGNED_PLAYERS"
+{
+	"text": "لیست درخواستl",
+	"version": "1",
+}
+"DOTA_STARTED_GAMES"
+{
+	"text": "بازی های شروع شده",
+	"version": "1",
+}
+"DOTA_UNSIGN"
+{
+	"text": "انصراف",
+	"version": "1",
+}
+"EDIT_ACCOUNT_CHANGE"
+{
+	"text": "تغییر",
+	"version": "1",
+}
+"EDIT_ACCOUNT_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_GET_TOKEN"
+{
+	"text": "خرید تغییر نام",
+	"version": "1",
+}
+"EDIT_ACCOUNT_NAME"
+{
+	"text": "نام",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD"
+{
+	"text": "رمز عبور کنونی",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_CONFIRM"
+{
+	"text": "تکرار کلمه عبور جدید",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_NEW"
+{
+	"text": "رمز عبور جدید",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_NAME"
+{
+	"text": "نام",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_PASSWORD"
+{
+	"text": "رمز عبور",
+	"version": "1",
+}
+"EDIT_PRFOILE_DESCRIPTION"
+{
+	"text": "توضیحات",
+	"version": "1",
+}
+"EDIT_PROFILE_AVATAR"
+{
+	"text": "عکس",
+	"version": "1",
+}
+"EDIT_PROFILE_CHANGE"
+{
+	"text": "ثبت تغییرات",
+	"version": "1",
+}
+"EDIT_PROFILE_CONTACT"
+{
+	"text": "",
+	"version": "1",
+}
+"EDIT_PROFILE_DOB"
+{
+	"text": "تاریخ تولد (سال/ماه/روز)ا",
+	"version": "1",
+}
+"EDIT_PROFILE_EMAIL"
+{
+	"text": "",
+	"version": "1",
+}
+"EDIT_PROFILE_FIRST_NAME"
+{
+	"text": "نام",
+	"version": "1",
+}
+"EDIT_PROFILE_LAST_NAME"
+{
+	"text": "نام خانوادگی",
+	"version": "1",
+}
+"EDIT_PROFILE_NATIONALITY"
+{
+	"text": "ملیت",
+	"version": "1",
+}
+"EDIT_PROFILE_RESIDENCY"
+{
+	"text": "محل سکونت",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX"
+{
+	"text": "جنسیت",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_ANONYMOUS"
+{
+	"text": "N/A",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_FEMALE"
+{
+	"text": "زن",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_MALE"
+{
+	"text": "مرد",
+	"version": "1",
+}
+"EDIT_PROFILE_TITLE"
+{
+	"text": "اطلاعات شخصی",
+	"version": "1",
+}
+"ERROR_CCY"
+{
+	"text": "Cannot %0 yourself.",
+	"version": "1",
+}
+"FRIENDS_AWAY"
+{
+	"text": "رفته",
+	"version": "1",
+}
+"FRIENDS_INGAME"
+{
+	"text": "داخل بازی",
+	"version": "1",
+}
+"FRIENDS_OFFLINE"
+{
+	"text": "آفلاین",
+	"version": "1",
+}
+"FRIENDS_ONLINE"
+{
+	"text": "آنلاین ",
+	"version": "1",
+}
+"GAME_ENDED"
+{
+	"text": "تمام شد %Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C بازی",
+	"version": "1",
+}
+"GAME_HOSTED"
+{
+	"text": "هاست شده %Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C بازی ",
+	"version": "1",
+}
+"GAME_STARTED"
+{
+	"text": "استارت شد %Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C بازی ",
+	"version": "1",
+}
+"HIGHLIGHT_EVERYONE"
+{
+	"text": "همه",
+	"version": "1",
+}
+"HIGHLIGHT_FRIENDS_ONLY"
+{
+	"text": "فقط دوستان",
+	"version": "1",
+}
+"HIGHLIGHT_NOONE"
+{
+	"text": "هیچ کس",
+	"version": "1",
+}
+"LABEL_Channels"
+{
+	"text": "اتاق ها",
+	"version": "1",
+}
+"LABEL_Clans"
+{
+	"text": "کلن ها",
+	"version": "1",
+}
+"LABEL_EditAccount"
+{
+	"text": "حساب کاربری",
+	"version": "1",
+}
+"LABEL_EditProfile"
+{
+	"text": "پروفایل",
+	"version": "1",
+}
+"LABEL_Friends"
+{
+	"text": "دوستان",
+	"version": "1",
+}
+"LABEL_Help"
+{
+	"text": "کمک",
+	"version": "1",
+}
+"LABEL_LaunchWC3"
+{
+	"text": "راه اندازی وارکرفت 3",
+	"version": "1",
+}
+"LABEL_Library"
+{
+	"text": "کتابخانه",
+	"version": "1",
+}
+"LABEL_Servers"
+{
+	"text": "سرورها",
+	"version": "1",
+}
+"LABEL_Settings"
+{
+	"text": "تنظیمات",
+	"version": "1",
+}
+"LOGIN_ENTER_PASS"
+{
+	"text": "لطفا رمز عبور را وارد کنید",
+	"version": "1",
+}
+"LOGIN_ENTER_USER"
+{
+	"text": "لطفا حساب کاربری را وارد کنید",
+	"version": "1",
+}
+"LOGIN_INVALID_PASS"
+{
+	"text": "رمز عبور شما شامل کاراکتر نامعتبر می باشد",
+	"version": "1",
+}
+"LOGIN_INVALID_USER"
+{
+	"text": "نام حساب کاربری شما شامل کاراکتر نامعتبر است",
+	"version": "1",
+}
+"MAIN_MENU_EXIT"
+{
+	"text": "خروج",
+	"version": "1",
+}
+"MESSAGE_LASTSEEN"
+{
+	"text": "[ کاربر 0% آخرین بار در 1% دیده شد ]",
+	"version": "1",
+}
+"PROFILE_ACCOUNT"
+{
+	"text": "اکانت",
+	"version": "1",
+}
+"PROFILE_AGE"
+{
+	"text": "%0 : سن",
+	"version": "1",
+}
+"PROFILE_CONTACT"
+{
+	"text": "",
+	"version": "1",
+}
+"PROFILE_DESCRIPTION"
+{
+	"text": "شرح",
+	"version": "1",
+}
+"PROFILE_EMAIL"
+{
+	"text": "%0 : ایمیل",
+	"version": "1",
+}
+"PROFILE_GAMES"
+{
+	"text": "%0 : بازیها",
+	"version": "1",
+}
+"PROFILE_GROUP_ACCESS"
+{
+	"text": "دسترسی ها",
+	"version": "1",
+}
+"PROFILE_GROUP_PERSONAL"
+{
+	"text": "اطلاعات شخصی",
+	"version": "1",
+}
+"PROFILE_LASTLOGIN"
+{
+	"text": "%0 : آخرین ورود",
+	"version": "1",
+}
+"PROFILE_NATIONALITY"
+{
+	"text": "%0 :ملیت",
+	"version": "1",
+}
+"PROFILE_REGISTERED"
+{
+	"text": "%0 : ثبت نام کرده",
+	"version": "1",
+}
+"PROFILE_RESIDENCY"
+{
+	"text": "%0 : محل اقامت",
+	"version": "1",
+}
+"PROFILE_SEX"
+{
+	"text": "%0 : جنسیت",
+	"version": "1",
+}
+"PROFILE_SEX_FEMALE"
+{
+	"text": "زن",
+	"version": "1",
+}
+"PROFILE_SEX_MALE"
+{
+	"text": "مرد",
+	"version": "1",
+}
+"REG_CANCEL"
+{
+	"text": "من در حال حاضر اکانت دارم",
+	"version": "1",
+}
+"REG_EMAIL"
+{
+	"text": "ایمیل",
+	"version": "1",
+}
+"REG_EMAIL_CONFIRM"
+{
+	"text": "تایید ایمیل",
+	"version": "1",
+}
+"REG_ERR_EMAIL"
+{
+	"text": "آدرس ایمیل را وارد کنید",
+	"version": "1",
+}
+"REG_ERR_NAME"
+{
+	"text": "نام نمایشی را وارد کنید",
+	"version": "1",
+}
+"REG_ERR_NAME_SIZE"
+{
+	"text": "نام نمایشی نمی تواند بیشتر از 15 حرف باشد",
+	"version": "1",
+}
+"REG_ERR_PASS"
+{
+	"text": "رمز عبور را وارد کنید",
+	"version": "1",
+}
+"REG_ERR_USER"
+{
+	"text": "نام اکانت را وارد کنید",
+	"version": "1",
+}
+"REG_ERR_USER_SIZE"
+{
+	"text": "نام اکانت نمی تواند بیشتر از 15 حرف باشد",
+	"version": "1",
+}
+"REG_INVALID_EMAIL"
+{
+	"text": "در آدرس ایمیل شما از واژه های غیر مجاز استفاده شده است",
+	"version": "1",
+}
+"REG_INVALID_NAME"
+{
+	"text": "در نام نمایشی شما از واژه های غیر مجاز استفاده شده است",
+	"version": "1",
+}
+"REG_INVALID_NAME_WC3"
+{
+	"text": "به کار رفته است. استفاده از این واژه ها غیر مجاز است |c یا |n یا |r در نام نمایشی شما واژه های",
+	"version": "1",
+}
+"REG_INVALID_USER"
+{
+	"text": "در نام اکانت شما از واژه های غیر مجاز استفاده شده است",
+	"version": "1",
+}
+"REG_MISMATCH_EMAIL"
+{
+	"text": "ایمیل های وارد شده یکسان نیستند",
+	"version": "1",
+}
+"REG_MISMATCH_PASS"
+{
+	"text": "رمز عبورهای وارد شده یکسان نیستند",
+	"version": "1",
+}
+"REG_NAME"
+{
+	"text": "اسم",
+	"version": "1",
+}
+"REG_PASS"
+{
+	"text": "رمز عبور",
+	"version": "1",
+}
+"REG_PASS_CONFIRM"
+{
+	"text": "تایید رمز عبور",
+	"version": "1",
+}
+"REG_REGISTER"
+{
+	"text": "ثبت نام",
+	"version": "1",
+}
+"REG_USER"
+{
+	"text": "اکانت",
+	"version": "1",
+}
+"REG_VALID_EMAIL"
+{
+	"text": "لطفا یک ایمیل صحیح وارد کنید",
+	"version": "1",
+}
+"SERVERS_CHANNEL"
+{
+	"text": "اتاق",
+	"version": "1",
+}
+"SERVERS_GAME"
+{
+	"text": "بازی",
+	"version": "1",
+}
+"SERVERS_LATENCY"
+{
+	"text": "دوره عکس العمل",
+	"version": "1",
+}
+"SERVERS_MAP"
+{
+	"text": "نقشه",
+	"version": "1",
+}
+"SERVERS_NAME"
+{
+	"text": "نام",
+	"version": "1",
+}
+"SERVERS_PLAYERS"
+{
+	"text": "بازیکنان",
+	"version": "1",
+}
+"SERVER_ALREADY_LOGGED_IN"
+{
+	"text": "شما در حال حاضر وارد شده اید",
+	"version": "1",
+}
+"SERVER_CHANNEL_ALREADY_INSIDE"
+{
+	"text": "[%0] شما در حال حاضر دراین اتاق حضور دارید",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_ALREADY"
+{
+	"text": "کامپیوتر مورد نظر قبلا بن شده است",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_NOW"
+{
+	"text": "کامپیوتر کاربر 0% توسط 1% بن شده است",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_ALREADY"
+{
+	"text": "این کامپیوتر از برنامه بن نشده است",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_NOW"
+{
+	"text": "کامپیوتر کاربر 0% توسط 1% از بن درآمد",
+	"version": "1",
+}
+"SERVER_CHANNEL_NO_ACCESS"
+{
+	"text": "شما حق دسترسی به این اتاق را ندارید",
+	"version": "1",
+}
+"SERVER_CHANNEL_REJECTION_MESSAGE"
+{
+	"text": "[%0] %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_ALREADY_VOUCHED"
+{
+	"text": "شده است Vouch این کاربر قبلا در این اتاق",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_ALREADY"
+{
+	"text": "این کاربر قبلا بن شده است",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_NOW"
+{
+	"text": "کاربر 0% توسط 1% بن شده است",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOT_VOUCHED"
+{
+	"text": "نشده است Vouch این کاربر در این اتاق",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOW_VOUCHED"
+{
+	"text": "شد Vouch در این اتاق 1% کاربر",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_ALREADY"
+{
+	"text": "این کاربر از برنامه بن نشده است",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_NOW"
+{
+	"text": "کاربر 0% توسط 1% از بن درآمد",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNVOUCHED"
+{
+	"text": "شد Unvouch در این اتاق 0% کاربر",
+	"version": "1",
+}
+"SERVER_CLIENTBANNED"
+{
+	"text": "مراجعه کنید RGC اکانت شما مسدود شده است. [دلیل :: 0%] شما میتوانید برای تقاضای تجدید نظر به انجمن",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED"
+{
+	"text": "شما بیرون انداخته شدید. دلیل: 0% ا",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_BY"
+{
+	"text": "کاربر 0% توسط 1% بیرون انداخته شد",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_NOT_LOGGED_ON"
+{
+	"text": "نمی توانید کاربری را که وارد نشده است بیرون بی اندازید",
+	"version": "1",
+}
+"SERVER_COMMAND_DB_INVALID_INPUT"
+{
+	"text": "خطا: دلیل احتمالی: ورودی نامعتبر",
+	"version": "1",
+}
+"SERVER_COMMAND_ON_NON_EXISTANT_USER"
+{
+	"text": "کاربر مورد نظر وجود ندارد نمی توان آن را 0% کرد",
+	"version": "1",
+}
+"SERVER_COMPBANNED"
+{
+	"text": "مراجعه کنید RGC کامپیوتر شما شما مسدود شده است. [دلیل 0%] شما میتوانید برای تقاضای تجدید نظر به انجمن",
+	"version": "1",
+}
+"SERVER_ERROR_ACCESSGROUP"
+{
+	"text": "این گروه دسترسی، موجود نمی باشد",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION"
+{
+	"text": "خطای دسترسی: شما نمی توانید کاربری که حق دسترسی بیشتر از شما دارد تنظیم کنید",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION_ADMIN"
+{
+	"text": "خطای دسترسی: شما نمی توانید از این دستور برای کاربری که حق دسترسی بیشتر از شما دارد استفاده کنید",
+	"version": "1",
+}
+"SERVER_FRIEND_ADDED_YOU"
+{
+	"text": "کاربر 0% شما را به لیست دوستان خود اضافه کرد",
+	"version": "1",
+}
+"SERVER_FRIEND_ALREADY_ON"
+{
+	"text": "کاربر 0% در حال حاضر در لیست دوستان شما قرار دارد",
+	"version": "1",
+}
+"SERVER_FRIEND_MESSAGE_TO"
+{
+	"text": "به همه:0% ا",
+	"version": "1",
+}
+"SERVER_FRIEND_NOT_ON"
+{
+	"text": "کاربر 0% در لیست دوستان شما نیست",
+	"version": "1",
+}
+"SERVER_FRIEND_REMOVED_YOU"
+{
+	"text": "کاربر 0% شما را از لیست دوستان خود حذف کرد",
+	"version": "1",
+}
+"SERVER_INVALID_PROFILE_VALUES"
+{
+	"text": "تغییرات پروفایل کامل نشد. لطفا بررسی کنید از نشانه هایی مثل: ! $ , و... استفاده نکرده باشید",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETACCESS"
+{
+	"text": " کاربر 0% هم اکنون 1% در این کانال می باشد",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETGLOBALACCESS"
+{
+	"text": "%0 is now %1 on this platform.",
+	"version": "1",
+}
+"SERVER_PROFILE_CHANGED"
+{
+	"text": "تغییرات پروفایل با موفقیت انجام شد",
+	"version": "1",
+}
+"SERVER_REGISTRATION_DATABASE_ERROR"
+{
+	"text": "خطا: نمی توان از علامت هایی مثل \\\\ < ! ' \\\" > استفاده کرد",
+	"version": "1",
+}
+"SERVER_REGISTRATION_EMAIL_ALREADY_TAKEN"
+{
+	"text": "این آدرس ایمیل قبلا استفاده شده است",
+	"version": "1",
+}
+"SERVER_REGISTRATION_NAME_ALREADY_TAKEN"
+{
+	"text": "این نام نمایشی قبلا استفاده شده است",
+	"version": "1",
+}
+"SERVER_REGISTRATION_USER_ALREADY_TAKEN"
+{
+	"text": "این نام اکانت قبلا استفاده شده است",
+	"version": "1",
+}
+"SERVER_SPECIFIED_USERNAME_DOESNT_EXIST"
+{
+	"text": "نام کاربری مورد نظر موجود نیست",
+	"version": "1",
+}
+"SERVER_USERNAME_DOESNT_EXIST"
+{
+	"text": "کاربر 0% موجود نیست",
+	"version": "1",
+}
+"SERVER_WHISPER_NOT_LOGGED_IN"
+{
+	"text": "این کاربر آنلاین نیست. پیغام خصوصی به او نرسید",
+	"version": "1",
+}
+"SERVER_WRONG_LOGIN"
+{
+	"text": "اطلاعات وارد شده صحیح نیست",
+	"version": "1",
+}
+"SETTINGS_TAB_CHAT"
+{
+	"text": "چت",
+	"version": "1",
+}
+"SETTINGS_TAB_DOTA"
+{
+	"text": "DotA",
+	"version": "1",
+}
+"SETTINGS_TAB_FRIENDS"
+{
+	"text": "دوستان",
+	"version": "1",
+}
+"SETTINGS_TAB_OTHER"
+{
+	"text": "دیگر",
+	"version": "1",
+}
+"SETTINGS_TAB_SOUNDS"
+{
+	"text": "صداها",
+	"version": "1",
+}
+"STATUS_AWAY"
+{
+	"text": "وضعیت: در حال حاضر نیستید",
+	"version": "1",
+}
+"STATUS_ONLINE"
+{
+	"text": "وضعیت: شما در حال حاضر آنلاین است",
+	"version": "1",
+}
+"TITLE_CHANNELS"
+{
+	"text": "اتاق ها",
+	"version": "1",
+}
+"TITLE_CHANNEL_ADMIN"
+{
+	"text": "رئيس اتاق",
+	"version": "1",
+}
+"TITLE_CLANS"
+{
+	"text": "کلن ها",
+	"version": "1",
+}
+"TITLE_CLAN_INFO"
+{
+	"text": "اطلاعات کلن",
+	"version": "1",
+}
+"TITLE_CLAN_REGISTER"
+{
+	"text": "کلن من",
+	"version": "1",
+}
+"TITLE_CONNECT"
+{
+	"text": "اتصال",
+	"version": "1",
+}
+"TITLE_EDIT_ACCOUNT"
+{
+	"text": "مدیریت حساب",
+	"version": "1",
+}
+"TITLE_EDIT_PROFILE"
+{
+	"text": "ویرایش پروفایل",
+	"version": "1",
+}
+"TITLE_FRIENDS"
+{
+	"text": "دوستان",
+	"version": "1",
+}
+"TITLE_LIBRARY"
+{
+	"text": "کتابخانه",
+	"version": "1",
+}
+"TITLE_LOGIN"
+{
+	"text": "ورود",
+	"version": "1",
+}
+"TITLE_MY_CLAN"
+{
+	"text": "کلن من",
+	"version": "1",
+}
+"TITLE_PROFILE"
+{
+	"text": "پروفایل",
+	"version": "1",
+}
+"TITLE_REGISTER"
+{
+	"text": "ثبت نام",
+	"version": "1",
+}
+"TITLE_SERVERS"
+{
+	"text": "سرورها",
+	"version": "1",
+}
+"TITLE_SETTINGS"
+{
+	"text": "تنظیمات",
+	"version": "1",
+}
+"UI_LOGIN_CONNECT"
+{
+	"text": "اتصال",
+	"version": "1",
+}
+"UI_LOGIN_LOGIN"
+{
+	"text": "ورود",
+	"version": "1",
+}
+"UI_LOGIN_PASS"
+{
+	"text": "رمز عبور",
+	"version": "1",
+}
+"UI_LOGIN_REGISTER"
+{
+	"text": "ثبت نام",
+	"version": "1",
+}
+"UI_LOGIN_SAVEPASS"
+{
+	"text": "(ذخیره)",
+	"version": "1",
+}
+"UI_LOGIN_USER"
+{
+	"text": "حساب کاربری",
+	"version": "1",
+}
+"WHOIS_AWAY"
+{
+	"text": "کاربر 0% در حال حاضر نیست",
+	"version": "1",
+}
+"WHOIS_INGAME"
+{
+	"text": "کاربر 0% در 1% هست",
+	"version": "1",
+}
+"WHOIS_INGAME_PRIVATE"
+{
+	"text": "کاربر 0% در یک بازی خصوصیست",
+	"version": "1",
+}
+"WHOIS_OFFLINE"
+{
+	"text": "کاربر 0% آفلاین است",
+	"version": "1",
+}
+"WHOIS_ONLINE"
+{
+	"text": "کاربر 0% آنلاین است",
+	"version": "1",
+}
+"bDotaPathFind"
+{
+	"text": "جستجو",
+	"version": "1",
+}
+"cOtherLogs"
+{
+	"text": "فعال کردن ذخیره گزارش ها",
+	"version": "1",
+}
+"cOtherMainExit"
+{
+	"text": "خروج از برنامه هنگام کلیک بر روی دکمه خروج",
+	"version": "1",
+}
+"cOtherMainMinimize"
+{
+	"text": "هنگام کلیک بر روی دکمه Minimize رفتن برنامه به حالت",
+	"version": "1",
+}
+"cOtherVisualsFullscreen"
+{
+	"text": "Fullscreen شروع برنامه در حالت",
+	"version": "1",
+}
+"cRoomsJoinAll"
+{
+	"text": "ورود به تمام روم هایی که در انها عضویت دارم پس از آنلاین شدن ",
+	"version": "1",
+}
+"cSoundsGameHosted"
+{
+	"text": "هاست جدید ساخته شد",
+	"version": "1",
+}
+"cSoundsGameStarted"
+{
+	"text": "بازی شروع شد",
+	"version": "1",
+}
+"cSoundsLogin"
+{
+	"text": "ورود",
+	"version": "1",
+}
+"cSoundsShutdown"
+{
+	"text": "خروج",
+	"version": "1",
+}
+"cTimestampGames"
+{
+	"text": " انتخاب زمان آپدیت وضعیت بازی",
+	"version": "1",
+}
+"cTimestampMessages"
+{
+	"text": "انتخاب زمان بر روی پیام های چت",
+	"version": "1",
+}
+"cTimestampUpdates"
+{
+	"text": "انتخاب زمان آپدیت اتاق",
+	"version": "1",
+}
+"cmdSave"
+{
+	"text": "ذخیره",
+	"version": "1",
+}
+"gFriends"
+{
+	"text": "لیست دوستان",
+	"version": "1",
+}
+"gFriendsMessageAway"
+{
+	"text": " پیام وقتی که دوست شما ای اف کا میکند",
+	"version": "1",
+}
+"gFriendsMessageIngame"
+{
+	"text": "پیام وقتی که دوست شما به بازی میرود",
+	"version": "1",
+}
+"gFriendsMessageOffline"
+{
+	"text": "پیام وقتی که دوست شما آفلاین میشود ",
+	"version": "1",
+}
+"gFriendsMessageOnline"
+{
+	"text": "پیام وقتی که دوست شما آنلاین میشود ",
+	"version": "1",
+}
+"gHighlight"
+{
+	"text": "برجسته",
+	"version": "1",
+}
+"gHighlightAliases"
+{
+	"text": "برجسته سازی اسم",
+	"version": "1",
+}
+"gOtherCustom"
+{
+	"text": "سفارشی سازی",
+	"version": "1",
+}
+"gRooms"
+{
+	"text": "اتاق ها",
+	"version": "1",
+}
+"gRoomsCustomList"
+{
+	"text": "لیست دلخواه",
+	"version": "1",
+}
+"gSounds"
+{
+	"text": "صداها",
+	"version": "1",
+}
+"gTimestamps"
+{
+	"text": "مقایسه",
+	"version": "1",
+}
+"lDotaLaunchOptions"
+{
+	"text": "راه اندازی گزینه ها",
+	"version": "1",
+}
+"lDotaMode"
+{
+	"text": "پیش فرض",
+	"version": "1",
+}
+"lDotaPath"
+{
+	"text": "آدرس فایل اجرایی وارکرفت",
+	"version": "1",
+}
+"lHighlight"
+{
+	"text": "مشخص کردن قوانین برای دیگران وقتی شما در حالت",
+	"version": "1",
+}
+"lHighlightAway"
+{
+	"text": "رفته",
+	"version": "1",
+}
+"lHighlightIngame"
+{
+	"text": "در بازی",
+	"version": "1",
+}
+"lHighlightOnline"
+{
+	"text": "آنلاین",
+	"version": "1",
+}
+"lOtherCustomLanguage"
+{
+	"text": "زبان",
+	"version": "1",
+}
+"lOtherCustomSkin"
+{
+	"text": "پوسته",
+	"version": "1",
+}
+"lOtherLogs"
+{
+	"text": "ورود به برنامه",
+	"version": "1",
+}
+"lOtherMain"
+{
+	"text": "دکمه های پنجره اصلی",
+	"version": "1",
+}
+"lOtherVisuals"
+{
+	"text": "تصویری",
+	"version": "1",
+}
+"lTimestampCustom"
+{
+	"text": "انتخاب زمان دلخواه ( به اصطلاحات زیر نگاه کنید)ا",
+	"version": "1",
+}
+"lTimestampExpressions"
+{
+	"text": "عبارات",
+	"version": "1",
+}
+"lTimestampExpressions2"
+{
+	"text": "لطفا برای جزئیات لیست از سایت بازدید کنید :\\nhttp://doc.trolltech.com/4.5/qdatetime.html#toString\\nOR Google: \"QT QDateTime\"",
+	"version": "1",
+}
+"lTimestampSettings"
+{
+	"text": "تنظیمات",
+	"version": "1",
+}

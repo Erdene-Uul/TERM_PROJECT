@@ -1,0 +1,131 @@
+QWidget#containerwidget {
+	background: url('LoginBg.png'); border: 1px solid black;
+}
+
+/* QLabel */
+QLabel {
+	color: #c1c1c1;
+	font-weight: bold;
+	font-family: calibri,Helvetica,arial;   
+	font-size: 11px;
+	qproperty-alignment: 'AlignRight | AlignVCenter';
+}
+
+QLabel#lblUser , QLabel#lblPassword {
+	color: #b4b6b9;
+	font-weight: bold;
+	font-family: calibri,Helvetica,arial;   
+	font-size: 15px;
+	qproperty-alignment: 'AlignLeft | AlignVCenter';
+        text-transform: uppercase;
+
+}
+
+QLabel#lblSavePassword{font-family: 'Open Sans';
+	font-size: 13px;
+	color: rgb(220,220,220);
+	font-weight: 700;
+        text-transform: uppercase;
+
+}
+
+/* QLineEdit */
+QLineEdit { padding-left: 5px;
+	background: transparent;
+	border: none;  
+	border-radius: 0px;
+	color: #c1c1c1;
+	font-family: Calibri,Helvetica,arial;
+	font-size: 18px;
+	line-height: 18px;
+	font-weight:normal;	
+}
+QLineEdit#txtUser:hover{ border: 1px solid transparent;
+	border-radius: 3px;}
+QLineEdit#txtPassword:hover{ border: 1px solid transparent;
+	border-radius: 3px;}
+
+QLineEdit#txtPassword {
+	qproperty-echoMode: 'Password';
+}
+
+QPushButton{
+	padding-top: 1000px;
+	border: none;
+}
+
+/* QPushButton */
+QPushButton {border: 1px solid #6c7fa9; border-radius: 4px;
+	background: qlineargradient(spread:pad, x1:0, y1:1, x2:0, y2:0,
+		stop:0 #607095,
+		stop:1 #607095);
+	font-family: 'calibri';
+	font-weight: bold;
+	color: #fff;
+	font-size: 18px;
+	text-transform: uppercase;
+	padding-bottom: 3px;
+        padding:0px;
+	qproperty-alignment: 'AlignCenter';
+
+}
+
+QPushButton#cmdLogin:hover { border-top: 1px solid #7488b4; 
+	            background: qlineargradient(spread:pad, x1:0, y1:1, x2:0, y2:0,
+		                stop:0 #607095,
+		                stop:1 #6a7ca4);
+}
+
+QPushButton#cmdLogin:pressed { border-bottom: 1px solid #7f94c5; 
+	            background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1,
+		                stop:0 #607095,
+		                stop:1 #7488b4); padding-top: 2px;
+}
+
+
+
+#lblSavePassword {background: transparent;}
+
+#lblRememberMe, #lblnew {color: #b4b6b9;
+	font-weight: bold;
+	font-family: calibri,Helvetica,arial;   
+	font-size: 15px;
+	qproperty-alignment: 'AlignLeft | AlignVCenter';
+        text-transform: none;}
+
+#lblnew{ qproperty-alignment: 'AlignRight | AlignVCenter';}
+
+
+QPushButton#cmdRegister{background: transparent; border:none;
+        color: #6e87be;
+	font-weight: bold;
+	font-family: calibri,Helvetica,arial;   
+	font-size: 16px;
+        text-align: left;
+        text-transform: none;
+}
+
+
+QPushButton#cmdRegister:hover { text-decoration: underline; }
+QPushButton#cmdRegister:pressed { color: #7996d6;}
+
+QPushButton#cmdForgotPassword{background: transparent;border:none;
+	font-weight: bold;
+	font-family: calibri,Helvetica,arial;   
+	font-size: 14px;
+	qproperty-alignment: 'AlignRight | AlignVCenter';
+	padding-top: 0px;
+        color:#75acea;
+        text-transform: none;
+        text-align: right;
+
+
+}
+QPushButton#cmdForgotPassword:hover { text-decoration: underline; }
+QPushButton#cmdForgotPassword:pressed {color: #fff;}
+
+
+QCheckBox::indicator::checked {	image: url('saveOn.png');}
+QCheckBox::indicator::checked:hover { image: url('saveOnHover.png'); }
+QCheckBox::indicator::unchecked { image: url('saveOff.png');}
+QCheckBox::indicator::unchecked:hover {	image: url('saveOffHover.png'); }

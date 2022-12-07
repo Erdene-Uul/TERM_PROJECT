@@ -1,0 +1,54 @@
+QWidget#containerwidget {
+        background: url('ConnectBg.png');
+}
+
+QComboBox QAbstractItemView {
+	background: rgba(25, 35,45, 240);
+	font-weight: bold;
+	border: none;
+	border-bottom: 2px solid rgba(25, 35,45, 140);
+
+	selection-background-color: transparent;
+        border-top: 1px solid rgba(0,0,0,100);
+	selection-color: rgb(190,190,190);
+}
+
+QComboBox::down-arrow {
+	image: url~('arrowG.png');
+}
+QComboBox::down-arrow:hover {
+	image: url~('arrowH.png');
+}
+#cmdtext1{  color: #c1de5b;
+	                       
+	                       font-weight: bold;
+	                       font-size: 14px;
+	                       font-family: 'calibri';}
+
+/* QPushButton */
+QPushButton {border: 1px solid rgba(108,127,169,210); border-radius: 4px;
+	background: qlineargradient(spread:pad, x1:0, y1:1, x2:0, y2:0,
+		stop:0 rgba(96,112,149,210),
+		stop:1 rgba(96,112,149,210));
+	font-family: 'calibri';
+	font-weight: bold;
+	color: #fff;
+	font-size: 18px;
+	text-transform: uppercase;
+	padding-bottom: 3px;
+        padding:0px;
+	qproperty-alignment: 'AlignCenter';
+
+}
+
+QPushButton:hover { border-top: 1px solid rgba(116,136,180,210); 
+	            background: qlineargradient(spread:pad, x1:0, y1:1, x2:0, y2:0,
+		                stop:0 rgba(96,112,149,210),
+		                stop:1 rgba(106,124,164,210));
+}
+
+QPushButton:pressed { border-bottom: 1px solid rgba(116,136,180,210);  
+	              background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1,
+		                stop:0 rgba(96,112,149,210),
+		                stop:1 rgba(106,124,164,210)); padding-top: 2px;
+}

@@ -1,0 +1,44 @@
+"google.com":
+{
+	"name": "GOOGLE"
+},
+"18.202.0.0":
+{
+	"name": "AWS"
+},
+"94.23.6.52":
+{
+	"name": "RGC"
+},
+"87.98.188.105":
+{
+	"name": "RGC (Iran)"
+},
+"cdn.rankedgaming.com":
+{
+	"name": "RG CDN"
+},
+"cdn_v2.rankedgaming.com":
+{
+	"name": "RG Patcher"
+},
+"217.182.196.125":
+{
+	"name": "RG Patcher (Resolved)"
+},
+"api.rankedgaming.com":
+{
+	"name": "RG WebAPI"
+},
+"rankedgaming.com":
+{
+	"name": "RG Website"
+},
+"5.39.68.96":
+{
+	"name": "Bots (FR)"
+},
+"proof.ovh.net":
+{
+	"name": "OVH"
+}

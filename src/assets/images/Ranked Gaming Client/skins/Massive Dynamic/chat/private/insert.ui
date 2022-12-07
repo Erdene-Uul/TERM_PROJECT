@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+
+<class>widget</class>
+	<widget class="QWidget" name="widget">
+		<widget class="QLabel" name="BorderTopL"/>
+		<widget class="QLabel" name="BorderTopC"/>
+		<widget class="QLabel" name="BorderTopR"/>
+
+		<widget class="QLabel" name="BorderBotL"/>
+		<widget class="QLabel" name="BorderBotC"/>
+		<widget class="QLabel" name="BorderBotR"/>
+		<widget class="QLabel" name="Shadow2"/>
+		<widget class="QLabel" name="Shadow1"/>
+		<widget class="QLabel" name="0Top"/>
+		<widget class="QLabel" name="1Top"/>
+		<widget class="QLabel" name="BorderR"/>
+	</widget>
+</ui>

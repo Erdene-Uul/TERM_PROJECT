@@ -1,0 +1,1420 @@
+"ACP_CHANNEL_ADMINS"
+{
+	"text": "مدراء",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENTS"
+{
+	"text": "أخبار و إعلانات",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_EDIT"
+{
+	"text": "تعديل",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_PREVIEW"
+{
+	"text": "عرض",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_SAVE"
+{
+	"text": "حفظ",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_NAME"
+{
+	"text": "اسم",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_TITLE"
+{
+	"text": "عنوان",
+	"version": "1",
+}
+"BUDDYLIST_ADD"
+{
+	"text": "إلى قائمة أصدقائك %0 تمت إضافة",
+	"version": "1",
+}
+"BUDDYLIST_AWAY"
+{
+	"text": "نصف متاح %0 أصبح صديقك",
+	"version": "1",
+}
+"BUDDYLIST_INGAME"
+{
+	"text": "%1 إلى%0 دخل صديقك ",
+	"version": "1",
+}
+"BUDDYLIST_INGAME_PRIVATE"
+{
+	"text": "دخل إلى لعبة خاصة %0 صديقك",
+	"version": "1",
+}
+"BUDDYLIST_OFFLINE"
+{
+	"text": "متاحا %0 لم يعد صديقك",
+	"version": "1",
+}
+"BUDDYLIST_ONLINE"
+{
+	"text": "متاحا %0 أصبح صديقك",
+	"version": "1",
+}
+"BUDDYLIST_REMOVE"
+{
+	"text": "من قائمة أصدقائك %0 تمت إزالة",
+	"version": "1",
+}
+"CHAT_CHANNELS_CUSTOM"
+{
+	"text": "غرف غير رسمية",
+	"version": "1",
+}
+"CHAT_CHANNELS_LEAVE"
+{
+	"text": "خروج من الغرفة",
+	"version": "1",
+}
+"CHAT_CHANNELS_OFFICIAL"
+{
+	"text": "غرف رسمية",
+	"version": "1",
+}
+"CHAT_CHANNELS_PRIVATE"
+{
+	"text": "رسائل خاصة",
+	"version": "1",
+}
+"CHAT_CHANNEL_ALREADY_XXX"
+{
+	"text": "في هذه الغرفة %0 هو مسبقا %1 إن",
+	"version": "1",
+}
+"CHAT_CHANNEL_NOW_XXX"
+{
+	"text": "في هذه الغرفة %0 هو الأن %1 أصبح",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED"
+{
+	"text": "في %3 حتى %2 أنت ممنوع من الدخول إلى هذه الغرفة السبب %1 <%0>ز",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED_NOW"
+{
+	"text": " حتى %1 في %2 ممنوعا من الدخول إلى هذه الغرفة %0 أصبح ",
+	"version": "1",
+}
+"CHAT_JOINED"
+{
+	"text": "إلى الغرفة %0 دخل",
+	"version": "1",
+}
+"CHAT_LEFT"
+{
+	"text": "من الغرفة %0 خرج",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN"
+{
+	"text": "مدير",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_KICK"
+{
+	"text": "طرد",
+	"version": "1",
+}
+"CHAT_MENU_CLAN_VIEW"
+{
+	"text": "أظهر ملف الفريق",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST"
+{
+	"text": "قائمة الأصدقاء",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_ADD"
+{
+	"text": "إضافة صديق",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_REMOVE"
+{
+	"text": "إزالة صديق",
+	"version": "1",
+}
+"CHAT_MENU_HIGHLIGHT"
+{
+	"text": "نداء",
+	"version": "1",
+}
+"CHAT_MENU_PROFILE"
+{
+	"text": "الملف الخاص",
+	"version": "1",
+}
+"CHAT_MENU_WHISPER"
+{
+	"text": "رسالة خاصة",
+	"version": "1",
+}
+"CHAT_MENU_WHOIS"
+{
+	"text": "ما حالة",
+	"version": "1",
+}
+"CHAT_PRIVATE_CLOSE"
+{
+	"text": "أغلق المحادثة",
+	"version": "1",
+}
+"CLAN_CREATE"
+{
+	"text": "صنع فريقي الخاص",
+	"version": "1",
+}
+"CLAN_CREATED"
+{
+	"text": "تم الصنع",
+	"version": "1",
+}
+"CLAN_CREATOR"
+{
+	"text": "المالك",
+	"version": "1",
+}
+"CLAN_EDIT_CHANGE"
+{
+	"text": "تغيير",
+	"version": "1",
+}
+"CLAN_EDIT_INVITE"
+{
+	"text": "دعوة",
+	"version": "1",
+}
+"CLAN_EDIT_KICK"
+{
+	"text": "طرد",
+	"version": "1",
+}
+"CLAN_EDIT_NAME"
+{
+	"text": "اسم",
+	"version": "1",
+}
+"CLAN_EDIT_SHOW"
+{
+	"text": "إظهار",
+	"version": "1",
+}
+"CLAN_EDIT_TITLE_INVITE"
+{
+	"text": "دعوة لاعبين",
+	"version": "1",
+}
+"CLAN_ELO"
+{
+	"text": "ELO",
+	"version": "1",
+}
+"CLAN_LEAVE"
+{
+	"text": "خروج من الفريق",
+	"version": "1",
+}
+"CLAN_REG_CREATE"
+{
+	"text": "صنع",
+	"version": "1",
+}
+"CLAN_REG_DISPLAY"
+{
+	"text": "إظهار",
+	"version": "1",
+}
+"CLAN_REG_FULL_EX"
+{
+	"text": "مثال على الاسم الكامل للاعب: MYM^Maelk^DotA",
+	"version": "1",
+}
+"CLAN_REG_NAME"
+{
+	"text": "الاسم",
+	"version": "1",
+}
+"CLAN_REG_NAME_EX"
+{
+	"text": "e.g. Meet your Makers",
+	"version": "1",
+}
+"CLAN_REG_PREFIX"
+{
+	"text": "سوابق اسم اللاعب",
+	"version": "1",
+}
+"CLAN_REG_PREFIX_EX"
+{
+	"text": "e.g. MYM^",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX"
+{
+	"text": "توابع اسم اللاعب",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX_EX"
+{
+	"text": "e.g. ^DotA",
+	"version": "1",
+}
+"CLAN_REG_TAG"
+{
+	"text": "الاسم المختصر",
+	"version": "1",
+}
+"CLAN_REG_TAG_EX"
+{
+	"text": "e.g. MYM",
+	"version": "1",
+}
+"CLAN_TITLE_DESCRIPTION"
+{
+	"text": "الوصف",
+	"version": "1",
+}
+"CLAN_TITLE_Players"
+{
+	"text": "اللاعبون",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY"
+{
+	"text": "-- الأصدقاء نصف المتاحين",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY_COLOR"
+{
+	"text": "brown",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME"
+{
+	"text": "-- الأصدقاء داخل لعبةDISPLAY_FLIST_INGAME_COLOR = blue",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME_COLOR"
+{
+	"text": "blue",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE"
+{
+	"text": "<< الأصدقاء غير المتاحينDISPLAY_FLIST_OFFLINE_COLOR = red",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE_COLOR"
+{
+	"text": "red",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE"
+{
+	"text": ">> الأصدقاء المتاحون",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE_COLOR"
+{
+	"text": "green",
+	"version": "1",
+}
+"DOTA_OPEN_GAMES"
+{
+	"text": "الألعاب المتاحة",
+	"version": "1",
+}
+"DOTA_RUNNING_GAMES"
+{
+	"text": "الألعاب الجارية",
+	"version": "1",
+}
+"DOTA_SIGN"
+{
+	"text": "سجل",
+	"version": "1",
+}
+"DOTA_SIGNED_PLAYERS"
+{
+	"text": "اللاعبين المسجلين",
+	"version": "1",
+}
+"DOTA_STARTED_GAMES"
+{
+	"text": "الألعاب البادئة",
+	"version": "1",
+}
+"DOTA_UNSIGN"
+{
+	"text": "محو التسجيل",
+	"version": "1",
+}
+"EDIT_ACCOUNT_CHANGE"
+{
+	"text": "تغيير",
+	"version": "1",
+}
+"EDIT_ACCOUNT_EMAIL"
+{
+	"text": "البريد الإلكتروني",
+	"version": "1",
+}
+"EDIT_ACCOUNT_GET_TOKEN"
+{
+	"text": "الذهاب إلى المتجر",
+	"version": "1",
+}
+"EDIT_ACCOUNT_NAME"
+{
+	"text": "الاسم",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD"
+{
+	"text": "كلمة المرور الحالية",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_CONFIRM"
+{
+	"text": "تأكيد كلمة المرور الحديثة",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_NEW"
+{
+	"text": "كلمة المرور الحديثة",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_EMAIL"
+{
+	"text": "البريد الإلكتروني",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_NAME"
+{
+	"text": "الاسم",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_PASSWORD"
+{
+	"text": "كلمة المرور",
+	"version": "1",
+}
+"EDIT_PRFOILE_DESCRIPTION"
+{
+	"text": "الوصف",
+	"version": "1",
+}
+"EDIT_PROFILE_AVATAR"
+{
+	"text": "اللقب",
+	"version": "1",
+}
+"EDIT_PROFILE_CHANGE"
+{
+	"text": "تأكيد التغييرات",
+	"version": "1",
+}
+"EDIT_PROFILE_DOB"
+{
+	"text": "تاريخ الولادة",
+	"version": "1",
+}
+"EDIT_PROFILE_FIRST_NAME"
+{
+	"text": "الاسم الأول",
+	"version": "1",
+}
+"EDIT_PROFILE_LAST_NAME"
+{
+	"text": "الاسم الأخير",
+	"version": "1",
+}
+"EDIT_PROFILE_NATIONALITY"
+{
+	"text": "الجنسية",
+	"version": "1",
+}
+"EDIT_PROFILE_RESIDENCY"
+{
+	"text": "مكان السكن",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX"
+{
+	"text": "الجنس",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_ANONYMOUS"
+{
+	"text": "لا يوجد",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_FEMALE"
+{
+	"text": "أنثى",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_MALE"
+{
+	"text": "ذكر",
+	"version": "1",
+}
+"EDIT_PROFILE_TITLE"
+{
+	"text": "معلومات شخصية",
+	"version": "1",
+}
+"ERROR_CCY"
+{
+	"text": "نفسك %0 لا يمكن",
+	"version": "1",
+}
+"FRIENDS_AWAY"
+{
+	"text": "نصف متاح",
+	"version": "1",
+}
+"FRIENDS_INGAME"
+{
+	"text": "في لعبة",
+	"version": "1",
+}
+"FRIENDS_OFFLINE"
+{
+	"text": "غير مناح",
+	"version": "1",
+}
+"FRIENDS_ONLINE"
+{
+	"text": "متاح",
+	"version": "1",
+}
+"GAME_ENDED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C تم انتهاء.",
+	"version": "1",
+}
+"GAME_HOSTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C تم صنع.",
+	"version": "1",
+}
+"GAME_STARTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C تم بدء.",
+	"version": "1",
+}
+"HIGHLIGHT_EVERYONE"
+{
+	"text": "الجميع",
+	"version": "1",
+}
+"HIGHLIGHT_FRIENDS_ONLY"
+{
+	"text": "الأصدقاء فقط",
+	"version": "1",
+}
+"HIGHLIGHT_NOONE"
+{
+	"text": "لا أحد",
+	"version": "1",
+}
+"LABEL_Channels"
+{
+	"text": "الغرف",
+	"version": "1",
+}
+"LABEL_Clans"
+{
+	"text": "الفرق",
+	"version": "1",
+}
+"LABEL_EditAccount"
+{
+	"text": "حساب",
+	"version": "1",
+}
+"LABEL_EditProfile"
+{
+	"text": "الملف الشخصي",
+	"version": "1",
+}
+"LABEL_Friends"
+{
+	"text": "أصدقاء",
+	"version": "1",
+}
+"LABEL_Help"
+{
+	"text": "مساعدة",
+	"version": "1",
+}
+"LABEL_LaunchWC3"
+{
+	"text": "تشغيل Warcraft III",
+	"version": "1",
+}
+"LABEL_Library"
+{
+	"text": "المكتبة",
+	"version": "1",
+}
+"LABEL_Servers"
+{
+	"text": "الألعاب المتاحة",
+	"version": "1",
+}
+"LABEL_Settings"
+{
+	"text": "إعدادات",
+	"version": "1",
+}
+"LOGIN_ENTER_PASS"
+{
+	"text": "الرجاء إدخال كلمة مرور",
+	"version": "1",
+}
+"LOGIN_ENTER_USER"
+{
+	"text": "الرجاء إدخال حساب",
+	"version": "1",
+}
+"LOGIN_INVALID_PASS"
+{
+	"text": "كلمة المرور خاطئة",
+	"version": "1",
+}
+"LOGIN_INVALID_USER"
+{
+	"text": "الحساب يحتوي رموز خاطئة",
+	"version": "1",
+}
+"MAIN_MENU_EXIT"
+{
+	"text": "خروج",
+	"version": "1",
+}
+"MESSAGE_LASTSEEN"
+{
+	"text": "آخر مرة في %1 شوهد %0",
+	"version": "1",
+}
+"PROFILE_ACCOUNT"
+{
+	"text": "الحساب",
+	"version": "1",
+}
+"PROFILE_AGE"
+{
+	"text": "العمر: %0",
+	"version": "1",
+}
+"PROFILE_DESCRIPTION"
+{
+	"text": "الوصف",
+	"version": "1",
+}
+"PROFILE_EMAIL"
+{
+	"text": "البريد الإلكتروني: %0",
+	"version": "1",
+}
+"PROFILE_GAMES"
+{
+	"text": "الألعاب: %0",
+	"version": "1",
+}
+"PROFILE_GROUP_ACCESS"
+{
+	"text": "الصلاحيات",
+	"version": "1",
+}
+"PROFILE_GROUP_PERSONAL"
+{
+	"text": "معلومات شخصية",
+	"version": "1",
+}
+"PROFILE_LASTLOGIN"
+{
+	"text": "آخر دخول: %0",
+	"version": "1",
+}
+"PROFILE_NATIONALITY"
+{
+	"text": "الجنسية: %0",
+	"version": "1",
+}
+"PROFILE_REGISTERED"
+{
+	"text": "مسجل منذ: %0",
+	"version": "1",
+}
+"PROFILE_RESIDENCY"
+{
+	"text": "مكان السكن: %0",
+	"version": "1",
+}
+"PROFILE_SEX"
+{
+	"text": "الجنس: %0",
+	"version": "1",
+}
+"PROFILE_SEX_FEMALE"
+{
+	"text": "أنثى",
+	"version": "1",
+}
+"PROFILE_SEX_MALE"
+{
+	"text": "ذكر",
+	"version": "1",
+}
+"REG_CANCEL"
+{
+	"text": "شكرا،لدي حساب",
+	"version": "1",
+}
+"REG_EMAIL"
+{
+	"text": "البريد الإلكتروني",
+	"version": "1",
+}
+"REG_EMAIL_CONFIRM"
+{
+	"text": "تأكيد",
+	"version": "1",
+}
+"REG_ERR_EMAIL"
+{
+	"text": "الرجاء إدخال بريد إلكتروني.",
+	"version": "1",
+}
+"REG_ERR_NAME"
+{
+	"text": "الرجاء إدخال اسم عرض",
+	"version": "1",
+}
+"REG_ERR_NAME_SIZE"
+{
+	"text": "اسم العرض يحوي أكثر من 15 رمز",
+	"version": "1",
+}
+"REG_ERR_PASS"
+{
+	"text": "الرجاء إدخال كلمة مرور.",
+	"version": "1",
+}
+"REG_ERR_USER"
+{
+	"text": "الرجاء إدخال حساب.",
+	"version": "1",
+}
+"REG_ERR_USER_SIZE"
+{
+	"text": "لا يمكن أن يحتوي الحساب أكثر من 15 رمز.",
+	"version": "1",
+}
+"REG_INVALID_EMAIL"
+{
+	"text": "بريدك الإكتروني يحوي رموز خاطئة.",
+	"version": "1",
+}
+"REG_INVALID_NAME"
+{
+	"text": "اسم العرض يحتوي رموز خاطئة",
+	"version": "1",
+}
+"REG_INVALID_NAME_WC3"
+{
+	"text": "اسم العرض يحتوي يحتوي |c او |n أو |r , و هي رموز غير مقبولة",
+	"version": "1",
+}
+"REG_INVALID_USER"
+{
+	"text": "االحساب يحوي رموز خاطئة.",
+	"version": "1",
+}
+"REG_MISMATCH_EMAIL"
+{
+	"text": "البريدين الإلكترونيين لم يتطابقا.",
+	"version": "1",
+}
+"REG_MISMATCH_PASS"
+{
+	"text": "كلمات المرور لا تتطابق.",
+	"version": "1",
+}
+"REG_NAME"
+{
+	"text": "اسم العرض",
+	"version": "1",
+}
+"REG_PASS"
+{
+	"text": "كلمة المرور",
+	"version": "1",
+}
+"REG_PASS_CONFIRM"
+{
+	"text": "تأكيد",
+	"version": "1",
+}
+"REG_REGISTER"
+{
+	"text": "اللتسجيل",
+	"version": "1",
+}
+"REG_USER"
+{
+	"text": "الحساب",
+	"version": "1",
+}
+"REG_VALID_EMAIL"
+{
+	"text": "الرجاء إدخال بريد إلكتروني صحيح.",
+	"version": "1",
+}
+"SERVERS_CHANNEL"
+{
+	"text": "الغرفة",
+	"version": "1",
+}
+"SERVERS_GAME"
+{
+	"text": "اللعبة",
+	"version": "1",
+}
+"SERVERS_LATENCY"
+{
+	"text": "مرونة اللعبة",
+	"version": "1",
+}
+"SERVERS_MAP"
+{
+	"text": "الخريطة",
+	"version": "1",
+}
+"SERVERS_NAME"
+{
+	"text": "الاسم",
+	"version": "1",
+}
+"SERVERS_PLAYERS"
+{
+	"text": "اللاعبون",
+	"version": "1",
+}
+"SERVER_ALREADY_LOGGED_IN"
+{
+	"text": "المستخدم مشبوك.",
+	"version": "1",
+}
+"SERVER_CHANNEL_ALREADY_INSIDE"
+{
+	"text": "[%0] أنت في تلك الغرفة مسبقا.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_ALREADY"
+{
+	"text": "هذ الحاسوب ممنوع مسبقا. لا يمن إضافة منع جديد.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_NOW"
+{
+	"text": "من الدخول %0 بمنع حاسوب %1 قام",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_ALREADY"
+{
+	"text": "هذا الحاسوب مسموح له بالدخول.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_NOW"
+{
+	"text": "بالدخول %0 بالسماح لحاسوب %1 قام",
+	"version": "1",
+}
+"SERVER_CHANNEL_NO_ACCESS"
+{
+	"text": "ليس لديك صلاحيات الدخول إلى تلك الغرفة.",
+	"version": "1",
+}
+"SERVER_CHANNEL_REJECTION_MESSAGE"
+{
+	"text": "[%0] %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_ALREADY_VOUCHED"
+{
+	"text": "هذا المستخدم مسجل مسبقا في هذه الغرفة.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_ALREADY"
+{
+	"text": "المستخدم ممنوع مسبقا. لا يمكن إضافة منع آخر عليه.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_NOW"
+{
+	"text": "من الدخول إلى الغرفة %0 بمنع %1 قام",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOT_VOUCHED"
+{
+	"text": "هذا المستخدم غير مسجل في الغرفة.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOW_VOUCHED"
+{
+	"text": "مسجلا في هذه الغرفة %0 أصبح",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_ALREADY"
+{
+	"text": "هذا المستخدم مسموح له بالدخول.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_NOW"
+{
+	"text": "بالدخول %0 بالسماح ل %1 قام",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNVOUCHED"
+{
+	"text": "غير مسجل %0 أصبح",
+	"version": "1",
+}
+"SERVER_CLIENTBANNED"
+{
+	"text": "السبب:%0 تم منعك من الدخول",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED"
+{
+	"text": "السبب %0 تم طردك ",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_BY"
+{
+	"text": "%0 قام بطرد %1",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_NOT_LOGGED_ON"
+{
+	"text": "لا يمكن طرد مستخدم غير متاح.",
+	"version": "1",
+}
+"SERVER_COMMAND_DB_INVALID_INPUT"
+{
+	"text": "خطأ. سبب محتمل: إدخال خاطئ.",
+	"version": "1",
+}
+"SERVER_COMMAND_ON_NON_EXISTANT_USER"
+{
+	"text": "مستخدم غير متواجد %0 . لا يمكن",
+	"version": "1",
+}
+"SERVER_COMPBANNED"
+{
+	"text": "السبب: %0 تم من حاسوبك من الدخول",
+	"version": "1",
+}
+"SERVER_ERROR_ACCESSGROUP"
+{
+	"text": "مجموعة الصلاحية غير موجودة.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION"
+{
+	"text": "خطأ. لا يمكنك إعطاء صلاحيات أعلى من صلاحياتك.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION_ADMIN"
+{
+	"text": "خطأ. لا يمكنك استخدام هذا الأمر على من له صلاحيات أعلى منك.",
+	"version": "1",
+}
+"SERVER_FRIEND_ADDED_YOU"
+{
+	"text": "إلى قائمة أصدقائه %0 أضافك",
+	"version": "1",
+}
+"SERVER_FRIEND_ALREADY_ON"
+{
+	"text": "موجود في قائمة أصدقائك %0 إن",
+	"version": "1",
+}
+"SERVER_FRIEND_MESSAGE_TO"
+{
+	"text": "للجميع: %0",
+	"version": "1",
+}
+"SERVER_FRIEND_NOT_ON"
+{
+	"text": "غير موجود في قائمة أصدقائك %0 إن",
+	"version": "1",
+}
+"SERVER_FRIEND_REMOVED_YOU"
+{
+	"text": "من قائمة أصدقائه %0 أزالك",
+	"version": "1",
+}
+"SERVER_INVALID_PROFILE_VALUES"
+{
+	"text": "تغيير ملفك الشخصي لم يتم بنجاح. الرجاء التأكد من عدم وجود رموز (مثل ', !, الخ..) في فراغات تعديل الملف الشخصي.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETACCESS"
+{
+	"text": "في هذه الغرفة %1 يمثل %0 أصبح",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETGLOBALACCESS"
+{
+	"text": "في جميع الغرف %1 يمثل %0 أصبح",
+	"version": "1",
+}
+"SERVER_PROFILE_CHANGED"
+{
+	"text": "تم تعديل ملفك الشخصي بنجاح.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_DATABASE_ERROR"
+{
+	"text": " لا تستخدم هذه الرموز في اسم المستخدم ،خطأ\\\\ < ! ' \\\" > .",
+	"version": "1",
+}
+"SERVER_REGISTRATION_EMAIL_ALREADY_TAKEN"
+{
+	"text": "هذا البريد الإلكتروني مستخدم.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_NAME_ALREADY_TAKEN"
+{
+	"text": "اسم العرض مأخوذ",
+	"version": "1",
+}
+"SERVER_REGISTRATION_USER_ALREADY_TAKEN"
+{
+	"text": "الحساب مأخوذ.",
+	"version": "1",
+}
+"SERVER_SPECIFIED_USERNAME_DOESNT_EXIST"
+{
+	"text": "اسم المستخد المطلوب غير متواجد.",
+	"version": "1",
+}
+"SERVER_USERNAME_DOESNT_EXIST"
+{
+	"text": "غير متواجد %0 المستخدم",
+	"version": "1",
+}
+"SERVER_WHISPER_NOT_LOGGED_IN"
+{
+	"text": "المستخدم غير متاح. الرسالة الخاصة فشلت.",
+	"version": "1",
+}
+"SERVER_WRONG_LOGIN"
+{
+	"text": "معلومات دخول خاطئة",
+	"version": "1",
+}
+"SETTINGS_TAB_CHAT"
+{
+	"text": "دردشة",
+	"version": "1",
+}
+"SETTINGS_TAB_DOTA"
+{
+	"text": "DotA",
+	"version": "1",
+}
+"SETTINGS_TAB_FRIENDS"
+{
+	"text": "أصدقاء",
+	"version": "1",
+}
+"SETTINGS_TAB_OTHER"
+{
+	"text": "أخرى",
+	"version": "1",
+}
+"SETTINGS_TAB_SOUNDS"
+{
+	"text": "أصوات",
+	"version": "1",
+}
+"STATUS_AWAY"
+{
+	"text": " أنت الآن نصف متاح.",
+	"version": "1",
+}
+"STATUS_ONLINE"
+{
+	"text": "أنت الآن متاح",
+	"version": "1",
+}
+"TITLE_CHANNELS"
+{
+	"text": "غرف",
+	"version": "1",
+}
+"TITLE_CHANNEL_ADMIN"
+{
+	"text": "إدارة الغرفة",
+	"version": "1",
+}
+"TITLE_CLANS"
+{
+	"text": "فرق",
+	"version": "1",
+}
+"TITLE_CLAN_INFO"
+{
+	"text": "معلومات الفريق",
+	"version": "1",
+}
+"TITLE_CLAN_REGISTER"
+{
+	"text": "فريقي",
+	"version": "1",
+}
+"TITLE_CONNECT"
+{
+	"text": "اشبك",
+	"version": "1",
+}
+"TITLE_EDIT_ACCOUNT"
+{
+	"text": "تنظيم الحساب",
+	"version": "1",
+}
+"TITLE_EDIT_PROFILE"
+{
+	"text": "تعديل الملف الخاص",
+	"version": "1",
+}
+"TITLE_FRIENDS"
+{
+	"text": "أصدقاء",
+	"version": "1",
+}
+"TITLE_LIBRARY"
+{
+	"text": "المكتبة",
+	"version": "1",
+}
+"TITLE_LOGIN"
+{
+	"text": "دخول",
+	"version": "1",
+}
+"TITLE_MY_CLAN"
+{
+	"text": "فريقي",
+	"version": "1",
+}
+"TITLE_PROFILE"
+{
+	"text": "الملف الخاص",
+	"version": "1",
+}
+"TITLE_REGISTER"
+{
+	"text": "تسجيل",
+	"version": "1",
+}
+"TITLE_SERVERS"
+{
+	"text": "ألعاب متاحة",
+	"version": "1",
+}
+"TITLE_SETTINGS"
+{
+	"text": "إعدادات",
+	"version": "1",
+}
+"UI_LOGIN_CONNECT"
+{
+	"text": "اشبك",
+	"version": "1",
+}
+"UI_LOGIN_LOGIN"
+{
+	"text": "دخول",
+	"version": "1",
+}
+"UI_LOGIN_PASS"
+{
+	"text": "كلمة المرور",
+	"version": "1",
+}
+"UI_LOGIN_REGISTER"
+{
+	"text": "تسجيل",
+	"version": "1",
+}
+"UI_LOGIN_SAVEPASS"
+{
+	"text": "(حفظ)",
+	"version": "1",
+}
+"UI_LOGIN_USER"
+{
+	"text": "حسابي",
+	"version": "1",
+}
+"UI_SHUTDOWN_THANKYOU"
+{
+	"text": "RGC شكرا لاستخدامكم",
+	"version": "1",
+}
+"WHOIS_AWAY"
+{
+	"text": "نصف متاح %0 إن",
+	"version": "1",
+}
+"WHOIS_INGAME"
+{
+	"text": "%1 داخل اللعبة %0 إن ",
+	"version": "1",
+}
+"WHOIS_INGAME_PRIVATE"
+{
+	"text": "داخل لعبة خاصة %0 إن",
+	"version": "1",
+}
+"WHOIS_OFFLINE"
+{
+	"text": "غير متاح %0 إن",
+	"version": "1",
+}
+"WHOIS_ONLINE"
+{
+	"text": "متاح %0 إن",
+	"version": "1",
+}
+"bDotaPathFind"
+{
+	"text": "ابحث",
+	"version": "1",
+}
+"cOtherLogs"
+{
+	"text": "تشغيل عملية تسجيل عمليات البرنامج",
+	"version": "1",
+}
+"cOtherMainExit"
+{
+	"text": "\"x\" عند الضغط على RGC إغلاق ",
+	"version": "1",
+}
+"cOtherMainMinimize"
+{
+	"text": "إلى شريط اللوائح RGC إنزال",
+	"version": "1",
+}
+"cOtherVisualsFullscreen"
+{
+	"text": "بدء البرنامج في وضع الشاشة الكاملة",
+	"version": "1",
+}
+"cRoomsJoinAll"
+{
+	"text": "انضم إلى جميع الغرف المسموح لي بالدخول إليها",
+	"version": "1",
+}
+"cSoundsGameHosted"
+{
+	"text": "تم صنع لعبتك",
+	"version": "1",
+}
+"cSoundsGameStarted"
+{
+	"text": "صوت تنبيه بدء لعبتك",
+	"version": "1",
+}
+"cSoundsLogin"
+{
+	"text": "تسجيل الدخول",
+	"version": "1",
+}
+"cSoundsShutdown"
+{
+	"text": "إغلاق",
+	"version": "1",
+}
+"cTimestampGames"
+{
+	"text": "الوقت لحالة اللعبة",
+	"version": "1",
+}
+"cTimestampMessages"
+{
+	"text": "الوقت لرسالة الدردشة",
+	"version": "1",
+}
+"cTimestampUpdates"
+{
+	"text": "الوقت لتعديلات الغرفة",
+	"version": "1",
+}
+"cmdSave"
+{
+	"text": "حفظ",
+	"version": "1",
+}
+"gFriends"
+{
+	"text": "قائمة الأصدقاء",
+	"version": "1",
+}
+"gFriendsMessageAway"
+{
+	"text": "رسالة صديق أصبح نصف متاح",
+	"version": "1",
+}
+"gFriendsMessageIngame"
+{
+	"text": "رسالة صديق دخل إلى لعبة",
+	"version": "1",
+}
+"gFriendsMessageOffline"
+{
+	"text": "رسالة صديق لم يعد متاح",
+	"version": "1",
+}
+"gFriendsMessageOnline"
+{
+	"text": "رسالة صديق متاح",
+	"version": "1",
+}
+"gHighlight"
+{
+	"text": "نداء",
+	"version": "1",
+}
+"gHighlightAliases"
+{
+	"text": "أسماء لمناداتك",
+	"version": "1",
+}
+"gOtherCustom"
+{
+	"text": "التعديلات",
+	"version": "1",
+}
+"gRooms"
+{
+	"text": "غرف",
+	"version": "1",
+}
+"gRoomsCustomList"
+{
+	"text": "قائمة خاصة",
+	"version": "1",
+}
+"gSounds"
+{
+	"text": "أصوات",
+	"version": "1",
+}
+"gTimestamps"
+{
+	"text": "الوقت",
+	"version": "1",
+}
+"lDotaLaunchOptions"
+{
+	"text": "إعدادات التشغيل",
+	"version": "1",
+}
+"lDotaMode"
+{
+	"text": "الوضع الأصلي",
+	"version": "1",
+}
+"lDotaPath"
+{
+	"text": "WarcraftIII: The Frozen Throne",
+	"version": "1",
+}
+"lHighlight"
+{
+	"text": "تحديد حقوق الأشخاص",
+	"version": "1",
+}
+"lHighlightAway"
+{
+	"text": "نصف متاح",
+	"version": "1",
+}
+"lHighlightIngame"
+{
+	"text": "داخل لعبة",
+	"version": "1",
+}
+"lHighlightOnline"
+{
+	"text": "متاح",
+	"version": "1",
+}
+"lOtherCustomLanguage"
+{
+	"text": "اللغة",
+	"version": "1",
+}
+"lOtherCustomSkin"
+{
+	"text": "المظهر",
+	"version": "1",
+}
+"lOtherLogs"
+{
+	"text": "تسجيل عمليات البرنامج",
+	"version": "1",
+}
+"lOtherMain"
+{
+	"text": "أزرار النافذة الرئيسة",
+	"version": "1",
+}
+"lOtherVisuals"
+{
+	"text": "مرئيات",
+	"version": "1",
+}
+"lTimestampCustom"
+{
+	"text": "الوقت بتعديل شخصي",
+	"version": "1",
+}
+"lTimestampExpressions"
+{
+	"text": "تعابير",
+	"version": "1",
+}
+"lTimestampExpressions2"
+{
+	"text": "لمزيد من التفاصيل الرجاء زيارة",
+	"version": "1",
+}
+"lTimestampSettings"
+{
+	"text": "الإعدادات",
+	"version": "1",
+}

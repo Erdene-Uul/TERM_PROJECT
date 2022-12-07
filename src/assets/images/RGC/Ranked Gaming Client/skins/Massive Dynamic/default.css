@@ -1,0 +1,526 @@
+/* QCheckBox */
+QCheckBox {
+	color: rgb(220, 220, 220);
+}
+
+QCheckBox::indicator::checked {
+	image: url('/buttons/cb_checked.png');
+}
+
+QCheckBox::indicator::checked:hover {
+	image: url('/buttons/cb_checked_h.png');
+}
+
+QCheckBox::indicator::unchecked {
+	image: url('/buttons/cb_unchecked.png');
+}
+
+QCheckBox::indicator::unchecked:hover {
+	image: url('/buttons/cb_unchecked_h.png');
+}
+
+/* QComboBox */
+QComboBox {
+	background-color: qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:0,
+		stop:0.50 rgba(21, 209, 245, 200),
+		stop:0.020 rgba(18, 104, 142, 200),
+		stop:0.988636 rgba(8, 94, 132, 200));
+
+	border: 1px solid rgba(18, 104, 142, 200);
+	border-bottom: 1px solid qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:0,
+		stop:0.50 rgba(21, 209, 245, 200),
+		stop:0.020 rgba(18, 104, 142, 200),
+		stop:0.988636 rgba(8, 94, 132, 200));
+
+	border-top: 1px solid qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:0,
+		stop:0.50 rgba(21, 209, 245, 200),
+		stop:0.020 rgba(18, 104, 142, 200),
+		stop:0.988636 rgba(8, 94, 132, 200));
+
+	border-radius: 0px;
+	color: rgb(0, 24, 44);
+	font-family: calibri, Helvetica, arial;
+	font-size: 13px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+QComboBox:hover {
+	background-color: qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:0,
+		stop:0.50 rgb(21, 209, 245),
+		stop:0.020 rgba(18, 104, 142, 200),
+		stop:0.988636 rgba(8, 94, 132, 200));
+}
+
+QComboBox QAbstractItemView {
+	background: rgb(49,49,49);
+	border: 1px solid rgb(72, 72, 72);
+	color: black;
+	font-size: 9px;
+	outline: none; /* removes dotted selection square */
+	selection-background-color: rgba(120, 120, 120, 220);
+	selection-color: black;
+
+}
+
+QComboBox::drop-down {
+	background-color: rgba(0, 0, 0, 0);
+	border: 1px solid rgba(0, 0, 0, 0);
+	border-radius: 3px;
+}
+
+QComboBox::down-arrow {
+	image: url('arrow.png');
+}
+
+QComboBox::down-arrow:hover{
+	image: url('arrow1.png');
+}
+
+/* QGroupBox */
+QGroupBox {border: none;
+	font-family: 'Open Sans';
+	font-size: 11px;
+	font-weight: 500;
+        text-transform: uppercase;
+}
+
+/* QHeaderView */
+QHeaderView {
+	background-color: qlineargradient(spread:pad, x1:0, y1:1, x2:0, y2:0,
+		stop:0 rgba(0, 0, 0, 190),
+		stop:0.935 rgba(0, 0,0, 190));
+}
+
+QHeaderView::section {
+	background: rgba(0, 0, 0, 0);
+	border:1px solid rgba(20, 20, 20, 255);
+	color: rgba(220, 220, 220, 255);
+	font-weight: normal;
+	padding: 6px;
+/*	selection-background-color: qlineargradient(spread:pad, x1:0, y1:1, x2:0, y2:0,
+		stop:0 rgba(0, 0, 0, 200),
+		stop:0.935 rgba(0, 0, 0, 190));
+	selection-color: #FFF;*/
+	outline: none;
+}
+
+/* QLabel */
+QLabel {
+	color: #FFF;
+}
+
+/* QLCDNumber */
+QLCDNumber {
+	background: rgba(30, 30, 30,0);
+	border: 1px solid rgba(80, 80, 80,80);
+	border-radius: 2px;
+}
+
+/* QListWidget */
+QListWidget {
+	font-family: Arial, Helvetica, Calibri;
+	font-size: 12px;
+	outline: none;
+}
+
+QListWidget::item:hover { 
+	background-color: qlineargradient(spread:pad, x2:0, y1:0, x1:1, y2:0,
+		stop:0 rgba(140, 140, 140, 10),
+		stop:1 rgba(125, 125, 125, 120));
+}
+
+QListWidget::item:selected:active,QListWidget::item:selected:!active{
+	background-color: qlineargradient(spread:pad, x2:0, y1:0, x1:1, y2:0,
+		stop:0 rgba(160, 160, 160, 10),
+		stop:1 rgba(145, 145, 145, 120));
+}
+
+
+/* QMenu */
+QMenu {	
+    background: url('banner_texture.png') repeat #222;
+    border: 1px solid #333;
+    border-radius: 1px;
+    color: #FFF;
+    font-family: 'Open Sans';
+    font-weight: 12px;
+}
+
+QMenu::item:selected {
+	background: #555;
+ 	color: #000;
+}
+
+QMenu::item { 
+	padding: 2px 25px 2px 20px;
+}
+
+/* QPushButton */
+QPushButton {
+	background: qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:0,
+		stop:0.50 rgba(185, 185, 185, 200),
+		stop:0.020 rgba(125, 125, 125, 200),
+		stop:0.988636 rgba(125, 125, 125, 200));
+
+	border: 1px solid rgba(135, 135, 135, 200);
+	border-bottom: 1px solid qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:0,
+		stop:0.50 rgba(205, 205, 205, 200),
+		stop:0.020 rgba(115, 115, 115, 200),
+		stop:0.988636 rgba(115, 115, 115, 200));
+
+	border-top: 1px solid qlineargradient(spread:pad, x1:1, y1:0, x2:0, y2:0,
+		stop:0.50 rgba(205, 205, 205, 200),
+		stop:0.020 rgba(115, 115, 115, 200),
+		stop:0.988636 rgba(115, 115, 115, 200));
+
+	border-radius: 0px;
+	color: rgb(20, 20, 20);
+	font-family: Calibri,Helvetica,arial;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+QPushButton:hover {
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
+		stop:0 rgba(130, 130, 130, 200),
+		stop:0.50 rgba(196, 196, 196, 230),
+		stop:1 rgba(130, 130, 130, 200));        
+}
+QPushButton:pressed {
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
+		stop:0 rgba(150, 150, 150, 200),
+		stop:0.50 rgba(225, 225, 225, 230),
+		stop:1 rgba(150, 150, 150, 200));	      
+}
+
+/* QScrollbar */
+QScrollBar:vertical {
+	background-color: transparent;
+	border: 0px solid transparent;
+	border-radius: 0px;
+	margin: 4px;
+	margin-right: 2px;
+	width: 12px;
+}
+
+QScrollBar::handle:vertical {
+	background-color: #323232;
+	border: 0px solid #3E3E3E;
+	min-height: 30px;
+	width: 2px;
+}
+
+QScrollBar::add-line:vertical { 
+	background-image: transparent;
+	border: 0px solid rgba(0, 0, 0, 100);
+	border-radius: 1px;
+	height: 0px;
+        margin: 1px 2 1px 0;
+	subcontrol-origin: margin; 
+}
+
+QScrollBar::add-line:vertical:hover {
+	background: #dedede;
+}
+
+QScrollBar::sub-line:vertical { 
+	background-image: transparent;
+	border: 0px solid rgba(0, 0, 0, 100);;
+	border-radius: 1px;
+	height: 0px;
+        margin: 1px 2 1px 0;
+	subcontrol-position: top;
+	subcontrol-origin: margin; 
+}
+
+QScrollBar::sub-line:vertical:hover {
+	background: #dedede;
+}
+
+QScrollBar::up-arrow:vertical {
+	background: rgba(57, 206, 255, 0);
+	border: 0px #892522;
+	height: 0px;
+	image: url('up.png') center;
+	width: 13px;
+}
+
+QScrollBar::down-arrow:vertical {
+	background: rgba(135, 27, 24, 0);
+	border: 0px #892522;
+	height: 0px;
+	image: url('down.png')center;
+	width: 13px;
+}
+
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+	background: none;
+	border: 1px rgb(43, 43, 43);
+	border-radius: 10px;
+}
+
+QScrollBar:horizontal {
+	background: qlineargradient(spread:pad, x1:0, y1:1, x2:0, y2:0,
+		stop:0 rgb(80, 80, 80),
+		stop:0.935 rgb(43, 43, 43));
+
+	border: 1px solid rgb(3, 3, 3);
+	border-radius: 5px;
+	margin: 25px 0 25px 0;
+	width: 15px;
+}
+
+QScrollBar::handle:horizontal {
+	background: rgb(135, 27, 24);
+	border: 1px solid rgb(43, 43, 43);
+	border-radius: 5px;
+	min-height: 20px;
+}
+
+QScrollBar::add-line:horizontal {
+	background: rgb(135, 27, 24);
+	border: 1px solid rgb(3, 3, 3);
+	border-radius: 5px;
+	height: 20px;
+	margin: 1px,1px,1px,1px;
+	subcontrol-origin: margin;
+}
+
+QScrollBar::sub-line:horizontal {
+	background: rgb(135, 27, 24);
+	border: 1px solid rgb(3, 3, 3);
+	border-radius: 5px;
+	height: 20px;
+	margin: 1px,1px,1px,1px;
+	subcontrol-origin: margin;
+	subcontrol-position: top;
+}
+
+QScrollBar::up-arrow:horizontal {
+	background: rgba(135, 27, 24, 0);
+	border: 1px #00302c;
+	height: 11px;
+	width: 13px;
+	image: url('up.png') center;
+}
+
+QScrollBar::down-arrow:horizontal {
+	background: rgba(135, 27, 24, 0);
+	border: 1px #892522;
+	width: 13px;
+	height: 11px;
+	image: url('down.png') center;
+}
+
+QScrollBar::add-page:horizontal, QScrollBar::sub-page:horizontal {
+	border: 1px rgb(43, 43, 43);
+	background: none;
+	border-radius: 10px;
+}
+
+QScrollBar:horizontal {
+	background: qlineargradient(spread:pad, x1:0, y1:1, x2:0, y2:0,
+		stop:0 rgb(80, 80, 80),
+		stop:0.935 rgb(43, 43, 43));
+
+	border: 1px solid rgb(3, 3, 3);
+	border-radius: 5px;
+	margin: 25px 0 25px 0;
+	width: 15px;
+}
+
+QScrollBar::handle:horizontal {
+	background: rgb(135, 27, 24);
+	border: 1px solid rgb(43, 43, 43);
+	border-radius: 5px;
+	min-height: 20px;
+}
+
+QScrollBar::add-line:horizontal {
+	background: rgb(135, 27, 24);
+	border: 1px solid rgb(3, 3, 3);
+	border-radius: 5px;
+	height: 20px;
+	margin: 1px,1px,1px,1px;
+	subcontrol-origin: margin;
+}
+
+QScrollBar::sub-line:horizontal {
+	background: rgb(135, 27, 24);
+	border: 1px solid rgb(3, 3, 3);
+	border-radius: 5px;
+	height: 20px;
+	margin: 1px,1px,1px,1px;
+	subcontrol-position: top;
+	subcontrol-origin: margin;
+}
+
+QScrollBar::up-arrow:horizontal {
+	background: rgba(135, 27, 24, 0);
+	border: 1px #892522;
+	height: 11px;
+	image: url('up.png');
+	width: 13px;
+}
+
+QScrollBar::down-arrow:horizontal {
+	background: rgba(135, 27, 24, 0);
+	border: 1px #892522;
+	height: 11px;
+	image: url('down.png');
+	width: 13px;
+}
+
+QScrollBar::add-page:horizontal, QScrollBar::sub-page:horizontal {
+	background: none;
+	border: 1px rgb(43, 43, 43);
+/*	border-radius: 10px;*/
+}
+
+/* QStyleOptionTabWidgetFrame */
+QStyleOptionTabWidgetFrame {
+	border: 1px #FF8503;
+}
+
+/* QTabBar */
+QTabBar::tab {background: transparent;
+	border:1px solid rgb(45, 45, 45,0);
+	border-radius: 0px;
+	color: rgb(230,230,230,0);
+	font-family: arial,Helvetica;
+	font-size: 11px;
+	font-weight: bold;
+	margin-right: 3px;
+	padding: 3px;
+	height: 14px;
+}
+
+QTabBar::close-button {
+	background: transparent;
+}
+
+QTabBar::close-button:hover {
+	background: url('CloseHover.png');
+}
+	
+QTabBar::tab:selected {color: rgb(0, 214, 131,0);}
+QTabBar::tab:hover {color: rgb(19, 203, 242,0);}
+QTabBar::tab:selected:hover { color:rgb(19, 203, 242,0);}
+
+/* QTableView */
+/*some line here causes the doublely colored selection in acp_channel's tableLAN */
+
+QTableView {
+	background: rgba(10, 10, 10);
+	border: 1px solid qlineargradient(spread:pad, x1:0, y1:1, x2:0, y2:0,
+		stop:0 rgb(15, 15, 15),
+		stop:1 rgb(66, 65, 65));
+	border-bottom: 1px solid rgba(20, 20, 20, 255);
+	color: rgba(220, 220, 220, 255);
+	font-weight: normal;
+	gridline-color: rgba(20, 20, 20, 255);
+	outline: none;
+}
+QTableView::item:selected {
+	background-color: rgba(175, 85, 13, 150);
+	color: rgba(240, 240, 240, 255);
+	outline: none;
+}
+
+QTableView QTableCornerButton::section {
+	background: qlineargradient(spread:pad, x1:0, y1:1, x2:0, y2:0,
+		stop:0 rgba(0, 0, 0, 190),
+		stop:0.935 rgba(0, 0,0, 190));
+}
+
+/* QTabWidget */
+QTabWidget {
+	border-color: rgb(255, 170, 0);
+	color: #892522;
+	selection-background-color: rgb(255, 170, 0);
+	selection-color: rgb(85, 170, 0);
+}
+
+QTabWidget::pane { 
+	background-color: rgba(43, 43, 43, 0);
+	border: 2px rgba(0,0,0,170);
+	margin: 1px,1px,1px,1px;
+	padding: 1px;
+}
+
+QTabWidget::tab-bar {
+	background-color: rgba(43, 43, 43, 200);
+	border: 2px solid #FF8503;
+	border-radius: 2px;
+	color: #892522; 
+}
+
+/* QTreeView */
+QTreeView {background: transparent;
+	border: none;
+	color: rgb(200, 200, 200);
+	font-weight: normal;
+	outline: none;
+	qproperty-contextMenuPolicy: CustomContextMenu;
+	qproperty-editTriggers: NoEditTriggers;
+	qproperty-frameShape: Box;
+	qproperty-headerHidden: True;
+}
+
+QTreeView::item {
+	border:none;
+}
+
+QTreeView::item:selected {
+	background-color: qlineargradient(spread:pad, y2:0.389661, x1:0.142, y1:0.31, x2:0.840818,
+		stop:0 rgba(128, 172, 210, 160),
+		stop:0.988636 rgba(96, 137, 173, 130),
+		stop:0.594318 rgba(70, 98, 123, 100),
+		stop:0.988636 rgba(70, 98, 123, 10));
+
+	border-bottom-left-radius: 3px;
+	border-top-left-radius: 3px;
+
+	/* Use the line below if you want to change the color of a selected item */
+	/* This overrides RGC's highlight setting on the selected item only*/
+	/*color: blue;*/
+}
+
+QTreeView::branch:has-children:!has-siblings:closed,
+QTreeView::branch:closed:has-children:has-siblings {
+	border-image: none;
+	image: url('closed1.png');
+}
+
+QTreeView::branch:open:has-children:!has-siblings,
+QTreeView::branch:open:has-children:has-siblings {
+	border-image: none;
+	image: url('open1.png');
+}
+
+QTreeView::branch:has-siblings:!adjoins-item {
+     border-image: none;
+	 image: none;
+}
+
+QTreeView::branch:has-siblings:adjoins-item {
+     border-image: none;
+	 image: none;
+}
+
+QTreeView::branch:!has-children:!has-siblings:adjoins-item {
+     border-image: none;
+	image: none;
+
+}
+ 
+/* GATHERED TOGETHER */
+QLineEdit, QListWidget, QTextEdit {
+	background-color: rgb(210, 210, 210);
+	border: 0px solid #000;
+	font-weight: normal;
+}
+
+QTextEdit{font-family: Calibri, Helvetica, Arial;
+
+}

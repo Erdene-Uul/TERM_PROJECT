@@ -1,0 +1,1430 @@
+"ACP_CHANNEL_ADMINS"
+{
+	"text": "Διαχειριστές",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENTS"
+{
+	"text": "Ανακοινώσεις",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_EDIT"
+{
+	"text": "Επεξεργασία",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_PREVIEW"
+{
+	"text": "Προεπισκόπηση",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_SAVE"
+{
+	"text": "Αποθήκευση",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_NAME"
+{
+	"text": "Όνομα",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_TITLE"
+{
+	"text": "Τίτλος",
+	"version": "1",
+}
+"cOtherMapDlPopup"
+{
+    "text": "Ενεργοποίηση αυτόματου προγράμματος λήψης πιστών PopUp",
+    "version": "1",
+}
+"lOtherMapDl"
+{
+    "text": "Πρόγραμμα λήψης πιστών",
+    "version": "1",
+}
+"BUDDYLIST_ADD"
+{
+	"text": "%0 προστέθηκε στη λίστα φίλων σου.",
+	"version": "1",
+}
+"BUDDYLIST_AWAY"
+{
+	"text": "Ο φίλος σου %0 δεν είναι στο πληκτρολόγιο.",
+	"version": "1",
+}
+"BUDDYLIST_INGAME"
+{
+	"text": "Ο φίλος σου %0 είναι στο %1",
+	"version": "1",
+}
+"BUDDYLIST_INGAME_PRIVATE"
+{
+	"text": "Ο φίλος σου %0 είναι σε ιδιωτικό παιχνίδι.",
+	"version": "1",
+}
+"BUDDYLIST_OFFLINE"
+{
+	"text": "Ο φίλος σου %0 είναι αποσυνδεδεμένος.",
+	"version": "1",
+}
+"BUDDYLIST_ONLINE"
+{
+	"text": "Ο φίλος σου %0 είναι συνδεδεμένος.",
+	"version": "1",
+}
+"BUDDYLIST_REMOVE"
+{
+	"text": "%0 αφαιρέθηκε απο τη λίστα φίλων σου.",
+	"version": "1",
+}
+"CHAT_CHANNELS_CUSTOM"
+{
+	"text": "Τροποποιημένα κανάλια",
+	"version": "1",
+}
+"CHAT_CHANNELS_LEAVE"
+{
+	"text": "Φεύγω απο το κανάλι",
+	"version": "1",
+}
+"CHAT_CHANNELS_OFFICIAL"
+{
+	"text": "Επίσημα κανάλια",
+	"version": "1",
+}
+"CHAT_CHANNELS_PRIVATE"
+{
+	"text": "Ιδιωτικά μηνύματα",
+	"version": "1",
+}
+"CHAT_CHANNEL_ALREADY_XXX"
+{
+	"text": " %1 είναι ήδη %0 σε αυτό το κανάλι.",
+	"version": "1",
+}
+"CHAT_CHANNEL_NOW_XXX"
+{
+	"text": "%1 είναι %0 σε αυτό το κανάλι.",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED"
+{
+	"text": "[%0] Είσαι timebanned απο αυτό το κανάλι μέχρι τις %2 στις %3. Αιτία: %1",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED_NOW"
+{
+	"text": "%0 είναι timebanned απο αυτό το κανάλι μέχρι τις %1 στις %2",
+	"version": "1",
+}
+"CHAT_JOINED"
+{
+	"text": "%0 μπήκε στο δωμάτιο.",
+	"version": "1",
+}
+"CHAT_LEFT"
+{
+	"text": "%0 έφυγε απο το δωμάτιο.",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN"
+{
+	"text": "Διαχειριστής",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_KICK"
+{
+	"text": "Απομάκρυνε",
+	"version": "1",
+}
+"CHAT_MENU_CLAN_VIEW"
+{
+	"text": "Δείξε Clan",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST"
+{
+	"text": "Λίστα φίλων",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_ADD"
+{
+	"text": "Προσθήκη φίλου",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_REMOVE"
+{
+	"text": "Αφαίρεση φίλου",
+	"version": "1",
+}
+"CHAT_MENU_HIGHLIGHT"
+{
+	"text": "Ειδοποίηση",
+	"version": "1",
+}
+"CHAT_MENU_PROFILE"
+{
+	"text": "Προφίλ",
+	"version": "1",
+}
+"CHAT_MENU_WHISPER"
+{
+	"text": "Ψιθυρίζω",
+	"version": "1",
+}
+"CHAT_MENU_WHOIS"
+{
+	"text": "Κατάσταση",
+	"version": "1",
+}
+"CHAT_PRIVATE_CLOSE"
+{
+	"text": "Τέλος συνομιλίας",
+	"version": "1",
+}
+"CLAN_CREATE"
+{
+	"text": "Δημιουργία της δικιάς μου Clan",
+	"version": "1",
+}
+"CLAN_CREATED"
+{
+	"text": "Δημιουργία",
+	"version": "1",
+}
+"CLAN_CREATOR"
+{
+	"text": "Δημιουργός",
+	"version": "1",
+}
+"CLAN_EDIT_CHANGE"
+{
+	"text": "Αλλαγή",
+	"version": "1",
+}
+"CLAN_EDIT_INVITE"
+{
+	"text": "Πρόσκληση",
+	"version": "1",
+}
+"CLAN_EDIT_KICK"
+{
+	"text": "Απομάκρυνση",
+	"version": "1",
+}
+"CLAN_EDIT_NAME"
+{
+	"text": "Όνομα",
+	"version": "1",
+}
+"CLAN_EDIT_SHOW"
+{
+	"text": "Εμφάνισε",
+	"version": "1",
+}
+"CLAN_EDIT_TITLE_INVITE"
+{
+	"text": "Πρόσκληση παιχτών",
+	"version": "1",
+}
+"CLAN_ELO"
+{
+	"text": "ELO",
+	"version": "1",
+}
+"CLAN_LEAVE"
+{
+	"text": "Φεύγω απο την Clan μου",
+	"version": "1",
+}
+"CLAN_REG_CREATE"
+{
+	"text": "Δημιουργία",
+	"version": "1",
+}
+"CLAN_REG_DISPLAY"
+{
+	"text": "Εμφάνιση",
+	"version": "1",
+}
+"CLAN_REG_FULL_EX"
+{
+	"text": "Παράδειγμα πλήρους ονόματος: MYM^Maelk^DotA",
+	"version": "1",
+}
+"CLAN_REG_NAME"
+{
+	"text": "Όνομα",
+	"version": "1",
+}
+"CLAN_REG_NAME_EX"
+{
+	"text": "π.χ. Meet your Makers",
+	"version": "1",
+}
+"CLAN_REG_PREFIX"
+{
+	"text": "Πρόθεμα",
+	"version": "1",
+}
+"CLAN_REG_PREFIX_EX"
+{
+	"text": "π.χ. MYM^",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX"
+{
+	"text": "Κατάληξη",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX_EX"
+{
+	"text": "π.χ. ^DotA",
+	"version": "1",
+}
+"CLAN_REG_TAG"
+{
+	"text": "Ετικέτα",
+	"version": "1",
+}
+"CLAN_REG_TAG_EX"
+{
+	"text": "π.χ. MYM",
+	"version": "1",
+}
+"CLAN_TITLE_DESCRIPTION"
+{
+	"text": "Περιγραφή",
+	"version": "1",
+}
+"CLAN_TITLE_Players"
+{
+	"text": "Παίχτες",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY"
+{
+	"text": "-- Φίλοι μακριά απο το πληκτρολόγιο",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY_COLOR"
+{
+	"text": "brown",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME"
+{
+	"text": "-- Φίλοι σε παιχνίδι",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME_COLOR"
+{
+	"text": "blue",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE"
+{
+	"text": "<< Αποσυνδεδεμένοι φίλοι",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE_COLOR"
+{
+	"text": "red",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE"
+{
+	"text": ">> Συνδεδεμένοι φίλοι",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE_COLOR"
+{
+	"text": "green",
+	"version": "1",
+}
+"DOTA_OPEN_GAMES"
+{
+	"text": "Ανοιχτά παιχνίδια",
+	"version": "1",
+}
+"DOTA_RUNNING_GAMES"
+{
+	"text": "Παίζονται τώρα",
+	"version": "1",
+}
+"DOTA_SIGN"
+{
+	"text": "Συμμετοχή",
+	"version": "1",
+}
+"DOTA_SIGNED_PLAYERS"
+{
+	"text": "Παίχτες που δήλωσαν",
+	"version": "1",
+}
+"DOTA_STARTED_GAMES"
+{
+	"text": "Παιχνίδια που ξεκίνησαν",
+	"version": "1",
+}
+"DOTA_UNSIGN"
+{
+	"text": "Ακύρωση",
+	"version": "1",
+}
+"EDIT_ACCOUNT_CHANGE"
+{
+	"text": "Αλλαγή",
+	"version": "1",
+}
+"EDIT_ACCOUNT_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_GET_TOKEN"
+{
+	"text": "Αλλαγή ονόματος",
+	"version": "1",
+}
+"EDIT_ACCOUNT_NAME"
+{
+	"text": "Όνομα",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD"
+{
+	"text": "Τωρινός κωδικός",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_CONFIRM"
+{
+	"text": "Επιβεβαίωση νέου κωδικού",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_NEW"
+{
+	"text": "Νεός κωδικός",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_NAME"
+{
+	"text": "Όνομα",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_PASSWORD"
+{
+	"text": "Κωδικός",
+	"version": "1",
+}
+"EDIT_PRFOILE_DESCRIPTION"
+{
+	"text": "Περιγραφή",
+	"version": "1",
+}
+"EDIT_PROFILE_AVATAR"
+{
+	"text": "Avatar",
+	"version": "1",
+}
+"EDIT_PROFILE_CHANGE"
+{
+	"text": "Υποβολή αλλαγών",
+	"version": "1",
+}
+"EDIT_PROFILE_DOB"
+{
+	"text": "Ημερ. γέννησης",
+	"version": "1",
+}
+"EDIT_PROFILE_FIRST_NAME"
+{
+	"text": "Όνομα",
+	"version": "1",
+}
+"EDIT_PROFILE_LAST_NAME"
+{
+	"text": "Επίθετο",
+	"version": "1",
+}
+"EDIT_PROFILE_NATIONALITY"
+{
+	"text": "Εθνικότητα",
+	"version": "1",
+}
+"EDIT_PROFILE_RESIDENCY"
+{
+	"text": "Κατοικία",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX"
+{
+	"text": "Φύλο",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_ANONYMOUS"
+{
+	"text": "Μη διαθέσιμο",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_FEMALE"
+{
+	"text": "Γυναίκα",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_MALE"
+{
+	"text": "Άντρας",
+	"version": "1",
+}
+"EDIT_PROFILE_TITLE"
+{
+	"text": "Προσωπικές πληροφορίες",
+	"version": "1",
+}
+"ERROR_CCY"
+{
+	"text": "Δεν γίνεται %0 τον ευατό σου.",
+	"version": "1",
+}
+"FRIENDS_AWAY"
+{
+	"text": "Μακριά",
+	"version": "1",
+}
+"FRIENDS_INGAME"
+{
+	"text": "Σε παιχνίδι",
+	"version": "1",
+}
+"FRIENDS_OFFLINE"
+{
+	"text": "Αποσυνδεδεμένοι",
+	"version": "1",
+}
+"FRIENDS_ONLINE"
+{
+	"text": "Συνδεδεμένοι",
+	"version": "1",
+}
+"GAME_ENDED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C τελείωσε.",
+	"version": "1",
+}
+"GAME_HOSTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C δημιουργήθηκε.",
+	"version": "1",
+}
+"GAME_STARTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C ξεκίνησε.",
+	"version": "1",
+}
+"HIGHLIGHT_EVERYONE"
+{
+	"text": "Όλοι",
+	"version": "1",
+}
+"HIGHLIGHT_FRIENDS_ONLY"
+{
+	"text": "Φίλοι μόνο",
+	"version": "1",
+}
+"HIGHLIGHT_NOONE"
+{
+	"text": "Κανείς",
+	"version": "1",
+}
+"LABEL_Channels"
+{
+	"text": "Δωμάτια",
+	"version": "1",
+}
+"LABEL_Clans"
+{
+	"text": "Clans",
+	"version": "1",
+}
+"LABEL_EditAccount"
+{
+	"text": "Χρήστης",
+	"version": "1",
+}
+"LABEL_EditProfile"
+{
+	"text": "Προφίλ",
+	"version": "1",
+}
+"LABEL_Friends"
+{
+	"text": "Φίλοι",
+	"version": "1",
+}
+"LABEL_Help"
+{
+	"text": "Βοήθεια",
+	"version": "1",
+}
+"LABEL_LaunchWC3"
+{
+	"text": "Εκκίνηση Warcraft III",
+	"version": "1",
+}
+"LABEL_Library"
+{
+	"text": "Βιβλιοθήκη",
+	"version": "1",
+}
+"LABEL_Servers"
+{
+	"text": "Διακομιστές",
+	"version": "1",
+}
+"LABEL_Settings"
+{
+	"text": "Ρυθμίσεις",
+	"version": "1",
+}
+"LOGIN_ENTER_PASS"
+{
+	"text": "Παρακαλώ εισάγετε κωδικό.",
+	"version": "1",
+}
+"LOGIN_ENTER_USER"
+{
+	"text": "Παρακαλώ εισάγετε όνομα λογαριασμού.",
+	"version": "1",
+}
+"LOGIN_INVALID_PASS"
+{
+	"text": "Ο κωδικός σας περιέχει μη έγκυρους χαρακτήρες.",
+	"version": "1",
+}
+"LOGIN_INVALID_USER"
+{
+	"text": "Ο λογαριασμός σας περιέχει μη έγκυρους χαρακτήρες.",
+	"version": "1",
+}
+"MAIN_MENU_EXIT"
+{
+	"text": "Έξοδος",
+	"version": "1",
+}
+"MESSAGE_LASTSEEN"
+{
+	"text": "[%0 τελευταία επίσκεψη στις %1]",
+	"version": "1",
+}
+"PROFILE_ACCOUNT"
+{
+	"text": "Χρήστης",
+	"version": "1",
+}
+"PROFILE_AGE"
+{
+	"text": "Ηλικία: %0",
+	"version": "1",
+}
+"PROFILE_DESCRIPTION"
+{
+	"text": "Περιγραφή",
+	"version": "1",
+}
+"PROFILE_EMAIL"
+{
+	"text": "Email: %0",
+	"version": "1",
+}
+"PROFILE_GAMES"
+{
+	"text": "Παιχνίδια: %0",
+	"version": "1",
+}
+"PROFILE_GROUP_ACCESS"
+{
+	"text": "Πρόσβαση πλατφόρμας",
+	"version": "1",
+}
+"PROFILE_GROUP_PERSONAL"
+{
+	"text": "Προσωπικές πληροφορίες",
+	"version": "1",
+}
+"PROFILE_LASTLOGIN"
+{
+	"text": "Τελευταία είσοδος: %0",
+	"version": "1",
+}
+"PROFILE_NATIONALITY"
+{
+	"text": "Εθνικότητα: %0",
+	"version": "1",
+}
+"PROFILE_REGISTERED"
+{
+	"text": "Εγγραφή: %0",
+	"version": "1",
+}
+"PROFILE_RESIDENCY"
+{
+	"text": "Κατοικία: %0",
+	"version": "1",
+}
+"PROFILE_SEX"
+{
+	"text": "Φύλο: %0",
+	"version": "1",
+}
+"PROFILE_SEX_FEMALE"
+{
+	"text": "Γυναίκα",
+	"version": "1",
+}
+"PROFILE_SEX_MALE"
+{
+	"text": "Άντρας",
+	"version": "1",
+}
+"REG_CANCEL"
+{
+	"text": "Όχι ευχαριστώ, έχω ήδη λογαριασμό",
+	"version": "1",
+}
+"REG_EMAIL"
+{
+	"text": "Email",
+	"version": "1",
+}
+"REG_EMAIL_CONFIRM"
+{
+	"text": "Επιβεβαίωση",
+	"version": "1",
+}
+"REG_ERR_EMAIL"
+{
+	"text": "Παρακάλω εισάγετε διεύθυνση email.",
+	"version": "1",
+}
+"REG_ERR_NAME"
+{
+	"text": "Παρακάλω εισάγετε όνομα",
+	"version": "1",
+}
+"REG_ERR_NAME_SIZE"
+{
+	"text": "Το όνομα σας δεν μπορεί να έχει παραπάνω απο 15 χαρακτήρες",
+	"version": "1",
+}
+"REG_ERR_PASS"
+{
+	"text": "Παρακάλω εισάγετε κωδικό.",
+	"version": "1",
+}
+"REG_ERR_USER"
+{
+	"text": "Παρακάλω εισάγετε όνομα λογαριασμού",
+	"version": "1",
+}
+"REG_ERR_USER_SIZE"
+{
+	"text": "Το όνομα του λογαριασμού σας δεν μπορεί να έχει παραπάνω απο 15 χαρακτήρες",
+	"version": "1",
+}
+"REG_INVALID_EMAIL"
+{
+	"text": "Η email διεύθυνση σας περιέχει μη έγκυρους χαρακτήρες.",
+	"version": "1",
+}
+"REG_INVALID_NAME"
+{
+	"text": "Το όνομα σας περιέχει μη έγκυρους χαρακτήρες",
+	"version": "1",
+}
+"REG_INVALID_NAME_WC3"
+{
+	"text": "Το όνομα σας περιέχει |c, |n ή |r. Αυτοί οι χαρακτήρες δεν υποστηρίζονται, παρακαλώ αλλάξτε το όνομα σας.",
+	"version": "1",
+}
+"REG_INVALID_USER"
+{
+	"text": "Το όνομα του λογαριασμού σας περιέχει μη έγκυρους χαρακτήρες",
+	"version": "1",
+}
+"REG_MISMATCH_EMAIL"
+{
+	"text": "Εισάγατε 2 διαφορετικές email διευθύνσεις.",
+	"version": "1",
+}
+"REG_MISMATCH_PASS"
+{
+	"text": "Εισάγατε 2 διαφορετικές διευθύνσεις.",
+	"version": "1",
+}
+"REG_NAME"
+{
+	"text": "Όνομα",
+	"version": "1",
+}
+"REG_PASS"
+{
+	"text": "Κωδικός",
+	"version": "1",
+}
+"REG_PASS_CONFIRM"
+{
+	"text": "Επιβεβαίωση",
+	"version": "1",
+}
+"REG_REGISTER"
+{
+	"text": "Εγγραφή",
+	"version": "1",
+}
+"REG_USER"
+{
+	"text": "Λογαριασμός",
+	"version": "1",
+}
+"REG_VALID_EMAIL"
+{
+	"text": "Παρακάλω εισάγετε έγκυρη διεύθυνση email.",
+	"version": "1",
+}
+"SERVERS_CHANNEL"
+{
+	"text": "Δωμάτιο",
+	"version": "1",
+}
+"SERVERS_GAME"
+{
+	"text": "Παιχνίδι",
+	"version": "1",
+}
+"SERVERS_LATENCY"
+{
+	"text": "Καθυστέρηση",
+	"version": "1",
+}
+"SERVERS_MAP"
+{
+	"text": "Χάρτης",
+	"version": "1",
+}
+"SERVERS_NAME"
+{
+	"text": "Όνομα",
+	"version": "1",
+}
+"SERVERS_PLAYERS"
+{
+	"text": "Παίχτες",
+	"version": "1",
+}
+"SERVER_ALREADY_LOGGED_IN"
+{
+	"text": "Ο χρήστης είναι ήδη συνδεδεμένος.",
+	"version": "1",
+}
+"SERVER_CHANNEL_ALREADY_INSIDE"
+{
+	"text": "[%0] Είσαι ήδη σε αυτό το κανάλι.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_ALREADY"
+{
+	"text": "Αυτός ο υπολογιστής είναι ήδη banned. Δεν μπορείς να κάνεις άλλο ban σε αυτόν.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_NOW"
+{
+	"text": "%0's υπολογιστής έγινε banned απο τον %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_ALREADY"
+{
+	"text": "Αυτός ο υπολογιστής δεν είναι banned σε αυτή τη πλατφόρμα.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_NOW"
+{
+	"text": "%0's υπολογιστής έγινε unbanned απο τον %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_NO_ACCESS"
+{
+	"text": "Δεν έχεις πρόσβαση σε αυτό το κανάλι.",
+	"version": "1",
+}
+"SERVER_CHANNEL_REJECTION_MESSAGE"
+{
+	"text": "[%0] %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_ALREADY_VOUCHED"
+{
+	"text": "Ο χρήστης είναι ήδη vouched σε αυτό το κανάλι.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_ALREADY"
+{
+	"text": "Ο χρήστης είναι ήδη banned. Δεν μπορείς να κάνεις άλλο ban σε αυτόν.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_NOW"
+{
+	"text": "%0 έγινε banned απο τον %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOT_VOUCHED"
+{
+	"text": "Ο χρήστης δεν είναι vouched σε αυτό το κανάλι.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOW_VOUCHED"
+{
+	"text": "%0 έιναι vouched σε αυτό το κανάλι.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_ALREADY"
+{
+	"text": "Ο χρήστης δεν είναι banned σε αυτή τη πλατφόρμα.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_NOW"
+{
+	"text": "%0 έγινε unbanned απο τον %1.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNVOUCHED"
+{
+	"text": "%0 έγινε unvouched.",
+	"version": "1",
+}
+"SERVER_CLIENTBANNED"
+{
+	"text": "Ήσουν banned. [Αιτία :: %0] Μπορείς να κάνεις έφεση για το ban στα forums @ www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED"
+{
+	"text": "Απομακρυνθήκατε. [Αιτία :: %0]",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_BY"
+{
+	"text": "%0 απομακρύνθηκε απο τον %1.",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_NOT_LOGGED_ON"
+{
+	"text": "Δεν μπορείς να απομακρύνεις χρήστη που δεν ειναι συνδεδεμένος.",
+	"version": "1",
+}
+"SERVER_COMMAND_DB_INVALID_INPUT"
+{
+	"text": "Σφάλμα βάσης δεδομένων. Πιθανή αιτία: Μη έγκυρη εισαγωγή.",
+	"version": "1",
+}
+"SERVER_COMMAND_ON_NON_EXISTANT_USER"
+{
+	"text": "Δεν γίνεται %0 χρήστη που δεν υπάρχει.",
+	"version": "1",
+}
+"SERVER_COMPBANNED"
+{
+	"text": "Ο υπολογιστής σου είναι banned. [Αιτία :: %0] Μπορείς να κάνεις έφεση για το ban στα forums @ www.rankedgaming.com",
+	"version": "1",
+}
+"SERVER_ERROR_ACCESSGROUP"
+{
+	"text": "Αυτή η κατηγορία πρόσβασης δεν υπάρχει.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION"
+{
+	"text": "Σφάλμα πρόσβασης. Δεν μπορείς να δώσεις μεγαλύτερη πρόσβαση σε κάποιον απο την δικιά σου.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION_ADMIN"
+{
+	"text": "Σφάλμα πρόσβασης. Δεν μπορείς να χρησιμοποιήσεις αυτή την εντολή σε κάποιον με μεγαλύτερη πρόσβαση απο σένα.",
+	"version": "1",
+}
+"SERVER_FRIEND_ADDED_YOU"
+{
+	"text": "%0 σας έβαλε στη λίστα φίλων του/της.",
+	"version": "1",
+}
+"SERVER_FRIEND_ALREADY_ON"
+{
+	"text": "%0 είναι ήδη στη λίστα φίλων σου.",
+	"version": "1",
+}
+"SERVER_FRIEND_MESSAGE_TO"
+{
+	"text": "Προς όλους: %0",
+	"version": "1",
+}
+"SERVER_FRIEND_NOT_ON"
+{
+	"text": "%0 δεν είναι στη λίστα φίλων σου.",
+	"version": "1",
+}
+"SERVER_FRIEND_REMOVED_YOU"
+{
+	"text": "%0 σας έβγαλε απο τη λίστα φίλων του/της.",
+	"version": "1",
+}
+"SERVER_INVALID_PROFILE_VALUES"
+{
+	"text": "Οι αλλαγές στο προφίλ σου δεν ολοκληρώθηκαν. Έλεγξε αν έχεις ειδικές τιμές (όπως ', !, κτλ..) στα πεδία του προφίλ σου.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETACCESS"
+{
+	"text": "%0 είναι %1 σε αυτό το κανάλι.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETGLOBALACCESS"
+{
+	"text": "%0 είναι %1 σε αυτή τη πλατφόρμα.",
+	"version": "1",
+}
+"SERVER_PROFILE_CHANGED"
+{
+	"text": "Το προφίλ σου αλλάχθηκε επιτυχώς.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_DATABASE_ERROR"
+{
+	"text": "Σφάλμα βάσης δεδομένων. Μην χρησιμοποιείτε σύμβολα όπως \\\\ < ! ' \\\" > στο όνομα σας.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_EMAIL_ALREADY_TAKEN"
+{
+	"text": "Το email το έχουν ήδη πάρει.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_NAME_ALREADY_TAKEN"
+{
+	"text": "Το όνομα το έχουν ήδη πάρει",
+	"version": "1",
+}
+"SERVER_REGISTRATION_USER_ALREADY_TAKEN"
+{
+	"text": "Το όνομα λογαριασμού το έχουν ήδη πάρει",
+	"version": "1",
+}
+"SERVER_SPECIFIED_USERNAME_DOESNT_EXIST"
+{
+	"text": "Το συγκεκριμένο όνομα χρήστη δεν υπάρχει.",
+	"version": "1",
+}
+"SERVER_USERNAME_DOESNT_EXIST"
+{
+	"text": "Ο χρήστης %0 δεν υπάρχει.",
+	"version": "1",
+}
+"SERVER_WHISPER_NOT_LOGGED_IN"
+{
+	"text": "Ο χρήστης αυτός δεν είναι συνδεδεμένος. Ο ψίθυρος απέτυχε.",
+	"version": "1",
+}
+"SERVER_WRONG_LOGIN"
+{
+	"text": "Λάθος στοιχεία εισόδου",
+	"version": "1",
+}
+"SETTINGS_TAB_CHAT"
+{
+	"text": "Συνομιλία",
+	"version": "1",
+}
+"SETTINGS_TAB_DOTA"
+{
+	"text": "DotA",
+	"version": "1",
+}
+"SETTINGS_TAB_FRIENDS"
+{
+	"text": "Φίλοι",
+	"version": "1",
+}
+"SETTINGS_TAB_OTHER"
+{
+	"text": "Λοιπά",
+	"version": "1",
+}
+"SETTINGS_TAB_SOUNDS"
+{
+	"text": "Ήχοι",
+	"version": "1",
+}
+"STATUS_AWAY"
+{
+	"text": "[ΚΑΤΑΣΤΑΣΗ] Δεν είσαι στο πληκτρολόγιο.",
+	"version": "1",
+}
+"STATUS_ONLINE"
+{
+	"text": "[ΚΑΤΑΣΤΑΣΗ] Είσαι συνδεδεμένος.",
+	"version": "1",
+}
+"TITLE_CHANNELS"
+{
+	"text": "Δωμάτια",
+	"version": "1",
+}
+"TITLE_CHANNEL_ADMIN"
+{
+	"text": "Δωμάτιο διαχειριστή",
+	"version": "1",
+}
+"TITLE_CLANS"
+{
+	"text": "Clans",
+	"version": "1",
+}
+"TITLE_CLAN_INFO"
+{
+	"text": "Πληροφορίες Clan ",
+	"version": "1",
+}
+"TITLE_CLAN_REGISTER"
+{
+	"text": "Η Clan μου",
+	"version": "1",
+}
+"TITLE_CONNECT"
+{
+	"text": "Σύνδεση",
+	"version": "1",
+}
+"TITLE_EDIT_ACCOUNT"
+{
+	"text": "Διαχείριση λογαριασμού",
+	"version": "1",
+}
+"TITLE_EDIT_PROFILE"
+{
+	"text": "Επεξεργασία προφίλ",
+	"version": "1",
+}
+"TITLE_FRIENDS"
+{
+	"text": "Φίλοι",
+	"version": "1",
+}
+"TITLE_LIBRARY"
+{
+	"text": "Βιβλιοθήκη",
+	"version": "1",
+}
+"TITLE_LOGIN"
+{
+	"text": "Είσοδος",
+	"version": "1",
+}
+"TITLE_MY_CLAN"
+{
+	"text": "Η Clan μου",
+	"version": "1",
+}
+"TITLE_PROFILE"
+{
+	"text": "Προφίλ",
+	"version": "1",
+}
+"TITLE_REGISTER"
+{
+	"text": "Εγγραφή",
+	"version": "1",
+}
+"TITLE_SERVERS"
+{
+	"text": "Διακομιστές",
+	"version": "1",
+}
+"TITLE_SETTINGS"
+{
+	"text": "Ρυθμίσεις",
+	"version": "1",
+}
+"UI_LOGIN_CONNECT"
+{
+	"text": "Σύνδεση",
+	"version": "1",
+}
+"UI_LOGIN_LOGIN"
+{
+	"text": "Είσοδος",
+	"version": "1",
+}
+"UI_LOGIN_PASS"
+{
+	"text": "Κωδικός",
+	"version": "1",
+}
+"UI_LOGIN_REGISTER"
+{
+	"text": "Εγγραφή",
+	"version": "1",
+}
+"UI_LOGIN_SAVEPASS"
+{
+	"text": "(Αποθήκευση)",
+	"version": "1",
+}
+"UI_LOGIN_USER"
+{
+	"text": "Λογαριασμός",
+	"version": "1",
+}
+"UI_SHUTDOWN_THANKYOU"
+{
+	"text": " Ευχαριστούμε που χρησιμοποιείτε το RGC",
+	"version": "1",
+}
+"WHOIS_AWAY"
+{
+	"text": "%0 δεν είναι στο πληκτρολόγιο.",
+	"version": "1",
+}
+"WHOIS_INGAME"
+{
+	"text": "%0 είναι στο %1",
+	"version": "1",
+}
+"WHOIS_INGAME_PRIVATE"
+{
+	"text": "%0 είναι σε ιδιωτικό παιχνίδι.",
+	"version": "1",
+}
+"WHOIS_OFFLINE"
+{
+	"text": "%0 είναι αποσυνδεδεμένος.",
+	"version": "1",
+}
+"WHOIS_ONLINE"
+{
+	"text": "%0 είναι συνδεδεμένος.",
+	"version": "1",
+}
+"bDotaPathFind"
+{
+	"text": "Βρές",
+	"version": "1",
+}
+"cOtherLogs"
+{
+	"text": "Δυνατότητα της πλατφόρμας να κρατάει logs.",
+	"version": "1",
+}
+"cOtherMainExit"
+{
+	"text": "Έξοδος απο το RGC όταν το \"X\" (Κλείσιμο) πατηθεί",
+	"version": "1",
+}
+"cOtherMainMinimize"
+{
+	"text": "Ελαχιστοποίηση του RGC όταν το \"_\" (Ελαχιστοποίηση) πατηθεί",
+	"version": "1",
+}
+"cOtherVisualsFullscreen"
+{
+	"text": "Εκκίνηση σε κατάσταση πλήρους οθόνης",
+	"version": "1",
+}
+"cRoomsJoinAll"
+{
+	"text": "Σύνδεση σε όλα τα δωμάτια που έχεις πρόσβαση",
+	"version": "1",
+}
+"cSoundsGameHosted"
+{
+	"text": "Το παιχνίδι σας δημιουργήθηκε",
+	"version": "1",
+}
+"cSoundsGameStarted"
+{
+	"text": "Ήχος ειδοποίησης όταν το παιχνίδι σας ξεκινήσει",
+	"version": "1",
+}
+"cSoundsLogin"
+{
+	"text": "Είσοδος",
+	"version": "1",
+}
+"cSoundsShutdown"
+{
+	"text": "Κλείσιμο",
+	"version": "1",
+}
+"cTimestampGames"
+{
+	"text": "Χρόνοι στην ενημέρωση της κατάστασης παιχνιδιού",
+	"version": "1",
+}
+"cTimestampMessages"
+{
+	"text": "Χρόνοι στα μηνύματα συνομιλίας",
+	"version": "1",
+}
+"cTimestampUpdates"
+{
+	"text": "Χρόνοι στην ενημέρωση του δωματίου",
+	"version": "1",
+}
+"cmdSave"
+{
+	"text": "Αποθήκευση",
+	"version": "1",
+}
+"gFriends"
+{
+	"text": "Λίστα φίλων",
+	"version": "1",
+}
+"gFriendsMessageAway"
+{
+	"text": "Μήνυμα όταν ένας φίλος απομακρύνεται απο το πληκτρ.",
+	"version": "1",
+}
+"gFriendsMessageIngame"
+{
+	"text": "Μήνυμα όταν ένας φίλος μπαίνει σε παιχνίδι",
+	"version": "1",
+}
+"gFriendsMessageOffline"
+{
+	"text": "Μήνυμα όταν ένας φίλος αποσυνδέεται",
+	"version": "1",
+}
+"gFriendsMessageOnline"
+{
+	"text": "Μήνυμα όταν ένας φίλος συνδέεται ",
+	"version": "1",
+}
+"gHighlight"
+{
+	"text": "Ειδοποίηση",
+	"version": "1",
+}
+"gHighlightAliases"
+{
+	"text": "Ειδοποίηση ονομάτων",
+	"version": "1",
+}
+"gOtherCustom"
+{
+	"text": "Τροποποιήσεις",
+	"version": "1",
+}
+"gRooms"
+{
+	"text": "Δωμάτια",
+	"version": "1",
+}
+"gRoomsCustomList"
+{
+	"text": "Τροποποιημένη λίστα",
+	"version": "1",
+}
+"gSounds"
+{
+	"text": "Ήχοι",
+	"version": "1",
+}
+"gTimestamps"
+{
+	"text": "Χρονικές σφραγίδες",
+	"version": "1",
+}
+"lDotaLaunchOptions"
+{
+	"text": "Επιλογές εκκίνησης",
+	"version": "1",
+}
+"lDotaMode"
+{
+	"text": "Προεπιλεγμένη κατάσταση",
+	"version": "1",
+}
+"lDotaPath"
+{
+	"text": "Warcraft III: The Frozen Throne (Executable)",
+	"version": "1",
+}
+"lHighlight"
+{
+	"text": "Ποιοί μπορούν να με ειδοποιούν όσο είμαι ...",
+	"version": "1",
+}
+"lHighlightAway"
+{
+	"text": "Μακριά",
+	"version": "1",
+}
+"lHighlightIngame"
+{
+	"text": "Σε παιχνίδι",
+	"version": "1",
+}
+"lHighlightOnline"
+{
+	"text": "Συνδεδεμένος",
+	"version": "1",
+}
+"lOtherCustomLanguage"
+{
+	"text": "Γλώσσα",
+	"version": "1",
+}
+"lOtherCustomSkin"
+{
+	"text": "Εμφάνιση",
+	"version": "1",
+}
+"lOtherLogs"
+{
+	"text": "Σύνδεση στην πλατφόρμα",
+	"version": "1",
+}
+"lOtherMain"
+{
+	"text": "Βασικά κουμπιά Windows",
+	"version": "1",
+}
+"lOtherVisuals"
+{
+	"text": "Οπτικά",
+	"version": "1",
+}
+"lTimestampCustom"
+{
+	"text": "Χρονικές σφραγίδες (Δές εκφράσεις παρακάτω)",
+	"version": "1",
+}
+"lTimestampExpressions"
+{
+	"text": "Εκφράσεις",
+	"version": "1",
+}
+"lTimestampExpressions2"
+{
+	"text": "Για λεπτομέρειες επισκεφθείτε:\\nhttp://doc.trolltech.com/4.5/qdatetime.html#toString\\nOR Google: \"QT QDateTime\"",
+	"version": "1",
+}
+"lTimestampSettings"
+{
+	"text": "Ρυθμίσεις",
+	"version": "1",
+}

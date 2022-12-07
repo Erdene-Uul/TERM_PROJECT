@@ -1,0 +1,118 @@
+QComboBox#Status { 
+	background-color: transparent;
+	border: none;
+	font-family: 'calibri';
+	font-size: 14px;
+	image: none;	
+	qproperty-alignment: 'AlignCenter | AlignVTOp';
+        text-transform: lowercase;
+	text-align: center;
+	font-weight: normal;
+	padding-left: 12px;
+}
+
+QComboBox#Status:hover {  
+	background-color: transparent;
+	image: none;
+}
+
+QComboBox#Status QAbstractItemView{
+	background: qlineargradient( x1:0.45 y1:0.75, x2:1 y2:1, stop:0 #363636, stop:1 #1a1a1a ), qlineargradient( x1:0.75 y1:0.45, x2:1 y2:1, stop:0 #363636, stop:1 #1a1a1a );
+	border: 1px solid #333;
+	border-top: none;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+	padding-left: 8px;
+	selection-background-color: rgba(255,255,255,0);
+	selection-color: rgb(255,255,255);
+	font-size: 11px;
+	qproperty-alignment: 'AlignCenter';
+
+}
+QComboBox#Status QAbstractItemView:Away {color: blue;}
+
+QComboBox#Status QAbstractItemView:hover {
+	color: #DDD !important;
+}
+
+QComboBox#Status::down-arrow {
+	background-color:transparent;
+	border: none;
+	border-radius: 0px;
+	image: none;
+	margin-top: 2px;
+}
+
+#StatusIcon {
+	margin: 0px;
+	padding: 0px;
+}
+
+
+QTextEdit#Description {
+	background: transparent;
+	border: 0px solid #303436;
+	border-radius: 2px;
+        color: #c1c1c1;
+	font-family: Calibri,arial;
+	font-size: 13px; text-align: center;
+	qproperty-alignment: 'AlignCenter | AlignVCenter ';
+	padding-bottom: 2px;
+}
+
+QTextEdit#Description:hover{border: 1px solid #000;}
+QTextEdit#Description:pressed{border: 1px solid red;}
+
+QTextEdit#Description:focus { border: 1px solid #5668a7;
+
+}
+
+
+
+
+
+QTextEdit#Description QScrollBar:vertical{
+	background: #d00;
+	width: 0;
+}
+
+QLabel#Name {color: #c2c2c2;
+	font-family: 'calibri';
+	font-size: 15px;
+        text-align: left;
+	font-weight: bold;
+	qproperty-alignment: AlignCenter;
+padding-top: 4px;
+
+}
+
+QProgressBar#XP {
+	background: transparent;
+	border: none;
+	color: transparent;
+	font-size: 0px;
+
+}
+
+QProgressBar#XP::chunk {border: 0px solid #4c496d;
+	background: qlineargradient( x1:0 y1:1, x2:1 y2:0, stop:0 #455d80, stop:0.3 #455d80, stop:0.7 #289a9e, stop:1 #35dedb );
+	border-radius: 6px;
+	border-bottom: 0px solid #34314b;
+	color: #fff;
+	padding: 4px 10px;
+}
+
+QLabel#RemainingXP{
+	color: #ccc;
+	font-family: Calibri, Verdana;
+	font-size: 11px;
+	qproperty-alignment: AlignCenter;
+	text-align: center;
+}
+#AvatarMask{ background: url('avatarmask.png') top left no-repeat;}
+
+#Avatar{background:url('main_no_avatar.png'); -webkit-transform: scale(0.999);
+  transform: scale(0.999);
+        border-bottom-right-radius: 2px;
+        border-bottom-left-radius: 2px;
+        border-top-right-radius: 2px;}

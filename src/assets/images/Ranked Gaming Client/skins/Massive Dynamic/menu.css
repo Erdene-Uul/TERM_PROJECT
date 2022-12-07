@@ -1,0 +1,22 @@
+
+/* QMenu */
+QMenu {
+	
+    background: url('banner_texture.png') repeat #222;
+    border: 1px solid #333;
+    border-radius: 1px;
+    color: #FFF;
+    font-family: 'Open Sans';
+    font-weight: 12px;
+
+}
+
+QMenu::item:selected {
+	background: #555;
+ 	color: #000;
+}
+
+QMenu::item { 
+	padding: 2px 25px 2px 20px;
+}
+ 

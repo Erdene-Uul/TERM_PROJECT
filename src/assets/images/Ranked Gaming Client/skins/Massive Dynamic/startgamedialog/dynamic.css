@@ -1,0 +1,25 @@
+QWidget#containerwidget {
+	background: #1e1e1e;
+}
+
+/* QPushButton */
+QPushButton {border: none;
+	background: url('button.png');
+	font-family: 'Open Sans';
+	font-weight: 500;
+	color: #111;
+	font-size: 13px;
+	text-transform: uppercase;
+	padding-bottom: 3px;
+
+}
+
+QPushButton:hover {
+	background: url('button-h.png');
+        color: black;
+}
+
+QPushButton:pressed {	
+        background: url('button-p.png');
+        color: black;
+}

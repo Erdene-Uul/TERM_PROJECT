@@ -1,0 +1,1420 @@
+"ACP_CHANNEL_ADMINS"
+{
+	"text": "管理",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENTS"
+{
+	"text": "广告",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_EDIT"
+{
+	"text": "编辑",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_PREVIEW"
+{
+	"text": "信息",
+	"version": "1",
+}
+"ACP_CHANNEL_ANNOUNCEMENT_SAVE"
+{
+	"text": "保存",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_NAME"
+{
+	"text": "名称",
+	"version": "1",
+}
+"ACP_CHANNEL_USERS_TITLE"
+{
+	"text": "头衔",
+	"version": "1",
+}
+"BUDDYLIST_ADD"
+{
+	"text": "%0 已经加为你的好友",
+	"version": "1",
+}
+"BUDDYLIST_AWAY"
+{
+	"text": "你的好友 %0 现在离开了键盘",
+	"version": "1",
+}
+"BUDDYLIST_INGAME"
+{
+	"text": "你的好友 %0 正在游戏 %1",
+	"version": "1",
+}
+"BUDDYLIST_INGAME_PRIVATE"
+{
+	"text": "你的好友 %0 正在其他游戏中",
+	"version": "1",
+}
+"BUDDYLIST_OFFLINE"
+{
+	"text": "你的好友 %0 已经离线",
+	"version": "1",
+}
+"BUDDYLIST_ONLINE"
+{
+	"text": "你的好友 %0 现在在线",
+	"version": "1",
+}
+"BUDDYLIST_REMOVE"
+{
+	"text": "%0 已经从你的好友名单中删除.",
+	"version": "1",
+}
+"CHAT_CHANNELS_CUSTOM"
+{
+	"text": "隐藏频道",
+	"version": "1",
+}
+"CHAT_CHANNELS_LEAVE"
+{
+	"text": "离开频道",
+	"version": "1",
+}
+"CHAT_CHANNELS_OFFICIAL"
+{
+	"text": "官方频道",
+	"version": "1",
+}
+"CHAT_CHANNELS_PRIVATE"
+{
+	"text": "密语",
+	"version": "1",
+}
+"CHAT_CHANNEL_ALREADY_XXX"
+{
+	"text": "%1 已经是 %0 在这个房间中.",
+	"version": "1",
+}
+"CHAT_CHANNEL_NOW_XXX"
+{
+	"text": "%1 现在是 %0 在这个房间中.",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED"
+{
+	"text": "[%0] 你已经被这个房间禁止直到 %3 %2 原因: %1",
+	"version": "1",
+}
+"CHAT_CHANNEL_TIMEBANNED_NOW"
+{
+	"text": "%0 现在被这个房间禁止直到%2 %1",
+	"version": "1",
+}
+"CHAT_JOINED"
+{
+	"text": "%0 已进入房间.",
+	"version": "1",
+}
+"CHAT_LEFT"
+{
+	"text": "%0 已离开房间.",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN"
+{
+	"text": "管理",
+	"version": "1",
+}
+"CHAT_MENU_ADMIN_KICK"
+{
+	"text": "踢出",
+	"version": "1",
+}
+"CHAT_MENU_CLAN_VIEW"
+{
+	"text": "查看战队",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST"
+{
+	"text": "好友名单",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_ADD"
+{
+	"text": "加为好友",
+	"version": "1",
+}
+"CHAT_MENU_FRIENDSLIST_REMOVE"
+{
+	"text": "删除好友",
+	"version": "1",
+}
+"CHAT_MENU_HIGHLIGHT"
+{
+	"text": "呼叫",
+	"version": "1",
+}
+"CHAT_MENU_PROFILE"
+{
+	"text": "资料",
+	"version": "1",
+}
+"CHAT_MENU_WHISPER"
+{
+	"text": "私聊",
+	"version": "1",
+}
+"CHAT_MENU_WHOIS"
+{
+	"text": "状态",
+	"version": "1",
+}
+"CHAT_PRIVATE_CLOSE"
+{
+	"text": "关闭对话",
+	"version": "1",
+}
+"CLAN_CREATE"
+{
+	"text": "创建战队",
+	"version": "1",
+}
+"CLAN_CREATED"
+{
+	"text": "创建",
+	"version": "1",
+}
+"CLAN_CREATOR"
+{
+	"text": "创建者",
+	"version": "1",
+}
+"CLAN_EDIT_CHANGE"
+{
+	"text": "更改",
+	"version": "1",
+}
+"CLAN_EDIT_INVITE"
+{
+	"text": "邀请",
+	"version": "1",
+}
+"CLAN_EDIT_KICK"
+{
+	"text": "踢出",
+	"version": "1",
+}
+"CLAN_EDIT_NAME"
+{
+	"text": "名字",
+	"version": "1",
+}
+"CLAN_EDIT_SHOW"
+{
+	"text": "展示",
+	"version": "1",
+}
+"CLAN_EDIT_TITLE_INVITE"
+{
+	"text": "邀请玩家",
+	"version": "1",
+}
+"CLAN_ELO"
+{
+	"text": "ELO",
+	"version": "1",
+}
+"CLAN_LEAVE"
+{
+	"text": "离开战队",
+	"version": "1",
+}
+"CLAN_REG_CREATE"
+{
+	"text": "创建",
+	"version": "1",
+}
+"CLAN_REG_DISPLAY"
+{
+	"text": "显示",
+	"version": "1",
+}
+"CLAN_REG_FULL_EX"
+{
+	"text": "完整的名称: MYM^Maelk^DotA",
+	"version": "1",
+}
+"CLAN_REG_NAME"
+{
+	"text": "名字",
+	"version": "1",
+}
+"CLAN_REG_NAME_EX"
+{
+	"text": "e.g. Mett your Makers",
+	"version": "1",
+}
+"CLAN_REG_PREFIX"
+{
+	"text": "前缀",
+	"version": "1",
+}
+"CLAN_REG_PREFIX_EX"
+{
+	"text": "e.g. MYM^",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX"
+{
+	"text": "后缀",
+	"version": "1",
+}
+"CLAN_REG_SUFFIX_EX"
+{
+	"text": "e.g. ^DotA",
+	"version": "1",
+}
+"CLAN_REG_TAG"
+{
+	"text": "标志",
+	"version": "1",
+}
+"CLAN_REG_TAG_EX"
+{
+	"text": "e.g. MYM",
+	"version": "1",
+}
+"CLAN_TITLE_DESCRIPTION"
+{
+	"text": "信息",
+	"version": "1",
+}
+"CLAN_TITLE_Players"
+{
+	"text": "玩家",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY"
+{
+	"text": "-- 离开",
+	"version": "1",
+}
+"DISPLAY_FLIST_AWAY_COLOR"
+{
+	"text": "brown",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME"
+{
+	"text": "-- 正在游戏",
+	"version": "1",
+}
+"DISPLAY_FLIST_INGAME_COLOR"
+{
+	"text": "blue",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE"
+{
+	"text": "<< 离线",
+	"version": "1",
+}
+"DISPLAY_FLIST_OFFLINE_COLOR"
+{
+	"text": "red",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE"
+{
+	"text": ">> 在线",
+	"version": "1",
+}
+"DISPLAY_FLIST_ONLINE_COLOR"
+{
+	"text": "green",
+	"version": "1",
+}
+"DOTA_OPEN_GAMES"
+{
+	"text": "正在准备的游戏",
+	"version": "1",
+}
+"DOTA_RUNNING_GAMES"
+{
+	"text": "正在进行的游戏",
+	"version": "1",
+}
+"DOTA_SIGN"
+{
+	"text": "准备",
+	"version": "1",
+}
+"DOTA_SIGNED_PLAYERS"
+{
+	"text": "已经准备的玩家",
+	"version": "1",
+}
+"DOTA_STARTED_GAMES"
+{
+	"text": "已经开始的游戏",
+	"version": "1",
+}
+"DOTA_UNSIGN"
+{
+	"text": "取消",
+	"version": "1",
+}
+"EDIT_ACCOUNT_CHANGE"
+{
+	"text": "更改",
+	"version": "1",
+}
+"EDIT_ACCOUNT_EMAIL"
+{
+	"text": "邮箱",
+	"version": "1",
+}
+"EDIT_ACCOUNT_GET_TOKEN"
+{
+	"text": "商店",
+	"version": "1",
+}
+"EDIT_ACCOUNT_NAME"
+{
+	"text": "用户名",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD"
+{
+	"text": "旧密码",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_CONFIRM"
+{
+	"text": "确认新密码",
+	"version": "1",
+}
+"EDIT_ACCOUNT_PASSWORD_NEW"
+{
+	"text": "新密码",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_EMAIL"
+{
+	"text": "邮箱",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_NAME"
+{
+	"text": "用户名",
+	"version": "1",
+}
+"EDIT_ACCOUNT_TITLE_PASSWORD"
+{
+	"text": "密码",
+	"version": "1",
+}
+"EDIT_PRFOILE_DESCRIPTION"
+{
+	"text": "资料",
+	"version": "1",
+}
+"EDIT_PROFILE_AVATAR"
+{
+	"text": "头像",
+	"version": "1",
+}
+"EDIT_PROFILE_CHANGE"
+{
+	"text": "确认修改",
+	"version": "1",
+}
+"EDIT_PROFILE_DOB"
+{
+	"text": "出生日期",
+	"version": "1",
+}
+"EDIT_PROFILE_FIRST_NAME"
+{
+	"text": "名",
+	"version": "1",
+}
+"EDIT_PROFILE_LAST_NAME"
+{
+	"text": "姓",
+	"version": "1",
+}
+"EDIT_PROFILE_NATIONALITY"
+{
+	"text": "国籍",
+	"version": "1",
+}
+"EDIT_PROFILE_RESIDENCY"
+{
+	"text": "居住地",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX"
+{
+	"text": "性别",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_ANONYMOUS"
+{
+	"text": "N/A",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_FEMALE"
+{
+	"text": "女",
+	"version": "1",
+}
+"EDIT_PROFILE_SEX_MALE"
+{
+	"text": "男",
+	"version": "1",
+}
+"EDIT_PROFILE_TITLE"
+{
+	"text": "个人资料",
+	"version": "1",
+}
+"ERROR_CCY"
+{
+	"text": "Cannot %0 yourself.",
+	"version": "1",
+}
+"FRIENDS_AWAY"
+{
+	"text": "离开",
+	"version": "1",
+}
+"FRIENDS_INGAME"
+{
+	"text": "正在游戏中",
+	"version": "1",
+}
+"FRIENDS_OFFLINE"
+{
+	"text": "离线",
+	"version": "1",
+}
+"FRIENDS_ONLINE"
+{
+	"text": "在线",
+	"version": "1",
+}
+"GAME_ENDED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C 已经结束.",
+	"version": "1",
+}
+"GAME_HOSTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C 已经主机.",
+	"version": "1",
+}
+"GAME_STARTED"
+{
+	"text": "%Cpurple%T[%Cgreen%T%1%/C]%/C %Cred%T%0%/C 已经开始.",
+	"version": "1",
+}
+"HIGHLIGHT_EVERYONE"
+{
+	"text": "任何人",
+	"version": "1",
+}
+"HIGHLIGHT_FRIENDS_ONLY"
+{
+	"text": "只限好友",
+	"version": "1",
+}
+"HIGHLIGHT_NOONE"
+{
+	"text": "无",
+	"version": "1",
+}
+"LABEL_Channels"
+{
+	"text": "房间",
+	"version": "1",
+}
+"LABEL_Clans"
+{
+	"text": "战队",
+	"version": "1",
+}
+"LABEL_EditAccount"
+{
+	"text": "账号",
+	"version": "1",
+}
+"LABEL_EditProfile"
+{
+	"text": "资料",
+	"version": "1",
+}
+"LABEL_Friends"
+{
+	"text": "好友",
+	"version": "1",
+}
+"LABEL_Help"
+{
+	"text": "帮助",
+	"version": "1",
+}
+"LABEL_LaunchWC3"
+{
+	"text": "启动魔兽III",
+	"version": "1",
+}
+"LABEL_Library"
+{
+	"text": "Library",
+	"version": "1",
+}
+"LABEL_Servers"
+{
+	"text": "服务器",
+	"version": "1",
+}
+"LABEL_Settings"
+{
+	"text": "设置",
+	"version": "1",
+}
+"LOGIN_ENTER_PASS"
+{
+	"text": "请出入一个密码.",
+	"version": "1",
+}
+"LOGIN_ENTER_USER"
+{
+	"text": "请输入一个用户名.",
+	"version": "1",
+}
+"LOGIN_INVALID_PASS"
+{
+	"text": "您的密码名包含无效字符",
+	"version": "1",
+}
+"LOGIN_INVALID_USER"
+{
+	"text": "您的用户名包含无效字符.",
+	"version": "1",
+}
+"MAIN_MENU_EXIT"
+{
+	"text": "退出",
+	"version": "1",
+}
+"MESSAGE_LASTSEEN"
+{
+	"text": "[%0 最后一次登录在 %1]",
+	"version": "1",
+}
+"PROFILE_ACCOUNT"
+{
+	"text": "用户名",
+	"version": "1",
+}
+"PROFILE_AGE"
+{
+	"text": "年龄: %0",
+	"version": "1",
+}
+"PROFILE_DESCRIPTION"
+{
+	"text": "信息",
+	"version": "1",
+}
+"PROFILE_EMAIL"
+{
+	"text": "邮箱: %0",
+	"version": "1",
+}
+"PROFILE_GAMES"
+{
+	"text": "游戏: %0",
+	"version": "1",
+}
+"PROFILE_GROUP_ACCESS"
+{
+	"text": "平台账号",
+	"version": "1",
+}
+"PROFILE_GROUP_PERSONAL"
+{
+	"text": "个人信息",
+	"version": "1",
+}
+"PROFILE_LASTLOGIN"
+{
+	"text": "上次登录: %0",
+	"version": "1",
+}
+"PROFILE_NATIONALITY"
+{
+	"text": "国籍: %0",
+	"version": "1",
+}
+"PROFILE_REGISTERED"
+{
+	"text": "注册: %0",
+	"version": "1",
+}
+"PROFILE_RESIDENCY"
+{
+	"text": "居住地: %0",
+	"version": "1",
+}
+"PROFILE_SEX"
+{
+	"text": "性别: %0",
+	"version": "1",
+}
+"PROFILE_SEX_FEMALE"
+{
+	"text": "女",
+	"version": "1",
+}
+"PROFILE_SEX_MALE"
+{
+	"text": "男",
+	"version": "1",
+}
+"REG_CANCEL"
+{
+	"text": "不谢谢，我已经有了一个账号",
+	"version": "1",
+}
+"REG_EMAIL"
+{
+	"text": "邮箱",
+	"version": "1",
+}
+"REG_EMAIL_CONFIRM"
+{
+	"text": "确认",
+	"version": "1",
+}
+"REG_ERR_EMAIL"
+{
+	"text": "请输入一个邮箱地址",
+	"version": "1",
+}
+"REG_ERR_NAME"
+{
+	"text": "请输入一个游戏名",
+	"version": "1",
+}
+"REG_ERR_NAME_SIZE"
+{
+	"text": "你的游戏名称不能超过15个字符",
+	"version": "1",
+}
+"REG_ERR_PASS"
+{
+	"text": "请输入一个密码",
+	"version": "1",
+}
+"REG_ERR_USER"
+{
+	"text": "请输入一个账户名",
+	"version": "1",
+}
+"REG_ERR_USER_SIZE"
+{
+	"text": "你的账户名不能超过15个字符",
+	"version": "1",
+}
+"REG_INVALID_EMAIL"
+{
+	"text": "你的邮箱地址中包含无效字符",
+	"version": "1",
+}
+"REG_INVALID_NAME"
+{
+	"text": "你的游戏名包含无效字符",
+	"version": "1",
+}
+"REG_INVALID_NAME_WC3"
+{
+	"text": "你的游戏名中包含|c，|n or |r. 这些字符组合是不被支持的，请更换你的名称",
+	"version": "1",
+}
+"REG_INVALID_USER"
+{
+	"text": "你的账户名包含无效字符",
+	"version": "1",
+}
+"REG_MISMATCH_EMAIL"
+{
+	"text": "你输入了2次不同的邮箱地址",
+	"version": "1",
+}
+"REG_MISMATCH_PASS"
+{
+	"text": "你输入了2次不同的密码",
+	"version": "1",
+}
+"REG_NAME"
+{
+	"text": "游戏名",
+	"version": "1",
+}
+"REG_PASS"
+{
+	"text": "密码",
+	"version": "1",
+}
+"REG_PASS_CONFIRM"
+{
+	"text": "确认",
+	"version": "1",
+}
+"REG_REGISTER"
+{
+	"text": "注册",
+	"version": "1",
+}
+"REG_USER"
+{
+	"text": "账号",
+	"version": "1",
+}
+"REG_VALID_EMAIL"
+{
+	"text": "请输入一个准确的邮箱地址",
+	"version": "1",
+}
+"SERVERS_CHANNEL"
+{
+	"text": "频道",
+	"version": "1",
+}
+"SERVERS_GAME"
+{
+	"text": "游戏",
+	"version": "1",
+}
+"SERVERS_LATENCY"
+{
+	"text": "延迟",
+	"version": "1",
+}
+"SERVERS_MAP"
+{
+	"text": "地图",
+	"version": "1",
+}
+"SERVERS_NAME"
+{
+	"text": "名称",
+	"version": "1",
+}
+"SERVERS_PLAYERS"
+{
+	"text": "玩家",
+	"version": "1",
+}
+"SERVER_ALREADY_LOGGED_IN"
+{
+	"text": "用户已经登录.",
+	"version": "1",
+}
+"SERVER_CHANNEL_ALREADY_INSIDE"
+{
+	"text": "[%0] 你已经在这个频道",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_ALREADY"
+{
+	"text": "该电脑已经被禁止.",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_BANNED_NOW"
+{
+	"text": "%0 的电脑已经被 %1 禁止",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_ALREADY"
+{
+	"text": "该电脑未被禁止",
+	"version": "1",
+}
+"SERVER_CHANNEL_COMP_UNBANNED_NOW"
+{
+	"text": "%0 的电脑已经被 %1 解除禁止",
+	"version": "1",
+}
+"SERVER_CHANNEL_NO_ACCESS"
+{
+	"text": "你没有权限进入该频道",
+	"version": "1",
+}
+"SERVER_CHANNEL_REJECTION_MESSAGE"
+{
+	"text": "[%0] %1",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_ALREADY_VOUCHED"
+{
+	"text": "该用户已经被邀请进入此频道.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_ALREADY"
+{
+	"text": "该用户已经被禁止.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_BANNED_NOW"
+{
+	"text": "%0 已经被 %1 禁止",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOT_VOUCHED"
+{
+	"text": "该用户没有被邀请进入此频道.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_NOW_VOUCHED"
+{
+	"text": "%0 现在被邀请进入此频道.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_ALREADY"
+{
+	"text": "该用户未被禁止.",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNBANNED_NOW"
+{
+	"text": "%0 已经被 %1 解除禁止",
+	"version": "1",
+}
+"SERVER_CHANNEL_USER_UNVOUCHED"
+{
+	"text": "%0 已经被解除邀请.",
+	"version": "1",
+}
+"SERVER_CLIENTBANNED"
+{
+	"text": "你已经被禁止. [原因 :: %0] 你可以申诉 @ http://dotarank.mymgn.com",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED"
+{
+	"text": "你已经被踢出房间. [原因 :: %0]",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_BY"
+{
+	"text": "%0 已经被 %1 踢出房间",
+	"version": "1",
+}
+"SERVER_CLIENT_USER_KICKED_NOT_LOGGED_ON"
+{
+	"text": "你不能踢出一个未登录用户",
+	"version": "1",
+}
+"SERVER_COMMAND_DB_INVALID_INPUT"
+{
+	"text": "错误. 可能原因: 无效输入.",
+	"version": "1",
+}
+"SERVER_COMMAND_ON_NON_EXISTANT_USER"
+{
+	"text": "不能 %0 一个不存在用户.",
+	"version": "1",
+}
+"SERVER_COMPBANNED"
+{
+	"text": "你的电脑已经被禁止. [原因 :: %0] 你可以申诉 @ http://dotarank.mymgn.com",
+	"version": "1",
+}
+"SERVER_ERROR_ACCESSGROUP"
+{
+	"text": "该访问组不存在.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION"
+{
+	"text": "错误 ,你不能设置一个权限比你高的账号.",
+	"version": "1",
+}
+"SERVER_ERROR_PERMISSION_ADMIN"
+{
+	"text": "错误,你不能对一个权限比你高的账号使用这个命令.",
+	"version": "1",
+}
+"SERVER_FRIEND_ADDED_YOU"
+{
+	"text": "%0 已经加你为好友.",
+	"version": "1",
+}
+"SERVER_FRIEND_ALREADY_ON"
+{
+	"text": "%0 已经在你的好友名单中.",
+	"version": "1",
+}
+"SERVER_FRIEND_MESSAGE_TO"
+{
+	"text": "所有人: %0",
+	"version": "1",
+}
+"SERVER_FRIEND_NOT_ON"
+{
+	"text": "%0 不在你的好友名单中",
+	"version": "1",
+}
+"SERVER_FRIEND_REMOVED_YOU"
+{
+	"text": "%0 已经把你从好友名单中删除.",
+	"version": "1",
+}
+"SERVER_INVALID_PROFILE_VALUES"
+{
+	"text": "无法完成你的个人资料变更,请不要在你的个人资料中加入特殊符号例如( ', !, etc..)",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETACCESS"
+{
+	"text": "%0 现在是 %1 在这个房间中.",
+	"version": "1",
+}
+"SERVER_MESSAGE_SETGLOBALACCESS"
+{
+	"text": "%0 现在是 %1 在这个平台中.",
+	"version": "1",
+}
+"SERVER_PROFILE_CHANGED"
+{
+	"text": "你的个人资料已经成功修改",
+	"version": "1",
+}
+"SERVER_REGISTRATION_DATABASE_ERROR"
+{
+	"text": "错误. 不能使用例如 \\\\ < ! ' \\\" > 在你的名字中",
+	"version": "1",
+}
+"SERVER_REGISTRATION_EMAIL_ALREADY_TAKEN"
+{
+	"text": "该邮箱已被注册.",
+	"version": "1",
+}
+"SERVER_REGISTRATION_NAME_ALREADY_TAKEN"
+{
+	"text": "该游戏名已被注册",
+	"version": "1",
+}
+"SERVER_REGISTRATION_USER_ALREADY_TAKEN"
+{
+	"text": "该账户名已被注册.",
+	"version": "1",
+}
+"SERVER_SPECIFIED_USERNAME_DOESNT_EXIST"
+{
+	"text": "指定的用户名不存在.",
+	"version": "1",
+}
+"SERVER_USERNAME_DOESNT_EXIST"
+{
+	"text": "这个用户 %0 不存在.",
+	"version": "1",
+}
+"SERVER_WHISPER_NOT_LOGGED_IN"
+{
+	"text": "该用户未登陆,呼叫失败",
+	"version": "1",
+}
+"SERVER_WRONG_LOGIN"
+{
+	"text": "错误登录信息",
+	"version": "1",
+}
+"SETTINGS_TAB_CHAT"
+{
+	"text": "聊天",
+	"version": "1",
+}
+"SETTINGS_TAB_DOTA"
+{
+	"text": "DotA",
+	"version": "1",
+}
+"SETTINGS_TAB_FRIENDS"
+{
+	"text": "好友",
+	"version": "1",
+}
+"SETTINGS_TAB_OTHER"
+{
+	"text": "其他",
+	"version": "1",
+}
+"SETTINGS_TAB_SOUNDS"
+{
+	"text": "声音",
+	"version": "1",
+}
+"STATUS_AWAY"
+{
+	"text": "[STATUS] 离开键盘.",
+	"version": "1",
+}
+"STATUS_ONLINE"
+{
+	"text": "[STATUS] 现在在线.",
+	"version": "1",
+}
+"TITLE_CHANNELS"
+{
+	"text": "房间",
+	"version": "1",
+}
+"TITLE_CHANNEL_ADMIN"
+{
+	"text": "频道管理",
+	"version": "1",
+}
+"TITLE_CLANS"
+{
+	"text": "战队",
+	"version": "1",
+}
+"TITLE_CLAN_INFO"
+{
+	"text": "战队信息",
+	"version": "1",
+}
+"TITLE_CLAN_REGISTER"
+{
+	"text": "我的战队",
+	"version": "1",
+}
+"TITLE_CONNECT"
+{
+	"text": "连接",
+	"version": "1",
+}
+"TITLE_EDIT_ACCOUNT"
+{
+	"text": "管理账户",
+	"version": "1",
+}
+"TITLE_EDIT_PROFILE"
+{
+	"text": "编辑资料",
+	"version": "1",
+}
+"TITLE_FRIENDS"
+{
+	"text": "好友",
+	"version": "1",
+}
+"TITLE_LIBRARY"
+{
+	"text": "Library",
+	"version": "1",
+}
+"TITLE_LOGIN"
+{
+	"text": "登陆",
+	"version": "1",
+}
+"TITLE_MY_CLAN"
+{
+	"text": "我的战队",
+	"version": "1",
+}
+"TITLE_PROFILE"
+{
+	"text": "资料",
+	"version": "1",
+}
+"TITLE_REGISTER"
+{
+	"text": "注册",
+	"version": "1",
+}
+"TITLE_SERVERS"
+{
+	"text": "服务器",
+	"version": "1",
+}
+"TITLE_SETTINGS"
+{
+	"text": "设置",
+	"version": "1",
+}
+"UI_LOGIN_CONNECT"
+{
+	"text": "连接",
+	"version": "1",
+}
+"UI_LOGIN_LOGIN"
+{
+	"text": "登录",
+	"version": "1",
+}
+"UI_LOGIN_PASS"
+{
+	"text": "密码",
+	"version": "1",
+}
+"UI_LOGIN_REGISTER"
+{
+	"text": "注册",
+	"version": "1",
+}
+"UI_LOGIN_SAVEPASS"
+{
+	"text": "(保存)",
+	"version": "1",
+}
+"UI_LOGIN_USER"
+{
+	"text": "账户",
+	"version": "1",
+}
+"UI_SHUTDOWN_THANKYOU"
+{
+	"text": "感谢您使用RGC平台！",
+	"version": "1",
+}
+"WHOIS_AWAY"
+{
+	"text": "%0 离开了键盘.",
+	"version": "1",
+}
+"WHOIS_INGAME"
+{
+	"text": "%0 正在游戏 %1",
+	"version": "1",
+}
+"WHOIS_INGAME_PRIVATE"
+{
+	"text": "%0 正在其他游戏中.",
+	"version": "1",
+}
+"WHOIS_OFFLINE"
+{
+	"text": "%0 离线.",
+	"version": "1",
+}
+"WHOIS_ONLINE"
+{
+	"text": "%0 在线.",
+	"version": "1",
+}
+"bDotaPathFind"
+{
+	"text": "查找",
+	"version": "1",
+}
+"cOtherLogs"
+{
+	"text": "启用客户端保持日志",
+	"version": "1",
+}
+"cOtherMainExit"
+{
+	"text": "点击 \"X\" 时退出平台",
+	"version": "1",
+}
+"cOtherMainMinimize"
+{
+	"text": "点击 \"_\" 最小化",
+	"version": "1",
+}
+"cOtherVisualsFullscreen"
+{
+	"text": "全屏模式下打开平台",
+	"version": "1",
+}
+"cRoomsJoinAll"
+{
+	"text": "进入所有我能够访问的房间",
+	"version": "1",
+}
+"cSoundsGameHosted"
+{
+	"text": "你的游戏准备时",
+	"version": "1",
+}
+"cSoundsGameStarted"
+{
+	"text": "你的游戏启动时",
+	"version": "1",
+}
+"cSoundsLogin"
+{
+	"text": "登录",
+	"version": "1",
+}
+"cSoundsShutdown"
+{
+	"text": "关闭",
+	"version": "1",
+}
+"cTimestampGames"
+{
+	"text": "显示游戏状态时间",
+	"version": "1",
+}
+"cTimestampMessages"
+{
+	"text": "显示聊天信息时间",
+	"version": "1",
+}
+"cTimestampUpdates"
+{
+	"text": "显示房间信息时间",
+	"version": "1",
+}
+"cmdSave"
+{
+	"text": "保存",
+	"version": "1",
+}
+"gFriends"
+{
+	"text": "好友名单",
+	"version": "1",
+}
+"gFriendsMessageAway"
+{
+	"text": "接受消息当好友离开",
+	"version": "1",
+}
+"gFriendsMessageIngame"
+{
+	"text": "接受消息当好友加入了一个游戏",
+	"version": "1",
+}
+"gFriendsMessageOffline"
+{
+	"text": "接受消息当好友离线",
+	"version": "1",
+}
+"gFriendsMessageOnline"
+{
+	"text": "接受消息当好友上线",
+	"version": "1",
+}
+"gHighlight"
+{
+	"text": "呼叫",
+	"version": "1",
+}
+"gHighlightAliases"
+{
+	"text": "呼叫名单",
+	"version": "1",
+}
+"gOtherCustom"
+{
+	"text": "自定义",
+	"version": "1",
+}
+"gRooms"
+{
+	"text": "房间",
+	"version": "1",
+}
+"gRoomsCustomList"
+{
+	"text": "自定义列表",
+	"version": "1",
+}
+"gSounds"
+{
+	"text": "声音",
+	"version": "1",
+}
+"gTimestamps"
+{
+	"text": "时间设置",
+	"version": "1",
+}
+"lDotaLaunchOptions"
+{
+	"text": "启动选项",
+	"version": "1",
+}
+"lDotaMode"
+{
+	"text": "预设模式",
+	"version": "1",
+}
+"lDotaPath"
+{
+	"text": "魔兽争霸III: 冰封王座 (可执行文件)",
+	"version": "1",
+}
+"lHighlight"
+{
+	"text": "设置",
+	"version": "1",
+}
+"lHighlightAway"
+{
+	"text": "离开",
+	"version": "1",
+}
+"lHighlightIngame"
+{
+	"text": "游戏中",
+	"version": "1",
+}
+"lHighlightOnline"
+{
+	"text": "在线",
+	"version": "1",
+}
+"lOtherCustomLanguage"
+{
+	"text": "语言",
+	"version": "1",
+}
+"lOtherCustomSkin"
+{
+	"text": "皮肤",
+	"version": "1",
+}
+"lOtherLogs"
+{
+	"text": "客户端日志记录",
+	"version": "1",
+}
+"lOtherMain"
+{
+	"text": "菜单",
+	"version": "1",
+}
+"lOtherVisuals"
+{
+	"text": "图形",
+	"version": "1",
+}
+"lTimestampCustom"
+{
+	"text": "自定义时间设置(详情见下)",
+	"version": "1",
+}
+"lTimestampExpressions"
+{
+	"text": "显示",
+	"version": "1",
+}
+"lTimestampExpressions2"
+{
+	"text": "相信资料请访问:\\nhttp://doc.trolltech.com/4.5/qdatetime.html#toString\\nOR Google: \"QT QDateTime\"",
+	"version": "1",
+}
+"lTimestampSettings"
+{
+	"text": "设置",
+	"version": "1",
+}

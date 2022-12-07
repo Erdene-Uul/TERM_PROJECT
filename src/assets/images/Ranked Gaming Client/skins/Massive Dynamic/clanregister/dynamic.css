@@ -1,0 +1,63 @@
+QWidget#containerwidget { background: transparent;
+image: url('shadows.png');}
+
+
+
+/* QLabel */
+QLabel {
+	color: #eee;
+	font-weight: normal;
+	font-family: 'Calibri';
+	font-size: 13px;
+}
+#lblFullName_ex {color: orange; qproperty-alignment: 'AlignCenter';
+border-top: 0px dotted rgb(55,55,55);}
+
+#lblName_ex, #lblPrefix_ex, #lblSuffix_ex.X, #lblTag_ex { border-top: 1px dotted rgb(105,105,105);}
+
+
+/* QLineEdit */
+QLineEdit {background: url('bg.png');
+	font-family: Calibri,Open Sans,Trebuchet MS;
+	color: #aaa;
+	font-size: 13px;
+	qproperty-alignment: 'AlignLeft | AlignVCenter ';
+	padding-bottom: 2px;
+}
+
+#lblName, #lblPrefix, #lblSuffix, #lblTag {font-family: 'Open Sans';
+	font-size: 14px;
+	color: #471;
+	font-weight: 300;
+        text-transform: uppercase;
+}
+
+
+/* QWidget - background widget */
+#bgName{ background : rgb(30, 30, 30);
+         border: 1px solid rgb(55, 55, 55);
+}
+
+
+
+/* QPushButton */
+QPushButton {border: none;
+	background: url('button.png');
+	font-family: Calibri,Open Sans,Trebuchet MS;
+	font-weight: 300;
+	color: #111;
+	font-size: 12px;
+	text-transform: uppercase;
+	padding-bottom: 3px;
+
+}
+
+QPushButton:hover {
+	background: url('button-h.png');
+        color: black;
+}
+
+QPushButton:pressed {
+	background: url('button-p.png');
+        color: black;
+}

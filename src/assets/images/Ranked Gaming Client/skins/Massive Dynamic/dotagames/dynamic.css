@@ -1,0 +1,229 @@
+/* QGroupBox */
+QGroupBox {text-transform: uppercase;
+	color: #c2c2c2;
+	font-family: 'Calibri';
+	font-size: 14px;
+	font-weight: bold;
+	qproperty-alignment: 'AlignLeft';
+}
+
+/* QLCDNumber */
+QLCDNumber#lcdGames {
+	background: transparent;
+	border: none;
+	color: #c2c2c2;
+	qproperty-segmentStyle: 'Flat';
+}
+
+#Signbg { background: url('signgames-bg.png'); }
+#SignShadowTop { background: url('signgames-shadow-top.png'); }
+#SignShadowBot { background: url('signgames-shadow-bot.png'); }
+
+#openGamesHeader { background: url('opengames.png'); }
+#OpenShadowTop { background: url('signgames-shadow-top.png'); }
+#OpenShadowBot { background: url('signgames-shadow-bot.png'); }
+#openGamesBody { background: url('body-element.png'); }
+
+#startGamesHeader { background: url('startedgames-head.png'); }
+#GamesShadowTop { background: url('signgames-shadow-top.png'); }
+#GamesShadowBot { background: url('signgames-shadow-bot.png'); }
+#startGamesBody { background: url('body-element.png'); }
+
+QListWidget{
+	background-color: transparent;
+}
+
+QListWidget#lstGames,
+QListWidget#lstOpenGames {
+	background: transparent;
+	color: #848484;
+	font-size: 11px;
+	font-family: Open Sans,Trebuchet MS;
+	font-weight: normal;
+	border-radius: 4px;
+}
+
+QListWidget#lstGames::item,
+QListWidget#lstOpenGames::item {
+	border: 0px;
+	height: 17px;
+	margin: 0px;
+	font-weight: normal;
+	padding-left: 4px;
+}
+
+QListWidget#lstGames::item:hover,
+QListWidget#lstOpenGames::item:hover{ 
+	background: #333;
+	border-radius: 2px;
+	color: #dadada;
+	margin-left:3px;
+	margin-right: 2px;
+	padding-left: 1px;
+}
+
+QListWidget#lstGames::item:selected:active,
+QListWidget#lstGames::item:selected:!active,
+QListWidget#lstOpenGames::item:selected:active,
+QListWidget#lstOpenGames::item:selected:!active{
+	background: #1a1a1a;
+	border-radius: 2px;
+	color: #949494;
+	margin-right: 2px;
+	margin-left:3px;
+	padding-left: 1px;
+}
+
+
+
+QListWidget#lstSigned{
+	font-size: 12px;
+	color: #848484;
+	font-family: 'Trebuchet MS';
+	font-weight: bold;
+        border-top: 1px solid rgb(0, 0, 0);
+	border-bottom: 1px solid rgb(0, 0, 0);
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
+	border-radius: 4px;
+}
+
+QListWidget#lstSigned::item {
+	border: 0px;
+	font-weight: bold;
+	height: 16px;
+	margin: 0px;
+	padding-left: 4px;
+}
+
+QListWidget#lstSigned::item:hover { 
+	background: #333;
+	color: #fff;
+}
+
+QListWidget#lstSigned::item:selected:active,
+QListWidget#lstSigned::item:selected:!active{
+	background: #111;
+	color: #848484;
+}
+
+
+/* QComboBox */
+QComboBox#Modes {padding-top: 1px;
+    background: url('Modebutton.png') no-repeat transparent;
+	border: none;
+	border-radius: 0px;
+	color: #d7d7d7;
+	font-family: 'Calibri';
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding-left: 15px;
+	background-attachment: fixed;
+	background-position: left;
+
+}
+QComboBox#Modes:hover {
+	background: url('Modebutton-h.png') left no-repeat transparent;
+}
+
+QComboBox#Modes:down-arrow{
+	image: url('no-down-arrow.png');
+}
+
+QComboBox#Modes QAbstractItemView{
+	background: #111;
+	border: 1px solid #333;
+	color: #1296bb;
+	selection-background-color: rgba(0,0,0,0.25);
+	selection-color: #17b7e4
+}
+
+/* QPushButton */
+/* You get the grey version by commenting out below, I think it looks nice, but mode prolly has to be made the same way so it looks good */
+QPushButton#cmdSign {
+	background: url('button.png') left;
+	border-radius: 0px;
+	border: 0px;
+	color: #d7d7d7;
+	font-family: 'Calibri';
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	padding-top: 1px;
+}
+
+QPushButton#cmdSign:hover{
+	background: url('button-h.png') left;
+}
+
+QPushButton#cmdSign:pressed {
+	background: url('button-p.png') left;
+	padding-bottom: 0px;
+}
+
+
+QScrollBar:vertical {
+	background: transparent;
+        border: 0px solid #181818;
+        border-left: 0px solid transparent;
+	border-radius: 0px;
+	border-right: 0px solid black;
+	margin: 0px; padding-right: 2px;
+        margin-right: 0px;
+	width: 6px; margin-top: 1px;
+}
+
+QScrollBar::handle:vertical:hover {
+	background:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
+		stop:0 #697aa3,
+		stop:1 #000);}
+
+QScrollBar::handle:vertical {
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
+		stop:0 #5d6c90,
+		stop:1 #000);
+	border: none;
+	border-radius: 2px;
+	margin: 0px;
+        margin-bottom: 1px;
+	margin-top: 1px;
+	min-height: 25px;
+	width: 6px;
+}
+#lstOpenGames QScrollBar::handle:vertical {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	min-height: 25px;
+}
+
+QScrollBar::add-line:vertical { 
+	background-image: none;
+	border: none;
+}
+
+QScrollBar::add-line:vertical:hover {
+	background: transparent;
+}
+
+QScrollBar::sub-line:vertical { 
+	background-image: none;
+	border: none;
+}
+
+QScrollBar::sub-line:vertical:hover {
+	background: none;
+}
+
+QScrollBar::up-arrow:vertical {
+	background: transparent;
+	border: none;
+	image: none;
+}
+
+QScrollBar::down-arrow:vertical {
+	background: transparent;
+	border: none;
+	image: none;
+}

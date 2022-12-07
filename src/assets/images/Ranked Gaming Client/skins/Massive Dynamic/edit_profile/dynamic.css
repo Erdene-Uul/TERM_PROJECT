@@ -1,0 +1,171 @@
+QWidget#containerwidget {
+	background: url~('header/box-middle.png');
+}
+
+/* QLabel */
+QLabel {
+	color: #eee;
+	font-weight: normal;
+	font-family: 'Calibri';
+	font-size: 14px;
+}
+/* QLineEdit */
+QLineEdit {
+	background: rgba(18, 18, 18);
+	border: 1px solid black;
+	border-radius: 4px;
+	color: #aaa;
+	font-family: 'Open Sans';
+	font-size: 13px;
+	padding-bottom: 2px;
+	qproperty-alignment: 'AlignLeft | AlignVCenter ';
+}
+
+/* QTextEdit */
+QTextEdit {
+	background: rgba(18, 18, 18);
+	border: 1px solid black;
+	font-family: 'Open Sans';
+	font-size: 12px;
+	border-radius: 4px;
+	color: #aaa;
+	qproperty-frameShape: 'NoFrame';
+	qproperty-textInteractionFlags: 'TextEditorInteraction'; /*NEEDED??*/
+}
+
+#cmdDOB, #txtSex {
+	background: rgba(18, 18, 18);
+	border: 1px solid black;
+	border-radius: 4px;
+	color: #aaa;
+	font-family: 'Open Sans';
+	font-size: 13px;
+	font-weight: normal;
+	padding-bottom: 2px;
+}
+
+#cmdDOB:hover {
+	border-bottom: 1px solid darkcyan;
+}
+#txtSex:hover{
+	border-bottom: 1px solid darkcyan;
+}
+
+#txtSex{ padding-left: 45px;}
+
+/* QComboBox */
+QComboBox {
+	color: #000;
+	background: rgb(235,235,235);
+	border: 1px solid #111;
+	border-radius: 0px;
+	font-weight: normal;
+}
+
+QComboBox:hover {
+	background:rgb(235,235,235);
+	border: 1px solid rgb(220, 10, 10, 150);
+}
+
+/* QGroupBox */
+QGroupBox, #lblDescription {
+	color: #471;
+	font-family: 'Open Sans';
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+/* QWidget - background widgets */
+#bgProfile {
+	background: rgb(30, 30, 30);
+	border: 1px solid black;
+}
+
+/* QWidget - background QGroupBoxNames */
+#BgDesc, #BgQGroupBox {
+	background: url~('header/Line2.png') left top no-repeat;
+	border: none;       
+}
+
+/* QPushButton */
+QPushButton {
+	background: url('button.png');
+	border: none;
+	font-family: 'Open Sans';
+	font-weight: 800;
+	color: #111;
+	font-size: 14px;
+	text-transform: uppercase;
+	padding-bottom: 3px;
+}
+
+QPushButton:hover {
+	background: url('button-h.png');
+	color: black;
+}
+
+QPushButton:pressed {
+	background: url('button-p.png');
+	color: black;
+}
+
+
+QScrollBar:vertical {
+	background: transparent;
+        border: 0px solid #181818;
+        border-left: 0px solid transparent;
+	border-radius: 0px;
+	border-right: 0px solid black;
+	margin: 0px; padding-right: 0px;
+        margin-right: 0px;
+	width: 7px; margin-top: 1px;
+}
+
+QScrollBar::handle:vertical:hover {
+	background:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
+		stop:0 #697aa3,
+		stop:1 #000);}
+
+QScrollBar::handle:vertical {
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0,
+		stop:0 #5d6c90,
+		stop:1 #000);
+	border: none;
+	border-radius: 2px;
+	margin: 0px;
+        margin-bottom: 1px;
+	margin-top: 1px;
+	min-height: 25px;
+	width: 6px;
+}
+
+QScrollBar::add-line:vertical { 
+	background-image: none;
+	border: none;
+}
+
+QScrollBar::add-line:vertical:hover {
+	background: transparent;
+}
+
+QScrollBar::sub-line:vertical { 
+	background-image: none;
+	border: none;
+}
+
+QScrollBar::sub-line:vertical:hover {
+	background: none;
+}
+
+QScrollBar::up-arrow:vertical {
+	background: transparent;
+	border: none;
+	image: none;
+}
+
+QScrollBar::down-arrow:vertical {
+	background: transparent;
+	border: none;
+	image: none;
+}

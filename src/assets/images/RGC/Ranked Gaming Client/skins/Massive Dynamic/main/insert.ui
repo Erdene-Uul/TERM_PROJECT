@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+
+<class>widget</class>
+ <widget class="QWidget" name="widget">
+ <widget class="QLabel" name="PageTop"/>
+ <widget class="QLabel" name="BorderleftTop"/>
+ <widget class="QLabel" name="Bordertopright"/>
+ <widget class="QLabel" name="BordercenterTop"/>
+ <widget class="QLabel" name="BorderleftBot"/>
+ <widget class="QLabel" name="BorderrightBot"/>
+ <widget class="QLabel" name="Borderleft"/>
+ <widget class="QLabel" name="Borderright"/>
+ <widget class="QWidget" name="Logo"/>
+ <widget class="QLabel" name="LeftBorder"/>
+ <widget class="QLabel" name="centerheader"/>
+ <widget class="QLabel" name="rightheader"/>
+ <widget class="QLabel" name="CenterBord"/>
+ <widget class="QLabel" name="HeaderTop"/>
+ <widget class="QLabel" name="RightBotBorder"/>
+ <widget class="QLabel" name="ChannelsTop"/>
+ <widget class="QLabel" name="ChannelsBot"/>
+ <widget class="QLabel" name="ChannelsCenter"/>
+ <widget class="QLabel" name="ShadowHeader"/>
+ <widget class="QLabel" name="ProfileHeader"/>
+ <widget class="QLabel" name="shadowtop"/>
+ </widget>
+</ui>

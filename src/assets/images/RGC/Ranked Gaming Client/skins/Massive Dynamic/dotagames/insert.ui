@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+	<class>widget</class>
+	<widget class="QWidget" name="widget">
+		<widget class="QWidget" name="Signbg" />
+		<widget class="QLabel" name="SignShadowTop"/>
+		<widget class="QLabel" name="SignShadowBot"/>
+
+		<widget class="QWidget" name="openGamesHeader"/>
+		<widget class="QWidget" name="openGamesBody"/>
+		<widget class="QLabel" name="OpenShadowTop"/>
+		<widget class="QLabel" name="OpenShadowBot"/>
+
+		<widget class="QWidget" name="startGamesHeader"/>
+		<widget class="QWidget" name="startGamesBody"/>
+		<widget class="QLabel" name="GamesShadowTop"/>
+		<widget class="QLabel" name="GamesShadowBot"/>
+	</widget>
+</ui>

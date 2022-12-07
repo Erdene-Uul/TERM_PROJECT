@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+
+	<class>widget</class>
+	<widget class="QWidget" name="widget">
+		<widget class="QLabel" name="1Top"/>
+		<widget class="QLabel" name="2Top"/>
+		<widget class="QLabel" name="3Top"/>
+		<widget class="QLabel" name="botborder"/>
+		<widget class="QLabel" name="Centerborder"/>
+		<widget class="QLabel" name="Chat1"/>
+		<widget class="QLabel" name="Chat2"/>
+		<widget class="QLabel" name="Shadow2"/>
+		<widget class="QLabel" name="Shadow1"/>
+		<widget class="QLabel" name="0Top"/>
+
+
+		<widget class="QLabel" name="lstUsersShadowTop"/>
+		<widget class="QLabel" name="lstUsersShadowBot"/>
+ 	</widget>
+
+</ui>
