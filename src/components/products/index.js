@@ -7,7 +7,7 @@ const Products = (props) => {
     <Card style={{ width: 210, margin: 10 }}>
       <div className="">
         <div className="flex flex-col h-60">
-          <img className="rounded-md" src={props.img} />
+          <img className="h-44 rounded-md" src={props.img} />
           <div className="mt-5 mb-6 text-center">{props.name}</div>
         </div>
         <div className=" font-bold text-center">{props.price}</div>

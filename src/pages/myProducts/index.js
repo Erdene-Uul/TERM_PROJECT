@@ -58,7 +58,7 @@ function MyProducts() {
                 }}
               >
                 <Products
-                  name={e.about}
+                  name={e.name}
                   price={e.price}
                   img={imageList.filter((el) => el.includes(e.image))[0]}
                 />
