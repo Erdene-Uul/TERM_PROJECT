@@ -7,15 +7,12 @@ import { AuthContext } from "../../context/AuthContext";
 import { Link } from "react-router-dom";
 
 function MyProducts() {
-  const myProduct = [];
+  const [myProduct, setMyProduct] = React.useState([]);
   const { currentUser } = useContext(AuthContext);
   const [imageList, setImageList] = React.useState([]);
   const imageListRef = ref(storage, "image/");
   const [advertises, setAdvertises] = React.useState([]);
-  advertises?.map((e) => {
-    myProduct.push(e);
-    console.log("myproducts-->", myProduct);
-  });
+
   console.log("imgList--->", imageList);
 
   console.log("advertises--->", advertises);
@@ -26,6 +23,13 @@ function MyProducts() {
       setImageList((prev) => [...prev, url]);
     });
   };
+
+  React.useEffect(() => {
+    advertises?.map((e) => {
+      e.user == currentUser.uid && setMyProduct((pre) => [...pre, e]);
+    });
+  }, [advertises]);
+  console.log("myproducts-->", myProduct);
 
   React.useEffect(() => {
     console.log(currentUser.uid);
@@ -39,23 +43,29 @@ function MyProducts() {
     });
     fetchImg();
   }, []);
+  const a = ["e", "r", "t"];
   return (
     <div className="max-w-7xl mx-auto pt-32">
       <h1 className="ml-4 text-xl">My Products</h1>
       <div className="mt-25 flex flex-wrap">
         {myProduct?.map((e) => {
-          <Link
-            to={`/productDetail/${e.id}`}
-            state={{
-              imgUrl: imageList.filter((el) => el.includes(e.image))[0],
-            }}
-          >
-            <Products
-              name={e.about}
-              price={e.price}
-              img={imageList.filter((el) => el.includes(e.image))[0]}
-            />
-          </Link>;
+          return (
+            <>
+              <Link
+                to={`/productDetail/${e.id}`}
+                state={{
+                  imgUrl: imageList.filter((el) => el.includes(e.image))[0],
+                }}
+              >
+                <Products
+                  name={e.about}
+                  price={e.price}
+                  img={imageList.filter((el) => el.includes(e.image))[0]}
+                />
+              </Link>
+              ;
+            </>
+          );
         })}
       </div>
     </div>
