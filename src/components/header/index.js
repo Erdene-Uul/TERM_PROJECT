@@ -1,6 +1,6 @@
 import React from "react";
 import { Select, Dropdown, Menu } from "antd";
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import {
   UserOutlined,
   SearchOutlined,
@@ -9,7 +9,6 @@ import {
 
 const { Option } = Select;
 const Header = (props) => {
-  const navigate = useNavigate();
   const logOut = () => {
     localStorage.removeItem("user");
     window.location.reload();

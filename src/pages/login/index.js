@@ -84,7 +84,7 @@ const Login = () => {
               Register
             </Button>
             <p className="text-2xl font-semibold mt-6 w-80 text-white">
-              It is forbidden to use for SeoulTech students.
+              It is only for SeoulTech students.
             </p>
           </Form>
         </div>
