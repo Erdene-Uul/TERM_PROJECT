@@ -49,12 +49,6 @@ const Header = (props) => {
           </div>
         </div>
         <div className="ml-20 flex items-center space-x-3">
-          <Link to="/login">
-            <div className=" bg-[#339CCC] py-2 px-6 rounded-full flex items-center space-x-2">
-              <UserOutlined style={{ color: "white" }} />
-              <span className=" text-white">Log in</span>
-            </div>
-          </Link>
           <button className=" bg-[#339CCC] flex items-center py-[5px] px-5 rounded-full space-x-2">
             <div className="text-xl">
               <img
@@ -74,6 +68,14 @@ const Header = (props) => {
             <Link to="/myProducts">
               <div className=" text-white">My Products</div>
             </Link>
+          </button>
+          <button>
+          <Link to="/login">
+            <div className=" bg-[#339CCC] py-2 px-6 rounded-full flex items-center space-x-2">
+              <UserOutlined style={{ color: "white" }} />
+              <span className=" text-white">Log out</span>
+            </div>
+          </Link>
           </button>
         </div>
       </div>
