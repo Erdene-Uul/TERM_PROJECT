@@ -1,9 +1,5 @@
 import React from "react";
-import Category from "../../components/category";
 import Products from "../../components/products";
-import Header from "../../components/header";
-import Footer from "../../components/footer";
-import { Button } from "antd";
 
 function MyProducts() {
   return (

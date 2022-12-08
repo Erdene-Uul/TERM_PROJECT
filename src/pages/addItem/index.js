@@ -10,23 +10,27 @@ import Footer from "../../components/footer";
 import { Form, Input, Select } from "antd";
 
 const { Option } = Select;
-
+let img;
 const AddItem = () => {
   const history = useHistory();
   const [imageUpload, setImageUpload] = useState(null);
   const [imageList, setImageList] = useState([]);
   const imageListRef = ref(storage, "image/");
+
   const uploadImage = () => {
     if (imageUpload === null) return;
-    const imageRef = ref(storage, `image/${imageUpload.name + v4()}`);
+    img = imageUpload.name + v4();
+    const imageRef = ref(storage, `image/${img}`);
     uploadBytes(imageRef, imageUpload)
       .then(() => alert("Added your product on site!"))
       .then(() => history.push("/"));
   };
   const onFinish = (e) => {
-    e.image = imageUpload.name;
-    Config.post("/advertises.json", e);
     uploadImage();
+    console.log(img);
+    e.image = img;
+    Config.post("/advertises.json", e);
+
     console.log(e);
     console.log(imageUpload);
   };
@@ -46,12 +50,12 @@ const AddItem = () => {
   return (
     <div>
       {" "}
-      <Header />
-      <div className=" text-center font-bold mt-14 text-3xl">Add product</div>
+      <div className=" text-center font-bold pt-32 text-3xl">Add product</div>
       <div className="flex max-w-6xl mx-auto">
         <div className="w-1/2 flex flex-col justify-center items-center">
           <div className="">
             <ImageUploader
+              singleImage={true}
               buttonText="Insert an image"
               style={{
                 width: 450,
@@ -84,7 +88,7 @@ const AddItem = () => {
             </Form.Item>
 
             <label className="font-bold">Phone</label>
-            <Form.Item name={"phone"}>
+            <Form.Item name={"phone"} required={true}>
               <Input />
             </Form.Item>
 
@@ -103,7 +107,6 @@ const AddItem = () => {
           </Form>
         </div>
       </div>
-      <Footer />
     </div>
   );
 };

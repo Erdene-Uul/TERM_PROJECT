@@ -69,10 +69,19 @@ const Home = (props) => {
             <div className=" flex flex-wrap ">
               {advertises?.map((e) =>
                 e.category == "books" ? (
-                  <Link to={`/productDetail/${e.id}`}>
+                  <Link
+                    to={{
+                      pathname: `/productDetail/${e.id}`,
+                      state: {
+                        imgUrl: imageList.filter((el) =>
+                          el.includes(e.image)
+                        )[0],
+                      },
+                    }}
+                  >
                     <Products
                       name={e.about}
-                      img={imageList[0]}
+                      img={imageList.filter((el) => el.includes(e.image))[0]}
                       price={e.price}
                     />
                   </Link>
@@ -89,8 +98,19 @@ const Home = (props) => {
               {advertises?.map((e) =>
                 e.category == "academicDress" ? (
                   <>
-                    {console.log(e.image)}
-                    <Link to={`/productDetail/${e.id}`}>
+                    {console.log(
+                      imageList.filter((el) => el.includes(e.image))
+                    )}
+                    <Link
+                      to={{
+                        pathname: `/productDetail/${e.id}`,
+                        state: {
+                          imgUrl: imageList.filter((el) =>
+                            el.includes(e.image)
+                          )[0],
+                        },
+                      }}
+                    >
                       <Products
                         name={e.about}
                         img={imageList.filter((el) => el.includes(e.image))[0]}
@@ -110,10 +130,19 @@ const Home = (props) => {
             <div className=" flex flex-wrap ">
               {advertises?.map((e) =>
                 e.category == "electronic" ? (
-                  <Link to={`/productDetail/${e.id}`}>
+                  <Link
+                    to={{
+                      pathname: `/productDetail/${e.id}`,
+                      state: {
+                        imgUrl: imageList.filter((el) =>
+                          el.includes(e.image)
+                        )[0],
+                      },
+                    }}
+                  >
                     <Products
                       name={e.about}
-                      img={imageList[0]}
+                      img={imageList.filter((el) => el.includes(e.image))[0]}
                       price={e.price}
                     />
                   </Link>
@@ -132,8 +161,19 @@ const Home = (props) => {
         <div className=" flex flex-wrap ">
           {advertises?.map((e) =>
             e.category == "books" ? (
-              <Link to={`/productDetail/${e.id}`}>
-                <Products name={e.about} img={imageList[0]} price={e.price} />
+              <Link
+                to={{
+                  pathname: `/productDetail/${e.id}`,
+                  state: {
+                    imgUrl: imageList.filter((el) => el.includes(e.image))[0],
+                  },
+                }}
+              >
+                <Products
+                  name={e.about}
+                  img={imageList.filter((el) => el.includes(e.image))[0]}
+                  price={e.price}
+                />
               </Link>
             ) : null
           )}
@@ -150,8 +190,19 @@ const Home = (props) => {
         <div className=" flex flex-wrap ">
           {advertises?.map((e) =>
             e.category == "academicDress" ? (
-              <Link to={`/productDetail/${e.id}`}>
-                <Products name={e.about} img={imageList[0]} price={e.price} />
+              <Link
+                to={{
+                  pathname: `/productDetail/${e.id}`,
+                  state: {
+                    imgUrl: imageList.filter((el) => el.includes(e.image))[0],
+                  },
+                }}
+              >
+                <Products
+                  name={e.about}
+                  img={imageList.filter((el) => el.includes(e.image))[0]}
+                  price={e.price}
+                />
               </Link>
             ) : null
           )}
@@ -165,8 +216,19 @@ const Home = (props) => {
         <div className=" flex flex-wrap ">
           {advertises?.map((e) =>
             e.category == "electronic" ? (
-              <Link to={`/productDetail/${e.id}`}>
-                <Products name={e.about} img={imageList[0]} price={e.price} />
+              <Link
+                to={{
+                  pathname: `/productDetail/${e.id}`,
+                  state: {
+                    imgUrl: imageList.filter((el) => el.includes(e.image))[0],
+                  },
+                }}
+              >
+                <Products
+                  name={e.about}
+                  img={imageList.filter((el) => el.includes(e.image))[0]}
+                  price={e.price}
+                />
               </Link>
             ) : null
           )}
@@ -186,41 +248,7 @@ const Home = (props) => {
           used in SeoulTech with this website...
         </h2>
       </div>
-      <div className="max-w-6xl mx-auto">
-        {comp}
-        {/* <h1 className="mt-20 ml-4 m-3 text-xl">Books</h1>
-        <div className=" flex flex-wrap m-5">
-          <Products name="The Dutch House" img="book10" price="5000W" />
-          <Products name="Bird box" img="book2" price="3000W" />
-          <Products name="Everything is fucked" img="book3" price="5000W" />
-          <Products name="To kill a Mockingbird" img="book4" price="7000W" />
-          <Products name="Ninth house" img="book5" price="3500W" />
-          <Products name="Water dancer" img="book6" price="5000W" />
-          <Products name="The help" img="book7" price="4000W" />
-        </div>
-
-        <h1 className="mt-20 ml-4 m-3 text-xl">Academic dresses</h1>
-        <div className=" flex flex-wrap m-5">
-          <Products name="Spring Jacket" img="clothes1" price="20000W" />
-          <Products name="Sweater" img="clothes3" price="10000W" />
-          <Products name="Summer Jacket" img="clothes2" price="14000W" />
-          <Products name="Hoodie" img="clothes4" price="8000W" />
-          <Products name="Coat" img="clothes6" price="35000W" />
-          <Products name="T-shirt" img="clothes5" price="5000W" />
-          <Products name="Teddy" img="clothes7" price="14000W" />
-        </div>
-
-        <h1 className="mt-20 ml-4 m-3 text-xl">Electronics</h1>
-        <div className="flex flex-wrap m-5">
-          <Products name="IPad" img="Ipad" price="5000W" />
-          <Products name="Bird box" img="book2" price="3000W" />
-          <Products name="Everything is fucked" img="book3" price="5000W" />
-          <Products name="To kill a Mockingbird" img="book4" price="7000W" />
-          <Products name="Ninth house" img="book5" price="3500W" />
-          <Products name="Water dancer" img="book6" price="5000W" />
-          <Products name="The help" img="book7" price="4000W" />
-        </div> */}
-      </div>
+      <div className="max-w-6xl mx-auto">{comp}</div>
     </div>
   );
 };
