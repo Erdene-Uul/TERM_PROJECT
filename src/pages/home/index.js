@@ -65,7 +65,7 @@ const Home = (props) => {
                     }}
                   >
                     <Products
-                      name={e.about}
+                      name={e.name}
                       img={imageList.filter((el) => el.includes(e.image))[0]}
                       price={e.price}
                     />
@@ -95,7 +95,7 @@ const Home = (props) => {
                       }}
                     >
                       <Products
-                        name={e.about}
+                        name={e.name}
                         img={imageList.filter((el) => el.includes(e.image))[0]}
                         price={e.price}
                       />
@@ -120,7 +120,7 @@ const Home = (props) => {
                     }}
                   >
                     <Products
-                      name={e.about}
+                      name={e.name}
                       img={imageList.filter((el) => el.includes(e.image))[0]}
                       price={e.price}
                     />
@@ -147,7 +147,7 @@ const Home = (props) => {
                 }}
               >
                 <Products
-                  name={e.about}
+                  name={e.name}
                   img={imageList.filter((el) => el.includes(e.image))[0]}
                   price={e.price}
                 />
@@ -174,7 +174,7 @@ const Home = (props) => {
                 }}
               >
                 <Products
-                  name={e.about}
+                  name={e.name}
                   img={imageList.filter((el) => el.includes(e.image))[0]}
                   price={e.price}
                 />
@@ -198,7 +198,7 @@ const Home = (props) => {
                 }}
               >
                 <Products
-                  name={e.about}
+                  name={e.name}
                   img={imageList.filter((el) => el.includes(e.image))[0]}
                   price={e.price}
                 />

@@ -76,24 +76,27 @@ const Header = (props) => {
         </div>
       </div>
       <div className="ml-52 flex items-center space-x-3">
-        <button className=" bg-[#339CCC] flex items-center py-[5px] px-5 rounded-full space-x-2">
-          <div className="text-xl">
-            <img src={require("../../assets/images/icons8-plus-math-24.png")} />
-          </div>
-          <Link to="/addItem">
+        <Link to={"/addItem"}>
+          <button className=" bg-[#339CCC] flex items-center py-[5px] px-5 rounded-full space-x-2">
+            <div className="text-xl">
+              <img
+                src={require("../../assets/images/icons8-plus-math-24.png")}
+              />
+            </div>
+
             <div className=" text-white">Add product</div>
-          </Link>
-        </button>
-        <button className=" bg-[#339CCC] flex items-center py-[5px] px-5 rounded-full space-x-2">
-          <div className="text-xl">
-            <img
-              src={require("../../assets/images/icons8-shopping-cart-24.png")}
-            />
-          </div>
-          <Link to="/myProducts">
+          </button>
+        </Link>
+        <Link to={"/myProducts"}>
+          <button className=" bg-[#339CCC] flex items-center py-[5px] px-5 rounded-full space-x-2">
+            <div className="text-xl">
+              <img
+                src={require("../../assets/images/icons8-shopping-cart-24.png")}
+              />
+            </div>
             <div className=" text-white">My Products</div>
-          </Link>
-        </button>
+          </button>
+        </Link>
       </div>
       <div className=" bg-[#339CCC] ml-32 py-2 px-2 text-2xl rounded-full flex items-center ">
         <Dropdown overlay={menu} trigger={["click"]}>

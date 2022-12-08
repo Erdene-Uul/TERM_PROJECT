@@ -1,17 +1,32 @@
 import React, { useContext } from "react";
 import Products from "../../components/products";
 import { getDownloadURL, listAll, ref } from "firebase/storage";
-import storage from "../../firebase";
+import { app } from "../../firebase";
 import Config from "../../database";
+import { getDatabase, ref as refer, remove, update } from "firebase/database";
+import storage from "../../firebase";
 import { AuthContext } from "../../context/AuthContext";
 import { Link } from "react-router-dom";
 
 function MyProducts() {
+  const db = getDatabase(app);
   const [myProduct, setMyProduct] = React.useState([]);
   const { currentUser } = useContext(AuthContext);
   const [imageList, setImageList] = React.useState([]);
   const imageListRef = ref(storage, "image/");
   const [advertises, setAdvertises] = React.useState([]);
+
+  const onUpdate = () => {};
+
+  const onDelete = (e) => {
+    let tData = [...myProduct];
+    const temp = tData.filter((el) => el.id != e);
+    setMyProduct(temp);
+    console.log(refer(db, "/advertises/" + e));
+    remove(refer(db, "/advertises/" + e))
+      // .then(() => alert("Deleted"))
+      .catch((err) => alert(err));
+  };
 
   console.log("imgList--->", imageList);
 
@@ -51,23 +66,25 @@ function MyProducts() {
         {myProduct?.map((e) => {
           return (
             <>
-              <Link
+              {/* <Link
                 to={`/productDetail/${e.id}`}
                 state={{
                   imgUrl: imageList.filter((el) => el.includes(e.image))[0],
                 }}
-              >
-                <Products
-                  name={e.about}
-                  price={e.price}
-                  img={imageList.filter((el) => el.includes(e.image))[0]}
-                />
-              </Link>
-              ;
+              > */}
+              <Products
+                id={e.id}
+                onUpdate={onUpdate}
+                onDelete={onDelete}
+                name={e.name}
+                price={e.price}
+                img={imageList.filter((el) => el.includes(e.image))[0]}
+              />
+              {/* </Link> */};
             </>
           );
         })}
-         </div>
+      </div>
     </div>
   );
 }
