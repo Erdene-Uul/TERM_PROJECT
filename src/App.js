@@ -24,8 +24,8 @@ function App() {
   };
   console.log(currentUser);
   return (
-    <div className="">
-      <Header onChange={onChange} />
+    <div>
+      {currentUser && <Header user={currentUser?.email} onChange={onChange} />}
       <Routes>
         <Route
           exact
@@ -66,7 +66,7 @@ function App() {
           }
         />
       </Routes>
-      <Footer />
+      {currentUser && <Footer />}
     </div>
   );
 }

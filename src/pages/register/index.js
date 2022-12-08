@@ -68,6 +68,13 @@ const Register = () => {
             >
               Register
             </Button>
+            <Button
+              onClick={() => navigate("/login")}
+              className="mt-4 w-32 rounded-xl ml-60"
+              type="primary"
+            >
+              Back
+            </Button>
             <p className="text-2xl font-semibold mt-6 w-80 text-white">
               It is forbidden to use for SeoulTech students.
             </p>
