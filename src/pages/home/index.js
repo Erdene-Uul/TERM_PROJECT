@@ -35,18 +35,7 @@ const Home = (props) => {
       }
       setAdvertises(fetchedAds);
     });
-    //fetchAds();
     fetchImg();
-
-    // listAll(imageListRef)
-    //   .then((res) => {
-    //     res.items.forEach((items) => {
-    //       getDownloadURL(items).then((url) => {
-    //         setImageList((prev) => [...prev, url]);
-    //       });
-    //     });
-    //   })
-    //   .finally(console.log(imageList));
   }, []);
   const helper = (arr, n) => {
     let bool;
@@ -70,13 +59,9 @@ const Home = (props) => {
               {advertises?.map((e) =>
                 e.category == "books" ? (
                   <Link
-                    to={{
-                      pathname: `/productDetail/${e.id}`,
-                      state: {
-                        imgUrl: imageList.filter((el) =>
-                          el.includes(e.image)
-                        )[0],
-                      },
+                    to={`/productDetail/${e.id}`}
+                    state={{
+                      imgUrl: imageList.filter((el) => el.includes(e.image))[0],
                     }}
                   >
                     <Products
@@ -102,13 +87,11 @@ const Home = (props) => {
                       imageList.filter((el) => el.includes(e.image))
                     )}
                     <Link
-                      to={{
-                        pathname: `/productDetail/${e.id}`,
-                        state: {
-                          imgUrl: imageList.filter((el) =>
-                            el.includes(e.image)
-                          )[0],
-                        },
+                      to={`/productDetail/${e.id}`}
+                      state={{
+                        imgUrl: imageList.filter((el) =>
+                          el.includes(e.image)
+                        )[0],
                       }}
                     >
                       <Products
@@ -131,13 +114,9 @@ const Home = (props) => {
               {advertises?.map((e) =>
                 e.category == "electronic" ? (
                   <Link
-                    to={{
-                      pathname: `/productDetail/${e.id}`,
-                      state: {
-                        imgUrl: imageList.filter((el) =>
-                          el.includes(e.image)
-                        )[0],
-                      },
+                    to={`/productDetail/${e.id}`}
+                    state={{
+                      imgUrl: imageList.filter((el) => el.includes(e.image))[0],
                     }}
                   >
                     <Products
@@ -162,11 +141,9 @@ const Home = (props) => {
           {advertises?.map((e) =>
             e.category == "books" ? (
               <Link
-                to={{
-                  pathname: `/productDetail/${e.id}`,
-                  state: {
-                    imgUrl: imageList.filter((el) => el.includes(e.image))[0],
-                  },
+                to={`/productDetail/${e.id}`}
+                state={{
+                  imgUrl: imageList.filter((el) => el.includes(e.image))[0],
                 }}
               >
                 <Products
@@ -191,11 +168,9 @@ const Home = (props) => {
           {advertises?.map((e) =>
             e.category == "academicDress" ? (
               <Link
-                to={{
-                  pathname: `/productDetail/${e.id}`,
-                  state: {
-                    imgUrl: imageList.filter((el) => el.includes(e.image))[0],
-                  },
+                to={`/productDetail/${e.id}`}
+                state={{
+                  imgUrl: imageList.filter((el) => el.includes(e.image))[0],
                 }}
               >
                 <Products
@@ -217,11 +192,9 @@ const Home = (props) => {
           {advertises?.map((e) =>
             e.category == "electronic" ? (
               <Link
-                to={{
-                  pathname: `/productDetail/${e.id}`,
-                  state: {
-                    imgUrl: imageList.filter((el) => el.includes(e.image))[0],
-                  },
+                to={`/productDetail/${e.id}`}
+                state={{
+                  imgUrl: imageList.filter((el) => el.includes(e.image))[0],
                 }}
               >
                 <Products

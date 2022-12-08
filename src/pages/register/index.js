@@ -1,28 +1,22 @@
-import React, { useContext } from "react";
+import React from "react";
 import { Form, Input, Button } from "antd";
 import { auth } from "../../firebase";
 import { useNavigate } from "react-router-dom";
-import { AuthContext } from "../../context/AuthContext";
-import {
-  createUserWithEmailAndPassword,
-  signInWithEmailAndPassword,
-} from "firebase/auth";
+import { createUserWithEmailAndPassword } from "firebase/auth";
 
-const Login = () => {
+const Register = () => {
   const navigate = useNavigate();
-  const [error, setError] = React.useState(false);
-  const { dispatch } = useContext(AuthContext);
   const onFinish = (e) => {
     const email = e.email;
     const password = e.password;
-    signInWithEmailAndPassword(auth, email, password)
+    createUserWithEmailAndPassword(auth, email, password)
       .then((userCredential) => {
         const user = userCredential.user;
-        dispatch({ type: "LOGIN", payload: user });
-        navigate("/");
+        alert("Registered successfully");
+        navigate("/login");
       })
       .catch((error) => {
-        setError(true);
+        console.log(error);
       });
   };
   return (
@@ -42,7 +36,7 @@ const Login = () => {
           <Form className="w-full  px-3" layout="vertical" onFinish={onFinish}>
             <div className=" flex justify-start w-full ">
               <p className="text-3xl font-semibold text-white mt-2 flex text-left">
-                Log in
+                Register
               </p>
             </div>
             <Form.Item label="Email" name="email" required>
@@ -63,11 +57,6 @@ const Login = () => {
                 placeHolder="*******"
               />
             </Form.Item>
-            {error && (
-              <span className="flex justify-center text-red-600 font-semibold">
-                Wrong email or password!
-              </span>
-            )}
 
             {/* <div className="flex justify-end  ">
               <a className="underline">Forget a password?</a>
@@ -76,13 +65,6 @@ const Login = () => {
               className="mt-4 w-32 rounded-xl"
               type="primary"
               htmlType="submit"
-            >
-              Log in
-            </Button>
-            <Button
-              onClick={() => navigate("/register")}
-              className="mt-4 w-32 rounded-xl ml-60"
-              type="primary"
             >
               Register
             </Button>
@@ -102,4 +84,4 @@ const Login = () => {
     </div>
   );
 };
-export default Login;
+export default Register;

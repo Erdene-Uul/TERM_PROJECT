@@ -61,7 +61,7 @@ const Header = (props) => {
                 src={require("../../assets/images/icons8-plus-math-24.png")}
               />
             </div>
-            <Link to="/login">
+            <Link to="/addItem">
               <div className=" text-white">Add product</div>
             </Link>
           </button>

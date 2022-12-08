@@ -1,33 +1,35 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useContext } from "react";
 import storage from "../../firebase";
 import Header from "../../components/header";
 import { getDownloadURL, listAll, ref, uploadBytes } from "firebase/storage";
 import ImageUploader from "react-images-upload";
-import { useHistory } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import Config from "../../database";
 import { v4 } from "uuid";
 import Footer from "../../components/footer";
 import { Form, Input, Select } from "antd";
+import { AuthContext } from "../../context/AuthContext";
 
 const { Option } = Select;
 let img;
 const AddItem = () => {
-  const history = useHistory();
+  const { currentUser } = useContext(AuthContext);
+  const navigate = useNavigate();
   const [imageUpload, setImageUpload] = useState(null);
   const [imageList, setImageList] = useState([]);
   const imageListRef = ref(storage, "image/");
-
+  console.log(currentUser.uid);
   const uploadImage = () => {
     if (imageUpload === null) return;
     img = imageUpload.name + v4();
     const imageRef = ref(storage, `image/${img}`);
     uploadBytes(imageRef, imageUpload)
       .then(() => alert("Added your product on site!"))
-      .then(() => history.push("/"));
+      .then(() => navigate("/"));
   };
   const onFinish = (e) => {
     uploadImage();
-    console.log(img);
+    e.user = currentUser.uid;
     e.image = img;
     Config.post("/advertises.json", e);
 
