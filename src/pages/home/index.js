@@ -216,7 +216,7 @@ const Home = (props) => {
           className="opacity-50 backdrop-blur-sm w-screen h-5/6"
           src={require(`../../assets/images/seoultech.jpg`)}
         />
-        <h2 className="absolute text-4xl text-black top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 h-25">
+        <h2 className="2xl:h-25 xl:h-22 lg:h-16 md:h-10 sm:h-6 absolute 2xl:text-4xl xl:text-3xl lg:text-xl md:text-sm sm:text-xs text-black top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
           Welcome to SeoulTech's e-shop! You can sell or buy something that is
           used in SeoulTech with this website...
         </h2>
