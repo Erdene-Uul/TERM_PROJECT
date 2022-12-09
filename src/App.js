@@ -22,7 +22,6 @@ function App() {
   const RequiredAuth = ({ children }) => {
     return currentUser ? children : <Navigate to={"/login"} />;
   };
-  console.log(currentUser);
   return (
     <div>
       {currentUser && <Header user={currentUser?.email} onChange={onChange} />}

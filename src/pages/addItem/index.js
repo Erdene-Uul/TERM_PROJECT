@@ -74,7 +74,6 @@ const AddItem = () => {
             <Form.Item name={"name"}>
               <Input />
             </Form.Item>
-
             <label className="font-bold">Category</label>
             <Form.Item name={"category"}>
               <Select defaultValue="Сонгох" onChange={onChange}>

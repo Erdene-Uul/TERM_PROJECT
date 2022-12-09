@@ -3,8 +3,11 @@ import { Card } from "antd";
 import Config from "../../database";
 
 const Products = (props) => {
+  const onUpdate = () => {
+    props.onUpdate(props.index);
+  };
   const onDelete = () => {
-    props.onDelete(props.id);
+    props.onDelete(props.id, props.imgUrl);
   };
   return (
     <Card style={{ width: 210, margin: 10 }}>
@@ -18,7 +21,7 @@ const Products = (props) => {
           <div className="flex mt-6 space-x-4">
             <img
               className="cursor-pointer"
-              onClick={props.onUpdate}
+              onClick={onUpdate}
               src={require("../../assets/images/icons8-edit-24.png")}
             />
             <img
