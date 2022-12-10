@@ -48,8 +48,8 @@ const Header = (props) => {
         </Link>
       </div>
 
-      <div className="xl:ml-40 lg:ml-24 md:ml-2 sm:w-100 xl:w-32 lg:w-24 md:w-10 sm:w-4}}">
-        <Select defaultValue="All" onChange={props.onChange}>
+      <div className="xl:ml-10 lg:ml-6 md:ml-2 xl:w-60 lg:w-32 md:w-20 sm:w-10}}">
+        <Select style={{width:125 }} defaultValue="All" onChange={props.onChange}>
           <Option value="books">Books</Option>
           <Option value="academicDress">Academic dress</Option>
           <Option value="electronic">Electronic</Option>
@@ -57,7 +57,7 @@ const Header = (props) => {
         </Select>
       </div>
 
-      <div className="xl:w-550 lg:w-400 md:w-200 sm:w-100 flex items-center ml-5">
+      <div className="xl:w-550 lg:w-300 md:w-160 sm:w-100 flex items-center ml-12">
         <input
           className=" text-black xl:px-10 lg:px-5 md:px-2 sm:px-0 py-[6px] border-2 border-slate-200 rounded-full focus:outline-line"
           type={"text"}
@@ -67,7 +67,7 @@ const Header = (props) => {
           <SearchOutlined />
         </div>
       </div>
-      <div className="ml-52 flex items-center space-x-3">
+      <div className="xl:ml-52 lg:ml-30 md:ml-16 sm:ml-6 flex items-center space-x-3">
         <Link to={"/addItem"}>
           <button className=" bg-[#339CCC] flex items-center py-[5px] px-5 rounded-full space-x-2">
             <div className="text-xl">

@@ -57,6 +57,7 @@ const Register = () => {
                 placeHolder="*******"
               />
             </Form.Item>
+            
 
             {/* <div className="flex justify-end  ">
               <a className="underline">Forget a password?</a>
