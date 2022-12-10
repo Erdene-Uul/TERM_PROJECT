@@ -98,7 +98,8 @@ function MyProducts() {
   };
   const handleUpOk = () => {
     modalItem == "image" && setCancel(false);
-    modalItem == "image" && imageUpload != null && uploadImage(), fetchImg();
+    modalItem == "image" && imageUpload != null && uploadImage();
+    modalItem == "image" && imageUpload != null && fetchImg();
 
     setOpen(false);
 
