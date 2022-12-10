@@ -51,6 +51,7 @@ const Register = () => {
             <Form.Item label="Password" name="password" required>
               <Input.Password
                 required
+                minLength={8}
                 name="password"
                 allowClear
                 type="password"

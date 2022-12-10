@@ -4,6 +4,7 @@ import Products from "../../components/products";
 import { getDownloadURL, listAll, ref } from "firebase/storage";
 import storage from "../../firebase";
 import Config from "../../database";
+import { v4 } from "uuid";
 
 const Home = (props) => {
   const [imageList, setImageList] = useState([]);
@@ -65,6 +66,7 @@ const Home = (props) => {
                     }}
                   >
                     <Products
+                      key={e.category + v4()}
                       name={e.name}
                       img={imageList.filter((el) => el.includes(e.image))[0]}
                       price={e.price}
@@ -95,6 +97,7 @@ const Home = (props) => {
                       }}
                     >
                       <Products
+                        key={e.category + v4()}
                         name={e.name}
                         img={imageList.filter((el) => el.includes(e.image))[0]}
                         price={e.price}
@@ -120,6 +123,7 @@ const Home = (props) => {
                     }}
                   >
                     <Products
+                      key={e.category + v4()}
                       name={e.name}
                       img={imageList.filter((el) => el.includes(e.image))[0]}
                       price={e.price}
@@ -147,6 +151,7 @@ const Home = (props) => {
                 }}
               >
                 <Products
+                  key={e.category + v4()}
                   name={e.name}
                   img={imageList.filter((el) => el.includes(e.image))[0]}
                   price={e.price}
@@ -174,6 +179,7 @@ const Home = (props) => {
                 }}
               >
                 <Products
+                  key={e.category + v4()}
                   name={e.name}
                   img={imageList.filter((el) => el.includes(e.image))[0]}
                   price={e.price}
@@ -198,6 +204,7 @@ const Home = (props) => {
                 }}
               >
                 <Products
+                  key={e.category + v4()}
                   name={e.name}
                   img={imageList.filter((el) => el.includes(e.image))[0]}
                   price={e.price}

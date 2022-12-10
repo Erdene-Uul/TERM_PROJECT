@@ -23,13 +23,8 @@ import { Modal, Button, Form, Input, Select } from "antd";
 import { v4 } from "uuid";
 
 const { Option } = Select;
-let img, imageRef;
+let img, category, name, phone, price, about;
 function MyProducts() {
-  let category = null,
-    name = null,
-    about = null,
-    phone = null,
-    price = null;
   const db = getDatabase(app);
   const [modalItem, setModalItem] = React.useState("");
   const [index, setIndex] = React.useState(null);
@@ -39,8 +34,10 @@ function MyProducts() {
   const [imageList, setImageList] = React.useState([]);
   const imageListRef = ref(storage, "image/");
   const [advertises, setAdvertises] = React.useState([]);
+  const [cancel, setCancel] = React.useState(true);
   const [open, setOpen] = React.useState(false);
   const [isModalOpen, setIsModalOpen] = React.useState(false);
+  const [oldImgRef, setOldImg] = React.useState("");
   const [state, setState] = React.useState({
     image: "",
     category: "",
@@ -63,6 +60,8 @@ function MyProducts() {
       case "about":
         about = e.target.value;
         break;
+      default:
+        return;
     }
   };
   console.log("first-->", state);
@@ -76,11 +75,11 @@ function MyProducts() {
   const uploadImage = () => {
     // let data = { ...state };
     // data.image = img;
+    console.log("called");
     img = imageUpload.name + v4();
     const imageRef = ref(storage, `image/${img}`);
     setState({ ...state, image: img });
     if (imageUpload === null) return;
-    const oldImgRef = ref(storage, `image/${state.image}`);
 
     uploadBytes(imageRef, imageUpload)
       .then(() => deleteObject(oldImgRef))
@@ -98,8 +97,10 @@ function MyProducts() {
     setOpen(false);
   };
   const handleUpOk = () => {
-    uploadImage();
-    fetchImg();
+    modalItem == "image" && setCancel(false);
+    modalItem == "image" && imageUpload != null && uploadImage();
+    modalItem == "image" && imageUpload != null && fetchImg();
+
     setOpen(false);
 
     name != null &&
@@ -143,10 +144,12 @@ function MyProducts() {
     update(refer(db, "/advertises/" + state.id), state)
       .then(() => alert("Updated!"))
       .then(() => setMyProduct(tData))
-      .catch((err) => console.log(err));
-
+      .catch((err) => console.log(err))
+      .finally(() => window.location.reload());
     setIsModalOpen(false);
   };
+  console.log(oldImgRef);
+
   const onUpdate = (i) => {
     setIndex(i);
     setState({
@@ -155,6 +158,9 @@ function MyProducts() {
 
     setIsModalOpen(true);
   };
+  React.useEffect(() => {
+    setOldImg(ref(storage, `image/${state.image}`));
+  }, [state]);
 
   const onDelete = (e, imgUri) => {
     let tData = [...myProduct];
@@ -270,10 +276,10 @@ function MyProducts() {
         title="Edit product"
         visible={isModalOpen}
         footer={[
-          <Button onClick={handleCancel}>Cancel</Button>,
+          cancel && <Button onClick={handleCancel}>Cancel</Button>,
           <Button onClick={handleOk}>Save</Button>,
         ]}
-        onCancel={handleCancel}
+        onCancel={cancel && handleCancel}
       >
         <div className="flex flex-col items-center ">
           <h1 className="font-bold">( CLICK THE FIELD TO EDIT )</h1>
@@ -334,6 +340,7 @@ function MyProducts() {
           return (
             <>
               <Products
+                key={i}
                 index={i}
                 id={e.id}
                 onUpdate={onUpdate}

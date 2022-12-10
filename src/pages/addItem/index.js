@@ -1,12 +1,10 @@
 import React, { useEffect, useState, useContext } from "react";
 import storage from "../../firebase";
-import Header from "../../components/header";
 import { getDownloadURL, listAll, ref, uploadBytes } from "firebase/storage";
 import ImageUploader from "react-images-upload";
 import { useNavigate } from "react-router-dom";
 import Config from "../../database";
 import { v4 } from "uuid";
-import Footer from "../../components/footer";
 import { Form, Input, Select } from "antd";
 import { AuthContext } from "../../context/AuthContext";
 
