@@ -99,7 +99,7 @@ function MyProducts() {
   const handleUpOk = () => {
     modalItem == "image" && setCancel(false);
     modalItem == "image" && imageUpload != null && uploadImage(), fetchImg();
-    modalItem == "image" && setState((pre) => pre);
+
     setOpen(false);
 
     name != null &&
@@ -278,7 +278,7 @@ function MyProducts() {
           cancel && <Button onClick={handleCancel}>Cancel</Button>,
           <Button onClick={handleOk}>Save</Button>,
         ]}
-        onCancel={handleCancel}
+        onCancel={cancel && handleCancel}
       >
         <div className="flex flex-col items-center ">
           <h1 className="font-bold">( CLICK THE FIELD TO EDIT )</h1>
