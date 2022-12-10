@@ -17,10 +17,10 @@
 
 | Back-end                                                     | Front-end                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/200px-React-icon.svg.png"  style="width:100px"/> | ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/200px-React-icon.svg.png"  style="width:100px"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333"  style="width:100px"/> |
 
   
-
+  
 ## 📌 Development Stack
 
 Please use a device that's width is pixelated 920+px. And in some cases, the code shows errors due to version differences. We use:
