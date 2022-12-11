@@ -51,7 +51,7 @@ Open localhost:3000 to view our website in your browser.
 This website is only for our university's students who want to sell and buy second-hand products(books 📚, academic dresses 🧑‍🎓, electronics 🔌) cheaper and faster.\
 Here it is the video description of our project 👇
 
-[![Watch the video](https://youtu.be/QZZm_i83s0k)
+![Watch the video](https://www.youtube.com/watch?v=QZZm_i83s0k)
 
 
 
