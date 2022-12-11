@@ -1,12 +1,21 @@
 <h1 align="center">STSP (WEBSITE OF THE FLEA MARKET)</h1>
 
 
+
+## 💁 Description
+
+This website is only for our university's students who want to sell and buy second-hand products(books 📚, academic dresses 🧑‍🎓, electronics 🔌) cheaper and faster.\
+Here it is the video description of our project 👇
+
+[![Watch the video](https://github.com/Erdene-Uul/TERM_PROJECT/blob/main/assets/SS1.png)](https://github.com/Erdene-Uul/TERM_PROJECT/blob/main/assets/318153342_5826840930731200_5057280633327023245_n.mp4)
+
+
+
 ## 🏷️ Contents
 
 🔹 [Skill](#-skill)\
 🔹 [Development Stack](#-development-stack)\
 🔹 [Available Scripts](#-available-scripts)\
-🔹 [Description](#-description)\
 🔹 [License](#-license)
 
 
@@ -41,15 +50,6 @@ Activate the terminal and write down this code (please note that you need to hav
 
 Runs the app in the development mode.\
 Open localhost:3000 to view our website in your browser.
-
-
-
-## 💁 Description
-
-This website is only for our university's students who want to sell and buy second-hand products(books 📚, academic dresses 🧑‍🎓, electronics 🔌) cheaper and faster.\
-Here it is the video description of our project 👇
-
-[![Watch the video](https://github.com/Erdene-Uul/TERM_PROJECT/blob/main/assets/SS1.png)](https://github.com/Erdene-Uul/TERM_PROJECT/blob/main/assets/318153342_5826840930731200_5057280633327023245_n.mp4)
 
 
 ## 📄 License
