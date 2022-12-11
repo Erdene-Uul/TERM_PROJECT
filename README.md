@@ -17,7 +17,7 @@
 
 | Back-end                                                     | Front-end                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/200px-React-icon.svg.png"  style="width:100px"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333"  style="width:100px"/> |
+| <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png"  style="width:100px"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/200px-React-icon.svg.png"  style="width:100px"/> |
 
   
   
@@ -27,7 +27,7 @@ Please use a device that's width is pixelated 920+px. And in some cases, the cod
 
 🔹 node 18.12.1\
 🔹 npm 8.19.2\
-🔹 React 18.2.0
+🔹 React 17.0.2
 
 
 
