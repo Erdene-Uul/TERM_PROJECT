@@ -13,8 +13,8 @@
 
 ## 📋 Skill
 
-| Back-end                                                     | Front-end                                                    |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Back-end                                                     | Front-end                      |                              |
+| ------------------------------------------------------------ | -------------------------------|---------------------------- |
 | <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png"  style="width:100px"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/200px-React-icon.svg.png"  style="width:100px"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"  style="width:100px"/> |
 
   
