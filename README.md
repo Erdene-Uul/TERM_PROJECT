@@ -9,7 +9,7 @@
 🔹 [Development Stack](#-development-stack)\
 🔹 [Available Scripts](#-available-scripts)\
 🔹 [Description](#-description)\
-🔹 [License](#-license)\
+🔹 [License](#-license)
 
 
 
@@ -49,9 +49,9 @@ Open localhost:3000 to view our website in your browser.
 ## 💁 Description
 
 This website is only for our university's students who want to sell and buy second-hand products(books 📚, academic dresses 🧑‍🎓, electronics 🔌) cheaper and faster.\
-Here it is the video descdescription of our project 👇
+Here it is the video description of our project 👇
 
-[![Watch the video](https://scontent.xx.fbcdn.net/v/t42.3356-2/318153342_5826840930731200_5057280633327023245_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=060d78&_nc_ohc=Lj_r9-IT9zYAX_Xd44X&_nc_ht=scontent.xx&oh=03_AdRqHg7aFk97p3VsgnwD8JeBFXsROFFV_P6rjJdArmaACg&oe=6395DAF7&dl=1)
+[![Watch the video](https://youtu.be/QZZm_i83s0k)
 
 
 
