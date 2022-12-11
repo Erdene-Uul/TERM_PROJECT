@@ -57,3 +57,12 @@ Open localhost:3000 to view our website in your browser.
 The project is GNU licensed.\
 Copyright © 2007 Free Software Foundation, Inc. <https://fsf.org/>\
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+
+## 👥 Creators
+
+🔹Erdene-Uul [22170104]\
+🔹Narangua [22170103]
+
+
+# Thanks for paying attention!
