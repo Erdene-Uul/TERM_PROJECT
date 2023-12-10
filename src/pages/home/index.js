@@ -55,7 +55,7 @@ const Home = (props) => {
         {helper(advertises, "books") ? (
           <>
             {" "}
-            <h1 className="mt-24 ml-4 text-xl">Books</h1>
+            <h1 className="mt-24 ml-4 text-xl">Science Fiction</h1>
             <div className=" flex flex-wrap ">
               {advertises?.map((e) =>
                 e.category == "books" ? (
@@ -80,7 +80,7 @@ const Home = (props) => {
         {helper(advertises, "academicDress") ? (
           <>
             {" "}
-            <h1 className="mt-4 ml-4 text-xl">Academic dresses</h1>
+            <h1 className="mt-4 ml-4 text-xl">Adventure</h1>
             <div className=" flex flex-wrap ">
               {advertises?.map((e) =>
                 e.category == "academicDress" ? (
@@ -112,7 +112,7 @@ const Home = (props) => {
         {helper(advertises, "electronic") ? (
           <>
             {" "}
-            <h1 className="mt-4 ml-4 text-xl">Electronics</h1>
+            <h1 className="mt-4 ml-4 text-xl">History</h1>
             <div className=" flex flex-wrap ">
               {advertises?.map((e) =>
                 e.category == "electronic" ? (
@@ -140,7 +140,7 @@ const Home = (props) => {
     comp = (
       <>
         {" "}
-        <h1 className="mt-24 ml-4 text-xl">Books</h1>
+        <h1 className="mt-24 ml-4 text-xl">Science Fiction</h1>
         <div className=" flex flex-wrap ">
           {advertises?.map((e) =>
             e.category == "books" ? (
@@ -168,7 +168,7 @@ const Home = (props) => {
   ) {
     comp = (
       <>
-        <h1 className="mt-4 ml-4 text-xl">Academic Dresses</h1>
+        <h1 className="mt-4 ml-4 text-xl">Adventure</h1>
         <div className=" flex flex-wrap ">
           {advertises?.map((e) =>
             e.category == "academicDress" ? (
@@ -193,7 +193,7 @@ const Home = (props) => {
   } else if (props.catVal == "electronic" && helper(advertises, "electronic")) {
     comp = (
       <>
-        <h1 className="mt-4 ml-4 text-xl">Electronics</h1>
+        <h1 className="mt-4 ml-4 text-xl">History</h1>
         <div className=" flex flex-wrap ">
           {advertises?.map((e) =>
             e.category == "electronic" ? (

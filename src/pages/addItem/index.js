@@ -75,9 +75,9 @@ const AddItem = () => {
             <label className="font-bold">Category</label>
             <Form.Item name={"category"}>
               <Select defaultValue="Сонгох" onChange={onChange}>
-                <Option value="books">Book</Option>
-                <Option value="academicDress">Academic Dress</Option>
-                <Option value="electronic">Electronic</Option>
+                <Option value="books">Science Fiction</Option>
+                <Option value="academicDress">Adventure</Option>
+                <Option value="electronic">History</Option>
               </Select>
             </Form.Item>
 

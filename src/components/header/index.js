@@ -43,7 +43,7 @@ const Header = (props) => {
         </Link>
         <Link to="/">
           <div className="xl:text-lg lg:text-sm md:text-sm sm:text-xs ml-2 font-bold text-black">
-            Book Selling
+            Book Worms
           </div>
         </Link>
       </div>
@@ -54,9 +54,9 @@ const Header = (props) => {
           defaultValue="All"
           onChange={props.onChange}
         >
-          <Option value="books">Books</Option>
-          <Option value="academicDress">Academic dress</Option>
-          <Option value="electronic">Electronic</Option>
+          <Option value="books">Science Fiction</Option>
+          <Option value="academicDress">Adventure</Option>
+          <Option value="electronic">History</Option>
           <Option value="all">All</Option>
         </Select>
       </div>
