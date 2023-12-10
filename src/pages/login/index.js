@@ -26,14 +26,14 @@ const Login = () => {
     <div
       className="flex h-screen bg-cover bg-local justify-center items-center"
       style={{
-        backgroundImage: `url(${require(`../../assets/images/seoultech.jpg`)}) `,
+        backgroundImage: `url(${require(`../../assets/images/bool.jpg`)}) `,
       }}
     >
       <div className=" bg-white/30 backdrop-blur-sm max-w-7xl rounded-2xl py-10 px-5 grid grid-cols-5">
         <div className="col-span-2 flex flex-col items-center">
           <img
             className="h-14 rounded-3xl"
-            src={require(`../../assets/images/logo_seoultech.png`)}
+            src={require(`../../assets/images/logoBook.jpg`)}
             alt="gerLogo"
           />
           <Form className="w-full  px-3" layout="vertical" onFinish={onFinish}>
@@ -84,7 +84,7 @@ const Login = () => {
               Register
             </Button>
             <p className="text-2xl font-semibold mt-6 w-80 text-white">
-              It is only for SeoulTech students.
+              Platform designed for world wide book lovers.
             </p>
           </Form>
         </div>

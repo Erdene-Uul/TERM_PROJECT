@@ -38,18 +38,22 @@ const Header = (props) => {
         <Link to="/">
           <img
             className="xl:h-10 lg:h-8 md:h-6 sm:h-4"
-            src={require(`../../assets/images/logo_seoultech.png`)}
+            src={require(`../../assets/images/logoBook.jpg`)}
           />
         </Link>
         <Link to="/">
           <div className="xl:text-lg lg:text-sm md:text-sm sm:text-xs ml-2 font-bold text-black">
-            STSP
+            Book Selling
           </div>
         </Link>
       </div>
 
       <div className="xl:ml-10 lg:ml-6 md:ml-2 xl:w-60 lg:w-32 md:w-20 sm:w-10}}">
-        <Select style={{width:125 }} defaultValue="All" onChange={props.onChange}>
+        <Select
+          style={{ width: 125 }}
+          defaultValue="All"
+          onChange={props.onChange}
+        >
           <Option value="books">Books</Option>
           <Option value="academicDress">Academic dress</Option>
           <Option value="electronic">Electronic</Option>
